@@ -1,4 +1,4 @@
-pip3 install requirements.txt
+pip3 install -r requirements.txt
 
 # Download VnCoreNLP-1.1.1.jar & its word segmentation component (i.e. RDRSegmenter)
 mkdir -p vncorenlp/models/wordsegmenter
