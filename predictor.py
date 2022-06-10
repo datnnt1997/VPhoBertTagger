@@ -29,10 +29,10 @@ class PhobertNER(object):
         else:
             checkpoint_data = torch.load(model_path)
         args = checkpoint_data["args"]
-        max_seq_len = args['max_seq_length']
+        max_seq_len = args.max_seq_length
 
-        tokenizer = AutoTokenizer.from_pretrained(args['model_name_or_path'], use_fast=False)
-        config = AutoConfig.from_pretrained(args['model_name_or_path'], num_labels=len(LABEL2ID))
+        tokenizer = AutoTokenizer.from_pretrained(args.model_name_or_path, use_fast=False)
+        config = AutoConfig.from_pretrained(args.model_name_or_path, num_labels=len(LABEL2ID))
 
         model = PhoBertSoftmax(config=config)
         model.load_state_dict(checkpoint_data['model'])
