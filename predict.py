@@ -1,7 +1,7 @@
 from transformers import RobertaConfig, PhobertTokenizer
 from model import PhoBertLstmCrf
 from constant import LABEL2ID, ID2LABEL
-from processor import normalize_text
+from helper import normalize_text
 from vncorenlp import VnCoreNLP
 
 import os
@@ -15,8 +15,7 @@ class PhobertNER(object):
         self.max_seq_len = max_seq_length
         self.device = 'cuda' if not no_cuda and torch.cuda.is_available() else 'cpu'
         self.rdrsegmenter = VnCoreNLP("vncorenlp/VnCoreNLP-1.1.1.jar", annotators="wseg", max_heap_size='-Xmx500m')
-        self.model, self.tokenizer, =self.load_model(model_path, device=self.device)
-
+        self.model, self.tokenizer, = self.load_model(model_path, device=self.device)
 
     @staticmethod
     def load_model(model_path=None, model_clss='vinai/phobert-base', device='cpu'):
@@ -99,7 +98,7 @@ class PhobertNER(object):
 
 
 if __name__ == "__main__":
-    predictor = PhobertNER()
+    predictor = PhobertNER(no_cuda=True)
     while True:
         in_raw = input('Enter text:')
         print(predictor(in_raw))

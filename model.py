@@ -1,10 +1,62 @@
+from typing import Optional, List, Tuple, Any
+from collections import OrderedDict
+
 from transformers import logging, RobertaForTokenClassification
 from torchcrf import CRF
 
 import torch
 import torch.nn as nn
+import torch.nn.functional as F
 
 logging.set_verbosity_error()
+
+
+class PhoBertNerOutput(OrderedDict):
+    loss: Optional[torch.FloatTensor] = torch.FloatTensor([0.0])
+    tags: Optional[List[int]] = []
+
+    def __getitem__(self, k):
+        if isinstance(k, str):
+            inner_dict = {k: v for (k, v) in self.items()}
+            return inner_dict[k]
+        else:
+            return self.to_tuple()[k]
+
+    def __setattr__(self, name, value):
+        if name in self.keys() and value is not None:
+            super().__setitem__(name, value)
+        super().__setattr__(name, value)
+
+    def __setitem__(self, key, value):
+        super().__setitem__(key, value)
+        super().__setattr__(key, value)
+
+    def to_tuple(self) -> Tuple[Any]:
+        return tuple(self[k] for k in self.keys())
+
+
+class PhoBertSoftmax(RobertaForTokenClassification):
+    def __init__(self, config, **kwargs):
+        super(PhoBertSoftmax, self).__init__(config=config, **kwargs)
+        self.num_labels = config.num_labels
+
+    def forward(self, input_ids, token_type_ids=None, attention_mask=None, labels=None, valid_ids=None,
+                label_masks=None):
+        seq_output = self.roberta(input_ids=input_ids,
+                                  token_type_ids=token_type_ids,
+                                  attention_mask=attention_mask,
+                                  head_mask=None)[0]
+        seq_output = self.dropout(seq_output)
+        logits = self.classifier(seq_output)
+        probs = F.log_softmax(logits, dim=2)
+        label_masks = label_masks.view(-1) != 0
+        seq_tags = torch.masked_select(torch.argmax(probs, dim=2).view(-1), label_masks).tolist()
+        if labels is not None:
+            loss_func = nn.CrossEntropyLoss()
+            loss = loss_func(logits.view(-1, self.num_labels), labels.view(-1))
+            return PhoBertNerOutput(loss=loss, tags=seq_tags)
+        else:
+            return PhoBertNerOutput(tags=seq_tags)
 
 
 class PhoBertLstmCrf(RobertaForTokenClassification):
@@ -40,9 +92,9 @@ class PhoBertLstmCrf(RobertaForTokenClassification):
         seq_tags = self.crf.decode(logits, mask=label_masks != 0)
         if labels is not None:
             log_likelihood = self.crf(logits, labels, mask=label_masks.type(torch.uint8))
-            return -1.0 * log_likelihood, seq_tags
+            return PhoBertNerOutput(loss=-1.0 * log_likelihood, tags=seq_tags)
         else:
-            return seq_tags
+            return PhoBertNerOutput(tags=seq_tags)
 
 
 # DEBUG
@@ -73,8 +125,8 @@ if __name__ == "__main__":
                            labels=new_labels,
                            attention_mask=mask,
                            valid_ids=valid_ids, label_masks=label_mask)
-    print(labels)
     print(new_labels)
     print(label_mask)
     print(valid_ids)
+
     print(output)
