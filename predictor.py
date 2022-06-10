@@ -1,8 +1,11 @@
-from transformers import RobertaConfig, PhobertTokenizer
-from model import PhoBertLstmCrf
+from model import PhoBertSoftmax
+from arguments import get_predict_argument
 from constant import LABEL2ID, ID2LABEL
 from helper import normalize_text
 from vncorenlp import VnCoreNLP
+
+from typing import Union
+from transformers import AutoConfig, AutoTokenizer
 
 import os
 import torch
@@ -11,26 +14,29 @@ import numpy as np
 
 
 class PhobertNER(object):
-    def __init__(self, model_path: str = None, max_seq_length: int = 256, no_cuda=False):
-        self.max_seq_len = max_seq_length
+    def __init__(self, model_path: Union[str or os.PathLike],  no_cuda=False):
         self.device = 'cuda' if not no_cuda and torch.cuda.is_available() else 'cpu'
         self.rdrsegmenter = VnCoreNLP("vncorenlp/VnCoreNLP-1.1.1.jar", annotators="wseg", max_heap_size='-Xmx500m')
-        self.model, self.tokenizer, = self.load_model(model_path, device=self.device)
+        self.model, self.tokenizer,  self.max_seq_len = self.load_model(model_path, device=self.device)
 
     @staticmethod
-    def load_model(model_path=None, model_clss='vinai/phobert-base', device='cpu'):
-        tokenizer = PhobertTokenizer.from_pretrained(model_clss, use_fast=False)
-        config = RobertaConfig.from_pretrained(model_clss, num_labels=len(LABEL2ID))
-        model = PhoBertLstmCrf(config=config)
-        if model_path is not None:
-            if device == 'cpu':
-                checkpoint_data = torch.load(model_path, map_location='cpu')
-            else:
-                checkpoint_data = torch.load(model_path)
-            model.load_state_dict(checkpoint_data['model'])
+    def load_model(model_path: Union[str or os.PathLike],  device='cpu'):
+        if device == 'cpu':
+            checkpoint_data = torch.load(model_path, map_location='cpu')
+        else:
+            checkpoint_data = torch.load(model_path)
+        args = checkpoint_data["args"]
+        max_seq_len = args['max_seq_length']
+
+        tokenizer = AutoTokenizer.from_pretrained(args['model_name_or_path'], use_fast=False)
+        config = AutoConfig.from_pretrained(args['model_name_or_path'], num_labels=len(LABEL2ID))
+
+        model = PhoBertSoftmax(config=config)
+        model.load_state_dict(checkpoint_data['model'])
         model.to(device)
         model.eval()
-        return model, tokenizer
+
+        return model, tokenizer, max_seq_len
 
     def preprocess(self, in_raw: str):
         norm_text = normalize_text(in_raw)
@@ -71,9 +77,13 @@ class PhobertNER(object):
         for sent in sents:
             item = self.convert_tensor(sent)
             with torch.no_grad():
-                tags = self.model(**item)
+                outputs = self.model(**item)
             entity = None
-            for w, l in list(zip(sent.split(), list(itertools.chain(*tags)))):
+            if isinstance(outputs.tags, tuple):
+                tags = list(itertools.chain(*outputs.tags))
+            else:
+                tags = outputs.tags
+            for w, l in list(zip(sent.split(), tags)):
                 tag = ID2LABEL[l]
                 if not tag == 'O':
                     prefix, tag = tag.split('-')
@@ -98,7 +108,8 @@ class PhobertNER(object):
 
 
 if __name__ == "__main__":
-    predictor = PhobertNER(no_cuda=True)
+    args = get_predict_argument()
+    predictor = PhobertNER(args.mode_path, no_cuda=args.no_cuda)
     while True:
         in_raw = input('Enter text:')
         print(predictor(in_raw))

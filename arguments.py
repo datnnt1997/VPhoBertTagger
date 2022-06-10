@@ -1,6 +1,17 @@
 from argparse import ArgumentParser
 
 
+def get_predict_argument():
+    parser = ArgumentParser()
+    parser.add_argument('type', choices=['predict'],
+                        help='What processs to be run')
+    parser.add_argument("--model_path", default='outputs/best_model.pt', type=str,
+                        help="")
+    parser.add_argument("--no_cuda", action='store_true',
+                        help="Whether not to use CUDA when available")
+    return parser.parse_args()
+
+
 def get_test_argument():
     parser = ArgumentParser()
     parser.add_argument('type', choices=['train', 'test', 'download'],

@@ -1,4 +1,6 @@
-<h1 align="center">VPhoBertNer</h1>
+<h1 align="center">🍜VPhoBertNer</h1>
+
+Named entity recognition using Phobert Models for 🇻🇳Vietnamese
 
 ## Train process
 ```bash
@@ -34,3 +36,14 @@ bash ./train.sh
 > + ***num_workers*** (`int`, `*optional`): how many subprocesses to use for data loading. 0 means that the data will be loaded in the main process. Default=0.
 > + ***save_step*** (`int`, `*optional`): The number of steps in the model will be saved. Default=10000.
 > + ***gradient_accumulation_steps*** (`int`, `*optional`): Number of updates steps to accumulate before performing a backward/update pass. Default=1.
+
+## Predict process
+```bash
+python predictor.py predict --model_path outputs/best_model.pt
+```
+
+> Arguments:
+> + ***type*** (`str`,`*required`): What is process type to be run. Must in [`predict`].
+> + ***load_weights*** (`Union[str, os.PathLike]`, `*optional`): Path of pretrained file.
+> + ***no_cuda*** (`bool`, `*optional`): Whether not to use CUDA when available. Default=False.
+
