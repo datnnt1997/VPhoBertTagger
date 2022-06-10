@@ -5,6 +5,7 @@ from model import PhoBertSoftmax
 from dataset import build_dataset
 
 from tqdm import tqdm
+from pathlib import Path
 from sklearn.metrics import classification_report
 from torch.utils.data import RandomSampler, DataLoader
 from transformers import AutoTokenizer, AutoConfig
@@ -41,9 +42,9 @@ def validate(model, iterator, cur_epoch: int):
             labels = torch.masked_select(batch['labels'].view(-1), active_accuracy)
             eval_golds.extend(labels.detach().cpu().tolist())
             if isinstance(outputs.tags[-1], list):
-                eval_preds.extend(list(itertools.chain(*outputs.ptags)))
+                eval_preds.extend(list(itertools.chain(*outputs.tags)))
             else:
-                eval_preds.extend(outputs.ptags)
+                eval_preds.extend(outputs.tags)
     epoch_loss = eval_loss / len(iterator)
     reports: dict = classification_report(eval_golds, eval_preds, output_dict=True, zero_division=0)
     epoch_avg_f1 = reports['macro avg']['f1-score']
@@ -145,7 +146,7 @@ def train():
         LOGGER.info(f"\tEpoch F1 score = {eval_f1} ; Best score = {best_score}")
         if eval_f1 > best_score:
             best_score = eval_f1
-            saved_file = os.path.join(args.output_dir, f"/best_model.pt")
+            saved_file = Path(args.output_dir + f"/best_model.pt")
             LOGGER.info(f"\t***New best model, saving to {saved_file}...***")
             save_model(args, saved_file, model)
             cumulative_early_steps = 0

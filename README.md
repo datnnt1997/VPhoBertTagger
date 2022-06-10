@@ -2,7 +2,7 @@
 
 ## Train process
 ```bash
-python trainer.py train --data_dir datasets/samples --model_name_or_path vinai/phobert-base --model_arch softmax --output_dir outputs --max_seq_length 256 --train_batch_size 1 --eval_batch_size 1 --learning_rate 5e-5 --epochs 3
+python trainer.py train --data_dir ./datasets/samples --model_name_or_path vinai/phobert-base --model_arch softmax --output_dir outputs --max_seq_length 256 --train_batch_size 32 --eval_batch_size 32 --learning_rate 5e-5 --epochs 3
 ```
 
 or
