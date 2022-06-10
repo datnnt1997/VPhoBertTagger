@@ -2,6 +2,13 @@
 
 Named entity recognition using Phobert Models for 🇻🇳Vietnamese
 ## Prepare
+### Install full
+```bash
+bash ./install_requirements.sh
+```
+
+or 
+
 ### Install dependencies
 ```bash
 pip install -r requirements.txt
