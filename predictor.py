@@ -54,24 +54,17 @@ class PhobertNER(object):
                                   padding='max_length',
                                   truncation=True,
                                   max_length=self.max_seq_len)
-        valid_id = np.zeros(len(encoding["input_ids"]), dtype=int)
-        i = 0
         subwords = self.tokenizer.tokenize(sent)
-        for idx, sword in enumerate(subwords):
-            if not sword.endswith('@@'):
-                valid_id[idx+1] = 1
-                i += 1
-            elif idx == 0 or not subwords[idx-1].endswith('@@'):
-                valid_id[idx + 1] = 1
-                i += 1
-            else:
+        valid_ids = np.zeros(len(encoding.input_ids), dtype=int)
+        i = 1
+        for idx, subword in enumerate(subwords):
+            if idx != 0 and subwords[idx - 1].endswith("@@"):
                 continue
-        label_masks = [1] * i
-        label_masks.extend([0] * (self.max_seq_len - len(label_masks)))
-        encoding.pop('offset_mapping', None)
+            valid_ids[idx + 1] = 1
+            i += 1
         item = {key: torch.as_tensor([val]).to(self.device, dtype=torch.long) for key, val in encoding.items()}
-        item['valid_ids'] = torch.as_tensor([valid_id]).to(self.device, dtype=torch.long)
-        item['label_masks'] = torch.as_tensor([label_masks]).to(self.device, dtype=torch.long)
+        item['valid_ids'] = torch.as_tensor([valid_ids]).to(self.device, dtype=torch.long)
+        item['label_masks'] = torch.as_tensor([valid_ids]).to(self.device, dtype=torch.long)
         return item
 
     def __call__(self, in_raw: str):
