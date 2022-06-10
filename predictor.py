@@ -16,8 +16,11 @@ import numpy as np
 class PhobertNER(object):
     def __init__(self, model_path: Union[str or os.PathLike],  no_cuda=False):
         self.device = 'cuda' if not no_cuda and torch.cuda.is_available() else 'cpu'
+        print("[VPhoBertNer] VnCoreNLP loading ...")
         self.rdrsegmenter = VnCoreNLP("vncorenlp/VnCoreNLP-1.1.1.jar", annotators="wseg", max_heap_size='-Xmx500m')
+        print("[VPhoBertNer] Model loading ...")
         self.model, self.tokenizer,  self.max_seq_len = self.load_model(model_path, device=self.device)
+        print("[VPhoBertNer] All ready!")
 
     @staticmethod
     def load_model(model_path: Union[str or os.PathLike],  device='cpu'):
@@ -109,7 +112,7 @@ class PhobertNER(object):
 
 if __name__ == "__main__":
     args = get_predict_argument()
-    predictor = PhobertNER(args.mode_path, no_cuda=args.no_cuda)
+    predictor = PhobertNER(args.model_path, no_cuda=args.no_cuda)
     while True:
         in_raw = input('Enter text:')
         print(predictor(in_raw))

@@ -1,6 +1,16 @@
 <h1 align="center">🍜VPhoBertNer</h1>
 
 Named entity recognition using Phobert Models for 🇻🇳Vietnamese
+## Prepare
+### Install dependencies
+```bash
+pip install -r requirements.txt
+```
+
+### Download VnCoreNLP model
+```bash
+bash ./vncorenlp.sh.sh
+```
 
 ## Train process
 ```bash
