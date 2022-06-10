@@ -9,7 +9,7 @@ pip install -r requirements.txt
 
 ### Download VnCoreNLP model
 ```bash
-bash ./vncorenlp.sh.sh
+bash ./vncorenlp.sh
 ```
 
 ## Train process
