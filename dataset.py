@@ -2,6 +2,7 @@ from typing import List, Union
 from pathlib import Path
 from tqdm import tqdm
 from torch.utils.data import Dataset
+from tqdm import tqdm
 
 from constant import LABEL2ID
 
@@ -29,7 +30,7 @@ def convert_examples_features(data_path: Union[str, os.PathLike],
     tag_ids = []
     data = pd.read_csv(data_path, delimiter='\t', encoding='utf-8', skip_blank_lines=False, names=['token', 'chunk', 'pos', 'ner'])
     data.fillna(method="ffill")
-    for _, row in data.iterrows():
+    for _, row in tqdm(data.iterrows(), total=len(data), desc=f"Load dataset {data_path}..."):
         if row.notna().token:
             tokens.append(row.token.strip().replace(' ', '_'))
             tag_ids.append(LABEL2ID.index(row.ner.strip()))
