@@ -1,14 +1,14 @@
-<h1 align="center">🍜VPhoBertTagger</h1>
+# <div align="center">🍜VPhoBertTagger</div>
 
 Token classification using Phobert Models for 🇻🇳Vietnamese
 
-## <div align="center">Environments</div>
+## <div align="center">🏞️Environments🏞️</div>
 Get started in seconds with verified environments. Run script below for install all dependencies
 ```bash
 bash ./install_dependencies.sh
 ```
 
-## <div align="center">Training</div>
+## <div align="center">🎓Training🎓</div>
 The commands below fine-tune **PhoBert** for Token-classification task. [Models](https://github.com/VinAIResearch/PhoBERT) download automatically from the latest
 Hugging Face [release](https://huggingface.co/vinai)
 ```bash
@@ -45,7 +45,7 @@ bash ./train.sh
 > + ***save_step*** (`int`, `*optional`): The number of steps in the model will be saved. Default=10000.
 > + ***gradient_accumulation_steps*** (`int`, `*optional`): Number of updates steps to accumulate before performing a backward/update pass. Default=1.
 
-## <div align="center">Inference</div>
+## <div align="center">🧠Inference🧠</div>
 The command below load your fine-tuned model and inference in your text input.
 ```bash
 python main.py predict --model_path outputs/best_model.pt
@@ -53,9 +53,9 @@ python main.py predict --model_path outputs/best_model.pt
 
 > Arguments:
 > + ***type*** (`str`,`*required`): What is process type to be run. Must in [`train`, `test`, `predict`].
-> + ***load_weights*** (`Union[str, os.PathLike]`, `*optional`): Path of pretrained file.
+> + ***model_path*** (`Union[str, os.PathLike]`, `*optional`): Path of pretrained file.
 > + ***no_cuda*** (`bool`, `*optional`): Whether not to use CUDA when available. Default=False.
 
-# Acknowledgements
+## <div align="center">💡Acknowledgements💡</div>
 Pretrained model [Phobert](https://github.com/VinAIResearch/PhoBERT) by [VinAI Research](https://github.com/VinAIResearch) and Pytorch implementation by [Hugging Face](https://huggingface.co/).
 
