@@ -7,6 +7,32 @@ Get started in seconds with verified environments. Run script below for install 
 ```bash
 bash ./install_dependencies.sh
 ```
+## <div align="center">📚Dataset📚</div>
+The input data's format of 🍜**VPhoBertTagger** follows [**VLSP-2016**](https://vlsp.org.vn/vlsp2016/eval/ner) format with four columns separated by a tab character, 
+including of **word**, **pos**, **chunk**, and **named entity**. Each word which was segmented has been put on a separate line and there is 
+an empty line after each sentence. For details, see sample data in **'datasets/samples'** directory. The table below describes an 
+example Vietnamese sentence in dataset.
+
+| Word         | POS | Chunk | NER   |
+|--------------|-----|-------|-------|
+| Dương	       |Np	  |B-NP	  |B-PER  |
+| là	          |V	  |B-VP	  |O      |
+| một	         |M	  |B-NP	  |O      |
+| chủ       	  |N	  |B-NP	  |O      |
+| cửa hàng   	 |N	  |B-NP	  |O      |
+| lâu	         |A	  |B-AP	  |O      |
+| năm	         |N	  |B-NP	  |O      |
+| ở	           |E	  |B-PP	  |O      |
+| Hà Nội 	     |Np	  |B-NP	  |B-LOC  |
+| .	           |CH	  |O	  |O      |
+
+The dataset mus put on directory with structure as below.
+```text
+├── data_dir
+|  └── train.txt
+|  └── dev.txt
+|  └── test.txt
+```
 
 ## <div align="center">🎓Training🎓</div>
 The commands below fine-tune **PhoBert** for Token-classification task. [Models](https://github.com/VinAIResearch/PhoBERT) download automatically from the latest
