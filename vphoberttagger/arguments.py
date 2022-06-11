@@ -3,7 +3,7 @@ from argparse import ArgumentParser
 
 def get_predict_argument():
     parser = ArgumentParser()
-    parser.add_argument('type', choices=['predict'],
+    parser.add_argument('type', choices=['train', 'test', 'predict'],
                         help='What processs to be run')
     parser.add_argument("--model_path", default='outputs/best_model.pt', type=str,
                         help="")
@@ -14,7 +14,7 @@ def get_predict_argument():
 
 def get_test_argument():
     parser = ArgumentParser()
-    parser.add_argument('type', choices=['train', 'test', 'download'],
+    parser.add_argument('type', choices=['train', 'test', 'predict'],
                         help='What processs to be run')
     parser.add_argument('--dataset_type', choices=['news', 'novels', 'custom'], nargs='?', const='custom', default='custom',
                         help='What dataset to be test')
@@ -38,7 +38,7 @@ def get_test_argument():
 
 def get_train_argument():
     parser = ArgumentParser()
-    parser.add_argument('type', choices=['train', 'test'],
+    parser.add_argument('type', choices=['train', 'test', 'predict'],
                         help='What process to be run')
     parser.add_argument("--task", default='viner', type=str,
                         help="Training task selected in the list: viner.")

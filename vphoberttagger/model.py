@@ -72,24 +72,22 @@ class PhoBertLstmCrf(RobertaForTokenClassification):
 
     def forward(self, input_ids, token_type_ids=None, attention_mask=None, labels=None, valid_ids=None,
                 label_masks=None):
-        seq_output = self.roberta(input_ids=input_ids,
-                                  token_type_ids=token_type_ids,
-                                  attention_mask=attention_mask,
-                                  head_mask=None)[0]
-        seq_output, _ = self.lstm(seq_output)
+        seq_outputs = self.roberta(input_ids=input_ids,
+                                   token_type_ids=token_type_ids,
+                                   attention_mask=attention_mask,
+                                   head_mask=None)[0]
 
-        batch_size, max_len, feat_dim = seq_output.shape
-        valid_output = torch.zeros(batch_size, max_len, feat_dim, dtype=torch.float32, device=seq_output.device)
-        for i in range(batch_size):
-            jj = -1
-            for j in range(max_len):
-                if valid_ids[i][j].item() == 1:
-                    jj += 1
-                    valid_output[i][jj] = seq_output[i][j]
+        seq_outputs, _ = self.lstm(seq_outputs)
 
-        sequence_output = self.dropout(valid_output)
-        logits = self.classifier(sequence_output)
+        batch_size, max_len, feat_dim = seq_outputs.shape
+        range_vector = torch.arange(0, batch_size, dtype=torch.long, device=seq_outputs.device).unsqueeze(1)
+        valid_seq_outputs = seq_outputs[range_vector, valid_ids]
+
+        valid_seq_outputs = self.dropout(valid_seq_outputs)
+        logits = self.classifier(valid_seq_outputs)
+
         seq_tags = self.crf.decode(logits, mask=label_masks != 0)
+
         if labels is not None:
             log_likelihood = self.crf(logits, labels, mask=label_masks.type(torch.uint8))
             return PhoBertNerOutput(loss=-1.0 * log_likelihood, tags=seq_tags)

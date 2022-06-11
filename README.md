@@ -1,27 +1,18 @@
-<h1 align="center">🍜VPhoBertNer</h1>
+<h1 align="center">🍜VPhoBertTagger</h1>
 
-Named entity recognition using Phobert Models for 🇻🇳Vietnamese
-## Prepare
-### Install full
+Token classification using Phobert Models for 🇻🇳Vietnamese
+
+## <div align="center">Environments</div>
+Get started in seconds with verified environments. Run script below for install all dependencies
 ```bash
-bash ./install_requirements.sh
+bash ./install_dependencies.sh
 ```
 
-or 
-
-### Install dependencies
+## <div align="center">Training</div>
+The commands below fine-tune **PhoBert** for Token-classification task. [Models](https://github.com/VinAIResearch/PhoBERT) download automatically from the latest
+Hugging Face [release](https://huggingface.co/vinai)
 ```bash
-pip install -r requirements.txt
-```
-
-### Download VnCoreNLP model
-```bash
-bash ./vncorenlp.sh
-```
-
-## Train process
-```bash
-python trainer.py train --data_dir ./datasets/samples --model_name_or_path vinai/phobert-base --model_arch softmax --output_dir outputs --max_seq_length 256 --train_batch_size 32 --eval_batch_size 32 --learning_rate 5e-5 --epochs 3
+python main.py train --data_dir ./datasets/samples --model_name_or_path vinai/phobert-base --model_arch softmax --output_dir outputs --max_seq_length 256 --train_batch_size 32 --eval_batch_size 32 --learning_rate 5e-5 --epochs 3 --overwrite_data
 ```
 
 or
@@ -31,12 +22,12 @@ bash ./train.sh
 ```
 
 > Arguments:
-> + ***type*** (`str`,`*required`): What is process type to be run. Must in [`train`, `test`].
+> + ***type*** (`str`,`*required`): What is process type to be run. Must in [`train`, `test`, `predict`].
 > + ***task*** (`str`, `*optional`): Training task selected in the list: [`viner`]. Default: `viner`
 > + ***data_dir*** (`Union[str, os.PathLike]`, `*required`): The input data dir. Should contain the .csv files (or other data files) for the task.
 > + ***overwrite_data*** (`bool`, `*optional`) : Whether not to overwirte splitted dataset. Default=False
 > + ***load_weights*** (`Union[str, os.PathLike]`, `*optional`): Path of pretrained file.
-> + ***model_name_or_path*** (`str`, `*required`): Pre-trained model selected in the list: bert-base-uncased, bert-base-cased... Default=bert-base-multilingual-cased 
+> + ***model_name_or_path*** (`str`, `*required`): Pre-trained model selected in the list: [`vinai/phobert-base`, `vinai/phobert-large`,...] Default=`vinai/phobert-base` 
 > + ***model_arch*** (`str`, `*required`): Punctuation prediction model architecture selected in the list: [`softmax`, `lstm_crf`].
 > + ***output_dir*** (`Union[str, os.PathLike]`, `*required`): The output directory where the model predictions and checkpoints will be written.
 > + ***max_seq_length*** (`int`, `*optional`): The maximum total input sequence length after WordPiece tokenization. Sequences longer than this will be truncated, and sequences shorter than this will be padded. Default=190.
@@ -54,13 +45,17 @@ bash ./train.sh
 > + ***save_step*** (`int`, `*optional`): The number of steps in the model will be saved. Default=10000.
 > + ***gradient_accumulation_steps*** (`int`, `*optional`): Number of updates steps to accumulate before performing a backward/update pass. Default=1.
 
-## Predict process
+## <div align="center">Inference</div>
+The command below load your fine-tuned model and inference in your text input.
 ```bash
-python predictor.py predict --model_path outputs/best_model.pt
+python main.py predict --model_path outputs/best_model.pt
 ```
 
 > Arguments:
-> + ***type*** (`str`,`*required`): What is process type to be run. Must in [`predict`].
+> + ***type*** (`str`,`*required`): What is process type to be run. Must in [`train`, `test`, `predict`].
 > + ***load_weights*** (`Union[str, os.PathLike]`, `*optional`): Path of pretrained file.
 > + ***no_cuda*** (`bool`, `*optional`): Whether not to use CUDA when available. Default=False.
+
+# Acknowledgements
+Pretrained model [Phobert](https://github.com/VinAIResearch/PhoBERT) by [VinAI Research](https://github.com/VinAIResearch) and Pytorch implementation by [Hugging Face](https://huggingface.co/).
 

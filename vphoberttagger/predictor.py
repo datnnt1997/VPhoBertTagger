@@ -1,7 +1,6 @@
-from model import PhoBertSoftmax
-from arguments import get_predict_argument
-from constant import LABEL2ID, ID2LABEL
-from helper import normalize_text
+from vphoberttagger.arguments import get_predict_argument
+from vphoberttagger.constant import LABEL2ID, ID2LABEL, MODEL_MAPPING
+from vphoberttagger.helper import normalize_text
 from vncorenlp import VnCoreNLP
 
 from typing import Union
@@ -33,8 +32,8 @@ class PhobertNER(object):
 
         tokenizer = AutoTokenizer.from_pretrained(args.model_name_or_path, use_fast=False)
         config = AutoConfig.from_pretrained(args.model_name_or_path, num_labels=len(LABEL2ID))
-
-        model = PhoBertSoftmax(config=config)
+        model_clss = MODEL_MAPPING[args.model_arch]
+        model = model_clss(config=config)
         model.load_state_dict(checkpoint_data['model'])
         model.to(device)
         model.eval()
@@ -103,10 +102,14 @@ class PhobertNER(object):
         return entites
 
 
-if __name__ == "__main__":
+def tagging():
     args = get_predict_argument()
     predictor = PhobertNER(args.model_path, no_cuda=args.no_cuda)
     while True:
         in_raw = input('Enter text:')
         print(predictor(in_raw))
+
+
+if __name__ == "__main__":
+    tagging()
 

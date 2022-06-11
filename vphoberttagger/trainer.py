@@ -1,8 +1,7 @@
-from constant import LOGGER, LABEL2ID
-from helper import set_ramdom_seed
-from arguments import get_train_argument
-from model import PhoBertSoftmax
-from dataset import build_dataset
+from vphoberttagger.constant import LOGGER, LABEL2ID, MODEL_MAPPING
+from vphoberttagger.helper import set_ramdom_seed
+from vphoberttagger.arguments import get_train_argument
+from vphoberttagger.dataset import build_dataset
 
 from tqdm import tqdm
 from pathlib import Path
@@ -64,6 +63,7 @@ def train_one_epoch(model, iterator, optim, cur_epoch: int, max_grad_norm: float
     tqdm_bar = tqdm(enumerate(iterator), total=len(iterator), desc=f'[TRAIN-EPOCH {cur_epoch}]')
     for idx, batch in tqdm_bar:
         outputs = model(**batch)
+        continue
         # backward pass
         torch.nn.utils.clip_grad_norm_(parameters=model.parameters(), max_norm=max_grad_norm)
         optim.zero_grad()
@@ -84,6 +84,7 @@ def train():
     args = get_train_argument()
     set_ramdom_seed(args.seed)
     device = 'cuda' if not args.no_cuda and torch.cuda.is_available() else 'cpu'
+    use_crf = True if 'crf' in args.model_arch else False
     if not os.path.exists(args.output_dir):
         os.makedirs(args.output_dir)
 
@@ -91,14 +92,26 @@ def train():
 
     tokenizer = AutoTokenizer.from_pretrained(args.model_name_or_path)
 
-    train_dataset = build_dataset(args.data_dir, tokenizer, dtype='train', max_seq_len=args.max_seq_length, device=device)
-    eval_dataset = build_dataset(args.data_dir, tokenizer, dtype='test', max_seq_len=args.max_seq_length, device=device)
+    train_dataset = build_dataset(args.data_dir,
+                                  tokenizer,
+                                  dtype='train',
+                                  max_seq_len=args.max_seq_length,
+                                  device=device,
+                                  use_crf=use_crf,
+                                  overwrite_data=args.overwrite_data)
+    eval_dataset = build_dataset(args.data_dir, tokenizer,
+                                 dtype='test',
+                                 max_seq_len=args.max_seq_length,
+                                 device=device,
+                                 use_crf=use_crf,
+                                 overwrite_data=args.overwrite_data)
 
     config = AutoConfig.from_pretrained(args.model_name_or_path,
                                         num_labels=len(LABEL2ID),
                                         finetuning_task=args.task)
-    model = PhoBertSoftmax.from_pretrained(pretrained_model_name_or_path=args.model_name_or_path,
-                                           config=config)
+    model_clss = MODEL_MAPPING[args.model_arch]
+    model = model_clss.from_pretrained(pretrained_model_name_or_path=args.model_name_or_path,
+                                       config=config)
     model.resize_token_embeddings(len(tokenizer))
     model.to(device)
 
@@ -134,15 +147,15 @@ def train():
             break
         LOGGER.info(f"\n{'=' * 30}Training epoch {epoch}{'=' * 30}")
         # Fit model with dataset
-        train_loss = train_one_epoch(model=model,
-                                     optim=optimizer,
-                                     iterator=train_iterator,
-                                     cur_epoch=epoch,
-                                     max_grad_norm=args.max_grad_norm)
+        train_one_epoch(model=model,
+                        optim=optimizer,
+                        iterator=train_iterator,
+                        cur_epoch=epoch,
+                        max_grad_norm=args.max_grad_norm)
         # Validate trained model on dataset
-        eval_loss, eval_acc, eval_f1 = validate(model=model,
-                                                iterator=eval_iterator,
-                                                cur_epoch=epoch)
+        _, _, eval_f1 = validate(model=model,
+                                 iterator=eval_iterator,
+                                 cur_epoch=epoch)
         LOGGER.info(f"\tEpoch F1 score = {eval_f1} ; Best score = {best_score}")
         if eval_f1 > best_score:
             best_score = eval_f1

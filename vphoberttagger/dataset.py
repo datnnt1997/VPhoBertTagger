@@ -1,10 +1,9 @@
 from typing import List, Union
 from pathlib import Path
-from tqdm import tqdm
 from torch.utils.data import Dataset
 from tqdm import tqdm
 
-from constant import LABEL2ID
+from vphoberttagger.constant import LABEL2ID
 
 import os
 import torch
@@ -24,17 +23,24 @@ class NerFeatures(object):
 
 def convert_examples_features(data_path: Union[str, os.PathLike],
                               tokenizer,
-                              max_seq_len: int=256) -> List[NerFeatures]:
+                              max_seq_len: int = 256,
+                              use_crf: bool = False) -> List[NerFeatures]:
     features = []
     tokens = []
     tag_ids = []
-    data = pd.read_csv(data_path, delimiter='\t', encoding='utf-8', skip_blank_lines=False, names=['token', 'chunk', 'pos', 'ner'])
+    data = pd.read_csv(data_path,
+                       delimiter='\t',
+                       encoding='utf-8',
+                       skip_blank_lines=False,
+                       names=['token', 'chunk', 'pos', 'ner'])
     data.fillna(method="ffill")
-    for _, row in tqdm(data.iterrows(), total=len(data), desc=f"Load dataset {data_path}..."):
+    for row_idx, row in tqdm(data.iterrows(), total=len(data), desc=f"Load dataset {data_path}..."):
         if row.notna().token:
             tokens.append(row.token.strip().replace(' ', '_'))
             tag_ids.append(LABEL2ID.index(row.ner.strip()))
-            continue
+            if not row_idx == len(data) - 1:
+                continue
+        seq_len = len(tokens)
         sentence = ' '.join(tokens)
         encoding = tokenizer(sentence,
                              padding='max_length',
@@ -42,20 +48,25 @@ def convert_examples_features(data_path: Union[str, os.PathLike],
                              max_length=max_seq_len)
         subwords = tokenizer.tokenize(sentence)
         valid_ids = np.zeros(len(encoding.input_ids), dtype=int)
+        label_marks = np.zeros(len(encoding.input_ids), dtype=int)
         valid_labels = np.ones(len(encoding.input_ids), dtype=int) * -100
         i = 1
         for idx, subword in enumerate(subwords):
             if idx != 0 and subwords[idx-1].endswith("@@"):
                 continue
-            valid_ids[idx+1] = 1
+            if use_crf:
+                valid_ids[i-1] = idx + 1
+            else:
+                valid_ids[idx+1] = 1
             valid_labels[idx+1] = tag_ids[i-1]
             i += 1
-        label_padding_size = (max_seq_len - len(tag_ids))
+        label_padding_size = (max_seq_len - seq_len)
+        label_marks[:seq_len] = [1] * seq_len
         tag_ids.extend([0] * label_padding_size)
         items = {key: val for key, val in encoding.items()}
-        items['labels'] = valid_labels
+        items['labels'] = tag_ids if use_crf else valid_labels
         items['valid_ids'] = valid_ids
-        items['label_masks'] = valid_ids
+        items['label_masks'] = label_marks if use_crf else valid_ids
         features.append(NerFeatures(**items))
         tokens = []
         tag_ids = []
@@ -79,11 +90,12 @@ def build_dataset(data_dir: Union[str, os.PathLike],
                   dtype: str = 'train',
                   max_seq_len:int = 256,
                   device:str = 'cpu',
+                  use_crf: bool = False,
                   overwrite_data: bool = False) -> NerDataset:
     dfile_path = Path(data_dir+f'/{dtype}.txt')
     cached_path = dfile_path.with_suffix('.cached')
     if not os.path.exists(cached_path) or overwrite_data:
-        features = convert_examples_features(dfile_path, tokenizer, max_seq_len)
+        features = convert_examples_features(dfile_path, tokenizer, max_seq_len, use_crf=use_crf)
         torch.save(features, cached_path)
     else:
         features = torch.load(cached_path)
@@ -95,7 +107,7 @@ if __name__ == '__main__':
     from transformers import AutoTokenizer
     from torch.utils.data import DataLoader
     tokenizer = AutoTokenizer.from_pretrained("vinai/phobert-base")
-    ner_dataset = build_dataset('datasets/samples',
+    ner_dataset = build_dataset('../datasets/samples',
                                 tokenizer,
                                 dtype='train',
                                 max_seq_len=256,
