@@ -13,6 +13,7 @@ including of **word**, **pos**, **chunk**, and **named entity**. Each word which
 an empty line after each sentence. For details, see sample data in **'datasets/samples'** directory. The table below describes an 
 example Vietnamese sentence in dataset.
 
+
 | Word         | POS | Chunk | NER   |
 |--------------|-----|-------|-------|
 | Dương	       |Np	  |B-NP	  |B-PER  |
@@ -26,7 +27,7 @@ example Vietnamese sentence in dataset.
 | Hà Nội 	     |Np	  |B-NP	  |B-LOC  |
 | .	           |CH	  |O	  |O      |
 
-The dataset mus put on directory with structure as below.
+The dataset must put on directory with structure as below.
 ```text
 ├── data_dir
 |  └── train.txt
