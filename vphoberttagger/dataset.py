@@ -102,7 +102,7 @@ def build_dataset(data_dir: Union[str, os.PathLike],
     return NerDataset(features=features, device=device)
 
 
-#DEBUG
+# DEBUG
 if __name__ == '__main__':
     from transformers import AutoTokenizer
     from torch.utils.data import DataLoader

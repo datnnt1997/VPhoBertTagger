@@ -2,6 +2,8 @@ from .helper import init_logger
 from .model import PhoBertSoftmax, PhoBertLstmCrf
 from datetime import datetime
 
+import re
+
 
 LOGGER = init_logger(datetime.now().strftime('%d%b%Y_%H-%M-%S.log'))
 
@@ -13,3 +15,6 @@ MODEL_MAPPING = {
     'softmax': PhoBertSoftmax,
     'lstm_crf': PhoBertLstmCrf
 }
+
+OPENTAG_PATTERN = re.compile('<ENAMEX TYPE="(.+?)">')
+CLOSETAG_PATTERN = re.compile('</ENAMEX>')
