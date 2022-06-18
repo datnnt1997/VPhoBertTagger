@@ -63,7 +63,6 @@ def train_one_epoch(model, iterator, optim, cur_epoch: int, max_grad_norm: float
     tqdm_bar = tqdm(enumerate(iterator), total=len(iterator), desc=f'[TRAIN-EPOCH {cur_epoch}]')
     for idx, batch in tqdm_bar:
         outputs = model(**batch)
-        continue
         # backward pass
         torch.nn.utils.clip_grad_norm_(parameters=model.parameters(), max_norm=max_grad_norm)
         optim.zero_grad()
