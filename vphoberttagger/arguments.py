@@ -41,7 +41,7 @@ def get_train_argument():
     parser.add_argument('type', choices=['train', 'test', 'predict'],
                         help='What process to be run')
     parser.add_argument("--task", default='vlsp2016', type=str,
-                        help="Training task selected in the list: [`vlsp2016`, `vlsp2018_l1`, `vlsp2018_l2`, `vlsp2018_join`].")
+                        help="Training task selected in the list: [`vlsp2016`, `vlsp2018`, `vlsp2018_join`].")
     parser.add_argument("--data_dir", default='datasets/samples', type=str,
                         help="The input data dir. Should contain the .csv files (or other data files) for the task.")
     parser.add_argument("--overwrite_data", action='store_true', default=False,

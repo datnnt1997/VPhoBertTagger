@@ -1,5 +1,5 @@
 from vphoberttagger.arguments import get_predict_argument
-from vphoberttagger.constant import LABEL2ID, ID2LABEL, MODEL_MAPPING
+from vphoberttagger.constant import LABEL_MAPPING, MODEL_MAPPING
 from vphoberttagger.helper import normalize_text
 from vncorenlp import VnCoreNLP
 
@@ -31,7 +31,7 @@ class PhobertNER(object):
         max_seq_len = args.max_seq_length
 
         tokenizer = AutoTokenizer.from_pretrained(args.model_name_or_path, use_fast=False)
-        config = AutoConfig.from_pretrained(args.model_name_or_path, num_labels=len(LABEL2ID))
+        config = AutoConfig.from_pretrained(args.model_name_or_path, num_labels=len(args.label2id))
         model_clss = MODEL_MAPPING[args.model_arch]
         model = model_clss(config=config)
         model.load_state_dict(checkpoint_data['model'])
