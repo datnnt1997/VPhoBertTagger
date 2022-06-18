@@ -51,7 +51,7 @@ def convert_examples_features(data_path: Union[str, os.PathLike],
         label_marks = np.zeros(len(encoding.input_ids), dtype=int)
         valid_labels = np.ones(len(encoding.input_ids), dtype=int) * -100
         i = 1
-        for idx, subword in enumerate(subwords):
+        for idx, subword in enumerate(subwords[:max_seq_len-2]):
             if idx != 0 and subwords[idx-1].endswith("@@"):
                 continue
             if use_crf:
@@ -60,9 +60,10 @@ def convert_examples_features(data_path: Union[str, os.PathLike],
                 valid_ids[idx+1] = 1
             valid_labels[idx+1] = tag_ids[i-1]
             i += 1
-        label_padding_size = (max_seq_len - seq_len)
-        label_marks[:seq_len] = [1] * seq_len
-        tag_ids.extend([0] * label_padding_size)
+        if max_seq_len > seq_len + 2:
+            label_padding_size = (max_seq_len - seq_len)
+            label_marks[:seq_len] = [1] * seq_len
+            tag_ids.extend([0] * label_padding_size)
         items = {key: val for key, val in encoding.items()}
         items['labels'] = tag_ids if use_crf else valid_labels
         items['valid_ids'] = valid_ids

@@ -8,8 +8,8 @@ import re
 LOGGER = init_logger(datetime.now().strftime('%d%b%Y_%H-%M-%S.log'))
 
 LABEL2ID_VLSP2016 = ['O', 'B-ORG', 'I-ORG', 'B-LOC', 'I-LOC', 'B-PER', 'I-PER', 'B-MISC', 'I-MISC']
-LABEL2ID_VLSP2018 = ['O', 'B-ORGANIZATION', 'I-ORGANIZATION', 'B-LOCATION', 'I-LOCATION', 'B-PERSON', 'I-PERSON', 'B-MISCELLANEOUS', 'I-MISCELLANEOUS']
-
+LABEL2ID_VLSP2018 = ['O', 'B-ORGANIZATION', 'I-ORGANIZATION', 'B-LOCATION', 'I-LOCATION', 'B-PERSON', 'I-PERSON',
+                     'B-MISCELLANEOUS', 'I-MISCELLANEOUS']
 
 MODEL_MAPPING = {
     'softmax': PhoBertSoftmax,
