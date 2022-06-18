@@ -5765,7 +5765,7 @@ Paris	B-LOCATION+O
 Pháp	B-LOCATION+O
 .	O+O
 
-"	O+O
+”	O+O
 Mẹ	O+O
 tôi	O+O
 đã	O+O
@@ -6534,7 +6534,7 @@ ra	O+O
 Hội_thảo	O+O
 khoa_học	O+O
 Quốc_gia	O+O
-"	O+O
+”	O+O
 Ngân_hàng	B-ORGANIZATION+O
 Chính_sách_xã_hội	I-ORGANIZATION+O
 :	O+O
@@ -6543,7 +6543,7 @@ năm	O+O
 một	O+O
 chặng	O+O
 đường	O+O
-"	O+O
+”	O+O
 .	O+O
 
 NHCSXH	B-ORGANIZATION+O
@@ -9500,7 +9500,7 @@ David	B-PERSON+O
 Nguyễn_Vũ	I-PERSON+O
 lý_giải	O+O
 :	O+O
-"	O+O
+”	O+O
 Những	O+O
 năm	O+O
 gần	O+O
@@ -9665,7 +9665,7 @@ còn	O+O
 thiếu	O+O
 .	O+O
 
-"	O+O
+”	O+O
 Các	O+O
 nhà_đầu_tư	O+O
 Singapore	B-LOCATION+O
@@ -9690,7 +9690,7 @@ ngày_càng	O+O
 gắn_bó	O+O
 khăng_khít	O+O
 hơn	O+O
-"	O+O
+”	O+O
 -	O+O
 TS	O+O
 Vũ	B-PERSON+O
@@ -9893,7 +9893,7 @@ phân_phối	O+O
 sản_phẩm	O+O
 .	O+O
 
-"	O+O
+”	O+O
 Ba	O+O
 chân_kiềng	O+O
 này	O+O
@@ -9932,7 +9932,7 @@ Singapore	B-LOCATION+O
 tiến	O+O
 ra	O+O
 quốc_tế	O+O
-"	O+O
+”	O+O
 ,	O+O
 Ông	O+O
 Nguyễn	B-PERSON+O
@@ -13103,9 +13103,9 @@ nhiều	O+O
 người	O+O
 biết	O+O
 nó	O+O
-"	O+O
+”	O+O
 hoành_tráng	O+O
-"	O+O
+”	O+O
 đến	O+O
 mức	O+O
 nào	O+O
@@ -13490,9 +13490,9 @@ qua_đời	O+O
 
 Linh_Lam	B-PERSON+O
 
-"	O+O
+”	O+O
 Thần_dược	O+O
-"	O+O
+”	O+O
 HPC	O+O
 -	O+O
 97	O+O
@@ -13524,9 +13524,9 @@ báo_chí	O+O
 đã	O+O
 truy_lùng	O+O
 ra	O+O
-"	O+O
+”	O+O
 thần_dược	O+O
-"	O+O
+”	O+O
 xuất_xứ	O+O
 từ	O+O
 Trung_Quốc	B-LOCATION+O
@@ -13560,9 +13560,9 @@ Ghi_nhận	O+O
 từ	O+O
 phóng_viên	O+O
 ,	O+O
-"	O+O
+”	O+O
 thần_dược	O+O
-"	O+O
+”	O+O
 có	O+O
 tên	O+O
 là	O+O
@@ -22344,11 +22344,11 @@ Mỵ_Châu	B-PERSON+O
 riêng	O+O
 có	O+O
 sách	O+O
-"	O+O
+”	O+O
 Thiên_Nam	O+O
 ngữ	O+O
 lục	O+O
-"	O+O
+”	O+O
 ,	O+O
 tác_phẩm	O+O
 khuyết_danh	O+O
@@ -22627,10 +22627,10 @@ thấy	O+O
 ,	O+O
 bởi	O+O
 tính	O+O
-"	O+O
+”	O+O
 phớt	O+O
 ăng-lê	O+O
-"	O+O
+”	O+O
 của	O+O
 người	B-MISCELLANEOUS+O
 Thăng_Long	I-MISCELLANEOUS+O
@@ -22697,10 +22697,10 @@ Nguyễn_Văn_Tuyên	B-PERSON+O
 đã	O+O
 được	O+O
 hát	O+O
-"	O+O
+”	O+O
 Bông	O+O
 cúc_vàng	O+O
-"	O+O
+”	O+O
 tại	O+O
 rạp	B-LOCATION+O
 cinema	I-LOCATION+O
@@ -22770,9 +22770,9 @@ của	O+O
 mình	O+O
 trên	O+O
 báo	O+O
-"	O+O
+”	O+O
 Ngày_nay	B-ORGANIZATION+O
-"	O+O
+”	O+O
 .	O+O
 
 Nhạc_sĩ	O+O
@@ -22785,19 +22785,19 @@ mùa	O+O
 thu	O+O
 1938	O+O
 ,	O+O
-"	O+O
+”	O+O
 Bản	O+O
 đàn	O+O
 xuân	O+O
-"	O+O
+”	O+O
 của	O+O
 Lê_Thương	B-PERSON+O
 ấn_hành	O+O
 trên	O+O
 báo	O+O
-"	O+O
+”	O+O
 Ngày_nay	B-ORGANIZATION+O
-"	O+O
+”	O+O
 ,	O+O
 ít	O+O
 tháng	O+O
@@ -22816,31 +22816,31 @@ tác_phẩm	O+O
 của	O+O
 Lê_Thương	B-PERSON+O
 như	O+O
-"	O+O
+”	O+O
 Tiếng	O+O
 đàn	O+O
 đêm	O+O
 khuya	O+O
-"	O+O
+”	O+O
 ,	O+O
-"	O+O
+”	O+O
 Một	O+O
 ngày	O+O
 xanh	O+O
-"	O+O
+”	O+O
 ,	O+O
-"	O+O
+”	O+O
 Thu	B-MISCELLANEOUS+O
 trên	I-MISCELLANEOUS+O
 đảo	I-MISCELLANEOUS+O
 Kinh_Châu	I-MISCELLANEOUS+O
-"	O+O
+”	O+O
 ,	O+O
-"	O+O
+”	O+O
 Trên	B-MISCELLANEOUS+O
 sông	I-MISCELLANEOUS+O
 Dương_Tử	I-MISCELLANEOUS+O
-"	O+O
+”	O+O
 …	O+O
 tại	O+O
 Nhà_hát	B-LOCATION+O
@@ -22850,10 +22850,10 @@ trong	O+O
 không_khí	O+O
 hoạt_động	O+O
 của	O+O
-"	O+O
+”	O+O
 Hội	B-ORGANIZATION+O
 ánh_sáng	I-ORGANIZATION+O
-"	O+O
+”	O+O
 mà	O+O
 nhà_thơ	O+O
 Thế_Lữ	B-PERSON+O
@@ -22882,11 +22882,11 @@ Thế_Lữ	B-PERSON+I-ORGANIZATION
 đi	O+O
 diễn	O+O
 vở	O+O
-"	O+O
+”	O+O
 Ông	O+O
 ký	O+O
 Cóp	O+O
-"	O+O
+”	O+O
 của	O+O
 Vi_Huyền_Đắc	O+O
 ở	O+O
@@ -23001,12 +23001,12 @@ cùng	O+O
 tên	O+O
 .	O+O
 Và	O+O
-"	O+O
+”	O+O
 Thu	B-MISCELLANEOUS+O
 trên	I-MISCELLANEOUS+O
 đảo	I-MISCELLANEOUS+O
 Kinh_Châu	I-MISCELLANEOUS+O
-"	O+O
+”	O+O
 của	O+O
 Lê_Thương	B-PERSON+O
 đã	O+O
@@ -23069,12 +23069,12 @@ là	O+O
 ở	O+O
 đây	O+O
 ,	O+O
-"	O+O
+”	O+O
 đồ	O+O
 đó	O+O
 chưa	O+O
 xài	O+O
-"	O+O
+”	O+O
 .	O+O
 Chỉ	O+O
 khi	O+O
@@ -23144,19 +23144,19 @@ loạt	O+O
 bài	O+O
 nhận_định	O+O
 về	O+O
-"	O+O
+”	O+O
 Phong_trào	O+O
 nhạc	O+O
 mới	O+O
-"	O+O
+”	O+O
 của	O+O
 Lê_Thương	B-PERSON+O
 đã	O+O
 được	O+O
 tuần_báo	O+O
-"	O+O
+”	O+O
 Thanh_niên	B-ORGANIZATION+O
-"	O+O
+”	O+O
 đăng_tải	O+O
 từ	O+O
 25-3-1943	O+O
@@ -23198,11 +23198,11 @@ tân_nhạc	O+O
 Việt_Nam	B-LOCATION+O
 3	O+O
 bài	O+O
-"	O+O
+”	O+O
 Hòn	O+O
 vọng	O+O
 phu	O+O
-"	O+O
+”	O+O
 bằng	O+O
 âm_thanh	O+O
 bất_tử	O+O
@@ -23216,7 +23216,7 @@ những	O+O
 câu	O+O
 lục_bát	O+O
 nôm_na	O+O
-"	O+O
+”	O+O
 Đời	O+O
 xưa	O+O
 đời	O+O
@@ -23248,17 +23248,17 @@ con	O+O
 đứng	O+O
 chờ	O+O
 …	O+O
-"	O+O
+”	O+O
 ,	O+O
 Lê_Thương	B-PERSON+O
 đã	O+O
 tạc	O+O
 lên	O+O
-"	O+O
+”	O+O
 Hòn	O+O
 vọng	O+O
 phu	O+O
-"	O+O
+”	O+O
 thứ	O+O
 nhất	O+O
 bằng	O+O
@@ -23274,12 +23274,12 @@ phảng_phất	O+O
 hơi	O+O
 thở	O+O
 của	O+O
-"	O+O
+”	O+O
 Chinh_phụ	O+O
 ngâm	O+O
-"	O+O
+”	O+O
 :	O+O
-"	O+O
+”	O+O
 Giã	O+O
 nhà	O+O
 đeo	O+O
@@ -23294,25 +23294,25 @@ vị	O+O
 gió	O+O
 thu	O+O
 …	O+O
-"	O+O
+”	O+O
 
-"	O+O
+”	O+O
 Hòn	O+O
 vọng	O+O
 phu	O+O
-"	O+O
+”	O+O
 thứ	O+O
 hai	O+O
 còn	O+O
 có	O+O
 tên	O+O
 là	O+O
-"	O+O
+”	O+O
 Ai	O+O
 xuôi	O+O
 vạn	O+O
 lý	O+O
-"	O+O
+”	O+O
 thực_sự	O+O
 là	O+O
 một	O+O
@@ -23379,18 +23379,18 @@ và	O+O
 lời	O+O
 bình	O+O
 phim	O+O
-"	O+O
+”	O+O
 Hà_Nội	B-MISCELLANEOUS+O
 trong	I-MISCELLANEOUS+O
 mắt	I-MISCELLANEOUS+O
 ai	I-MISCELLANEOUS+O
-"	O+O
+”	O+O
 nổi_tiếng	O+O
 -	O+O
 đã	O+O
 nhận_xét	O+O
 :	O+O
-"	O+O
+”	O+O
 Bố	O+O
 Lê_Thương	B-PERSON+O
 giỏi	O+O
@@ -23449,13 +23449,13 @@ chưa	O+O
 Tuyệt	O+O
 vô_cùng	O+O
 !	O+O
-"	O+O
+”	O+O
 .	O+O
-"	O+O
+”	O+O
 Hòn	O+O
 vọng	O+O
 phu	O+O
-"	O+O
+”	O+O
 thứ	O+O
 hai	O+O
 được	O+O
@@ -23478,21 +23478,21 @@ chăng	O+O
 ?	O+O
 
 Trong	O+O
-"	O+O
+”	O+O
 Hòn	O+O
 vọng	O+O
 phu	O+O
-"	O+O
+”	O+O
 thứ	O+O
 ba	O+O
 còn	O+O
 có	O+O
 tên	O+O
-"	O+O
+”	O+O
 Người	O+O
 chinh_phu	O+O
 về	O+O
-"	O+O
+”	O+O
 ,	O+O
 Lê_Thương	B-PERSON+O
 đã	O+O
@@ -23527,7 +23527,7 @@ miền	O+O
 để	O+O
 rồi	O+O
 thấy	O+O
-"	O+O
+”	O+O
 Núi	O+O
 đá	O+O
 thu	O+O
@@ -23538,7 +23538,7 @@ mờ	O+O
 bao	O+O
 nghìn_xưa	O+O
 …	O+O
-"	O+O
+”	O+O
 .	O+O
 Như	O+O
 một	O+O
@@ -23548,11 +23548,11 @@ bằng	O+O
 âm_nhạc	O+O
 ,	O+O
 3	O+O
-"	O+O
+”	O+O
 Hòn	O+O
 vọng	O+O
 phu	O+O
-"	O+O
+”	O+O
 của	O+O
 Lê_Thương	B-PERSON+O
 đã	O+O
@@ -23644,7 +23644,7 @@ hát	O+O
 rất	O+O
 hay	O+O
 :	O+O
-"	O+O
+”	O+O
 Sớm	O+O
 bắt	O+O
 bướm	O+O
@@ -23676,7 +23676,7 @@ giờ	O+O
 nằm_mơ	O+O
 thấy	O+O
 tiên	O+O
-"	O+O
+”	O+O
 .	O+O
 Đó	O+O
 là	O+O
@@ -23686,9 +23686,9 @@ hát	O+O
 thiếu_nhi	O+O
 mang	O+O
 tên	O+O
-"	O+O
+”	O+O
 Tuổi_thơ	O+O
-"	O+O
+”	O+O
 rất	O+O
 hay	O+O
 của	O+O
@@ -23818,9 +23818,9 @@ Lê_Thương	B-PERSON+O
 có	O+O
 chút	O+O
 gì	O+O
-"	O+O
+”	O+O
 lai_căng	O+O
-"	O+O
+”	O+O
 .	O+O
 Bác	O+O
 đã	O+O
@@ -25031,10 +25031,10 @@ gồm	O+O
 3	O+O
 khu	O+O
 :	O+O
-"	O+O
+”	O+O
 Khu	O+O
 Làng	O+O
-"	O+O
+”	O+O
 với	O+O
 các	O+O
 mái	O+O
@@ -25054,9 +25054,9 @@ cạnh	O+O
 nhau	O+O
 ;	O+O
 Khu	O+O
-"	O+O
+”	O+O
 Royal_Zone	B-LOCATION+O
-"	O+O
+”	O+O
 là	O+O
 nơi	O+O
 mỗi	O+O
@@ -25070,9 +25070,9 @@ riêng	O+O
 ;	O+O
 và	O+O
 khu	O+O
-"	O+O
+”	O+O
 Private_Zone	B-LOCATION+O
-"	O+O
+”	O+O
 phù_hợp	O+O
 cho	O+O
 một	O+O
@@ -25813,11 +25813,11 @@ dòng	O+O
 sông	O+O
 đã	O+O
 trở_thành	O+O
-"	O+O
+”	O+O
 con	O+O
 đường	O+O
 nước	O+O
-"	O+O
+”	O+O
 đưa	O+O
 khách	O+O
 du_lịch	O+O
@@ -26120,7 +26120,7 @@ sợ_hãi	O+O
 khép_nép	O+O
 nữa	O+O
 .	O+O
-"	O+O
+”	O+O
 Bản	O+O
 mới	O+O
 được	O+O
@@ -26184,7 +26184,7 @@ khách	O+O
 đến	O+O
 tham_quan	O+O
 …	O+O
-"	O+O
+”	O+O
 ,	O+O
 Phó	O+O
 Chủ_tịch	O+O
@@ -26310,7 +26310,7 @@ Con_Cuông	I-LOCATION+I-MISCELLANEOUS
 Nguyễn_Xuân_Nam	B-PERSON+O
 chia_sẻ	O+O
 :	O+O
-"	O+O
+”	O+O
 Thế	O+O
 mạnh	O+O
 để	O+O
@@ -26352,7 +26352,7 @@ cổ	I-LOCATION+O
 Trà	I-LOCATION+O
 Lân	I-LOCATION+O
 ...	O+O
-"	O+O
+”	O+O
 .	O+O
 
 Trải_nghiệm	O+O
@@ -26737,7 +26737,7 @@ là	O+O
 thành_công	O+O
 của	O+O
 dự_án	O+O
-"	O+O
+”	O+O
 Ða	O+O
 dạng	O+O
 hoá_sinh	O+O
@@ -26754,7 +26754,7 @@ nông	O+O
 ngư_nghiệp	O+O
 tỉnh	B-LOCATION+O
 Nghệ_An	I-LOCATION+O
-"	O+O
+”	O+O
 với	O+O
 sự	O+O
 hỗ_trợ	O+O
@@ -27751,11 +27751,11 @@ tồn_tại	O+O
 với	O+O
 cái	O+O
 tên	O+O
-"	O+O
+”	O+O
 táo	O+O
 đá	O+O
 Hà_Giang	B-LOCATION+O
-"	O+O
+”	O+O
 để	O+O
 lừa	O+O
 người	O+O
@@ -27820,11 +27820,11 @@ Táo	O+O
 Trung_Quốc	B-LOCATION+O
 gắn	O+O
 mác	O+O
-"	O+O
+”	O+O
 táo	O+O
 đá	O+O
 Hà_Giang	B-LOCATION+O
-"	O+O
+”	O+O
 
 Song	O+O
 ,	O+O
@@ -27839,10 +27839,10 @@ thích	O+O
 bởi	O+O
 ngoài	O+O
 mác	O+O
-"	O+O
+”	O+O
 quả	O+O
 sạch	O+O
-"	O+O
+”	O+O
 ,	O+O
 táo	O+O
 này	O+O
@@ -27883,9 +27883,9 @@ năm_ngoái	O+O
 ,	O+O
 cơ_quan_chức_năng	O+O
 đã	O+O
-"	O+O
+”	O+O
 bóc_mẽ	O+O
-"	O+O
+”	O+O
 táo	O+O
 đá	O+O
 không	O+O
@@ -28015,10 +28015,10 @@ chợ	O+O
 dân_sinh	O+O
 cho	O+O
 tới	O+O
-"	O+O
+”	O+O
 chợ	O+O
 mạng	O+O
-"	O+O
+”	O+O
 ,	O+O
 giá	O+O
 dao_động	O+O
@@ -28736,22 +28736,22 @@ lao	O+O
 và	O+O
 anh_dũng	O+O
 của	O+O
-"	O+O
+”	O+O
 miền	B-LOCATION+O
 Nam	I-LOCATION+O
 đi	O+O
 trước	O+O
 về	O+O
 sau	O+O
-"	O+O
+”	O+O
 ,	O+O
 của	O+O
 miền	B-LOCATION+O
 Nam	I-LOCATION+O
-"	O+O
+”	O+O
 Thành_đồng	O+O
 Tổ_quốc	O+O
-"	O+O
+”	O+O
 .	O+O
 Cùng	O+O
 với	O+O
@@ -28810,7 +28810,7 @@ Dân_gian	O+O
 vẫn	O+O
 truyền_tụng	O+O
 câu	O+O
-"	O+O
+”	O+O
 Chớ	O+O
 đi	O+O
 ngày	O+O
@@ -28820,9 +28820,9 @@ chớ	O+O
 về	O+O
 ngày	O+O
 ba	O+O
-"	O+O
+”	O+O
 hay	O+O
-"	O+O
+”	O+O
 Mùng	O+O
 năm	O+O
 ,	O+O
@@ -28840,7 +28840,7 @@ nữa	O+O
 là	O+O
 đi	O+O
 buôn	O+O
-"	O+O
+”	O+O
 để	O+O
 chỉ	O+O
 những	O+O
@@ -28859,7 +28859,7 @@ phong_thuỷ	O+O
 sở_dĩ	O+O
 có	O+O
 câu	O+O
-"	O+O
+”	O+O
 Chớ	O+O
 đi	O+O
 ngày	O+O
@@ -28869,7 +28869,7 @@ chớ	O+O
 về	O+O
 ngày	O+O
 ba	O+O
-"	O+O
+”	O+O
 là	O+O
 vì	O+O
 theo	O+O
@@ -28879,13 +28879,13 @@ dân_gian	O+O
 đó	O+O
 là	O+O
 ngày	O+O
-"	O+O
+”	O+O
 Tam_Nương	O+O
 sát	O+O
-"	O+O
+”	O+O
 .	O+O
 
-"	O+O
+”	O+O
 Thượng_tuần	O+O
 sơ	O+O
 Tam	O+O
@@ -28927,7 +28927,7 @@ tháng_ngày	O+O
 22	O+O
 ,	O+O
 27	O+O
-"	O+O
+”	O+O
 ,	O+O
 đó	O+O
 là	O+O
@@ -32424,9 +32424,9 @@ thấp	O+O
 Pantsir-S	O+O
 1	O+O
 biệt_danh	O+O
-"	O+O
+”	O+O
 mãnh_thú	O+O
-"	O+O
+”	O+O
 do	O+O
 Nga	B-LOCATION+O
 mới	O+O
@@ -32690,9 +32690,9 @@ thấp	O+O
 Pantsir-S	O+O
 1	O+O
 biệt_danh	O+O
-"	O+O
+”	O+O
 mãnh_thú	O+O
-"	O+O
+”	O+O
 do	O+O
 Nga	B-LOCATION+O
 mới	O+O
@@ -33105,10 +33105,10 @@ Mỹ	B-LOCATION+O
 Donald_Trump	B-PERSON+O
 tuyên_bố	O+O
 sẽ	O+O
-"	O+O
+”	O+O
 huỷ_diệt	O+O
 hoàn_toàn	O+O
-"	O+O
+”	O+O
 nước	O+O
 này	O+O
 .	O+O
@@ -33197,7 +33197,7 @@ kháng_cáo	O+O
 kết_thúc	O+O
 .	O+O
 
-"	O+O
+”	O+O
 Cách	O+O
 tiếp_cận	O+O
 và	O+O
@@ -33219,7 +33219,7 @@ và	O+O
 an_ninh	O+O
 công_cộng	O+O
 tiềm_tàng	O+O
-"	O+O
+”	O+O
 ,	O+O
 TfL	B-ORGANIZATION+O
 cho	O+O
@@ -33326,7 +33326,7 @@ của	O+O
 Uber	B-ORGANIZATION+O
 .	O+O
 
-"	O+O
+”	O+O
 Tất_cả	O+O
 công_ty	O+O
 ở	O+O
@@ -33370,7 +33370,7 @@ an_ninh	O+O
 cho	O+O
 người_dân	O+O
 London	B-LOCATION+O
-"	O+O
+”	O+O
 ,	O+O
 Reuters	B-ORGANIZATION+O
 dẫn	O+O
@@ -33394,12 +33394,12 @@ xanh	O+O
 mặt	O+O
 
 Hiệu_ứng	O+O
-"	O+O
+”	O+O
 mối	O+O
 đe_doạ	O+O
 từ	O+O
 Nga	B-LOCATION+O
-"	O+O
+”	O+O
 có_vẻ	O+O
 như	O+O
 đã	O+O
@@ -33654,12 +33654,12 @@ sự	O+O
 bảo_vệ	O+O
 .	O+O
 Hiệu_ứng	O+O
-"	O+O
+”	O+O
 mối	O+O
 đe_doạ	O+O
 từ	O+O
 Nga	B-LOCATION+O
-"	O+O
+”	O+O
 có_vẻ	O+O
 như	O+O
 đã	O+O
@@ -34245,9 +34245,9 @@ siêu_thanh	O+O
 Tu	O+O
 -160	O+O
 -	O+O
-"	O+O
+”	O+O
 anh_em	O+O
-"	O+O
+”	O+O
 của	O+O
 Tu	O+O
 -22	O+O
@@ -34970,11 +34970,11 @@ gọi	O+O
 là	O+O
 các	O+O
 nhóm	O+O
-"	O+O
+”	O+O
 đối_lập	O+O
 ôn_hoà	O+O
 Syria	B-LOCATION+O
-"	O+O
+”	O+O
 và	O+O
 các	O+O
 tổ_chức	O+O
@@ -35675,7 +35675,7 @@ thử	O+O
 tên_lửa	O+O
 .	O+O
 
-"	O+O
+”	O+O
 Khi	O+O
 Triều_Tiên	B-LOCATION+O
 sở_hữu	O+O
@@ -35697,7 +35697,7 @@ sức	O+O
 an_toàn	O+O
 cho	O+O
 Nhật_Bản	B-LOCATION+O
-"	O+O
+”	O+O
 ,	O+O
 một	O+O
 quan_chức	O+O
@@ -35708,7 +35708,7 @@ Nhật_Bản	B-LOCATION+O
 nhận_định	O+O
 .	O+O
 
-"	O+O
+”	O+O
 Dư_luận	O+O
 Hàn_Quốc	B-LOCATION+O
 ngày_càng	O+O
@@ -35749,7 +35749,7 @@ với	O+O
 Nga	B-LOCATION+O
 và	O+O
 Trung_Quốc	B-LOCATION+O
-"	O+O
+”	O+O
 ,	O+O
 ông	O+O
 Masao_Okonogi	B-PERSON+O
@@ -36281,10 +36281,10 @@ nhất	O+O
 vẫn	O+O
 qua	O+O
 biệt_danh	O+O
-"	O+O
+”	O+O
 Ông	O+O
 cố_vấn	O+O
-"	O+O
+”	O+O
 .	O+O
 Vũ	B-PERSON+O
 Ngọc	I-PERSON+O
@@ -37892,10 +37892,10 @@ Donald_Trump	B-PERSON+O
 vừa	O+O
 đe_doạ	O+O
 sẽ	O+O
-"	O+O
+”	O+O
 xoá_sổ	O+O
 hoàn_toàn	O+O
-"	O+O
+”	O+O
 Triều_Tiên	B-LOCATION+O
 .	O+O
 
@@ -38310,10 +38310,10 @@ mạnh_miệng	O+O
 tuyên_bố	O+O
 rằng	O+O
 sẽ	O+O
-"	O+O
+”	O+O
 xoá_sổ	O+O
 Triều_Tiên	B-LOCATION+O
-"	O+O
+”	O+O
 nhưng	O+O
 trên	O+O
 thực_tế	O+O
@@ -39300,10 +39300,10 @@ cử_tri	O+O
 sát	O+O
 bầu_cử	O+O
 đều	O+O
-"	O+O
+”	O+O
 xướng	O+O
 tên	O+O
-"	O+O
+”	O+O
 liên	O+O
 đảng	O+O
 Liên_minh	O+B-ORGANIZATION
@@ -39435,10 +39435,10 @@ năm	O+O
 ,	O+O
 cũng	O+O
 như	O+O
-"	O+O
+”	O+O
 cú	O+O
 sốc	O+O
-"	O+O
+”	O+O
 nước	O+O
 Anh	B-LOCATION+O
 rời	O+O
@@ -39753,11 +39753,11 @@ của	O+O
 mang	O+O
 lại	O+O
 một	O+O
-"	O+O
+”	O+O
 luồng	O+O
 gió	O+O
 mới	O+O
-"	O+O
+”	O+O
 cho	O+O
 SPD	B-ORGANIZATION+O
 .	O+O
@@ -39887,10 +39887,10 @@ này	O+O
 trở_nên	O+O
 yếu_ớt	O+O
 dưới	O+O
-"	O+O
+”	O+O
 cái	O+O
 bóng	O+O
-"	O+O
+”	O+O
 quá	O+O
 lớn	O+O
 của	O+O
@@ -41122,10 +41122,10 @@ số	O+O
 đó	O+O
 là	O+O
 công_nghệ	O+O
-"	O+O
+”	O+O
 đàn	O+O
 UAV	O+O
-"	O+O
+”	O+O
 ,	O+O
 sử_dụng	O+O
 hàng	O+O
@@ -41522,10 +41522,10 @@ mức	O+O
 này	O+O
 .	O+O
 Tổ_chức	O+O
-"	O+O
+”	O+O
 Nhà_nước	O+B-ORGANIZATION
 Hồi_giáo	B-ORGANIZATION+I-ORGANIZATION
-"	O+O
+”	O+O
 (	O+O
 IS	B-ORGANIZATION+O
 )	O+O
@@ -41744,7 +41744,7 @@ với	O+O
 Iran	B-LOCATION+O
 .	O+O
 
-"	O+O
+”	O+O
 Chúng_ta	O+O
 không	O+O
 nên	O+O
@@ -41763,7 +41763,7 @@ khi	O+O
 vượt	O+O
 tầm	O+O
 kiểm_soát	O+O
-"	O+O
+”	O+O
 -	O+O
 ông	O+O
 Nebenzya	B-PERSON+O
@@ -41939,7 +41939,7 @@ Nga	B-LOCATION+O
 thiệt_mạng	O+O
 .	O+O
 
-"	O+O
+”	O+O
 Trong	O+O
 buổi	O+O
 sáng	O+O
@@ -41984,7 +41984,7 @@ IS	B-ORGANIZATION+O
 Đông_Palmyra	O+O
 và	O+O
 As-Suhnah	B-LOCATION+O
-"	O+O
+”	O+O
 ,	O+O
 thông_cáo	O+O
 cho	O+O
@@ -42020,14 +42020,14 @@ trang_bị	O+O
 ,	O+O
 cũng	O+O
 như	O+O
-"	O+O
+”	O+O
 một	O+O
 lượng	O+O
 lớn	O+O
 nhân_lực	O+O
 của	O+O
 đối_phương	O+O
-"	O+O
+”	O+O
 bị	O+O
 tiêu_diệt	O+O
 .	O+O
@@ -43221,10 +43221,10 @@ xuống	O+O
 bể_bơi	O+O
 
 Thí_sinh	O+O
-"	O+O
+”	O+O
 kém	O+O
 may	O+O
-"	O+O
+”	O+O
 này	O+O
 chỉ	O+O
 còn	O+O
@@ -43321,9 +43321,9 @@ nóng	O+O
 nên	O+O
 cô	O+O
 muốn	O+O
-"	O+O
+”	O+O
 giải_nhiệt	O+O
-"	O+O
+”	O+O
 thì	O+O
 sao	O+O
 ?	O+O
@@ -43354,11 +43354,11 @@ cổ_vũ	O+O
 cô	O+O
 đã	O+O
 ngượng	O+O
-"	O+O
+”	O+O
 chín	O+O
 cả	O+O
 mặt	O+O
-"	O+O
+”	O+O
 và	O+O
 cứ	O+O
 cúi	O+O
@@ -46352,16 +46352,16 @@ mạng	O+O
 lại	O+O
 được	O+O
 phen	O+O
-"	O+O
+”	O+O
 dậy	O+O
 sóng	O+O
-"	O+O
+”	O+O
 khi	O+O
 ca_khúc	O+O
-"	O+O
+”	O+O
 Em_gái	O+O
 mưa	O+O
-"	O+O
+”	O+O
 của	O+O
 nữ	O+O
 ca_sỹ	O+O
@@ -46389,10 +46389,10 @@ thời_gian	O+O
 nhưng	O+O
 dường_như	O+O
 ca_khúc	O+O
-"	O+O
+”	O+O
 Em_gái	O+O
 mưa	O+O
-"	O+O
+”	O+O
 của	O+O
 nữ	O+O
 ca_sĩ	O+O
@@ -46420,15 +46420,15 @@ lại	O+O
 được	O+O
 một	O+O
 phen	O+O
-"	O+O
+”	O+O
 dậy	O+O
 sóng	O+O
-"	O+O
+”	O+O
 khi	O+O
-"	O+O
+”	O+O
 Em_gái	O+O
 mưa	O+O
-"	O+O
+”	O+O
 còn	O+O
 xuất_hiện	O+O
 trên	O+O
@@ -46488,10 +46488,10 @@ ngày	O+O
 20/9	O+O
 .	O+O
 
-"	O+O
+”	O+O
 Em_gái	O+O
 mưa	O+O
-"	O+O
+”	O+O
 của	O+O
 nữ	O+O
 ca_sỹ	O+O
@@ -46516,10 +46516,10 @@ sau	O+O
 Không_chỉ	O+O
 khéo_léo	O+O
 đưa	O+O
-"	O+O
+”	O+O
 Em_gái	O+O
 mưa	O+O
-"	O+O
+”	O+O
 vào	O+O
 đề	O+O
 bài	O+O
@@ -46533,15 +46533,15 @@ ngôn_từ	O+O
 hết_sức	O+O
 thú_vị	O+O
 như	O+O
-"	O+O
+”	O+O
 nam	O+O
 thần	O+O
-"	O+O
+”	O+O
 ,	O+O
-"	O+O
+”	O+O
 ngôn	O+O
 tình	O+O
-"	O+O
+”	O+O
 .	O+O
 
 Được	O+O
@@ -47159,7 +47159,7 @@ văn_học_dân_gian	O+O
 Hoàng_Thuỳ	B-PERSON+O
 từng	O+O
 nói	O+O
-"	O+O
+”	O+O
 Đường	O+O
 dài	O+O
 mới	O+O
@@ -47179,7 +47179,7 @@ chưa	O+O
 phải	O+O
 là	O+O
 Tết	O+O
-"	O+O
+”	O+O
 ,	O+O
 nên	O+O
 đây	O+O
@@ -47262,11 +47262,11 @@ thần_tượng	O+O
 gọi	O+O
 tên	O+O
 vào	O+O
-"	O+O
+”	O+O
 ngôi	O+O
 nhà	O+O
 chung	O+O
-"	O+O
+”	O+O
 .	O+O
 
 Jas	B-PERSON+O
@@ -48703,7 +48703,7 @@ Việt_Nam	B-LOCATION+I-ORGANIZATION
 anh	O+O
 viết	O+O
 :	O+O
-"	O+O
+”	O+O
 Không	O+O
 cổ_phần_hoá	O+O
 Hãng	O+B-ORGANIZATION
@@ -49087,7 +49087,7 @@ mạng	O+O
 lại	O+O
 như	O+O
 :	O+O
-"	O+O
+”	O+O
 Cô	O+O
 ấy	O+O
 không	O+O
@@ -49103,7 +49103,7 @@ ra	O+O
 sao	O+O
 ”	O+O
 hay	O+O
-"	O+O
+”	O+O
 Chẳng	O+O
 biết	O+O
 đẹp	O+O
@@ -49125,7 +49125,7 @@ ra	O+O
 vậy	O+O
 không	O+O
 ?	O+O
-"	O+O
+”	O+O
 ...	O+O
 
 Không_chỉ	O+O
@@ -49161,9 +49161,9 @@ quần_áo	O+O
 rách	O+O
 te_tua	O+O
 như	O+O
-"	O+O
+”	O+O
 cái_bang	O+O
-"	O+O
+”	O+O
 
 L.H	B-PERSON+O
 (	O+O
@@ -49307,10 +49307,10 @@ lót	O+O
 .	O+O
 Tiêu_chuẩn	O+O
 về	O+O
-"	O+O
+”	O+O
 ngực	O+O
 đẹp	O+O
-"	O+O
+”	O+O
 
 5	O+O
 .	O+O
@@ -49461,9 +49461,9 @@ trở_lại	O+O
 
 Mới_đây	O+O
 ,	O+O
-"	O+O
+”	O+O
 Bao_Thanh_Thiên	B-PERSON+O
-"	O+O
+”	O+O
 Kim_Siêu_Quần	B-PERSON+O
 tham_dự	O+O
 một	O+O
@@ -49708,11 +49708,11 @@ tay_trong	O+O
 tay	O+O
 tại	O+O
 sân_bay	O+O
-"	O+O
+”	O+O
 tình	O+O
 bể	O+O
 bình	O+O
-"	O+O
+”	O+O
 .	O+O
 Lúc	O+O
 lại	O+O
@@ -49732,11 +49732,11 @@ Hà	B-PERSON+O
 Pháp	B-LOCATION+O
 biểu_diễn	O+O
 ,	O+O
-"	O+O
+”	O+O
 tình_nhân	O+O
 không	O+O
 thừa_nhận	O+O
-"	O+O
+”	O+O
 cũng	O+O
 có_mặt	O+O
 ở	O+O
@@ -49824,9 +49824,9 @@ của	O+O
 câu_chuyện	O+O
 thì	O+O
 vẫn	O+O
-"	O+O
+”	O+O
 bình_chân_như_vại	O+O
-"	O+O
+”	O+O
 .	O+O
 Cô	O+O
 không	O+O
@@ -49925,10 +49925,10 @@ người_tình	O+O
 từng	O+O
 đi	O+O
 qua_đời	O+O
-"	O+O
+”	O+O
 Nữ_hoàng	O+O
 giải_trí	O+O
-"	O+O
+”	O+O
 trước_đây	O+O
 toàn	O+O
 là	O+O
@@ -50009,9 +50009,9 @@ nhau	O+O
 .	O+O
 Thế_mà	O+O
 hai	O+O
-"	O+O
+”	O+O
 đương_sự	O+O
-"	O+O
+”	O+O
 vẫn	O+O
 cứ	O+O
 im_lặng	O+O
@@ -50084,9 +50084,9 @@ tình	O+O
 như	O+O
 một	O+O
 lời	O+O
-"	O+O
+”	O+O
 tri_ân	O+O
-"	O+O
+”	O+O
 cho	O+O
 người	O+O
 đàn_ông	O+O
@@ -50124,10 +50124,10 @@ Bởi_thế	O+O
 ,	O+O
 cái	O+O
 danh_hiệu	O+O
-"	O+O
+”	O+O
 Nữ_hoàng	O+O
 giải_trí	O+O
-"	O+O
+”	O+O
 của	O+O
 cô	O+O
 cứ	O+O
@@ -50172,15 +50172,15 @@ sao	O+O
 Hà_Hồ	B-PERSON+O
 yêu	O+O
 Kim_Lý	B-PERSON+O
-"	O+O
+”	O+O
 hai_năm_rõ_mười	O+O
-"	O+O
+”	O+O
 mà	O+O
 không	O+O
 chịu	O+O
 nhận	O+O
 ?	O+O
-"	O+O
+”	O+O
 Người	O+O
 khôn	O+O
 ăn_nói	O+O
@@ -50194,7 +50194,7 @@ nửa	O+O
 mừng	O+O
 nửa	O+O
 lo	O+O
-"	O+O
+”	O+O
 ,	O+O
 đâu	O+O
 phải	O+O
@@ -50364,9 +50364,9 @@ không	O+O
 biết	O+O
 sẽ	O+O
 còn	O+O
-"	O+O
+”	O+O
 nhây	O+O
-"	O+O
+”	O+O
 đến	O+O
 cỡ	O+O
 nào	O+O
@@ -50416,10 +50416,10 @@ nhạt	O+O
 biết_đâu	O+O
 khi	O+O
 ấy	O+O
-"	O+O
+”	O+O
 nàng	O+O
 cáo	O+O
-"	O+O
+”	O+O
 Hà_Hồ	B-PERSON+O
 lại	O+O
 cho	O+O
@@ -50449,9 +50449,9 @@ quăng	O+O
 đi	O+O
 hai	O+O
 từ	O+O
-"	O+O
+”	O+O
 nghi_vấn	O+O
-"	O+O
+”	O+O
 mà	O+O
 cho	O+O
 là	O+O
@@ -50466,10 +50466,10 @@ mệt_mỏi	O+O
 Đến	O+O
 khi	O+O
 nào	O+O
-"	O+O
+”	O+O
 chơi	O+O
 chiêu	O+O
-"	O+O
+”	O+O
 đủ	O+O
 rồi	O+O
 ,	O+O
@@ -50500,10 +50500,10 @@ Kim_Lý	B-PERSON+O
 những_ai	O+O
 ghét	O+O
 thì	O+O
-"	O+O
+”	O+O
 mài	O+O
 miệng	O+O
-"	O+O
+”	O+O
 sẵn	O+O
 tâm_thế	O+O
 ném	O+O
@@ -51284,15 +51284,15 @@ học_viên	O+O
 học	O+O
 với	O+O
 tư_tưởng	O+O
-"	O+O
+”	O+O
 khách_hàng	O+O
 là	O+O
 thượng_đế	O+O
-"	O+O
+”	O+O
 hoặc	O+O
 có	O+O
 suy_nghĩ	O+O
-"	O+O
+”	O+O
 tôi	O+O
 có	O+O
 tiền	O+O
@@ -51307,7 +51307,7 @@ anh	O+O
 không	O+O
 cần	O+O
 quan_tâm	O+O
-"	O+O
+”	O+O
 .	O+O
 Những	O+O
 trường_hợp	O+O
@@ -51729,9 +51729,9 @@ gọi	O+O
 tôi	O+O
 một	O+O
 tiếng	O+O
-"	O+O
+”	O+O
 Thầy	O+O
-"	O+O
+”	O+O
 là	O+O
 đủ	O+O
 .	O+O
@@ -54086,7 +54086,7 @@ số	O+O
 ”	O+O
 .	O+O
 
-"	O+O
+”	O+O
 Tuy_nhiên	O+O
 ,	O+O
 mình	O+O
@@ -54136,7 +54136,7 @@ thành	O+O
 số	O+O
 đẹp	O+O
 cũng_nên	O+O
-"	O+O
+”	O+O
 ,	O+O
 chủ	O+O
 trang	O+O
@@ -54709,7 +54709,7 @@ luôn	O+O
 con_cái	O+O
 .	O+O
 
-"	O+O
+”	O+O
 Con_cái	O+O
 trụ	O+O
 được	O+O
@@ -54727,7 +54727,7 @@ rắn	O+O
 ngấm	O+O
 vào	O+O
 máu	O+O
-"	O+O
+”	O+O
 ,	O+O
 người	O+O
 đăng_tải	O+O
@@ -55966,10 +55966,10 @@ hôm	O+O
 22.9	O+O
 .	O+O
 
-"	O+O
+”	O+O
 Mổ	O+O
 bụng	O+O
-"	O+O
+”	O+O
 iPhone	O+O
 8	O+O
 :	O+O
@@ -57610,9 +57610,9 @@ khả_năng	O+O
 siêu_phàm	O+O
 trong	O+O
 việc	O+O
-"	O+O
+”	O+O
 tiếp_thu	O+O
-"	O+O
+”	O+O
 từ	O+O
 các	O+O
 mẫu	O+O
@@ -59630,7 +59630,7 @@ bức	O+O
 đeo	O+O
 kính_râm	O+O
 .	O+O
-"	O+O
+”	O+O
 Vị_trí	O+O
 tương_đối	O+O
 của	O+O
@@ -59646,7 +59646,7 @@ thay_đổi	O+O
 khi	O+O
 người_lớn	O+O
 lên	O+O
-"	O+O
+”	O+O
 ,	O+O
 Nobuaki_Kawase	B-PERSON+O
 của	O+O
@@ -59746,11 +59746,11 @@ này	O+O
 sẽ	O+O
 cài_đặt	O+O
 3	O+O
-"	O+O
+”	O+O
 cổng	O+O
 nhận_diện	O+O
 khuôn_mặt	O+O
-"	O+O
+”	O+O
 tại	O+O
 khu	O+O
 kiểm_soát	O+O
@@ -60675,14 +60675,14 @@ liên_lạc	O+O
 với	O+O
 bạn_bè	O+O
 .	O+O
-"	O+O
+”	O+O
 Ứng_dụng	O+O
 liên_tục	O+O
 bị	O+O
 văng	O+O
 cực_kỳ	O+O
 khó_chịu	O+O
-"	O+O
+”	O+O
 ,	O+O
 Nguyễn_Minh_Tân	B-PERSON+O
 -	O+O
@@ -60746,9 +60746,9 @@ Những	O+O
 người	O+O
 dùng	O+O
 còn	O+O
-"	O+O
+”	O+O
 trung_thành	O+O
-"	O+O
+”	O+O
 với	O+O
 iOS	O+O
 9	O+O
@@ -60806,12 +60806,12 @@ nguồn	O+O
 màn_hình	O+O
 hiện	O+O
 chữ	O+O
-"	O+O
+”	O+O
 Slide	O+O
 to	O+O
 power	O+O
 off	O+O
-"	O+O
+”	O+O
 (	O+O
 trượt	O+O
 để	O+O
@@ -60936,9 +60936,9 @@ mạng	O+O
 xã_hội	O+O
 này	O+O
 đã	O+O
-"	O+O
+”	O+O
 sập	O+O
-"	O+O
+”	O+O
 trong	O+O
 thời_gian	O+O
 ngắn	O+O
@@ -61968,10 +61968,10 @@ camera	O+O
 Apple	B-ORGANIZATION+O
 còn	O+O
 một	O+O
-"	O+O
+”	O+O
 nhân_tố	O+O
 bí_ẩn	O+O
-"	O+O
+”	O+O
 iPhone	O+O
 X	O+O
 ,	O+O
@@ -62366,9 +62366,9 @@ thế_giới	O+O
 bên	O+O
 ngoài	O+O
 là	O+O
-"	O+O
+”	O+O
 ma_quỷ	O+O
-"	O+O
+”	O+O
 .	O+O
 (	O+O
 Nguồn	O+O
@@ -62890,7 +62890,7 @@ cô	O+O
 Lâm	B-PERSON+O
 .	O+O
 
-"	O+O
+”	O+O
 Dù	O+O
 thừa_nhận	O+O
 hành_vi	O+O
@@ -62923,7 +62923,7 @@ sữa	O+O
 thừa	O+O
 về	O+O
 uống	O+O
-"	O+O
+”	O+O
 ,	O+O
 cô	O+O
 Lâm	B-PERSON+O
@@ -63763,7 +63763,7 @@ thường	O+O
 dạy	O+O
 con_cháu	O+O
 rằng	O+O
-"	O+O
+”	O+O
 Chớ	O+O
 eo_xèo	O+O
 khi	O+O
@@ -63775,7 +63775,7 @@ hậm_hực	O+O
 lúc	O+O
 ăn	O+O
 cơm	O+O
-"	O+O
+”	O+O
 là	O+O
 nhắc_nhở	O+O
 phép_tắc	O+O
@@ -63810,10 +63810,10 @@ hình_ảnh	O+O
 và	O+O
 dòng	O+O
 trạng_thái	O+O
-"	O+O
+”	O+O
 đắng	O+O
 lòng	O+O
-"	O+O
+”	O+O
 của	O+O
 một	O+O
 thành_viên	O+O
@@ -63906,7 +63906,7 @@ nickname	O+O
 Tu_Dinh_Huong	B-PERSON+O
 chia_sẻ	O+O
 :	O+O
-"	O+O
+”	O+O
 trần_đời	O+O
 ai_oán	O+O
 mới	O+O
@@ -63947,7 +63947,7 @@ gì	O+O
 nốt	O+O
 cái	O+O
 đó	O+O
-"	O+O
+”	O+O
 .	O+O
 
 Bày_tỏ	O+O
@@ -63961,7 +63961,7 @@ thành_viên	O+O
 Pymini	B-PERSON+O
 tiếp_lời	O+O
 :	O+O
-"	O+O
+”	O+O
 Nhà	O+O
 mình	O+O
 mà	O+O
@@ -70847,9 +70847,9 @@ nhất	O+O
 
 Đôi_khi	O+O
 việc	O+O
-"	O+O
+”	O+O
 tia	O+O
-"	O+O
+”	O+O
 thấy	O+O
 một	O+O
 anh_chàng	O+O
@@ -72929,7 +72929,7 @@ bệnh	O+O
 tiểu_đường	O+O
 .	O+O
 
-"	O+O
+”	O+O
 Khói	O+O
 thuốc	O+O
 lần	O+O
@@ -73320,7 +73320,7 @@ nguy_cơ	O+O
 bị	O+O
 ô_nhiễm	O+O
 bởi	O+O
-"	O+O
+”	O+O
 khói	O+O
 thuốc	O+O
 lần	O+O
@@ -73648,12 +73648,12 @@ khi	O+O
 ai	O+O
 đó	O+O
 hỏi	O+O
-"	O+O
+”	O+O
 dạo	O+O
 này	O+O
 cậu	O+O
 thế_nào	O+O
-"	O+O
+”	O+O
 .	O+O
 Thừa_nhận	O+O
 rằng	O+O
@@ -73919,10 +73919,10 @@ khả_năng	O+O
 của	O+O
 bản_thân	O+O
 để	O+O
-"	O+O
+”	O+O
 lấy	O+O
 le	O+O
-"	O+O
+”	O+O
 với	O+O
 cánh	O+O
 chiến_hữu	O+O
@@ -74041,13 +74041,13 @@ là	O+O
 những	O+O
 chiêu	O+O
 trò	O+O
-"	O+O
+”	O+O
 quay_cóp	O+O
-"	O+O
+”	O+O
 ,	O+O
-"	O+O
+”	O+O
 Bad_Genius	O+O
-"	O+O
+”	O+O
 còn	O+O
 hướng_dẫn	O+O
 các	O+O
@@ -75264,7 +75264,7 @@ như	O+O
 người	O+O
 khoẻ_mạnh	O+O
 .	O+O
-"	O+O
+”	O+O
 Cháu	O+O
 biết	O+O
 tại_sao	O+O
@@ -75274,13 +75274,13 @@ mình	O+O
 nằm	O+O
 ở	O+O
 ngoài	O+O
-"	O+O
+”	O+O
 ,	O+O
 cô	O+O
 bé	O+O
 chia_sẻ	O+O
 .	O+O
-"	O+O
+”	O+O
 Đó	O+O
 là	O+O
 vì	O+O
@@ -75298,7 +75298,7 @@ những	O+O
 giống	O+O
 như	O+O
 cháu	O+O
-"	O+O
+”	O+O
 .	O+O
 
 Sau	O+O
@@ -75691,9 +75691,9 @@ vì_vậy	O+O
 bạn	O+O
 đừng	O+O
 nên	O+O
-"	O+O
+”	O+O
 bình_dân	O+O
-"	O+O
+”	O+O
 quá	O+O
 .	O+O
 Hãy	O+O
@@ -76058,10 +76058,10 @@ chúng_ta	O+O
 Những	O+O
 công_việc	O+O
 ,	O+O
-"	O+O
+”	O+O
 lối	O+O
 mòn	O+O
-"	O+O
+”	O+O
 hằng	O+O
 ngày	O+O
 làm	O+O
@@ -76070,9 +76070,9 @@ mối	O+O
 quan_hệ	O+O
 đi	O+O
 vào	O+O
-"	O+O
+”	O+O
 chiến_tranh_lạnh	O+O
-"	O+O
+”	O+O
 .	O+O
 Hãy	O+O
 thay_đổi	O+O
@@ -76126,10 +76126,10 @@ cố_gắng	O+O
 tạo	O+O
 bất_ngờ	O+O
 cho	O+O
-"	O+O
+”	O+O
 nửa	O+O
 kia	O+O
-"	O+O
+”	O+O
 .	O+O
 Không	O+O
 cần	O+O
@@ -76150,9 +76150,9 @@ có_thể	O+O
 vào	O+O
 ký_ức	O+O
 của	O+O
-"	O+O
+”	O+O
 đối_tác	O+O
-"	O+O
+”	O+O
 .	O+O
 
 Tình_yêu	O+O
@@ -76237,11 +76237,11 @@ thứ	O+O
 6	O+O
 là	O+O
 những	O+O
-"	O+O
+”	O+O
 chú	O+O
 ong	O+O
 chăm_chỉ	O+O
-"	O+O
+”	O+O
 của	O+O
 Nhật_Bản	B-LOCATION+O
 lại	O+O
@@ -76410,10 +76410,10 @@ bằng	O+O
 cái	O+O
 tên	O+O
 là	O+O
-"	O+O
+”	O+O
 salary	O+O
 man	O+O
-"	O+O
+”	O+O
 khi	O+O
 không_thể	O+O
 khước_từ	O+O
@@ -76472,13 +76472,13 @@ ngạc_nhiên	O+O
 nhất	O+O
 với	O+O
 văn_hoá	O+O
-"	O+O
+”	O+O
 uống	O+O
 vào	O+O
 chiều	O+O
 thứ	O+O
 6	O+O
-"	O+O
+”	O+O
 của	O+O
 người	B-MISCELLANEOUS+O
 Nhật	I-MISCELLANEOUS+O
@@ -76646,9 +76646,9 @@ Có_lẽ	O+O
 cách	O+O
 duy_nhất	O+O
 để	O+O
-"	O+O
+”	O+O
 phán_xử	O+O
-"	O+O
+”	O+O
 loại	O+O
 quả	O+O
 mọc	O+O
@@ -78502,7 +78502,7 @@ thai	O+O
 Tại	O+O
 hội_thảo	O+O
 chuyên_đề	O+O
-"	O+O
+”	O+O
 Tác_hại	O+O
 nghiêm_trọng	O+O
 của	O+O
@@ -78517,7 +78517,7 @@ sức_khoẻ	O+O
 thai_phụ	O+O
 và	O+O
 thai_nhi	O+O
-"	O+O
+”	O+O
 do	O+O
 Trung_tâm	B-ORGANIZATION+O
 Hỗ_trợ	I-ORGANIZATION+O
@@ -79116,7 +79116,7 @@ chim	O+O
 non	O+O
 ríu_ran	O+O
 :	O+O
-"	O+O
+”	O+O
 Bông	O+O
 hồng	O+O
 nở	O+O
@@ -79129,9 +79129,9 @@ màu	O+O
 đẹp	O+O
 quá	O+O
 !	O+O
-"	O+O
+”	O+O
 ;	O+O
-"	O+O
+”	O+O
 Rau	O+O
 cải	O+O
 của	O+O
@@ -79144,7 +79144,7 @@ mới	O+O
 chưa	O+O
 này	O+O
 …	O+O
-"	O+O
+”	O+O
 .	O+O
 Chứng_kiến	O+O
 niềm	O+O
@@ -79684,9 +79684,9 @@ và	O+O
 cống_hiến	O+O
 được	O+O
 chị	O+O
-"	O+O
+”	O+O
 bung	O+O
-"	O+O
+”	O+O
 hết	O+O
 khả_năng	O+O
 .	O+O
@@ -79857,7 +79857,7 @@ tâm_sự	O+O
 của	O+O
 chị	O+O
 :	O+O
-"	O+O
+”	O+O
 Thời_gian	O+O
 chỉ	O+O
 là	O+O
@@ -79922,7 +79922,7 @@ thêm	O+O
 yên_tâm	O+O
 công_tác	O+O
 ...	O+O
-"	O+O
+”	O+O
 .	O+O
 
 Chúng_tôi	O+O
@@ -80998,9 +80998,9 @@ và	O+O
 bán	O+O
 với	O+O
 giá	O+O
-"	O+O
+”	O+O
 tuỳ_tâm	O+O
-"	O+O
+”	O+O
 ,	O+O
 tức_là	O+O
 ai	O+O
@@ -81301,10 +81301,10 @@ bị	O+O
 phụ_huynh	O+O
 lên_án	O+O
 là	O+O
-"	O+O
+”	O+O
 moi	O+O
 tiền	O+O
-"	O+O
+”	O+O
 ”	O+O
 .	O+O
 
@@ -82730,7 +82730,7 @@ nào	O+O
 phát_biểu	O+O
 theo	O+O
 mô_típ	O+O
-"	O+O
+”	O+O
 đã	O+O
 bàn_bạc	O+O
 và	O+O
@@ -82739,7 +82739,7 @@ với	O+O
 các	O+O
 phụ_huynh	O+O
 khác	O+O
-"	O+O
+”	O+O
 ...	O+O
 
 Phụ_huynh	O+O
@@ -82827,9 +82827,9 @@ tự	O+O
 biến	O+O
 mình	O+O
 thành	O+O
-"	O+O
+”	O+O
 tay_sai	O+O
-"	O+O
+”	O+O
 của	O+O
 nhà_trường	O+O
 .	O+O
@@ -83587,7 +83587,7 @@ Quốc_hội	I-ORGANIZATION+O
 đã	O+O
 đề_nghị	O+O
 :	O+O
-"	O+O
+”	O+O
 Chính_phủ	O+O
 cần	O+O
 chỉ_đạo	O+O
@@ -83631,7 +83631,7 @@ vị_trí	O+O
 dễ	O+O
 phát_sinh	O+O
 tham_nhũng	O+O
-"	O+O
+”	O+O
 .	O+O
 
 Đề_nghị	O+O
@@ -84245,14 +84245,14 @@ trượt	O+O
 sao	O+O
 lại	O+O
 nói	O+O
-"	O+O
+”	O+O
 đạt	O+O
-"	O+O
+”	O+O
 ?	O+O
 Đã	O+O
-"	O+O
+”	O+O
 đạt	O+O
-"	O+O
+”	O+O
 sao	O+O
 còn	O+O
 phải	O+O
@@ -84350,9 +84350,9 @@ Vận_tải	I-ORGANIZATION+O
 Nguyễn_Xuân_Sang	B-PERSON+O
 được	O+O
 bổ_nhiệm	O+O
-"	O+O
+”	O+O
 thần_tốc	O+O
-"	O+O
+”	O+O
 từ	O+O
 Giám_đốc	O+O
 Cảng_vụ	O+B-ORGANIZATION
@@ -85260,7 +85260,7 @@ tư_thế	O+O
 tiêu_chuẩn	O+O
 .	O+O
 
-"	O+O
+”	O+O
 Huấn_luyện_viên	O+O
 sẽ	O+O
 biết	O+O
@@ -85280,7 +85280,7 @@ nào	O+O
 cũng	O+O
 có_thể	O+O
 dùng	O+O
-"	O+O
+”	O+O
 ,	O+O
 người	O+O
 đại_diện	O+O
@@ -85760,9 +85760,9 @@ có	O+O
 gần	O+O
 20	O+O
 khoản	O+O
-"	O+O
+”	O+O
 lạm_thu	O+O
-"	O+O
+”	O+O
 .	O+O
 Giải_trình	O+O
 về	O+O
@@ -86174,7 +86174,7 @@ lớp	O+O
 nộp	O+O
 ít	O+O
 hơn	O+O
-"	O+O
+”	O+O
 .	O+O
 
 Theo	O+O
@@ -86560,9 +86560,9 @@ nhà_trường	O+O
 đưa	O+O
 ra	O+O
 mức	O+O
-"	O+O
+”	O+O
 tự_nguyện	O+O
-"	O+O
+”	O+O
 là	O+O
 200.000	O+O
 đồng	O+O
@@ -86901,7 +86901,7 @@ và	O+O
 đào_tạo	O+O
 .	O+O
 
-"	O+O
+”	O+O
 Đặc_biệt	O+O
 có	O+O
 địa_phương	O+O
@@ -86937,7 +86937,7 @@ Thạch_Quý	I-LOCATION+I-ORGANIZATION
 ,	O+O
 thành_phố	B-LOCATION+O
 Hà_Tĩnh	I-LOCATION+O
-"	O+O
+”	O+O
 -	O+O
 ông	O+O
 Hiến	B-PERSON+O
@@ -87653,7 +87653,7 @@ không	O+O
 cao	O+O
 .	O+O
 
-"	O+O
+”	O+O
 Thời_điểm	O+O
 bổ_nhiệm	O+O
 tôi	O+O
@@ -87675,7 +87675,7 @@ bổ_nhiệm	O+O
 cán_bộ	O+O
 đủ	O+O
 chuẩn	O+O
-"	O+O
+”	O+O
 ,	O+O
 ông	O+O
 Vinh	B-PERSON+O
@@ -90242,7 +90242,7 @@ và	O+O
 giới	O+O
 truyền_thông	O+O
 :	O+O
-"	O+O
+”	O+O
 Lãnh_đạo	O+O
 Bộ	B-ORGANIZATION+O
 GD	I-ORGANIZATION+O
@@ -90303,7 +90303,7 @@ có	O+O
 giống	O+O
 nhau	O+O
 ?	O+O
-"	O+O
+”	O+O
 .	O+O
 
 Hội_thảo	O+O
@@ -90546,10 +90546,10 @@ lớn	O+O
 trong	O+O
 quan_điểm	O+O
 về	O+O
-"	O+O
+”	O+O
 chất_lượng	O+O
 giáo_dục	O+O
-"	O+O
+”	O+O
 giữa	O+O
 nhà_nước	O+O
 ,	O+O
@@ -90601,11 +90601,11 @@ quốc_gia	O+O
 ,	O+O
 các	O+O
 chỉ_tiêu	O+O
-"	O+O
+”	O+O
 được	O+O
 trên	O+O
 giao	O+O
-"	O+O
+”	O+O
 .	O+O
 
 Các	O+O
@@ -91715,7 +91715,7 @@ nắng	O+O
 gay_gắt	O+O
 .	O+O
 
-"	O+O
+”	O+O
 Người	O+O
 hướng_dẫn	O+O
 sẽ	O+O
@@ -91728,7 +91728,7 @@ có	O+O
 đủ	O+O
 chặt	O+O
 không	O+O
-"	O+O
+”	O+O
 ,	O+O
 Liu_Min	B-PERSON+O
 ,	O+O
@@ -91745,7 +91745,7 @@ này	O+O
 cho	O+O
 biết	O+O
 .	O+O
-"	O+O
+”	O+O
 Nhưng	O+O
 thời_gian	O+O
 phạt	O+O
@@ -91755,7 +91755,7 @@ không	O+O
 quá	O+O
 10	O+O
 phút	O+O
-"	O+O
+”	O+O
 cô	O+O
 nói	O+O
 thêm	O+O
@@ -91835,7 +91835,7 @@ sinh_viên	O+O
 tham_gia	O+O
 là	O+O
 để	O+O
-"	O+O
+”	O+O
 những	O+O
 sinh_viên	O+O
 vi_phạm	O+O
@@ -91856,10 +91856,10 @@ mọi	O+O
 người	O+O
 đi	O+O
 xuống	O+O
-"	O+O
+”	O+O
 .	O+O
 
-"	O+O
+”	O+O
 Chúng_tôi	O+O
 đã	O+O
 giảng_giải	O+O
@@ -91879,7 +91879,7 @@ không	O+O
 có	O+O
 gì	O+O
 thay_đổi	O+O
-"	O+O
+”	O+O
 ,	O+O
 Xie	B-PERSON+O
 cho	O+O
@@ -91899,7 +91899,7 @@ kéo_dài	O+O
 và	O+O
 nhiệt_độ	O+O
 ngoài_trời	O+O
-"	O+O
+”	O+O
 tương_đối	O+O
 tốt	O+O
 ,	O+O
@@ -91908,7 +91908,7 @@ dưới	O+O
 32	O+O
 độ	O+O
 C	O+O
-"	O+O
+”	O+O
 .	O+O
 
 Các	O+O
@@ -91941,19 +91941,19 @@ rằng	O+O
 ,	O+O
 hình_phạt	O+O
 là	O+O
-"	O+O
+”	O+O
 có_thể	O+O
 hiểu	O+O
 được	O+O
-"	O+O
+”	O+O
 vì	O+O
-"	O+O
+”	O+O
 có	O+O
 nhiều	O+O
 sinh_viên	O+O
 vô_kỷ_luật	O+O
 ,	O+O
-"	O+O
+”	O+O
 thì	O+O
 nhiều	O+O
 người	O+O
@@ -91964,19 +91964,19 @@ rằng	O+O
 hình_phạt	O+O
 này	O+O
 là	O+O
-"	O+O
+”	O+O
 mất	O+O
 nhân_tính	O+O
-"	O+O
+”	O+O
 và	O+O
 rằng	O+O
 các	O+O
 sinh_viên	O+O
 đã	O+O
 bị	O+O
-"	O+O
+”	O+O
 hạ_nhục	O+O
-"	O+O
+”	O+O
 .	O+O
 
 Những	O+O
@@ -91997,7 +91997,7 @@ tương_tự	O+O
 như_vậy	O+O
 .	O+O
 
-"	O+O
+”	O+O
 Nếu	O+O
 họ	O+O
 bị	O+O
@@ -92015,13 +92015,13 @@ tính_mạng	O+O
 sinh_viên	O+O
 vào	O+O
 nguy_hiểm	O+O
-"	O+O
+”	O+O
 ,	O+O
 Qiyangxiangrikui	B-PERSON+O
 viết	O+O
 .	O+O
 
-"	O+O
+”	O+O
 Thật	O+O
 may	O+O
 vì	O+O
@@ -92034,13 +92034,13 @@ những	O+O
 người	O+O
 hướng_dẫn	O+O
 như_vậy	O+O
-"	O+O
+”	O+O
 ,	O+O
 Mengzhia	B-PERSON+O
 viết	O+O
 .	O+O
 
-"	O+O
+”	O+O
 Trường	O+O
 cao_đẳng	O+O
 này	O+O
@@ -92065,13 +92065,13 @@ tổn_thương	O+O
 tới	O+O
 tinh_thần	O+O
 sinh_viên	O+O
-"	O+O
+”	O+O
 ,	O+O
 Yihengxinli	B-PERSON+O
 chia_sẻ	O+O
 .	O+O
 
-"	O+O
+”	O+O
 Hình_phạt	O+O
 này	O+O
 có_thể	O+O
@@ -92089,7 +92089,7 @@ nhiều	O+O
 so	O+O
 với	O+O
 nhà_trường	O+O
-"	O+O
+”	O+O
 ,	O+O
 Weini-momo	B-PERSON+O
 viết	O+O
@@ -92121,7 +92121,7 @@ tự_tin	O+O
 của	O+O
 sinh_viên	O+O
 .	O+O
-"	O+O
+”	O+O
 Chúng_ta	O+O
 là	O+O
 những	O+O
@@ -92135,7 +92135,7 @@ quy_tắc	O+O
 giáo_dục	O+O
 lên	O+O
 hàng_đầu	O+O
-"	O+O
+”	O+O
 ,	O+O
 Yang	B-PERSON+O
 khẳng_định	O+O
@@ -92210,9 +92210,9 @@ khiến	O+O
 không	O+O
 ít	O+O
 người	O+O
-"	O+O
+”	O+O
 choáng_váng	O+O
-"	O+O
+”	O+O
 .	O+O
 
 Linh_Anh	B-PERSON+O
@@ -93196,12 +93196,12 @@ triệu	O+O
 đồng	O+O
 
 Dự_thảo	O+O
-"	O+O
+”	O+O
 Công_trình	O+O
 Hội	O+O
 cha_mẹ	O+O
 học_sinh	O+O
-"	O+O
+”	O+O
 năm	O+O
 2017-2018	O+O
 của	O+O
@@ -94055,7 +94055,7 @@ Cô_giáo	O+O
 Trương_Thị_Hạnh	B-PERSON+O
 chia_sẻ	O+O
 :	O+O
-"	O+O
+”	O+O
 Với	O+O
 đặc_thù	O+O
 của	O+O
@@ -94114,7 +94114,7 @@ vui_chơi	O+O
 ,	O+O
 học_tập	O+O
 bình_thường	O+O
-"	O+O
+”	O+O
 .	O+O
 
 Những	O+O
@@ -96497,9 +96497,9 @@ các	O+O
 yếu_tố	O+O
 cấu_thành	O+O
 tội	O+O
-"	O+O
+”	O+O
 Tham_ô	O+O
-"	O+O
+”	O+O
 của	O+O
 Nguyễn_Xuân_Sơn	B-PERSON+O
 không	O+O
@@ -96516,9 +96516,9 @@ xem_xét	O+O
 Nguyễn_Xuân_Sơn	B-PERSON+O
 về	O+O
 tội	O+O
-"	O+O
+”	O+O
 Tham_ô	O+O
-"	O+O
+”	O+O
 và	O+O
 đề_nghị	O+O
 trả	O+O
@@ -98231,9 +98231,9 @@ Trung_Quốc	B-LOCATION+O
 một	O+O
 người	O+O
 đàn_ông	O+O
-"	O+O
+”	O+O
 khốn_khổ	O+O
-"	O+O
+”	O+O
 đã	O+O
 nghĩ	O+O
 ra	O+O
@@ -98253,9 +98253,9 @@ lên	O+O
 mình	O+O
 ,	O+O
 diễn	O+O
-"	O+O
+”	O+O
 khổ_nhục_kế	O+O
-"	O+O
+”	O+O
 .	O+O
 
 Sau	O+O
@@ -100063,13 +100063,13 @@ liên_quan	O+O
 đến	O+O
 bài	O+O
 viết	O+O
-"	O+O
+”	O+O
 Người	O+O
 lạ	O+O
 bên	O+O
 chốt	O+O
 giao_thông	O+O
-"	O+O
+”	O+O
 mà	O+O
 Báo	B-ORGANIZATION+O
 Người	I-ORGANIZATION+O
@@ -100088,10 +100088,10 @@ xác_minh	O+O
 Lý_giải	O+O
 về	O+O
 hiện_tượng	O+O
-"	O+O
+”	O+O
 người	O+O
 lạ	O+O
-"	O+O
+”	O+O
 theo	O+O
 chân	O+O
 CSGT	O+O
@@ -100189,7 +100189,7 @@ liên_hệ	O+O
 chở	O+O
 về	O+O
 .	O+O
-"	O+O
+”	O+O
 Việc	O+O
 người_dân	O+O
 xuất_hiện	O+O
@@ -100209,17 +100209,17 @@ phép	O+O
 quay_phim	O+O
 ,	O+O
 ghi_hình	O+O
-"	O+O
+”	O+O
 -	O+O
 ông	O+O
 Phong	B-PERSON+O
 khẳng_định	O+O
 .	O+O
 
-"	O+O
+”	O+O
 Người	O+O
 lạ	O+O
-"	O+O
+”	O+O
 được	O+O
 cho	O+O
 là	O+O
@@ -100255,7 +100255,7 @@ trung_tá	O+O
 Phong	B-PERSON+O
 nói	O+O
 :	O+O
-"	O+O
+”	O+O
 Chúng_tôi	O+O
 không	O+O
 loạt	O+O
@@ -100296,15 +100296,15 @@ thì	O+O
 sẽ	O+O
 xử_lý	O+O
 nghiêm	O+O
-"	O+O
+”	O+O
 .	O+O
 
 Về	O+O
 bài	O+O
 viết	O+O
-"	O+O
+”	O+O
 mãi_lộ	O+O
-"	O+O
+”	O+O
 ở	O+O
 cửa_ngõ	O+O
 Tân_Sơn_Nhất	B-LOCATION+O
@@ -100388,7 +100388,7 @@ có	O+O
 kết_quả	O+O
 .	O+O
 
-"	O+O
+”	O+O
 Khi	O+O
 tiếp_nhận	O+O
 thông_tin	O+O
@@ -100406,7 +100406,7 @@ sự	O+O
 tiếc_nuối	O+O
 và	O+O
 trăn_trở	O+O
-"	O+O
+”	O+O
 -	O+O
 ông	O+O
 Phong	B-PERSON+O
@@ -103998,13 +103998,13 @@ HCM	I-LOCATION+O
 về	O+O
 các	O+O
 tội	O+O
-"	O+O
+”	O+O
 Lừa_đảo	O+O
 chiếm_đoạt	O+O
 tài_sản	O+O
-"	O+O
+”	O+O
 và	O+O
-"	O+O
+”	O+O
 Làm	O+O
 giả	O+O
 con_dấu	O+O
@@ -104014,7 +104014,7 @@ của	O+O
 cơ_quan	O+O
 ,	O+O
 tổ_chức	O+O
-"	O+O
+”	O+O
 .	O+O
 
 Tại	O+O
@@ -104747,7 +104747,7 @@ rừng	O+O
 Phong_Nha	B-LOCATION+O
 –	I-LOCATION+O
 Kẻ_Bàng	I-LOCATION+O
-"	O+O
+”	O+O
 -	O+O
 ông	O+O
 Lê_Thanh_Tịnh	B-PERSON+O
@@ -105495,7 +105495,7 @@ HCM	I-LOCATION+I-ORGANIZATION
 )	O+O
 phát_biểu	O+O
 :	O+O
-"	O+O
+”	O+O
 Chúng_tôi	O+O
 đã	O+O
 cố_gắng	O+O
@@ -105517,7 +105517,7 @@ vừa_qua	O+O
 ,	O+O
 thực_sự	O+O
 tiếc_nuối	O+O
-"	O+O
+”	O+O
 .	O+O
 
 Trung_uý	O+O
@@ -105525,9 +105525,9 @@ CSGT	O+O
 giấu	O+O
 biển	O+O
 tên	O+O
-"	O+O
+”	O+O
 làm_luật	O+O
-"	O+O
+”	O+O
 người	O+O
 vi_phạm	O+O
 .	O+O
@@ -105597,7 +105597,7 @@ HCM	I-LOCATION+I-ORGANIZATION
 )	O+O
 phát_biểu	O+O
 :	O+O
-"	O+O
+”	O+O
 Chúng_tôi	O+O
 đã	O+O
 cố_gắng	O+O
@@ -105619,7 +105619,7 @@ vừa_qua	O+O
 ,	O+O
 thực_sự	O+O
 tiếc_nuối	O+O
-"	O+O
+”	O+O
 .	O+O
 
 Theo	O+O
@@ -105929,7 +105929,7 @@ làm_việc	O+O
 Phong	B-PERSON+O
 chia_sẻ	O+O
 :	O+O
-"	O+O
+”	O+O
 Vụ_việc	O+O
 này	O+O
 chúng_tôi	O+O
@@ -105946,7 +105946,7 @@ thực_trạng	O+O
 diễn	O+O
 ra	O+O
 như_thế_nào	O+O
-"	O+O
+”	O+O
 .	O+O
 
 Về	O+O
@@ -106277,7 +106277,7 @@ Phong	B-PERSON+O
 nói	O+O
 tiếp	O+O
 :	O+O
-"	O+O
+”	O+O
 Chúng_tôi	O+O
 nói_thẳng	O+O
 và	O+O
@@ -106310,7 +106310,7 @@ những	O+O
 người	O+O
 CSGT	O+O
 biết	O+O
-"	O+O
+”	O+O
 .	O+O
 
 Theo	O+O
@@ -111774,7 +111774,7 @@ huyện	B-LOCATION+I-ORGANIZATION
 Hoằng_Hoá	I-LOCATION+I-ORGANIZATION
 lí_giải	O+O
 :	O+O
-"	O+O
+”	O+O
 Đây	O+O
 mới	O+O
 là	O+O
@@ -114101,10 +114101,10 @@ không	O+O
 để	O+O
 báo_chí	O+O
 trở_thành	O+O
-"	O+O
+”	O+O
 công_cụ	O+O
 đánh_đấm	O+O
-"	O+O
+”	O+O
 ;	O+O
 không	O+O
 để	O+O
@@ -115933,7 +115933,7 @@ các	O+O
 giống	O+O
 loài	O+O
 hoang_dã	O+O
-"	O+O
+”	O+O
 ,	O+O
 đại_diện	O+O
 Traffic	B-ORGANIZATION+O
@@ -118403,11 +118403,11 @@ Vũ_Hồng_Việt	B-PERSON+O
 đã	O+O
 dễ_dàng	O+O
 tạo	O+O
-"	O+O
+”	O+O
 mưa	O+O
 bàn	O+O
 thắng	O+O
-"	O+O
+”	O+O
 vào	O+O
 lưới	O+O
 U16	O+B-ORGANIZATION
@@ -119531,10 +119531,10 @@ là	O+O
 vũ_khí	O+O
 lợi_hại	O+O
 của	O+O
-"	O+O
+”	O+O
 Người	O+O
 đặc_biệt	O+O
-"	O+O
+”	O+O
 .	O+O
 
 Thắng_Mông_Cổ	O+O
@@ -119921,9 +119921,9 @@ Vũ_Hồng_Việt	B-PERSON+O
 sẽ	O+O
 có	O+O
 trận	O+O
-"	O+O
+”	O+O
 chung_kết	O+O
-"	O+O
+”	O+O
 bảng	O+O
 với	O+O
 Australia	B-LOCATION+O
@@ -120135,10 +120135,10 @@ Vũ_Hồng_Việt	B-PERSON+O
 sẽ	O+O
 có	O+O
 trận	O+O
-"	O+O
+”	O+O
 chung_kết	O+O
 bảng	O+O
-"	O+O
+”	O+O
 với	O+O
 U16	O+B-ORGANIZATION
 Australia	B-LOCATION+I-ORGANIZATION
@@ -121676,9 +121676,9 @@ gặp	O+O
 Australia	B-LOCATION+O
 ở	O+O
 trận	O+O
-"	O+O
+”	O+O
 chung_kết	O+O
-"	O+O
+”	O+O
 bảng	O+O
 I	O+O
 -	O+O
@@ -122656,7 +122656,7 @@ Isco	B-PERSON+O
 nói	O+O
 rằng	O+O
 :	O+O
-"	O+O
+”	O+O
 Nếu	O+O
 chúng_tôi	O+O
 không_thể	O+O
@@ -122670,7 +122670,7 @@ sự	O+O
 hoang_mang	O+O
 bắt_đầu	O+O
 xâm_chiếm	O+O
-"	O+O
+”	O+O
 .	O+O
 Điều	O+O
 này	O+O
@@ -123118,7 +123118,7 @@ Wu_Xiaohui	B-PERSON+O
 cho	O+O
 biết	O+O
 :	O+O
-"	O+O
+”	O+O
 Mục_đích	O+O
 của	O+O
 chúng_tôi	O+O
@@ -123819,9 +123819,9 @@ còn	O+O
 biết	O+O
 đến	O+O
 là	O+O
-"	O+O
+”	O+O
 mắt_thần	O+O
-"	O+O
+”	O+O
 sẽ	O+O
 được	O+O
 BTC	O+O
@@ -124257,7 +124257,7 @@ là	O+O
 một	O+O
 tài_năng	O+O
 xuất_sắc	O+O
-"	O+O
+”	O+O
 ,	O+O
 Pearce	B-PERSON+O
 phát_biểu	O+O
@@ -124308,7 +124308,7 @@ siêu_sao	O+O
 ”	O+O
 .	O+O
 
-"	O+O
+”	O+O
 Tôi	O+O
 cũng	O+O
 hơi	O+O
@@ -124343,7 +124343,7 @@ mình	O+O
 ”	O+O
 .	O+O
 
-"	O+O
+”	O+O
 Cậu	O+O
 ấy	O+O
 là	O+O
@@ -124903,7 +124903,7 @@ kim	I-PERSON+O
 cho	O+O
 biết	O+O
 :	O+O
-"	O+O
+”	O+O
 Taekwondo	O+O
 mấy	O+O
 ngày	O+O
@@ -124928,7 +124928,7 @@ hài_lòng	O+O
 cho	O+O
 người	O+O
 hâm_mộ	O+O
-"	O+O
+”	O+O
 .	O+O
 
 Quyền	O+O
@@ -127535,7 +127535,7 @@ mình	O+O
 hôm	O+O
 20-9	O+O
 do	O+O
-"	O+O
+”	O+O
 hành_xử	O+O
 thiếu	O+O
 chuẩn_mực	O+O
@@ -127543,7 +127543,7 @@ chuẩn_mực	O+O
 không_thể	O+O
 chấp_nhận	O+O
 được	O+O
-"	O+O
+”	O+O
 đối_với	O+O
 các	O+O
 cầu_thủ	O+O
@@ -127599,9 +127599,9 @@ cách	O+O
 ém_nhẹm	O+O
 thông_qua	O+O
 kết_luận	O+O
-"	O+O
+”	O+O
 vô_tội	O+O
-"	O+O
+”	O+O
 của	O+O
 Tiểu_ban	O+O
 Kỷ_luật	O+O
@@ -127724,7 +127724,7 @@ này	O+O
 đã	O+O
 khuyến_cáo	O+O
 cô	O+O
-"	O+O
+”	O+O
 cần	O+O
 bảo_đảm	O+O
 những	O+O
@@ -127740,7 +127740,7 @@ Ebola	O+O
 đến	O+O
 sân	B-LOCATION+O
 Wembley	I-LOCATION+O
-"	O+O
+”	O+O
 ,	O+O
 có	O+O
 đồng_đội	O+O
@@ -127762,7 +127762,7 @@ mặt	O+O
 toàn	O+O
 đội	O+O
 :	O+O
-"	O+O
+”	O+O
 Kết_quả	O+O
 kiểm_tra	O+O
 thể_lực	O+O
@@ -127780,7 +127780,7 @@ giường	O+O
 chiếu	O+O
 quá	O+O
 !	O+O
-"	O+O
+”	O+O
 Hay	O+O
 khi	O+O
 Aluko	B-PERSON+O
@@ -127819,9 +127819,9 @@ Anh	B-LOCATION+O
 phanh_phui	O+O
 việc	O+O
 FA	B-ORGANIZATION+O
-"	O+O
+”	O+O
 dúi	O+O
-"	O+O
+”	O+O
 cho	O+O
 Eni_Aluko	B-PERSON+O
 80.000	O+O
@@ -127937,10 +127937,10 @@ Phải_chăng	O+O
 bà	O+O
 bộ_trưởng	O+O
 đang	O+O
-"	O+O
+”	O+O
 nhắc	O+O
 khéo	O+O
-"	O+O
+”	O+O
 việc	O+O
 HLV	O+O
 đội_tuyển	O+O

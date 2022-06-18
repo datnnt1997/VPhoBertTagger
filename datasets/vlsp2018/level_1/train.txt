@@ -2833,7 +2833,7 @@ A_+	O
 với	O
 cảnh_báo	O
 rằng	O
-"	O
+”	O
 một	O
 giai_đoạn	O
 tăng_trưởng	O
@@ -2848,7 +2848,7 @@ và	O
 tài_chính	O
 của	O
 Trung_Quốc	B-LOCATION
-"	O
+”	O
 .	O
 
 Động_thái	O
@@ -3003,7 +3003,7 @@ Capital_Economics	B-ORGANIZATION
 ,	O
 nói	O
 :	O
-"	O
+”	O
 Chuyện	O
 này	O
 không	O
@@ -3049,7 +3049,7 @@ P	I-ORGANIZATION
 vẫn	O
 cho	O
 rằng	O
-"	O
+”	O
 tăng_trưởng	O
 tín_dụng	O
 trong	O
@@ -3066,7 +3066,7 @@ làm	O
 tăng	O
 rủi_ro	O
 tài_chính	O
-"	O
+”	O
 .	O
 
 Việc	O
@@ -3081,7 +3081,7 @@ Trung_Quốc	B-LOCATION
 vào	O
 lúc	O
 này	O
-"	O
+”	O
 đã	O
 gây	O
 lúng_túng	O
@@ -3098,7 +3098,7 @@ thềm	O
 vào	O
 tháng	O
 tới	O
-"	O
+”	O
 ,	O
 Williams	B-PERSON
 nói	O
@@ -3129,10 +3129,10 @@ của	O
 cơ_quan	O
 này	O
 là	O
-"	O
+”	O
 không	O
 thích_hợp	O
-"	O
+”	O
 .	O
 
 Hôm	O
@@ -3156,10 +3156,10 @@ nước	O
 này	O
 là	O
 một	O
-"	O
+”	O
 quyết_định	O
 sai_lầm	O
-"	O
+”	O
 ,	O
 và	O
 cho	O
@@ -3168,7 +3168,7 @@ rằng	O
 là	O
 kết_quả	O
 từ	O
-"	O
+”	O
 sự	O
 hiểu	O
 lầm	O
@@ -3185,7 +3185,7 @@ của	O
 các	O
 nước	O
 phát_triển	O
-"	O
+”	O
 .	O
 
 Mặc_dù	O
@@ -3223,7 +3223,7 @@ với	O
 dự_đoán	O
 rằng	O
 Trung_Quốc	B-LOCATION
-"	O
+”	O
 sẽ	O
 duy_trì	O
 được	O
@@ -3235,7 +3235,7 @@ vòng	O
 3-4	O
 năm	O
 tới	O
-"	O
+”	O
 .	O
 
 Nguồn	O
@@ -5346,9 +5346,9 @@ trong	O
 72	O
 dự_án	O
 được	O
-"	O
+”	O
 điểm_danh	O
-"	O
+”	O
 có	O
 cả	O
 những	O
@@ -5411,9 +5411,9 @@ VINASAT	O
 nằm	O
 trong	O
 danh_sách	O
-"	O
+”	O
 đen	O
-"	O
+”	O
 vì	O
 tổng	O
 mức	O
@@ -5532,9 +5532,9 @@ hạ_tầng	O
 đứng	O
 đầu	O
 danh_sách	O
-"	O
+”	O
 đen	O
-"	O
+”	O
 khi	O
 chỉ	O
 có	O
@@ -5796,9 +5796,9 @@ chưa	O
 đủ	O
 mạnh	O
 để	O
-"	O
+”	O
 cứu	O
-"	O
+”	O
 hàng	O
 chục	O
 ngàn	O
@@ -5892,22 +5892,22 @@ là	O
 ,	O
 không	O
 nên	O
-"	O
+”	O
 đắp	O
 chiếu	O
-"	O
+”	O
 chờ	O
-"	O
+”	O
 cứu	O
-"	O
+”	O
 để	O
-"	O
+”	O
 lãi	O
 mẹ	O
 đẻ	O
 lãi	O
 con	O
-"	O
+”	O
 khiến	O
 tình_hình	O
 tài_chính	O
@@ -5981,7 +5981,7 @@ có	O
 hay	O
 không	O
 .	O
-"	O
+”	O
 Tình_hình	O
 kinh_tế	O
 Việt_Nam	B-LOCATION
@@ -6062,7 +6062,7 @@ thoả_đáng	O
 đối_với	O
 đầu_tư	O
 công	O
-"	O
+”	O
 -	O
 TS	O
 Lê_Đăng_Doanh	B-PERSON
@@ -8603,10 +8603,10 @@ này	O
 được	O
 thúc_đẩy	O
 bởi	O
-"	O
+”	O
 bão	O
 tín_dụng	O
-"	O
+”	O
 .	O
 S	B-ORGANIZATION
 &	I-ORGANIZATION
@@ -8651,7 +8651,7 @@ tăng_trưởng	O
 dài_hạn	O
 .	O
 
-"	O
+”	O
 Thời_kỳ	O
 tăng_trưởng	O
 tín_dụng	O
@@ -8697,8 +8697,8 @@ một	O
 mức_độ	O
 nào	O
 đó	O
-"	O
-"	O
+”	O
+”	O
 ,	O
 S	B-ORGANIZATION
 &	I-ORGANIZATION
@@ -8748,10 +8748,10 @@ khi	O
 đạt	O
 đến	O
 giai_đoạn	O
-"	O
+”	O
 mãn	O
 phát_triển	O
-"	O
+”	O
 và	O
 tăng_trưởng	O
 chậm	O
@@ -9256,7 +9256,7 @@ thương_lái	O
 kim_loại_màu	O
 cho	O
 biết	O
-"	O
+”	O
 Một_số	O
 lô	O
 hàng	O
@@ -9270,7 +9270,7 @@ bị	O
 trả	O
 lại	O
 Nhật_Bản	B-LOCATION
-"	O
+”	O
 .	O
 
 Các	O
@@ -9547,10 +9547,10 @@ nhưng	O
 cuộc_sống	O
 trước_kia	O
 của	O
-"	O
+”	O
 nữ_hoàng	O
 truyền_thông	O
-"	O
+”	O
 lại	O
 chẳng	O
 hề	O
@@ -9625,14 +9625,14 @@ talk	O
 show	O
 “	O
 People_Are_Talking	O
-"	O
+”	O
 .	O
 Sau	O
 đó	O
 là	O
 “	O
 The_Oprah_Winfrey_Show	B-MISCELLANEOUS
-"	O
+”	O
 được	O
 chiếu	O
 rộng_rãi	O
@@ -9646,9 +9646,9 @@ năm	O
 .	O
 
 Trong	O
-"	O
+”	O
 The_Oprah_Winfrey_Show	B-MISCELLANEOUS
-"	O
+”	O
 năm	O
 2011	O
 ,	O
@@ -9729,11 +9729,11 @@ café	O
 này	O
 vươn_mình	O
 thành	O
-"	O
+”	O
 gã	O
 khổng	O
 lồ	O
-"	O
+”	O
 với	O
 23.000	O
 cửa_hàng	O
@@ -10343,9 +10343,9 @@ làm	O
 Khởi_nghiệp	O
 thương_mại_điện_tử	O
 dễ	O
-"	O
+”	O
 khai_tử	O
-"	O
+”	O
 nếu	O
 đánh	O
 mất	O
@@ -10890,9 +10890,9 @@ Như_thế	O
 sẽ	O
 rất	O
 dễ	O
-"	O
+”	O
 khai_tử	O
-"	O
+”	O
 ,	O
 việc	O
 kinh_doanh	O
@@ -10977,7 +10977,7 @@ tuyển_dụng	O
 cô	O
 .	O
 
-"	O
+”	O
 Anh	O
 ta	O
 nói	O
@@ -11006,7 +11006,7 @@ bạn	O
 giỏi	O
 toán	O
 '	O
-"	O
+”	O
 ,	O
 Zhang	B-PERSON
 nhớ	O
@@ -11018,7 +11018,7 @@ phỏng_vấn	O
 gần	O
 đây	O
 .	O
-"	O
+”	O
 Thật	O
 quá	O
 choáng_váng	O
@@ -11033,7 +11033,7 @@ bị	O
 đơ	O
 '	O
 luôn	O
-"	O
+”	O
 .	O
 
 Cuộc	O
@@ -11091,7 +11091,7 @@ thôi_việc	O
 Zhang	B-PERSON
 nói	O
 :	O
-"	O
+”	O
 Tôi	O
 không	O
 thấy	O
@@ -11147,7 +11147,7 @@ lại	O
 ra	O
 đi	O
 '	O
-"	O
+”	O
 .	O
 
 Zhang	B-PERSON
@@ -11173,10 +11173,10 @@ tranh_luận	O
 rộng	O
 khắp	O
 về	O
-"	O
+”	O
 sáng_kiến	O
 đa_dạng	O
-"	O
+”	O
 gây	O
 tranh_cãi	O
 ,	O
@@ -11277,15 +11277,15 @@ nhằm	O
 dăn	O
 đe	O
 và	O
-"	O
+”	O
 xoa_dịu	O
-"	O
+”	O
 những	O
 lời	O
-"	O
+”	O
 dèm	O
 pha	O
-"	O
+”	O
 ,	O
 nhiều	O
 cựu	O
@@ -11351,7 +11351,7 @@ giống	O
 mình	O
 .	O
 
-"	O
+”	O
 Google	B-ORGANIZATION
 –	O
 nơi	O
@@ -11386,7 +11386,7 @@ bắt_chước	O
 được	O
 như	O
 Google	B-ORGANIZATION
-"	O
+”	O
 ,	O
 Zhang	B-PERSON
 ,	O
@@ -11401,7 +11401,7 @@ Spotify	O
 cho	O
 biết	O
 .	O
-"	O
+”	O
 Sự_thật	O
 là	O
 thước_đo	O
@@ -11417,7 +11417,7 @@ cho	O
 toàn_bộ	O
 nền	O
 công_nghiệp	O
-"	O
+”	O
 .	O
 
 Trong	O
@@ -11486,16 +11486,16 @@ phụ_nữ	O
 có	O
 tỷ_lệ	O
 mắc	O
-"	O
+”	O
 rối_loạn	O
 thần_kinh	O
-"	O
+”	O
 và	O
 có	O
-"	O
+”	O
 tính_cách	O
 dễ_chịu	O
-"	O
+”	O
 cao	O
 lại	O
 khiến	O
@@ -11679,7 +11679,7 @@ một	O
 cuộc	O
 phỏng_vấn	O
 :	O
-"	O
+”	O
 Thay_đổi	O
 cần	O
 có	O
@@ -11710,7 +11710,7 @@ họ	O
 muốn	O
 ở	O
 lại	O
-"	O
+”	O
 .	O
 
 Một	O
@@ -11758,12 +11758,12 @@ vì	O
 sợ	O
 bị	O
 Google	B-ORGANIZATION
-"	O
+”	O
 trả_đũa	O
-"	O
+”	O
 cho_hay	O
 :	O
-"	O
+”	O
 Tôi	O
 cảm_thấy	O
 mình	O
@@ -11778,7 +11778,7 @@ muốn	O
 tôi	O
 thuộc	O
 về	O
-"	O
+”	O
 .	O
 
 Cựu	O
@@ -11847,9 +11847,9 @@ và	O
 ngay_lập_tức	O
 cảm_thấy	O
 bị	O
-"	O
+”	O
 cô_lập	O
-"	O
+”	O
 tại	O
 nơi	O
 làm_việc	O
@@ -11939,7 +11939,7 @@ những	O
 người	O
 da_màu	O
 :	O
-"	O
+”	O
 Họ	O
 không	O
 thích	O
@@ -11959,7 +11959,7 @@ là	O
 vai_trò	O
 của	O
 bạn	O
-"	O
+”	O
 .	O
 
 Cựu	O
@@ -11997,9 +11997,9 @@ rằng	O
 một	O
 ứng_viên	O
 thiếu	O
-"	O
+”	O
 Googliness	O
-"	O
+”	O
 ,	O
 có	O
 nghĩa	O
@@ -12016,7 +12016,7 @@ với	O
 văn_hoá	O
 công_ty	O
 .	O
-"	O
+”	O
 Như_thể	O
 chúng_tôi	O
 đang	O
@@ -12045,10 +12045,10 @@ khả_năng	O
 về	O
 trình_độ	O
 văn_hoá	O
-"	O
+”	O
 .	O
 
-"	O
+”	O
 Khi	O
 bạn	O
 lên_tiếng	O
@@ -12058,12 +12058,12 @@ sẽ	O
 bị	O
 ảnh_hưởng	O
 tiêu_cực	O
-"	O
+”	O
 ,	O
 cô	O
 nói	O
 .	O
-"	O
+”	O
 Nó	O
 gần	O
 giống	O
@@ -12079,7 +12079,7 @@ và	O
 của	O
 mình	O
 vậy	O
-"	O
+”	O
 .	O
 
 Zhang	B-PERSON
@@ -12112,20 +12112,20 @@ cô	O
 rất	O
 thích	O
 phương_châm	O
-"	O
+”	O
 đừng	O
 trở_thành	O
 kẻ	O
 ác	O
-"	O
+”	O
 và	O
 danh_tiếng	O
-"	O
+”	O
 tiến_bộ	O
 về	O
 mặt	O
 chính_trị	O
-"	O
+”	O
 của	O
 công_ty	O
 nhờ	O
@@ -12135,12 +12135,12 @@ công_nghệ	O
 để	O
 cải_thiện	O
 thế_giới	O
-"	O
+”	O
 ,	O
 cô	O
 nói	O
 .	O
-"	O
+”	O
 Mọi	O
 người	O
 đều	O
@@ -12148,7 +12148,7 @@ muốn	O
 làm_việc	O
 tại	O
 Google	B-ORGANIZATION
-"	O
+”	O
 .	O
 
 Mặc_dù	O
@@ -12161,9 +12161,9 @@ nhưng	O
 lại	O
 nhanh_chóng	O
 cảm_thấy	O
-"	O
+”	O
 cả_thèm_chóng_chán	O
-"	O
+”	O
 và	O
 không	O
 được	O
@@ -12234,7 +12234,7 @@ cuộc	O
 thảo_luận	O
 .	O
 
-"	O
+”	O
 Chính	O
 những	O
 hành_động	O
@@ -12260,7 +12260,7 @@ bạn	O
 khiến	O
 bạn	O
 nản_lòng	O
-"	O
+”	O
 ,	O
 Zhang	B-PERSON
 nói	O
@@ -12269,7 +12269,7 @@ nói	O
 Zhang	B-PERSON
 chia_sẻ	O
 :	O
-"	O
+”	O
 Văn_hoá	O
 tại	O
 Google	B-ORGANIZATION
@@ -12303,10 +12303,10 @@ thật	O
 chăm_chỉ	O
 và	O
 cống_hiến	O
-"	O
+”	O
 .	O
 
-"	O
+”	O
 Người	O
 ta	O
 tin	O
@@ -12326,12 +12326,12 @@ tồn_tại	O
 ở	O
 Google	B-ORGANIZATION
 '	O
-"	O
+”	O
 ,	O
 cô	O
 nói	O
 .	O
-"	O
+”	O
 Chỉ	O
 bởi	O
 cấp	O
@@ -12354,14 +12354,14 @@ họ	O
 không	O
 phân_biệt	O
 chủng_tộc	O
-"	O
+”	O
 .	O
 
 Zhang	B-PERSON
 nói	O
 thêm	O
 :	O
-"	O
+”	O
 Họ	O
 quan_tâm	O
 đến	O
@@ -12385,7 +12385,7 @@ phân_biệt	O
 dựa	O
 trên	O
 giới_tính	O
-"	O
+”	O
 .	O
 
 Lakshmi_Parthasarathy	B-PERSON
@@ -12423,7 +12423,7 @@ quản_lý	O
 nữ	O
 .	O
 
-"	O
+”	O
 Rất	O
 khó	O
 để	O
@@ -12440,7 +12440,7 @@ hoặc	O
 trong	O
 lĩnh_vực	O
 công_nghệ	O
-"	O
+”	O
 ,	O
 Lakshmi_Parthasarathy	B-PERSON
 ,	O
@@ -12488,7 +12488,7 @@ nhưng	O
 nói	O
 thêm	O
 :	O
-"	O
+”	O
 Bạn	O
 luôn_luôn	O
 là	O
@@ -12525,7 +12525,7 @@ quản_lý	O
 chủ_yếu	O
 là	O
 nam_giới	O
-"	O
+”	O
 .	O
 
 Cô	O
@@ -12545,7 +12545,7 @@ kỹ_thuật	O
 tại	O
 công_ty	O
 :	O
-"	O
+”	O
 Thật	O
 khó_khăn	O
 cho	O
@@ -12562,7 +12562,7 @@ hay	O
 trong	O
 lĩnh_vực	O
 công_nghệ	O
-"	O
+”	O
 .	O
 
 Mặc_dù	O
@@ -12596,13 +12596,13 @@ có_thể	O
 cảm_thấy	O
 như	O
 một	O
-"	O
+”	O
 câu_lạc_bộ	O
 nam	O
 thiếu_niên	O
-"	O
+”	O
 với	O
-"	O
+”	O
 văn_hoá	O
 của	O
 những	O
@@ -12612,7 +12612,7 @@ quảng_cáo	O
 cho	O
 kẻ	O
 kia	O
-"	O
+”	O
 .	O
 
 Parthasarathy	B-PERSON
@@ -12710,7 +12710,7 @@ một_cách	O
 chủ_động	O
 .	O
 
-"	O
+”	O
 Có_thể	O
 xây_dựng	O
 lên	O
@@ -12736,7 +12736,7 @@ thực_sự	O
 làm	O
 điều	O
 đó	O
-"	O
+”	O
 ,	O
 Okereke	B-PERSON
 -	O
@@ -12754,7 +12754,7 @@ Google	B-ORGANIZATION
 –	O
 chia_sẻ	O
 .	O
-"	O
+”	O
 Đây	O
 là	O
 cái	O
@@ -12771,7 +12771,7 @@ và	O
 nó	O
 đang	O
 làm_việc	O
-"	O
+”	O
 .	O
 
 Zhang	B-PERSON
@@ -12837,7 +12837,7 @@ việc	O
 )	O
 .	O
 
-"	O
+”	O
 Tôi	O
 không	O
 muốn	O
@@ -12860,13 +12860,13 @@ dùng	O
 thẻ	O
 phụ_nữ	O
 '	O
-"	O
+”	O
 ,	O
 cô	O
 nói	O
 thêm	O
 .	O
-"	O
+”	O
 Tôi	O
 chỉ	O
 cố_gắng	O
@@ -12874,7 +12874,7 @@ cố_gắng	O
 vượt	O
 qua	O
 nó	O
-"	O
+”	O
 .	O
 
 Sau	O
@@ -12893,7 +12893,7 @@ phụ_nữ	O
 Mangolini	B-PERSON
 nói	O
 :	O
-"	O
+”	O
 Tôi	O
 luôn	O
 thất_vọng	O
@@ -12902,27 +12902,27 @@ nghe	O
 những	O
 câu_chuyện	O
 này	O
-"	O
+”	O
 .	O
 Cô	O
 chỉ	O
 vào	O
 các	O
-"	O
+”	O
 nhóm	O
 nhân_viên	O
-"	O
+”	O
 của	O
 Google	B-ORGANIZATION
 ,	O
 chẳng_hạn	O
 như	O
-"	O
+”	O
 mạng	B-MISCELLANEOUS
 Googler	I-MISCELLANEOUS
 màu	I-MISCELLANEOUS
 đen	I-MISCELLANEOUS
-"	O
+”	O
 ,	O
 mà	O
 bà	O
@@ -13015,7 +13015,7 @@ Damore	O
 Mangolini	B-PERSON
 nói	O
 :	O
-"	O
+”	O
 Điều	O
 đó	O
 làm	O
@@ -13055,7 +13055,7 @@ tôi	O
 tan_vỡ	O
 vì	O
 họ	O
-"	O
+”	O
 .	O
 
 Parthasarathy	B-PERSON
@@ -13080,7 +13080,7 @@ tiêu_chuẩn	O
 được	O
 tuyển_dụng	O
 :	O
-"	O
+”	O
 Mọi	O
 người	O
 nghĩ	O
@@ -13119,7 +13119,7 @@ khiến	O
 bạn	O
 ngạt	O
 thở	O
-"	O
+”	O
 .	O
 
 Người	O
@@ -13155,7 +13155,7 @@ của	O
 cô	O
 .	O
 
-"	O
+”	O
 Đôi_khi	O
 tôi	O
 đã	O
@@ -13165,7 +13165,7 @@ bàn	O
 làm_việc	O
 của	O
 mình	O
-"	O
+”	O
 ,	O
 cô	O
 chia_sẻ	O
@@ -13215,7 +13215,7 @@ cô	O
 nói	O
 thêm	O
 :	O
-"	O
+”	O
 Tôi	O
 trở_nên	O
 vô_hình	O
@@ -13236,7 +13236,7 @@ phải	O
 lại	O
 đấy	O
 ?	O
-"	O
+”	O
 .	O
 
 Nữ	O
@@ -16547,7 +16547,7 @@ hoaando850412@gmail.com	O
 thắc_mắc	O
 :	O
 
-"	O
+”	O
 Tôi	O
 vào	O
 công_ty	O
@@ -16598,7 +16598,7 @@ học_việc	O
 với	O
 tôi	O
 …	O
-"	O
+”	O
 .	O
 
 Công_nhân	O
@@ -21017,7 +21017,7 @@ biểu_tượng	O
 một	O
 biểu_tượng	O
 của	O
-"	O
+”	O
 tầm	O
 nhìn	O
 toàn_cầu	O
@@ -21027,7 +21027,7 @@ và	O
 quyền_lực	O
 của	O
 Mỹ	B-LOCATION
-"	O
+”	O
 .	O
 
 Vậy	O
@@ -21466,7 +21466,7 @@ này	O
 quá	O
 đắt_đỏ	O
 .	O
-"	O
+”	O
 Boeing	B-PERSON
 đang	O
 sản_xuất	O
@@ -21497,7 +21497,7 @@ USD	O
 Huỷ	O
 đơn	O
 hàng	O
-"	O
+”	O
 -	O
 Ông	O
 Trump_Tweet	O
@@ -21751,7 +21751,7 @@ năm	O
 Rosneft	B-ORGANIZATION
 cho	O
 biết	O
-"	O
+”	O
 Công_ty	O
 đủ	O
 khả_năng	O
@@ -21779,7 +21779,7 @@ tấn	O
 vào	O
 năm	O
 sau	O
-"	O
+”	O
 .	O
 
 Công_ty	O
@@ -21940,10 +21940,10 @@ Saudi_Aramco	O
 .	O
 Nga	B-LOCATION
 liên_tục	O
-"	O
+”	O
 vượt	O
 mặt	O
-"	O
+”	O
 Ả-rập	B-LOCATION
 Saudi	I-LOCATION
 trong	O
@@ -22187,7 +22187,7 @@ Khalid_Al_Falih	B-PERSON
 cho	O
 biết	O
 :	O
-"	O
+”	O
 Chúng_tôi	O
 hy_vọng	O
 sẽ	O
@@ -22214,7 +22214,7 @@ Trung_Quốc	B-LOCATION
 cũng	O
 biết_điều	O
 đó	O
-"	O
+”	O
 .	O
 
 Đức	B-PERSON
@@ -25789,7 +25789,7 @@ của	O
 Quỹ_Châu	B-ORGANIZATION
 Á.	I-ORGANIZATION
 
-"	O
+”	O
 Doanh_nghiệp	O
 Việt_Nam	B-LOCATION
 nhận_thức	O
@@ -25964,7 +25964,7 @@ phòng_ngừa	O
 trong	O
 cộng_đồng	O
 dân_cư	O
-"	O
+”	O
 .	O
 
 Ông	O
@@ -25976,7 +25976,7 @@ kinh_tế	O
 New_Zealand	B-LOCATION
 .	O
 
-"	O
+”	O
 Các	O
 doanh_nghiệp	O
 có	O
@@ -26058,7 +26058,7 @@ và	O
 cả	O
 một	O
 quốc_gia	O
-"	O
+”	O
 .	O
 
 Đại_diện	O
@@ -26072,7 +26072,7 @@ lề	O
 hội_nghị	O
 .	O
 
-"	O
+”	O
 Những	O
 năm	O
 qua	O
@@ -26253,7 +26253,7 @@ trong	O
 ứng_phó	O
 với	O
 thiên_tai	O
-"	O
+”	O
 .	O
 
 Bà	O
@@ -26264,7 +26264,7 @@ với	O
 báo_chí	O
 .	O
 
-"	O
+”	O
 Để	O
 chuẩn_bị	O
 cho	O
@@ -26372,7 +26372,7 @@ và	O
 của	O
 toàn	O
 xã_hội	O
-"	O
+”	O
 .	O
 
 Techcombank	B-ORGANIZATION
@@ -26784,7 +26784,7 @@ này	O
 lên	O
 15-20%	O
 .	O
-"	O
+”	O
 Quan_trọng	O
 là	O
 bảo_vệ	O
@@ -26803,7 +26803,7 @@ muốn	O
 khách_hàng	O
 được	O
 bảo_vệ	O
-"	O
+”	O
 .	O
 
 Khoảng	O
@@ -26935,16 +26935,16 @@ CNTT	O
 đào_tạo	O
 con_người	O
 .	O
-"	O
+”	O
 Khách_hàng	O
 trước_hết	O
-"	O
+”	O
 hay	O
-"	O
+”	O
 Customer	O
 -	O
 First	O
-"	O
+”	O
 là	O
 thông_điệp	O
 được	O
@@ -27122,7 +27122,7 @@ cho	O
 khách_hàng	O
 của	O
 mình	O
-"	O
+”	O
 .	O
 
 Thanh_Thuỷ	B-PERSON
@@ -30010,14 +30010,14 @@ sạch	O
 ,	O
 đẹp	O
 
-"	O
+”	O
 Chiến_dịch	O
 làm	O
 cho	O
 thế_giới	O
 sạch	O
 hơn	O
-"	O
+”	O
 được	O
 Chương_trình	O
 môi_trường	O
@@ -30051,14 +30051,14 @@ Năm	O
 chiến_dịch	O
 lấy	O
 chủ_đề	O
-"	O
+”	O
 Quản_lý	O
 rác_thải	O
 vì	O
 môi_trường	O
 nông_thôn	O
 bền_vững	O
-"	O
+”	O
 .	O
 Bộ	B-ORGANIZATION
 Tài_nguyên	I-ORGANIZATION
@@ -30099,14 +30099,14 @@ các	O
 toàn	O
 quân_chủ_động	O
 hưởng_ứng	O
-"	O
+”	O
 Chiến_dịch	O
 làm	O
 cho	O
 thế_giới	O
 sạch	O
 hơn	O
-"	O
+”	O
 năm	O
 2017	O
 với	O
@@ -30774,14 +30774,14 @@ kho_tàng	O
 .	O
 
 Hưởng_ứng	O
-"	O
+”	O
 Chiến_dịch	O
 làm	O
 cho	O
 thế_giới	O
 sạch	O
 hơn	O
-"	O
+”	O
 năm	O
 2017	O
 ,	O
@@ -30982,7 +30982,7 @@ Bí_thư	O
 Thành_uỷ	O
 Đà_Nẵng	B-LOCATION
 :	O
-"	O
+”	O
 Kinh_nghiệm	O
 anh	O
 ấy	O
@@ -30998,7 +30998,7 @@ chưa	O
 đi_đôi	O
 với	O
 làm	O
-"	O
+”	O
 .	O
 
 Bí_thư	O
@@ -31073,7 +31073,7 @@ nhà	O
 của	O
 doanh_nghiệp	O
 .	O
-"	O
+”	O
 Là	O
 người	O
 đứng	O
@@ -31085,7 +31085,7 @@ anh	O
 gương_mẫu	O
 chưa	O
 ?	O
-"	O
+”	O
 ,	O
 ông	O
 Hồ	B-PERSON
@@ -31445,7 +31445,7 @@ Nguyễn_Quốc_Thước	B-PERSON
 cho	O
 rằng	O
 :	O
-"	O
+”	O
 Ông	O
 Xuân_Anh	B-PERSON
 từng	O
@@ -31505,7 +31505,7 @@ vi_phạm	O
 thì	O
 quá	O
 buồn	O
-"	O
+”	O
 .	O
 
 Ông	O
@@ -32441,9 +32441,9 @@ Khu_vực	O
 bảo_hộ	O
 chỉ_dẫn	O
 địa_lý	O
-"	O
+”	O
 Quản_Bạ	B-LOCATION
-"	O
+”	O
 bao_gồm	O
 :	O
 Thị_trấn	B-LOCATION
@@ -32534,9 +32534,9 @@ khẳng_định	O
 “	O
 Chỉ_dẫn	O
 địa_lý	O
-"	O
+”	O
 Quản_Bạ	B-LOCATION
-"	O
+”	O
 cho	O
 sản_phẩm	O
 hồng	O
@@ -32670,7 +32670,7 @@ gia_tăng	O
 thấp	O
 .	O
 
-"	O
+”	O
 Điều	O
 đó	O
 đòi_hỏi	O
@@ -32719,7 +32719,7 @@ thương_mại	O
 tự_do	O
 thế_hệ	O
 mới	O
-"	O
+”	O
 -	O
 Bộ_trưởng	O
 nói	O
@@ -33420,7 +33420,7 @@ cho	O
 các	O
 dự_án	O
 thua_lỗ	O
-"	O
+”	O
 .	O
 
 Điều	O
@@ -33434,7 +33434,7 @@ Trần_Tuấn_Anh	B-PERSON
 nêu	O
 rõ	O
 ,	O
-"	O
+”	O
 về	O
 kinh_phí	O
 khởi_động	O
@@ -33459,7 +33459,7 @@ theo	O
 quy_định	O
 của	O
 pháp_luật	O
-"	O
+”	O
 .	O
 
 Ông	O
@@ -40020,9 +40020,9 @@ mà	O
 ông	O
 gọi	O
 là	O
-"	O
+”	O
 lịch_sử	O
-"	O
+”	O
 của	O
 Bộ	B-ORGANIZATION
 Công_Thương	I-ORGANIZATION
@@ -40079,9 +40079,9 @@ tốn	O
 nhiều	O
 khoản	O
 chi_phí	O
-"	O
+”	O
 bôi_trơn	O
-"	O
+”	O
 với	O
 những	O
 điều_kiện	O
@@ -40109,7 +40109,7 @@ sản_xuất	O
 kinh_doanh	O
 .	O
 
-"	O
+”	O
 Tôi	O
 tin	O
 rằng	O
@@ -40135,7 +40135,7 @@ theo	O
 trong	O
 thời_gian	O
 tới	O
-"	O
+”	O
 ,	O
 ông	O
 Doanh	B-PERSON
@@ -44808,7 +44808,7 @@ quảng_cáo	O
 kèm	O
 thông	O
 điệp	O
-"	O
+”	O
 Hãy	O
 hình_dung	O
 bạn	O
@@ -44822,7 +44822,7 @@ với	O
 một_ít	O
 tiếng	B-MISCELLANEOUS
 Anh	I-MISCELLANEOUS
-"	O
+”	O
 có	O
 hình_ảnh	O
 bà	O
@@ -44899,7 +44899,7 @@ bỏ	O
 ngay_lập_tức	O
 .	O
 
-"	O
+”	O
 Tôi	O
 hài_lòng	O
 ngôi	O
@@ -44919,13 +44919,13 @@ phố	O
 lẫn	O
 trên	O
 Facebook	O
-"	O
+”	O
 ,	O
 bà	O
 Natasa	B-PERSON
 nói	O
 .	O
-"	O
+”	O
 Chúng_tôi	O
 vẫn	O
 đang	O
@@ -44936,7 +44936,7 @@ các	O
 bước_đi	O
 pháp_lý	O
 tiếp_theo	O
-"	O
+”	O
 .	O
 
 Công_ty	O
@@ -44988,7 +44988,7 @@ và	O
 Slovenia	B-LOCATION
 .	O
 
-"	O
+”	O
 Chúng	O
 tôi	O
 lấy	O
@@ -45007,7 +45007,7 @@ nhạo_báng	O
 Đệ	O
 nhất	O
 Phu_nhân	O
-Mỹ_"	O
+Mỹ_”	O
 ,	O
 Ivis	B-PERSON
 Buris	I-PERSON
@@ -45017,7 +45017,7 @@ của	O
 trung_tâm	O
 nói	O
 .	O
-"	O
+”	O
 Chúng	O
 vốn	O
 dĩ	O
@@ -45030,7 +45030,7 @@ bà	O
 Melania	B-PERSON
 làm	O
 hình_mẫu	O
-"	O
+”	O
 .	O
 
 Buris	B-PERSON
@@ -45468,9 +45468,9 @@ rõ	O
 .	O
 
 Để	O
-"	O
+”	O
 xốc	O
-"	O
+”	O
 lại	O
 những	O
 dự_án	O
@@ -56415,10 +56415,10 @@ giá	O
 
 Trong	O
 thời_buổi	O
-"	O
+”	O
 bão	O
 giá	O
-"	O
+”	O
 ,	O
 việc	O
 nấu	O
@@ -56486,10 +56486,10 @@ cho	O
 rằng	O
 tài_khoản	O
 này	O
-"	O
+”	O
 chém	O
 gió	O
-"	O
+”	O
 vì	O
 chỉ	O
 tính	O
@@ -56534,7 +56534,7 @@ Anh	B-PERSON
 Hà	I-PERSON
 viết	O
 :	O
-"	O
+”	O
 Đây	O
 là	O
 mâm	O
@@ -56604,10 +56604,10 @@ mạng	O
 trầm_trồ	O
 vì	O
 chia_sẻ	O
-"	O
+”	O
 bí	O
 kíp	O
-"	O
+”	O
 nấu	O
 mâm	O
 cơm	O
@@ -56788,21 +56788,21 @@ chi	O
 
 Trong	O
 thời_buổi	O
-"	O
+”	O
 thu	O
 không	O
 đủ	O
 chi	O
-"	O
+”	O
 ,	O
 cần	O
 lắm	O
 những	O
-"	O
+”	O
 thánh	O
 đi	O
 chợ	O
-"	O
+”	O
 tiết_kiệm	O
 ,	O
 hợp_lý	O
@@ -60092,9 +60092,9 @@ Xuân_Phả	O
 nguồn	O
 thanhhoa24h.com	O
 
-"	O
+”	O
 Mục_sở_thị	O
-"	O
+”	O
 cây	O
 hồng_nhung	O
 100	O
@@ -64863,7 +64863,7 @@ dân_dã	O
 
 Đến	O
 với	O
-"	O
+”	O
 Ngày	O
 Hội	O
 Du_lịch	O
@@ -64872,7 +64872,7 @@ Phong_Điền	B-LOCATION
 Cần_Thơ	B-LOCATION
 năm	O
 2017	O
-"	O
+”	O
 diễn	O
 ra	O
 từ	O
@@ -64930,7 +64930,7 @@ TP	B-LOCATION
 Cần_Thơ	I-LOCATION
 )	O
 khai_diễn	O
-"	O
+”	O
 Ngày	O
 Hội	O
 Du_lịch	O
@@ -64940,7 +64940,7 @@ Phong_Điền	B-LOCATION
 Cần_Thơ	B-LOCATION
 năm	O
 2017	O
-"	O
+”	O
 nhằm	O
 hưởng_ứng	O
 Ngày	O
@@ -64977,12 +64977,12 @@ Phong_Điền	B-LOCATION
 ”	O
 ,	O
 hội_chợ	O
-"	O
+”	O
 Hàng	B-MISCELLANEOUS
 Việt	I-MISCELLANEOUS
 về	O
 nông_thôn	O
-"	O
+”	O
 ,	O
 triển_lãm	O
 sách	O
@@ -65041,7 +65041,7 @@ những	O
 ngày	O
 diễn	O
 ra	O
-"	O
+”	O
 Ngày	O
 Hội	O
 Du_lịch	O
@@ -65051,7 +65051,7 @@ Phong_Điền	B-LOCATION
 Cần_Thơ	B-LOCATION
 năm	O
 2017	O
-"	O
+”	O
 ,	O
 huyện	B-LOCATION
 Phong_Điền	I-LOCATION
@@ -67615,11 +67615,11 @@ với	O
 tên	O
 gọi	O
 là	O
-"	O
+”	O
 lễ	O
 ngắm	O
 trăng	O
-"	O
+”	O
 .	O
 Vào	O
 những	O
@@ -68482,13 +68482,13 @@ hết	O
 tiềm_năng	O
 du_lịch	O
 của	O
-"	O
+”	O
 thành_phố	O
 đáng	O
 sống	O
 nhất	O
 Việt_Nam	B-LOCATION
-"	O
+”	O
 .	O
 
 Nằm	O
@@ -68513,13 +68513,13 @@ hết	O
 tiềm_năng	O
 du_lịch	O
 của	O
-"	O
+”	O
 thành_phố	O
 đáng	O
 sống	O
 nhất	O
 Việt_Nam	B-LOCATION
-"	O
+”	O
 .	O
 
 Vùng	O
@@ -68912,7 +68912,7 @@ vườn_địa_đàng	O
 nơi	O
 hạ_giới	O
 .	O
-"	O
+”	O
 (	O
 Ảnh	O
 :	O
@@ -72211,9 +72211,9 @@ Kết_thúc	O
 hành_trình	O
 6	O
 năm	O
-"	O
+”	O
 Your_Singapore	O
-"	O
+”	O
 ,	O
 Tổng_cục	O
 Du_lịch	O
@@ -72230,11 +72230,11 @@ mới	O
 tại	O
 Việt_Nam	B-LOCATION
 là	O
-"	O
+”	O
 Singapore	B-LOCATION
 -	O
 Passion_Made_Possible	O
-"	O
+”	O
 (	O
 tạm	O
 dịch	O
@@ -72815,7 +72815,7 @@ cho	O
 ra_mắt	O
 loại	O
 bánh_trung_thu	O
-"	O
+”	O
 có	O
 nhiều	O
 điểm	O
@@ -72825,7 +72825,7 @@ vòng	O
 3	O
 của	O
 con_người	O
-"	O
+”	O
 .	O
 
 Loạt	O
@@ -73125,9 +73125,9 @@ vạn_tuế	O
 ,	O
 lạ	O
 đã	O
-"	O
+”	O
 đẻ	O
-"	O
+”	O
 ra	O
 hơn	O
 400	O
@@ -73146,11 +73146,11 @@ người	O
 gọi	O
 là	O
 những	O
-"	O
+”	O
 quả	O
 trứng	O
 vàng	O
-"	O
+”	O
 .	O
 
 Theo	O
@@ -73295,11 +73295,11 @@ sống_sót	O
 là	O
 cây	O
 đang	O
-"	O
+”	O
 đẻ	O
 trứng	O
 vàng	O
-"	O
+”	O
 .	O
 Từ	O
 khi	O
@@ -73495,10 +73495,10 @@ này	O
 giống	O
 như	O
 là	O
-"	O
+”	O
 đuôi	O
 rồng	O
-"	O
+”	O
 vì	O
 hình_thù	O
 kỳ_lạ	O
@@ -76769,7 +76769,7 @@ Hà_Nội	B-LOCATION
 trong	O
 khuôn_khổ	O
 Hội_thảo	O
-"	O
+”	O
 Kiến_trúc	O
 -	O
 Triết_lý	O
@@ -76777,7 +76777,7 @@ Triết_lý	O
 Con_người	O
 -	O
 Thiên_nhiên	O
-"	O
+”	O
 ,	O
 Ban	O
 tổ_chức	O
@@ -76874,20 +76874,20 @@ KTS	O
 ,	O
 bao_gồm	O
 :	O
-"	O
+”	O
 Kiến_trúc	O
 là	O
 màu_sắc	O
 của	O
 sự	O
 trung_thực	O
-"	O
+”	O
 (	O
 KTS	O
 Đào_Hưng	B-PERSON
 )	O
 ,	O
-"	O
+”	O
 Kiến_trúc	O
 -	O
 đôi_khi	O
@@ -76897,7 +76897,7 @@ những	O
 điều	O
 thật	O
 giản_đơn	O
-"	O
+”	O
 (	O
 KTS	O
 Đoàn	B-PERSON
@@ -76918,29 +76918,29 @@ không	O
 có	O
 hồi	O
 kết	O
-"	O
+”	O
 (	O
 KTS	O
 Hoàng_Thúc_Hào	B-PERSON
 )	O
 ,	O
-"	O
+”	O
 Kiến_trúc	O
 vị	O
 nhân_sinh	O
-"	O
+”	O
 (	O
 KTS	O
 Hồ_Mộng_Long	B-PERSON
 )	O
 ,	O
-"	O
+”	O
 Kiến_trúc	O
 -	O
 thay_đổi	O
 và	O
 phát_triển	O
-"	O
+”	O
 (	O
 KTS	O
 Lê_Trương	B-PERSON
@@ -77013,11 +77013,11 @@ mà	O
 sự	O
 thay_đổi	O
 luôn	O
-"	O
+”	O
 đứng	O
 lên	O
 vai	O
-"	O
+”	O
 của	O
 ngày	O
 hôm_qua	O
@@ -77394,9 +77394,9 @@ có	O
 được	O
 những	O
 buổi	O
-"	O
+”	O
 chiếu_bóng	O
-"	O
+”	O
 phục_vụ	O
 bà_con	O
 vùng	O
@@ -78163,9 +78163,9 @@ không	O
 du_khách	O
 đổ	O
 về	O
-"	O
+”	O
 săn	O
-"	O
+”	O
 hoa	O
 súng	O
 nở	O
@@ -78465,11 +78465,11 @@ tận_hưởng	O
 trọn_vẹn	O
 vẻ	O
 đẹp	O
-"	O
+”	O
 bầu_trời	O
 cảnh	O
 bụt	O
-"	O
+”	O
 của	O
 suối	B-LOCATION
 Yến	I-LOCATION
@@ -82676,7 +82676,7 @@ Tây_Hồ	B-LOCATION
 )	O
 cho_hay	O
 :	O
-"	O
+”	O
 Đi	O
 trên	O
 con	O
@@ -82742,7 +82742,7 @@ làm	O
 hình_ảnh	O
 Hà_Nội	B-LOCATION
 nói_chung	O
-"	O
+”	O
 .	O
 
 Để	O
@@ -82866,9 +82866,9 @@ các	O
 liên_quan	O
 đã	O
 tiến_hành	O
-"	O
+”	O
 vá	O
-"	O
+”	O
 ,	O
 sửa_chữa	O
 những	O
@@ -83024,7 +83024,7 @@ PGS.TS	O
 Nguyễn_Quốc_Thông	B-PERSON
 nhận_định	O
 :	O
-"	O
+”	O
 Thân	O
 đê	O
 được	O
@@ -83121,7 +83121,7 @@ gắn	O
 ,	O
 mai	O
 bong	O
-"	O
+”	O
 .	O
 
 Hoạ_sĩ	O
@@ -86707,7 +86707,7 @@ Anh	O
 Đoan	B-PERSON
 cho_hay	O
 :	O
-"	O
+”	O
 Chơi	O
 lan	O
 rừng	O
@@ -86737,7 +86737,7 @@ sưu_tầm	O
 và	O
 chăm_sóc	O
 ...	O
-"	O
+”	O
 .	O
 
 Chia_sẻ	O
@@ -86758,7 +86758,7 @@ anh	O
 cho	O
 rằng	O
 :	O
-"	O
+”	O
 Một	O
 trong	O
 những	O
@@ -86820,7 +86820,7 @@ nước	O
 và	O
 khoáng	O
 hoà_tan	O
-"	O
+”	O
 .	O
 
 Theo	O
@@ -86894,7 +86894,7 @@ vẫn	O
 quang_hợp	O
 được	O
 .	O
-"	O
+”	O
 Đặc_biệt	O
 ,	O
 người	O
@@ -86917,12 +86917,12 @@ và	O
 giá	O
 thể_theo	O
 kinh_nghiệm	O
-"	O
+”	O
 2	O
 ướt	O
 1	O
 khô	O
-"	O
+”	O
 trong	O
 ngày	O
 ,	O
@@ -86949,7 +86949,7 @@ cây	O
 rễ	O
 và	O
 dự_trữ	O
-"	O
+”	O
 -	O
 anh	O
 Đoan	B-PERSON
@@ -86982,10 +86982,10 @@ người	O
 trồng	O
 lan	O
 cũng	O
-"	O
+”	O
 sống	O
 khoẻ	O
-"	O
+”	O
 vì	O
 lan	O
 rừng	O
@@ -86997,7 +86997,7 @@ và	O
 giá	O
 .	O
 
-"	O
+”	O
 Các	O
 dòng	O
 lan	O
@@ -87041,7 +87041,7 @@ triệu	O
 cũng	O
 là	O
 bình_thường	O
-"	O
+”	O
 -	O
 anh	O
 Nguyên	B-PERSON
@@ -89816,31 +89816,31 @@ năm	O
 2017	O
 ;	O
 Toạ_đàm	O
-"	O
+”	O
 Thế_giới	O
 -	O
 Bước_ngoặt	O
 lịch_sử	O
-"	O
+”	O
 ;	O
 Toạ_đàm	O
-"	O
+”	O
 Lý	B-MISCELLANEOUS
 triều	I-MISCELLANEOUS
 rồng	O
 bay	O
 Đại_Việt	B-LOCATION
-"	O
+”	O
 nhân_dịp	O
 tái_bản	O
 bộ	O
 sách	O
-"	O
+”	O
 Tám	O
 triều	O
 vua	B-MISCELLANEOUS
 Lý	I-MISCELLANEOUS
-"	O
+”	O
 của	O
 Nhà_văn	O
 Hoàng_Quốc_Hải	B-PERSON
@@ -89889,7 +89889,7 @@ học	O
 ”	O
 ;	O
 Giao_lưu	O
-"	O
+”	O
 Mẹ	O
 Việt	O
 giúp	O
@@ -89898,7 +89898,7 @@ học	O
 tốt	O
 tiếng	B-MISCELLANEOUS
 Anh	I-MISCELLANEOUS
-"	O
+”	O
 ...	O
 
 Ngoài_ra	O
@@ -90138,7 +90138,7 @@ mà	O
 Bác_Hồ	B-PERSON
 đã	O
 nói	O
-"	O
+”	O
 Thà	O
 chết	O
 tự_do	O
@@ -90146,7 +90146,7 @@ còn	O
 hơn	O
 sống	O
 nô_lệ	O
-"	O
+”	O
 của	O
 đất	O
 Nam_bộ	B-LOCATION
@@ -90686,11 +90686,11 @@ vạn	O
 bản	O
 lời	O
 kêu_gọi	O
-"	O
+”	O
 Toàn	O
 dân	O
 kháng_chiến	O
-"	O
+”	O
 của	O
 Uỷ_ban	O
 kháng_chiến	O
@@ -92312,7 +92312,7 @@ chia_sẻ	O
 với	O
 Saostar	O
 :	O
-"	O
+”	O
 Tôi	O
 thích	O
 nhất	O
@@ -92324,7 +92324,7 @@ ngon	O
 ,	O
 hương_vị	O
 hấp_dẫn	O
-"	O
+”	O
 .	O
 
 Huỳnh_Hằng	B-PERSON
@@ -93001,13 +93001,13 @@ là	O
 thần_dược	O
 tráng	O
 dương	O
-"	O
+”	O
 ông	O
 ăn	O
 bà	O
 khen	O
 hay	O
-"	O
+”	O
 .	O
 
 Kinh_nghiệm	O
@@ -93131,10 +93131,10 @@ món	O
 bổ_dưỡng	O
 tiện_lợi	O
 cho	O
-"	O
+”	O
 quý	O
 ông	O
-"	O
+”	O
 .	O
 
 Tưng_bừng	O
@@ -93257,7 +93257,7 @@ sư_tử	O
 ,	O
 hoạt_cảnh	O
 hát_múa	O
-"	O
+”	O
 Về	O
 miền	O
 cổ_tích	O
@@ -93265,7 +93265,7 @@ và	O
 sự_tích	O
 đêm	O
 Rằm	O
-"	O
+”	O
 ...	O
 
 Ngoài_ra	O
@@ -93297,11 +93297,11 @@ tư_liệu	O
 hình_ảnh	O
 với	O
 chủ_đề	O
-"	O
+”	O
 Tết	O
 Trung_thu	O
 xưa	O
-"	O
+”	O
 ,	O
 hướng_dẫn	O
 làm	O
@@ -93810,11 +93810,11 @@ dịp	O
 thăm	O
 quê_hương	O
 của	O
-"	O
+”	O
 Vợ_chồng	O
 A	B-PERSON
 Phủ	I-PERSON
-"	O
+”	O
 bạn	O
 đừng	O
 quên	O
@@ -97239,10 +97239,10 @@ khu_vực	O
 Varosha	B-LOCATION
 .	O
 
-"	O
+”	O
 Thị_trấn	O
 ma	O
-"	O
+”	O
 Döllersheim	B-LOCATION
 ở	O
 Áo	B-LOCATION
@@ -97313,10 +97313,10 @@ Kolmanskop	B-LOCATION
 dần	O
 trở_thành	O
 một	O
-"	O
+”	O
 thị_trấn	O
 ma	O
-"	O
+”	O
 không	O
 có	O
 người	O
@@ -97417,10 +97417,10 @@ nhiều	O
 năm	O
 .	O
 
-"	O
+”	O
 Thị_trấn	O
 ma	O
-"	O
+”	O
 Centralia	B-LOCATION
 ở	O
 Pennsylvania	B-LOCATION
@@ -97773,10 +97773,10 @@ lễ	O
 Pchum_Ben	O
 nên	O
 tình_trạng	O
-"	O
+”	O
 cháy	O
 phòng	O
-"	O
+”	O
 vẫn	O
 diễn	O
 ra	O
@@ -99840,7 +99840,7 @@ thơ	O
 Lục_bát	O
 ,	O
 ấn_phẩm	O
-"	O
+”	O
 Lộc	O
 phát	O
 ”	O
@@ -103576,7 +103576,7 @@ Nga	B-LOCATION
 cho	O
 biết	O
 :	O
-"	O
+”	O
 Cuộc	O
 tấn_công	O
 bằng	O
@@ -103730,7 +103730,7 @@ nói	O
 cuộc	O
 tấn_công	O
 là	O
-"	O
+”	O
 do	O
 các	O
 cơ_quan	O
@@ -104073,7 +104073,7 @@ Kremlin	I-LOCATION
 nêu	O
 rõ	O
 :	O
-"	O
+”	O
 Chúng_tôi	O
 không	O
 biết	O
@@ -104101,7 +104101,7 @@ có	O
 liên_quan	O
 gì	O
 .	O
-"	O
+”	O
 
 Hôm	O
 21/9	O
@@ -104246,11 +104246,11 @@ bờ	O
 vực	O
 của	O
 một	O
-"	O
+”	O
 thảm_hoạ	O
 y_tế	O
 .	O
-"	O
+”	O
 
 Người	O
 Hồi_giáo	B-ORGANIZATION
@@ -104307,10 +104307,10 @@ bờ	O
 vực	O
 của	O
 một	O
-"	O
+”	O
 thảm_hoạ	O
 y_tế	O
-"	O
+”	O
 do	O
 vấn_đề	O
 vệ_sinh	O
@@ -104497,9 +104497,9 @@ vẫn	O
 sống	O
 trong	O
 cảnh	O
-"	O
+”	O
 màn_trời_chiếu_đất	O
-"	O
+”	O
 bất_chấp	O
 hiện	O
 đang	O
@@ -104697,12 +104697,12 @@ Rakhine	I-LOCATION
 ,	O
 đồng_thời	O
 kêu_gọi	O
-"	O
+”	O
 lập_tức	O
 có	O
 những	O
 biện_pháp	O
-"	O
+”	O
 để	O
 chấm_dứt	O
 vấn_nạn	O
@@ -105313,10 +105313,10 @@ kết_tội	O
 ông	O
 này	O
 là	O
-"	O
+”	O
 hoàn_toàn	O
 bịa_đặt	O
-"	O
+”	O
 và	O
 không	O
 khiến	O
@@ -105837,7 +105837,7 @@ phát_ngôn	O
 về	O
 Trump	B-PERSON
 .	O
-"	O
+”	O
 Nếu	O
 ông	O
 ta	O
@@ -105861,7 +105861,7 @@ chẳng	O
 có	O
 nhiều	O
 ý_nghĩa	O
-"	O
+”	O
 .	O
 Câu	O
 nói	O
@@ -105871,7 +105871,7 @@ Ri	B-PERSON
 có	O
 hàm_ý	O
 như	O
-"	O
+”	O
 chó	O
 cứ	O
 sủa	O
@@ -105880,7 +105880,7 @@ còn	O
 người	O
 cứ	O
 đi	O
-"	O
+”	O
 .	O
 
 Một	O
@@ -105892,10 +105892,10 @@ Tổng_thống	O
 Mỹ	B-LOCATION
 Donald_Trump	B-PERSON
 doạ	O
-"	O
+”	O
 huỷ_diệt	O
 hoàn_toàn	O
-"	O
+”	O
 Triều_Tiên	B-LOCATION
 nếu	O
 nước	O
@@ -106099,7 +106099,7 @@ sinh_viên	O
 Seoul	B-LOCATION
 .	O
 
-"	O
+”	O
 Tôi	O
 không	O
 làm	O
@@ -106110,7 +106110,7 @@ Tôi	O
 yêu	O
 quê_hương	O
 mình	O
-"	O
+”	O
 ,	O
 ông	O
 Seo	B-PERSON
@@ -106185,7 +106185,7 @@ năm	O
 1961	O
 .	O
 
-"	O
+”	O
 Tôi	O
 phải	O
 đi	O
@@ -106199,7 +106199,7 @@ tạm_biệt	O
 với	O
 vợ	O
 mình	O
-"	O
+”	O
 ,	O
 ông	O
 Seo	B-PERSON
@@ -106269,7 +106269,7 @@ quan_chức	O
 Seoul	B-LOCATION
 .	O
 
-"	O
+”	O
 Đối_với	O
 tôi	O
 ,	O
@@ -106292,7 +106292,7 @@ anh	O
 chết	O
 trong	O
 chiến_tranh	O
-"	O
+”	O
 ,	O
 viên	O
 quan_chức	O
@@ -106418,7 +106418,7 @@ Hàn_Quốc	B-LOCATION
 bắt_giữ	O
 .	O
 
-"	O
+”	O
 Là	O
 một	O
 gián_điệp	O
@@ -106448,7 +106448,7 @@ có	O
 thời_gian	O
 để	O
 tự_sát	O
-"	O
+”	O
 ,	O
 ông	O
 Seo	B-PERSON
@@ -106545,11 +106545,11 @@ thấy	O
 là	O
 một	O
 điệp_viên	O
-"	O
+”	O
 mới	O
 vào	O
 nghề	O
-"	O
+”	O
 đã	O
 không	O
 hoàn_thành	O
@@ -106578,7 +106578,7 @@ tù_nhân	O
 khác	O
 .	O
 
-"	O
+”	O
 Mẹ	O
 tôi	O
 đã	O
@@ -106600,7 +106600,7 @@ khi	O
 thẩm_phán	O
 tuyên_án	O
 tử_hình	O
-"	O
+”	O
 ,	O
 ông	O
 Seo	B-PERSON
@@ -106695,7 +106695,7 @@ và	O
 chật_hẹp	O
 .	O
 
-"	O
+”	O
 Họ	O
 thuyết_phục	O
 tôi	O
@@ -106738,7 +106738,7 @@ quý	O
 hơn	O
 mạng	O
 sống	O
-"	O
+”	O
 ,	O
 ông	O
 Seo	B-PERSON
@@ -106888,9 +106888,9 @@ Mỹ	B-LOCATION
 bác_bỏ	O
 các	O
 cáo_buộc	O
-"	O
+”	O
 lảm_nhảm	O
-"	O
+”	O
 của	O
 Tổng_thống	O
 Donald_Trump	B-PERSON
@@ -107029,7 +107029,7 @@ ngày	O
 đoàn_tụ	O
 .	O
 
-"	O
+”	O
 Tôi	O
 muốn	O
 nói	O
@@ -107060,7 +107060,7 @@ lâu	O
 như	O
 thế_này	O
 '	O
-"	O
+”	O
 ,	O
 ông	O
 Seo	B-PERSON
@@ -108394,13 +108394,13 @@ Time	B-ORGANIZATION
 mô_tả	O
 bà	O
 là	O
-"	O
+”	O
 lãnh_đạo	O
 thực_quyền	O
 của	O
 Liên_minh	B-ORGANIZATION
 châu_Âu	I-ORGANIZATION
-"	O
+”	O
 khi	O
 là	O
 người	O
@@ -108426,12 +108426,12 @@ EU	B-ORGANIZATION
 đã	O
 đối_mặt	O
 với	O
-"	O
+”	O
 những	O
 cuộc	O
 khủng_hoảng	O
 hiện_hữu	O
-"	O
+”	O
 mà	O
 bà	O
 Merkel	B-PERSON
@@ -108490,12 +108490,12 @@ thường	O
 được	O
 mệnh_danh	O
 là	O
-"	O
+”	O
 nhà_lãnh_đạo	O
 của	O
 thế_giới	O
 tự_do	O
-"	O
+”	O
 trong	O
 thế	O
 đối_lập	O
@@ -108504,11 +108504,11 @@ với	O
 Donald_Trump	B-PERSON
 với	O
 chính_sách	O
-"	O
+”	O
 nước	O
 Mỹ	B-LOCATION
 trên_hết	O
-"	O
+”	O
 .	O
 
 Ảnh	O
@@ -110147,7 +110147,7 @@ Tuyên_bố	O
 nêu	O
 rõ	O
 :	O
-"	O
+”	O
 Các	O
 thành_viên	O
 trong	O
@@ -110195,7 +110195,7 @@ một	O
 phần	O
 số	O
 chất_nổ	O
-"	O
+”	O
 .	O
 
 Hồi	O
@@ -110261,7 +110261,7 @@ diễn	O
 ra	O
 buổi	O
 thảo_luận	O
-"	O
+”	O
 Góc	O
 nhìn	O
 về	O
@@ -110270,7 +110270,7 @@ bạo_lực	O
 với	O
 cộng_đồng	O
 LGBT	O
-"	O
+”	O
 thu_hút	O
 sự	O
 quan_tâm	O
@@ -110816,7 +110816,7 @@ mỗi	O
 con_người	O
 .	O
 
-"	O
+”	O
 Chị	O
 ấy	O
 là	O
@@ -110955,7 +110955,7 @@ cô	O
 ấy	O
 quá	O
 tin_tưởng	O
-"	O
+”	O
 ,	O
 trung_uý	O
 Brett_Parson	B-PERSON
@@ -111031,7 +111031,7 @@ lẫn	O
 tinh_thần	O
 .	O
 
-"	O
+”	O
 Tôi	O
 cho	O
 rằng	O
@@ -111182,7 +111182,7 @@ LGBT	O
 sẽ	O
 hoàn_thiện	O
 hơn_nữa	O
-"	O
+”	O
 ,	O
 ông	O
 nói	O
@@ -111325,10 +111325,10 @@ Thủ_tướng	O
 Angela_Merkel	B-PERSON
 được	O
 ví_như	O
-"	O
+”	O
 nữ_hoàng	O
 khắc_khổ	O
-"	O
+”	O
 của	O
 châu_Âu	B-LOCATION
 ,	O
@@ -111344,13 +111344,13 @@ và	O
 được	O
 đánh_giá	O
 là	O
-"	O
+”	O
 nhà_lãnh_đạo	O
 mới	O
 của	O
 thế_giới	O
 tự_do	O
-"	O
+”	O
 .	O
 
 Thế	O
@@ -111364,10 +111364,10 @@ chỉ	O
 gọi	O
 bà	O
 là	O
-"	O
+”	O
 Thủ_tướng	O
 bất_diệt	O
-"	O
+”	O
 trong	O
 bối_cảnh	O
 nữ	O
@@ -111387,11 +111387,11 @@ nuôi	O
 dậy	O
 trong	O
 thời_kỳ	O
-"	O
+”	O
 Bức	O
 màn	O
 sắt	O
-"	O
+”	O
 (	O
 The_Iron_Curtain	O
 ,	O
@@ -111726,11 +111726,11 @@ lời	O
 tán_dương	O
 này	O
 là	O
-"	O
+”	O
 lố_bịch	O
 và	O
 ngớ_ngẩn	O
-"	O
+”	O
 .	O
 
 Mặc_dù	O
@@ -111739,11 +111739,11 @@ bị	O
 chỉ_trích	O
 vì	O
 tự	O
-"	O
+”	O
 chuốc	O
 vào	O
 thân	O
-"	O
+”	O
 những	O
 thách_thức	O
 khó_khăn	O
@@ -111970,14 +111970,14 @@ kích_động	O
 của	O
 bà	O
 là	O
-"	O
+”	O
 một	O
 sự	O
 tấn_công	O
 vào	O
 nền	O
 dân_chủ	O
-"	O
+”	O
 ,	O
 một	O
 bình_luận	O
@@ -112041,16 +112041,16 @@ Der_Spiegel	B-ORGANIZATION
 gọi	O
 bà	O
 là	O
-"	O
+”	O
 người	O
 phụ_nữ	O
 hổ_phách	O
-"	O
+”	O
 không_thể	O
 hiểu	O
 thấu	O
 được	O
-"	O
+”	O
 như	O
 nhân_sư	O
 ,	O
@@ -112058,7 +112058,7 @@ nữ	O
 danh_ca	O
 hay	O
 nữ_hoàng	O
-"	O
+”	O
 ,	O
 với	O
 những	O
@@ -112066,11 +112066,11 @@ bài	O
 phát_biểu	O
 tựa	O
 như	O
-"	O
+”	O
 phép	O
 thôi_miên	O
 khổng_lồ	O
-"	O
+”	O
 .	O
 
 Sinh	O
@@ -112159,9 +112159,9 @@ từ_chối	O
 lời	O
 đề_nghị	O
 làm	O
-"	O
+”	O
 tay_trong	O
-"	O
+”	O
 cho	O
 Bộ	B-ORGANIZATION
 An_ninh	I-ORGANIZATION
@@ -112317,11 +112317,11 @@ kêu_gọi	O
 của	O
 mình	O
 từ_bỏ	O
-"	O
+”	O
 con	O
 ngựa_chiến	O
 già	O
-"	O
+”	O
 -	O
 cách	O
 mà	O
@@ -112343,26 +112343,26 @@ lúc	O
 ấy	O
 đánh_giá	O
 là	O
-"	O
+”	O
 Merkel	B-PERSON
 mưu_mô	O
-"	O
+”	O
 ,	O
 đã	O
 đánh_dấu	O
 sự	O
-"	O
+”	O
 nổi_danh	O
-"	O
+”	O
 của	O
 bà	O
 .	O
 Là	O
 một	O
 thành_viên	O
-"	O
+”	O
 ngoại_đạo	O
-"	O
+”	O
 ,	O
 bà	O
 đã	O
@@ -112421,10 +112421,10 @@ bà	O
 được	O
 mệnh_danh	O
 là	O
-"	O
+”	O
 nữ_hoàng	O
 khắc_khổ	O
-"	O
+”	O
 có	O
 thái_độ	O
 khắt_khe	O
@@ -112486,10 +112486,10 @@ từng	O
 có	O
 một	O
 đối_thủ	O
-"	O
+”	O
 đáng	O
 gờm	O
-"	O
+”	O
 nào	O
 trong	O
 nội_bộ	O
@@ -113097,10 +113097,10 @@ tấn_công	O
 của	O
 Israel	B-LOCATION
 .	O
-"	O
+”	O
 Bàn_cờ	O
 thế_này	O
-"	O
+”	O
 khiến	O
 thế_giới	O
 nín	O
@@ -114524,7 +114524,7 @@ Trung_Quốc	B-LOCATION
 Lục_Khảng	B-PERSON
 nói	O
 :	O
-"	O
+”	O
 Điều	O
 này_khác	O
 với	O
@@ -114533,7 +114533,7 @@ mà	O
 tôi	O
 biết	O
 .	O
-"	O
+”	O
 
 Ông	O
 Lục_Khảng	B-PERSON
@@ -115834,7 +115834,7 @@ với	O
 Bình_Nhưỡng	B-LOCATION
 .	O
 
-"	O
+”	O
 Trong	O
 bất_cứ	O
 hoàn_cảnh	O
@@ -115866,7 +115866,7 @@ bằng	O
 các	O
 biện_pháp	O
 đàm_phán	O
-"	O
+”	O
 ,	O
 ông	O
 Vương_Nghị	B-PERSON
@@ -115901,10 +115901,10 @@ tình_hình	O
 bán_đảo	B-LOCATION
 Triều_Tiên	I-LOCATION
 đang	O
-"	O
+”	O
 rất	O
 nghiêm_trọng	O
-"	O
+”	O
 và	O
 khẳng_định	O
 nước	O
@@ -115924,7 +115924,7 @@ của	O
 Liên_Hợp_Quốc	B-ORGANIZATION
 .	O
 
-"	O
+”	O
 Chúng_tôi	O
 tin	O
 rằng	O
@@ -115956,7 +115956,7 @@ thực_sự	O
 với	O
 bán_đảo	B-LOCATION
 Triều_Tiên	I-LOCATION
-"	O
+”	O
 ,	O
 ông	O
 Lục	B-PERSON
@@ -115992,11 +115992,11 @@ ngày	O
 ,	O
 cảnh_báo	O
 khả_năng	O
-"	O
+”	O
 huỷ_diệt	O
 hoàn_toàn	O
 Triều_Tiên	B-LOCATION
-"	O
+”	O
 trong	O
 trường_hợp	O
 buộc	O
@@ -116017,10 +116017,10 @@ Tổng_thống	O
 Mỹ	B-LOCATION
 sẽ	O
 phải	O
-"	O
+”	O
 trả_giá	O
 đắt	O
-"	O
+”	O
 do	O
 phát_biểu	O
 mang	O
@@ -116093,7 +116093,7 @@ theo	O
 Sputnik	B-ORGANIZATION
 .	O
 
-"	O
+”	O
 Chúng_tôi	O
 không_thể	O
 loại_trừ	O
@@ -116108,7 +116108,7 @@ bay	O
 qua	O
 lãnh_thổ	O
 đất_nước	O
-"	O
+”	O
 ,	O
 ông	O
 Onodera	B-PERSON
@@ -116177,11 +116177,11 @@ Thái_Bình_Dương	B-LOCATION
 một	O
 hành_động	O
 ở	O
-"	O
+”	O
 cấp_độ	O
 cao	O
 nhất	O
-"	O
+”	O
 để	O
 đáp	O
 trả	O
@@ -116598,7 +116598,7 @@ và	O
 Merkel	B-PERSON
 .	O
 
-"	O
+”	O
 Tôi	O
 không	O
 đồng_ý	O
@@ -116606,7 +116606,7 @@ những	O
 lời	O
 đe_doạ	O
 như_thế	O
-"	O
+”	O
 ,	O
 Thủ_tướng	O
 Đức	B-LOCATION
@@ -116629,10 +116629,10 @@ hôm	O
 ,	O
 đe_doạ	O
 sẽ	O
-"	O
+”	O
 huỷ_diệt	O
 hoàn_toàn	O
-"	O
+”	O
 Triều_Tiên	B-LOCATION
 nếu	O
 nước	O
@@ -116715,10 +116715,10 @@ làm	O
 gì	O
 nhiều	O
 để	O
-"	O
+”	O
 phá	O
 băng	O
-"	O
+”	O
 quan_hệ	O
 .	O
 
@@ -116875,9 +116875,9 @@ Merkel	B-PERSON
 đề_cao	O
 cách	O
 tiếp_cận	O
-"	O
+”	O
 rộng_mở	O
-"	O
+”	O
 đối_với	O
 toàn_cầu_hoá	O
 .	O
@@ -116895,13 +116895,13 @@ bầu	O
 lên	O
 với	O
 cam_kết	O
-"	O
+”	O
 đặt	O
 nước	O
 Mỹ	B-LOCATION
 lên	O
 trên_hết	O
-"	O
+”	O
 .	O
 
 Họ	O
@@ -116938,7 +116938,7 @@ khách_sáo	O
 miêu_tả	O
 đó	O
 là	O
-"	O
+”	O
 cuộc	O
 họp	O
 khó_khăn	O
@@ -116950,7 +116950,7 @@ là	O
 rất	O
 không	O
 hài_lòng	O
-"	O
+”	O
 .	O
 Về	O
 phần	O
@@ -116970,7 +116970,7 @@ viết	O
 lên	O
 Twitter	O
 :	O
-"	O
+”	O
 Vừa	O
 về	O
 châu_Âu	B-LOCATION
@@ -116989,7 +116989,7 @@ vất_vả	O
 nhưng	O
 kết_quả	O
 to_lớn	O
-"	O
+”	O
 .	O
 
 Vài	O
@@ -117032,7 +117032,7 @@ họ	O
 nữa	O
 .	O
 
-"	O
+”	O
 Những	O
 người	O
 châu_Âu	B-LOCATION
@@ -117044,7 +117044,7 @@ vận_mệnh	O
 của	O
 chính	O
 mình	O
-"	O
+”	O
 ,	O
 bà	O
 nói	O
@@ -117151,13 +117151,13 @@ thoả_thuận	O
 hạt_nhân	O
 Iran	B-LOCATION
 là	O
-"	O
+”	O
 nỗi	O
 xấu_hổ	O
 của	O
 nước	O
 Mỹ	B-LOCATION
-"	O
+”	O
 .	O
 Nếu	O
 Washington	B-LOCATION
@@ -117188,7 +117188,7 @@ càng	O
 rạn_nứt	O
 .	O
 
-"	O
+”	O
 Merkel	B-PERSON
 và	O
 Trump	B-PERSON
@@ -117196,7 +117196,7 @@ như	O
 dầu	O
 và	O
 nước	O
-"	O
+”	O
 ,	O
 giáo_sư	O
 về	O
@@ -117217,7 +117217,7 @@ với	O
 AFP	B-ORGANIZATION
 .	O
 
-"	O
+”	O
 Trump	B-PERSON
 bước	O
 vào	O
@@ -117245,10 +117245,10 @@ thay_đổi	O
 Merkel	B-PERSON
 thì	O
 ngược_lại	O
-"	O
+”	O
 .	O
 
-"	O
+”	O
 Bà	O
 ấy	O
 liên_tục	O
@@ -117266,7 +117266,7 @@ sẽ	O
 tiếp_diễn	O
 như	O
 trước_nay	O
-"	O
+”	O
 ,	O
 ông	O
 nói	O
@@ -117292,7 +117292,7 @@ như	O
 hiện_nay	O
 .	O
 
-"	O
+”	O
 Trump	B-PERSON
 làm	O
 dấy	O
@@ -117330,7 +117330,7 @@ Thế_chiến	O
 kết_thúc	O
 đến	O
 nay	O
-"	O
+”	O
 ,	O
 ông	O
 nói	O
@@ -117427,7 +117427,7 @@ của	O
 Merkel	B-PERSON
 .	O
 
-"	O
+”	O
 Hillary_Clinton	B-PERSON
 đang	O
 chạy_đua	O
@@ -117449,7 +117449,7 @@ mà	O
 Đức	B-LOCATION
 phải	O
 đối_mặt	O
-"	O
+”	O
 ,	O
 ông	O
 nói	O
@@ -117514,7 +117514,7 @@ nhà_lãnh_đạo	O
 Mỹ	B-LOCATION
 .	O
 
-"	O
+”	O
 Trong	O
 vài	O
 tháng	O
@@ -117544,7 +117544,7 @@ là	O
 bà	O
 ấy	O
 mong_muốn	O
-"	O
+”	O
 ,	O
 AFP	B-ORGANIZATION
 dẫn	O
@@ -117594,11 +117594,11 @@ nhưng	O
 không	O
 phải	O
 là	O
-"	O
+”	O
 một	O
 khởi_đầu	O
 mới	O
-"	O
+”	O
 .	O
 
 Ông	O
@@ -117612,11 +117612,11 @@ Merkel	B-PERSON
 nên	O
 áp_dụng	O
 chiến_thuật	O
-"	O
+”	O
 đối_đầu	O
 trong	O
 âm_thầm	O
-"	O
+”	O
 ,	O
 điều	O
 mà	O
@@ -117634,7 +117634,7 @@ khác	O
 nhau	O
 .	O
 
-"	O
+”	O
 Hãy	O
 đứng	O
 lên	O
@@ -117672,7 +117672,7 @@ ra	O
 yếu	O
 của	O
 mình	O
-"	O
+”	O
 ,	O
 ông	O
 nói	O
@@ -117817,10 +117817,10 @@ khi	O
 trên	O
 trang	O
 Facebook	O
-"	O
+”	O
 Damascus_Ngày	B-MISCELLANEOUS
 nay	I-MISCELLANEOUS
-"	O
+”	O
 -	O
 trang	O
 mạng	O
@@ -117832,7 +117832,7 @@ Syria	B-LOCATION
 cho	O
 biết	O
 :	O
-"	O
+”	O
 Một	O
 tên_lửa	O
 của	O
@@ -117846,7 +117846,7 @@ gần	O
 Cảng_hàng_không	B-LOCATION
 Quốc_tế	I-LOCATION
 Damascus	I-LOCATION
-"	O
+”	O
 .	O
 
 Đã	O
@@ -118338,7 +118338,7 @@ ngoại_giao	O
 này	O
 phải	O
 là	O
-"	O
+”	O
 thành_viên	O
 của	O
 Hội_đồng	O
@@ -118761,7 +118761,7 @@ Tillerson	B-PERSON
 nêu	O
 rõ	O
 :	O
-"	O
+”	O
 Vấn_đề	O
 đó	O
 đúng	O
@@ -118775,7 +118775,7 @@ ngoại_giao	O
 sẽ	O
 không	O
 giảm	O
-"	O
+”	O
 .	O
 Theo	O
 ông	O
@@ -118843,7 +118843,7 @@ Triều_Tiên	B-LOCATION
 Kim_Jong_Un	B-PERSON
 sẽ	O
 phải	O
-"	O
+”	O
 chịu	O
 thử_thách	O
 chưa	O
@@ -118871,9 +118871,9 @@ bị	O
 ,	O
 Mỹ	B-LOCATION
 sẽ	O
-"	O
+”	O
 huỷ_diệt	O
-"	O
+”	O
 Triều_Tiên	B-LOCATION
 .	O
 
@@ -118995,9 +118995,9 @@ hạt_nhân	O
 của	O
 Triều_Tiên	B-LOCATION
 là	O
-"	O
+”	O
 đúng_đắn	O
-"	O
+”	O
 ,	O
 đồng_thời	O
 tuyên_bố	O
@@ -119029,12 +119029,12 @@ nhiệt_hạch	O
 Thái_Bình_Dương	B-LOCATION
 nhằm	O
 phản_ứng	O
-"	O
+”	O
 ở	O
 mức	O
 cao	O
 nhất	O
-"	O
+”	O
 đối_với	O
 Mỹ	B-LOCATION
 .	O
@@ -120598,9 +120598,9 @@ bất_ngờ	O
 một	O
 thông_tin	O
 gây	O
-"	O
+”	O
 sốc	O
-"	O
+”	O
 khi	O
 cho	O
 biết	O
@@ -120744,7 +120744,7 @@ AK	O
 -47	O
 .	O
 
-"	O
+”	O
 Tôi	O
 sẽ	O
 rất	O
@@ -120778,7 +120778,7 @@ bản_vẽ	O
 là	O
 AK	O
 -47	O
-"	O
+”	O
 nghệ_nhân	O
 điêu_khắc	O
 Salavat_Shcherbakov	B-PERSON
@@ -120872,10 +120872,10 @@ nhằm	O
 đáp	O
 trả_lời	O
 đe_doạ	O
-"	O
+”	O
 huỷ_diệt	O
 hoàn_toàn	O
-"	O
+”	O
 của	O
 Tổng_thống	O
 Mỹ	B-LOCATION
@@ -121042,7 +121042,7 @@ câu	O
 đùa	O
 ảm_đạm	O
 :	O
-"	O
+”	O
 Đó	O
 là	O
 khi	O
@@ -121052,7 +121052,7 @@ một	O
 luồng	O
 sáng	O
 khổng_lồ	O
-"	O
+”	O
 .	O
 Cũng	O
 như	O
@@ -121349,7 +121349,7 @@ là	O
 nuôi_dưỡng	O
 nỗ_lực	O
 phát_triển	O
-"	O
+”	O
 những	O
 vũ_khí	O
 chết_chóc	O
@@ -121358,7 +121358,7 @@ nhất	O
 loài_người	O
 của	O
 Triều_Tiên	B-LOCATION
-"	O
+”	O
 .	O
 Ông	O
 chủ	O
@@ -121368,11 +121368,11 @@ từng	O
 đe_doạ	O
 Bình_Nhưỡng	B-LOCATION
 bằng	O
-"	O
+”	O
 hoả_lực	O
 và	O
 cuồng_nộ	O
-"	O
+”	O
 trong	O
 khi	O
 Bộ_trưởng	O
@@ -121380,12 +121380,12 @@ Quốc_phòng	O
 Mỹ	B-LOCATION
 James_Mattis	B-PERSON
 cảnh_báo	O
-"	O
+”	O
 đáp	O
 trả	O
 quân_sự	O
 khổng_lồ	O
-"	O
+”	O
 sau	O
 khi	O
 Bình_Nhưỡng	B-LOCATION
@@ -121966,7 +121966,7 @@ Nhà_lãnh_đạo	O
 Iran	B-LOCATION
 nhấn_mạnh	O
 :	O
-"	O
+”	O
 Chúng_tôi	O
 sẽ	O
 không	O
@@ -121978,7 +121978,7 @@ ai	O
 để	O
 bảo_vệ	O
 quốc_gia	O
-"	O
+”	O
 .	O
 
 Tuyên_bố	O
@@ -122331,7 +122331,7 @@ tên_lửa	O
 hạt_nhân	O
 .	O
 
-"	O
+”	O
 Tiếng	O
 còi	O
 hú	O
@@ -122359,21 +122359,21 @@ trên	O
 đó	O
 có	O
 chữ	O
-"	O
+”	O
 phóng	O
-"	O
+”	O
 ,	O
 chiếc	O
 ghế	O
 bỗng_nhiên	O
-"	O
+”	O
 nóng	O
 lên	O
 như	O
 chiếc	O
 chảo	O
 rán	O
-"	O
+”	O
 ,	O
 Petrov	B-PERSON
 kể	O
@@ -123549,12 +123549,12 @@ EU	B-ORGANIZATION
 không	O
 cần	O
 phải	O
-"	O
+”	O
 chi_trả	O
 nhiều	O
 hơn	O
 .	O
-"	O
+”	O
 
 Ảnh	O
 minh_hoạ	O
@@ -123601,13 +123601,13 @@ biết	O
 Anh	B-LOCATION
 sẽ	O
 tiếp_tục	O
-"	O
+”	O
 tôn_trọng	O
 các	O
 cam_kết	O
 của	O
 mình	O
-"	O
+”	O
 với	O
 ngân_sách	O
 hiện_tại	O
@@ -123642,19 +123642,19 @@ EU	B-ORGANIZATION
 không	O
 cần	O
 phải	O
-"	O
+”	O
 chi_trả	O
 nhiều	O
 hơn	O
 .	O
-"	O
+”	O
 
 Bà	O
 May	B-PERSON
 cũng	O
 phát_biểu	O
 :	O
-"	O
+”	O
 Trong	O
 giai_đoạn	O
 chuyển_giao	O
@@ -123690,7 +123690,7 @@ một	O
 chế_độ	O
 mới	O
 .	O
-"	O
+”	O
 
 Trước	O
 đó	O
@@ -125227,10 +125227,10 @@ tuyên_bố	O
 sẽ	O
 chấm_dứt	O
 thoả_thuận	O
-"	O
+”	O
 đáng	O
 xấu_hổ	O
-"	O
+”	O
 này	O
 .	O
 Vấn_đề	O
@@ -125240,10 +125240,10 @@ chỗ	O
 việc	O
 Iran	B-LOCATION
 được	O
-"	O
+”	O
 cởi	O
 trói	O
-"	O
+”	O
 khỏi	O
 các	O
 lệnh	O
@@ -125257,11 +125257,11 @@ năm	O
 trước	O
 đã	O
 tạo	O
-"	O
+”	O
 làn	O
 gió	O
 mát_lành	O
-"	O
+”	O
 cho	O
 giới	O
 đầu_tư	O
@@ -125319,10 +125319,10 @@ luôn	O
 đầu	O
 nhằm	O
 đưa	O
-"	O
+”	O
 TPP	O
 -1	O
-"	O
+”	O
 sống	O
 lại	O
 .	O
@@ -125359,9 +125359,9 @@ lại	O
 .	O
 
 Tình_trạng	O
-"	O
+”	O
 ông_chẳng_bà_chuộc	O
-"	O
+”	O
 trong	O
 quan_hệ	O
 quốc_tế	O
@@ -125384,9 +125384,9 @@ khi	O
 nào	O
 có	O
 sự	O
-"	O
+”	O
 vênh	O
-"	O
+”	O
 nhau	O
 hoặc	O
 xung_đột	O
@@ -125506,7 +125506,7 @@ Tokyo	B-LOCATION
 Onodera	B-PERSON
 nói	O
 :	O
-"	O
+”	O
 Nếu	O
 quả	O
 bom	O
@@ -125567,7 +125567,7 @@ thậm_chí	O
 còn	O
 lớn	O
 hơn	O
-"	O
+”	O
 .	O
 
 Trước	O
@@ -125591,12 +125591,12 @@ trên	O
 Thái_Bình_Dương	B-LOCATION
 nhằm	O
 phản_ứng	O
-"	O
+”	O
 ở	O
 mức	O
 cao	O
 nhất	O
-"	O
+”	O
 đối_với	O
 Mỹ	B-LOCATION
 .	O
@@ -125650,14 +125650,14 @@ trước	O
 toàn	O
 thế_giới	O
 là	O
-"	O
+”	O
 lời	O
 tuyên_chiến	O
 tàn_bạo	O
 nhất	O
 trong	O
 lịch_sử	O
-"	O
+”	O
 ,	O
 đồng_thời	O
 cho	O
@@ -125676,11 +125676,11 @@ hạt_nhân	O
 của	O
 Bình_Nhưỡng	B-LOCATION
 là	O
-"	O
+”	O
 con	O
 đường	O
 đúng_đắn	O
-"	O
+”	O
 .	O
 
 Nhà_lãnh_đạo	O
@@ -125693,14 +125693,14 @@ sẽ	O
 phải	O
 đối_mặt	O
 với	O
-"	O
+”	O
 hệ_quả	O
 vượt	O
 qua	O
 suy_nghĩ	O
 của	O
 ông	O
-"	O
+”	O
 ,	O
 dù	O
 không	O
@@ -126608,10 +126608,10 @@ cho_hay	O
 một	O
 bộ_phận	O
 quan_chức	O
-"	O
+”	O
 thân	O
 Đài_Loan	B-LOCATION
-"	O
+”	O
 đã	O
 can_thiệp	O
 vào	O
@@ -126636,7 +126636,7 @@ Quốc_phòng	O
 Mỹ	B-LOCATION
 tuyên_bố	O
 :	O
-"	O
+”	O
 Mỹ	B-LOCATION
 cần_thiết	O
 hỗ_trợ	O
@@ -126654,7 +126654,7 @@ mối	O
 từ	O
 Trung_Quốc	B-LOCATION
 Đại_lục	O
-"	O
+”	O
 .	O
 Tuy_nhiên	O
 ,	O
@@ -126723,7 +126723,7 @@ cho	O
 David_Helvey	B-PERSON
 nói	O
 :	O
-"	O
+”	O
 Trung_Quốc	B-LOCATION
 sẽ	O
 tiếp_tục	O
@@ -126751,7 +126751,7 @@ khả_năng	O
 răn_đe	O
 quân_đội	O
 Trung_Quốc	B-LOCATION
-"	O
+”	O
 .	O
 David_Helvey	B-PERSON
 còn	O
@@ -126877,14 +126877,14 @@ ngày	O
 Đài_Loan	B-LOCATION
 cho	O
 biết	O
-"	O
+”	O
 chưa	O
 từng	O
 nghe	O
 thấy	O
 thông_tin	O
 này	O
-"	O
+”	O
 .	O
 Tờ	O
 Tin_tức	O
@@ -127082,27 +127082,27 @@ ra	O
 các	O
 vấn_đề	O
 như	O
-"	O
+”	O
 bán	O
 vũ_khí	O
 cho	O
 Đài_Loan	B-LOCATION
-"	O
+”	O
 ,	O
-"	O
+”	O
 Luật	O
 du_lịch	O
 Đài_Loan	B-LOCATION
-"	O
+”	O
 ,	O
-"	O
+”	O
 tàu_chiến	O
 Đài	B-LOCATION
 -	O
 Mỹ	B-LOCATION
 thăm	O
 nhau	O
-"	O
+”	O
 ...	O
 Mỹ	B-LOCATION
 thông_qua	O
@@ -127130,10 +127130,10 @@ thách_thức	O
 nghiêm_trọng	O
 ranh_giới	O
 đỏ	O
-"	O
+”	O
 một	O
 Trung_Quốc	B-LOCATION
-"	O
+”	O
 .	O
 Trước_đây	O
 ,	O
@@ -127184,10 +127184,10 @@ muốn	O
 Mỹ	B-LOCATION
 tuân_thủ	O
 nguyên_tắc	O
-"	O
+”	O
 một	O
 Trung_Quốc	B-LOCATION
-"	O
+”	O
 ,	O
 tuân_thủ	O
 3	O
@@ -127274,10 +127274,10 @@ yêu_cầu	O
 Mỹ	B-LOCATION
 tuân_thủ	O
 nguyên_tắc	O
-"	O
+”	O
 một	O
 Trung_Quốc	B-LOCATION
-"	O
+”	O
 ,	O
 tuân_thủ	O
 3	O
@@ -127376,7 +127376,7 @@ môi_trường	O
 liên_bang	O
 .	O
 
-"	O
+”	O
 Không	O
 ai	O
 có_thể	O
@@ -127387,7 +127387,7 @@ Thậm_chí	O
 ngay	O
 cả	O
 tổng_thống	O
-Mỹ_"	O
+Mỹ_”	O
 ,	O
 Becerra	B-PERSON
 nói	O
@@ -127427,7 +127427,7 @@ là	O
 rất	O
 dài	O
 .	O
-"	O
+”	O
 
 Tổng	O
 chướng	O
@@ -127477,7 +127477,7 @@ mục_đích	O
 của	O
 nó	O
 là	O
-"	O
+”	O
 bảo_vệ	O
 các	O
 cư_dân	O
@@ -127622,7 +127622,7 @@ quyền_lực	O
 của	O
 Hiến_pháp	O
 Mỹ	B-LOCATION
-"	O
+”	O
 bằng	O
 cách	O
 bỏ_phiếu	O
@@ -127636,7 +127636,7 @@ luật_pháp	O
 tiểu_bang	O
 và	O
 địa_phương	O
-"	O
+”	O
 .	O
 
 Vụ	O
@@ -127684,7 +127684,7 @@ An_ninh	I-ORGANIZATION
 Nội_địa	I-ORGANIZATION
 nói	O
 :	O
-"	O
+”	O
 Về	O
 mặt	O
 chính_sách	O
@@ -127907,10 +127907,10 @@ Tổng_thống	O
 Mỹ	B-LOCATION
 Donald_Trump	B-PERSON
 doạ	O
-"	O
+”	O
 huỷ_diệt	O
 hoàn_toàn	O
-"	O
+”	O
 nước	O
 này	O
 .	O
@@ -127953,7 +127953,7 @@ lợi_ích	O
 của	O
 chúng_ta	O
 .	O
-"	O
+”	O
 
 Thủ_tướng	O
 Anh	B-LOCATION
@@ -128004,7 +128004,7 @@ lợi_ích	O
 của	O
 chúng_ta	O
 .	O
-"	O
+”	O
 
 Trong	O
 bài	O
@@ -128042,7 +128042,7 @@ giá_trị	O
 của	O
 chúng_ta	O
 .	O
-"	O
+”	O
 
 Bà	O
 May	B-PERSON
@@ -128117,7 +128117,7 @@ nhiều	O
 vấn_đề	O
 quan_trọng	O
 .	O
-"	O
+”	O
 
 Cũng	O
 trong	O
@@ -128362,7 +128362,7 @@ của	O
 Việt_Nam	B-LOCATION
 .	O
 
-"	O
+”	O
 Việc	O
 Nga	B-LOCATION
 giao	O
@@ -128386,7 +128386,7 @@ an_ninh	O
 quốc_phòng	O
 của	O
 Việt_Nam	B-LOCATION
-"	O
+”	O
 ,	O
 bà	O
 Lê_Thị_Thu_Hằng	B-PERSON
@@ -129481,7 +129481,7 @@ ngày	O
 22/9	O
 .	O
 
-"	O
+”	O
 Một	O
 cuộc	O
 tấn_công	O
@@ -129523,7 +129523,7 @@ bắc	O
 tỉnh	B-LOCATION
 Hama	I-LOCATION
 ,	O
-"	O
+”	O
 -	O
 thông_báo	O
 của	O
@@ -129546,7 +129546,7 @@ bị	O
 tiêu_diệt	O
 .	O
 
-"	O
+”	O
 Mục_tiêu	O
 tấn_công	O
 là	O
@@ -129586,7 +129586,7 @@ khoảng	O
 300	O
 kilomet	O
 ,	O
-"	O
+”	O
 -	O
 theo	O
 thông_báo	O
@@ -129840,9 +129840,9 @@ là	O
 thông_thường	O
 giữa	O
 các	O
-"	O
+”	O
 đối_tác	O
-"	O
+”	O
 ,	O
 minh_chứng	O
 cho	O
@@ -129850,11 +129850,11 @@ việc	O
 hai	O
 nước	O
 trở_lại	O
-"	O
+”	O
 mối	O
 quan_hệ	O
 bình_thường	O
-"	O
+”	O
 .	O
 Dự_kiến	O
 ,	O
@@ -129988,7 +129988,7 @@ Nak-yon	I-PERSON
 nêu	O
 rõ	O
 :	O
-"	O
+”	O
 Thách_thức	O
 hàng_đầu	O
 mà	O
@@ -130035,7 +130035,7 @@ của	O
 nền	O
 kinh_tế	O
 thế_giới	O
-"	O
+”	O
 .	O
 Ông	O
 kêu_gọi	O
@@ -130578,7 +130578,7 @@ thẩm_quyền	O
 cao	O
 thông_qua	O
 .	O
-"	O
+”	O
 
 Hiện	O
 chính_phủ	O
@@ -131242,7 +131242,7 @@ bảng	O
 quảng_cáo	O
 với	O
 tiêu_đề	O
-"	O
+”	O
 Bây_giờ	O
 là	O
 thời_điểm	O
@@ -131257,7 +131257,7 @@ người	O
 Kurd	O
 tự_do	O
 !	O
-"	O
+”	O
 cũng	O
 được	O
 treo	O
@@ -131337,13 +131337,13 @@ an_ninh	O
 quốc_gia	O
 và	O
 Ankara	B-LOCATION
-"	O
+”	O
 sẽ	O
 làm	O
 những	O
 gì	O
 cần_thiết	O
-"	O
+”	O
 để	O
 bảo_vệ	O
 mình	O
@@ -131362,7 +131362,7 @@ nói	O
 với	O
 Reuters	B-ORGANIZATION
 :	O
-"	O
+”	O
 Đây	O
 là	O
 vài	O
@@ -131379,7 +131379,7 @@ chúng_tôi	O
 sẽ	O
 đứng	O
 vững	O
-"	O
+”	O
 .	O
 
 Những	O
@@ -131455,7 +131455,7 @@ thì	O
 đồng_nghĩa	O
 với	O
 một	O
-"	O
+”	O
 tự_sát	O
 chính_trị	O
 của	O
@@ -131487,7 +131487,7 @@ lại	O
 một	O
 lần	O
 nữa	O
-"	O
+”	O
 .	O
 
 Cuộc	O
@@ -131544,10 +131544,10 @@ lâu	O
 tuyên_bố	O
 họ	O
 có	O
-"	O
+”	O
 nhiệm_vụ	O
 đặc_biệt	O
-"	O
+”	O
 để	O
 bảo_vệ	O
 người	O
@@ -131570,7 +131570,7 @@ thân	O
 Iran	B-LOCATION
 .	O
 
-"	O
+”	O
 Chúng_tôi	O
 nghĩ	O
 những	O
@@ -131615,7 +131615,7 @@ của	O
 cuộc	O
 bỏ_phiếu	O
 này	O
-"	O
+”	O
 ,	O
 ông	O
 Zebari	B-PERSON
@@ -131675,7 +131675,7 @@ Nếu	O
 dân	O
 Iraq	B-LOCATION
 bị	O
-"	O
+”	O
 đe_doạ	O
 dùng	O
 vũ_lực	O
@@ -131687,7 +131687,7 @@ sẽ	O
 can_thiệp	O
 bằng	O
 quân_sự	O
-"	O
+”	O
 ,	O
 ông	O
 al-Abadi	B-PERSON
@@ -131714,9 +131714,9 @@ Idlib	B-LOCATION
 Những	O
 kẻ	O
 tấn_công	O
-"	O
+”	O
 lạ_mặt	O
-"	O
+”	O
 đã	O
 bắn	O
 chết	O
@@ -131770,9 +131770,9 @@ bởi	O
 những	O
 tay	O
 súng	O
-"	O
+”	O
 lạ_mặt	O
-"	O
+”	O
 ở	O
 phố	B-LOCATION
 al-Kornish	I-LOCATION
@@ -132245,11 +132245,11 @@ của	O
 Syria	B-LOCATION
 chỉ_trích	O
 là	O
-"	O
+”	O
 một	O
 trò_đùa	O
 ,	O
-"	O
+”	O
 tuy_nhiên	O
 đối_với	O
 người	O
@@ -132358,10 +132358,10 @@ Vietnam	B-ORGANIZATION
 
 Mỹ	B-LOCATION
 cố	O
-"	O
+”	O
 thọc_gậy_bánh_xe	O
 chiến_thắng	O
-"	O
+”	O
 của	O
 Nga-Syria	B-LOCATION
 
@@ -135281,12 +135281,12 @@ váy_xoè	O
 nữ_tính	O
 từng	O
 là	O
-"	O
+”	O
 Nữ_hoàng	O
 của	O
 mùa	O
 hè	O
-"	O
+”	O
 nhưng	O
 vẫn	O
 sẽ	O
@@ -135985,9 +135985,9 @@ vừa	O
 cho	O
 ra_mắt	O
 MV	O
-"	O
+”	O
 ITSABET	O
-"	O
+”	O
 .	O
 Ca_khúc	O
 được	O
@@ -136382,10 +136382,10 @@ Diễn_viên	O
 Hồng_Kông	B-LOCATION
 khoe	O
 nhan_sắc	O
-"	O
+”	O
 vượt	O
 thời_gian	O
-"	O
+”	O
 với	O
 gương_mặt	O
 tươi	O
@@ -136781,7 +136781,7 @@ Irina_Kushakova	B-PERSON
 cho	O
 rằng	O
 :	O
-"	O
+”	O
 Công_bằng	O
 mà	O
 nói	O
@@ -136799,7 +136799,7 @@ nhưng	O
 vẫn	O
 là	O
 phá_hoại	O
-"	O
+”	O
 .	O
 
 Nhà_chức_trách	O
@@ -136856,10 +136856,10 @@ hoa	O
 được	O
 sử_dụng	O
 và	O
-"	O
+”	O
 bị	O
 huỷ_hoại	O
-"	O
+”	O
 .	O
 
 PV	O
@@ -137071,7 +137071,7 @@ bà	O
 nội	O
 trong	O
 câu_chuyện	O
-"	O
+”	O
 Lần	O
 đầu	O
 thấy	O
@@ -137079,15 +137079,15 @@ cháu	O
 mặc	O
 quần	O
 rách	O
-"	O
+”	O
 khiến	O
 dân	O
 mạng	O
-"	O
+”	O
 không_thể	O
 không	O
 yêu	O
-"	O
+”	O
 .	O
 
 Mới_đây	O
@@ -137105,7 +137105,7 @@ chia_sẻ	O
 hình_ảnh	O
 và	O
 câu_chuyện	O
-"	O
+”	O
 Bà	O
 nội	O
 khi	O
@@ -137117,7 +137117,7 @@ mặc	O
 quần	O
 rách	O
 gối	O
-"	O
+”	O
 ,	O
 thu_hút	O
 hàng	O
@@ -137274,9 +137274,9 @@ gái	O
 nhỏ_bé	O
 đang	O
 bị	O
-"	O
+”	O
 hở_hang	O
-"	O
+”	O
 đôi_chút	O
 .	O
 Bức	O
@@ -137388,10 +137388,10 @@ trắng	O
 anh	O
 đã	O
 hứng	O
-"	O
+”	O
 cơn	O
 mưa	O
-"	O
+”	O
 những	O
 câu	O
 mắng	O
@@ -137401,7 +137401,7 @@ của	O
 bà	O
 nội	O
 như	O
-"	O
+”	O
 Đúng	O
 là	O
 dở_hơi	O
@@ -137413,16 +137413,16 @@ nhuộm	O
 tóc	O
 trắng	O
 ,	O
-"	O
+”	O
 Nhuộm	O
 xanh	O
 ,	O
 đỏ	O
 cũng	O
 được	O
-"	O
+”	O
 ,	O
-"	O
+”	O
 Nhuộm	O
 trắng	O
 xấu	O
@@ -137431,7 +137431,7 @@ chứ	O
 còn	O
 sao	O
 nữa	O
-"	O
+”	O
 ...	O
 Phần_lớn	O
 mọi	O
@@ -137446,7 +137446,7 @@ bà	O
 cháu	O
 nói_chuyện	O
 :	O
-"	O
+”	O
 Bà	O
 nội	O
 dễ_thương	O
@@ -137459,9 +137459,9 @@ nhớ	O
 đến	O
 bà	O
 mình	O
-"	O
+”	O
 hay	O
-"	O
+”	O
 Bà	O
 mắng	O
 gì	O
@@ -137472,7 +137472,7 @@ quá	O
 ,	O
 nhớ	O
 bà	O
-"	O
+”	O
 .	O
 Ảnh	O
 :	O
@@ -137602,7 +137602,7 @@ cụ	O
 đã	O
 trả_lời	O
 bất_ngờ	O
-"	O
+”	O
 Mình	O
 thích	O
 thì	O
@@ -137619,7 +137619,7 @@ gì	O
 thì	O
 mới	O
 học	O
-"	O
+”	O
 .	O
 
 Có	O
@@ -137647,10 +137647,10 @@ chất	O
 chơi	O
 khiến	O
 dân_tình	O
-"	O
+”	O
 ngả	O
 mũ	O
-"	O
+”	O
 .	O
 Thoải_mái	O
 ,	O
@@ -137675,14 +137675,14 @@ bà	O
 Đài_Loan	B-LOCATION
 .	O
 
-"	O
+”	O
 Gừng	O
 càng	O
 già	O
 ,	O
 càng	O
 cay	O
-"	O
+”	O
 ,	O
 từ	O
 túi	O
@@ -137775,10 +137775,10 @@ bà	O
 khiến	O
 giới	O
 trẻ	O
-"	O
+”	O
 phát	O
 cuồng	O
-"	O
+”	O
 .	O
 
 Linh_Hoàng	B-PERSON
@@ -137914,10 +137914,10 @@ Zing.vn	O
 Hoa_hậu	O
 Kỳ_Duyên	B-PERSON
 diện	O
-"	O
+”	O
 cả	O
 cây	O
-"	O
+”	O
 hàng_hiệu	O
 ở	O
 Tuần	B-MISCELLANEOUS
@@ -138157,10 +138157,10 @@ răng	O
 hô	O
 ,	O
 nhan_sắc	O
-"	O
+”	O
 vô_cùng	O
 thê_thảm	O
-"	O
+”	O
 ,	O
 tân_Hoa_hậu	O
 Hongkong	B-LOCATION
@@ -139222,7 +139222,7 @@ sinh_vật_học	O
 Irina_Kushakova	B-PERSON
 bức_xúc	O
 :	O
-"	O
+”	O
 Những	O
 bức	O
 ảnh	O
@@ -139233,7 +139233,7 @@ nhưng	O
 là	O
 hành_vi	O
 phá_hoại	O
-"	O
+”	O
 .	O
 
 Nhà_chức_trách	O
@@ -139270,7 +139270,7 @@ phạt	O
 phù_hợp	O
 .	O
 
-"	O
+”	O
 Số	O
 tiền	O
 Natalia_Gurova	B-PERSON
@@ -139286,7 +139286,7 @@ cô	O
 đã	O
 hái	O
 bỏ	O
-"	O
+”	O
 ,	O
 quan_chức	O
 địa_phương	O
@@ -139353,10 +139353,10 @@ muốn	O
 thể_hiện	O
 khả_năng	O
 catwalk	O
-"	O
+”	O
 thần	O
 sầu	O
-"	O
+”	O
 với	O
 một	O
 cú	O
@@ -139459,10 +139459,10 @@ muốn	O
 thể_hiện	O
 khả_năng	O
 catwalk	O
-"	O
+”	O
 thần	O
 sầu	O
-"	O
+”	O
 của	O
 mình	O
 bằng	O
@@ -139483,9 +139483,9 @@ một	O
 cú	O
 xoay	O
 người	O
-"	O
+”	O
 dằn_mặt	O
-"	O
+”	O
 dàn	O
 thí_sinh	O
 .	O
@@ -139526,9 +139526,9 @@ quê	O
 thế_nào	O
 khi	O
 phải	O
-"	O
+”	O
 bơi	O
-"	O
+”	O
 trước	O
 mặt	O
 nhiều	O
@@ -139585,10 +139585,10 @@ bản_thân	O
 cô	O
 nàng	O
 đã	O
-"	O
+”	O
 bung	O
 lụa	O
-"	O
+”	O
 quá_đà	O
 mà	O
 thôi	O
@@ -139662,7 +139662,7 @@ cô	O
 muốn	O
 khẳng_định	O
 :	O
-"	O
+”	O
 Tôi	O
 biết	O
 bơi	O
@@ -139686,7 +139686,7 @@ người	O
 lo	O
 cho	O
 tôi	O
-"	O
+”	O
 .	O
 
 Minh_Hoàng_Theo_Đời	O
@@ -139967,7 +139967,7 @@ khen_ngợi	O
 Cô	O
 chia_sẻ	O
 :	O
-"	O
+”	O
 Thời_gian	O
 qua	O
 khi	O
@@ -140035,7 +140035,7 @@ các	O
 bạn	O
 đừng	O
 cười	O
-"	O
+”	O
 .	O
 
 Trong	O
@@ -140102,10 +140102,10 @@ người	O
 đẹp	O
 trong	O
 phim	O
-"	O
+”	O
 Hoa_hậu	O
 mồ_côi	O
-"	O
+”	O
 .	O
 
 Một	O
@@ -140113,10 +140113,10 @@ cảnh	O
 quay	O
 trong	O
 phim	O
-"	O
+”	O
 Hoa_hậu	O
 mồ_côi	O
-"	O
+”	O
 .	O
 
 Giáng_My	B-PERSON
@@ -140157,11 +140157,11 @@ luôn	O
 được	O
 mệnh_danh	O
 là	O
-"	O
+”	O
 mỹ_nhân	O
 không	O
 tuổi	O
-"	O
+”	O
 bởi	O
 dù	O
 đã	O
@@ -140208,7 +140208,7 @@ nam	O
 thần	O
 '	O
 
-"	O
+”	O
 Có	O
 nhiều	O
 bài	O
@@ -140237,7 +140237,7 @@ không	O
 đến	O
 mức	O
 đấy	O
-"	O
+”	O
 ,	O
 nam	O
 ca_sĩ	O
@@ -141039,7 +141039,7 @@ xin	O
 chịu	O
 .	O
 
-"	O
+”	O
 Tham_gia	O
 Cặp	O
 đôi	O
@@ -141058,7 +141058,7 @@ sang	O
 dòng	O
 nhạc	O
 này	O
-"	O
+”	O
 .	O
 Ảnh	O
 :	O
@@ -142241,11 +142241,11 @@ Park_Hyung_Sik	B-PERSON
 .	O
 
 Sau	O
-"	O
+”	O
 Phẩm_chất	O
 quý	O
 ông	O
-"	O
+”	O
 (	O
 2012	O
 )	O
@@ -142275,17 +142275,17 @@ thành_công	O
 tại	O
 Mỹ	B-LOCATION
 -	O
-"	O
+”	O
 Suits	O
-"	O
+”	O
 .	O
 
 Điều	O
 đặc_biệt	O
 là	O
-"	O
+”	O
 Suits	O
-"	O
+”	O
 không	O
 hề	O
 có	O
@@ -142330,9 +142330,9 @@ thích	O
 Park_Hyung_Sik	B-PERSON
 .	O
 
-"	O
+”	O
 Suits	O
-"	O
+”	O
 là	O
 một	O
 bộ	O
@@ -142423,13 +142423,13 @@ năm	O
 kể	O
 từ	O
 sau	O
-"	O
+”	O
 A	O
 Gentleman	O
 '	O
 s	O
 Dignity	O
-"	O
+”	O
 (	O
 Phẩm_chất	O
 quý	O
@@ -142444,9 +142444,9 @@ vai	O
 diễn	O
 Choi_Kyung_Seo	B-PERSON
 trong	O
-"	O
+”	O
 Suits	O
-"	O
+”	O
 ,	O
 anh	O
 sẽ	O
@@ -142454,9 +142454,9 @@ sẽ	O
 vai	O
 một	O
 luật_sư	O
-"	O
+”	O
 huyền_thoại	O
-"	O
+”	O
 làm_việc	O
 tại	O
 công_ty	O
@@ -142479,10 +142479,10 @@ tiếp_theo	O
 của	O
 mình	O
 sau	O
-"	O
+”	O
 Strong_Woman_Do_Bong	B-MISCELLANEOUS
 Soon	I-MISCELLANEOUS
-"	O
+”	O
 ,	O
 Park_Hyung_Sik	B-PERSON
 sẽ	O
@@ -142530,9 +142530,9 @@ thành_công	O
 được	O
 kiểm_chứng	O
 của	O
-"	O
+”	O
 Suits	O
-"	O
+”	O
 phiên_bản	O
 gốc	O
 ,	O
@@ -142559,9 +142559,9 @@ Hàn	I-MISCELLANEOUS
 là	O
 lần	O
 đầu_tiên	O
-"	O
+”	O
 Suits	O
-"	O
+”	O
 được	O
 mua	O
 bản_quyền	O
@@ -142582,18 +142582,18 @@ Hàn	I-LOCATION
 còn	O
 Kim_Jin_Woo	B-PERSON
 của	O
-"	O
+”	O
 Mystery_Queen	O
-"	O
+”	O
 sẽ	O
 đảm_nhiệm	O
 vai_trò	O
 đạo_diễn	O
 .	O
 
-"	O
+”	O
 Suits	O
-"	O
+”	O
 dự_kiến	O
 sẽ	O
 công_chiếu	O
@@ -142923,12 +142923,12 @@ người	O
 mẹ	O
 .	O
 
-"	O
+”	O
 Mẹ	O
 và	O
 con	O
 gái	O
-"	O
+”	O
 -	O
 hình_ảnh	O
 Bích_Hạnh	B-PERSON
@@ -143100,12 +143100,12 @@ lại	O
 việc	O
 học_hành	O
 ,	O
-"	O
+”	O
 theo	O
 chồng	O
 về	O
 dinh	O
-"	O
+”	O
 .	O
 17	O
 tuổi	O
@@ -143376,18 +143376,18 @@ cô	O
 chưa	O
 từng	O
 can_thiệp	O
-"	O
+”	O
 dao_kéo	O
-"	O
+”	O
 
 Bà	O
 mẹ	O
 ba	O
 con_trẻ	O
 đẹp	O
-"	O
+”	O
 ăn_đứt	O
-"	O
+”	O
 gái	O
 đôi_mươi	O
 
@@ -143417,7 +143417,7 @@ trẻ	O
 đẹp	O
 hơn	O
 
-"	O
+”	O
 Có_lẽ	O
 những	O
 nỗi	O
@@ -143437,7 +143437,7 @@ vô_tư	O
 và	O
 trẻ_trung	O
 hơn	O
-"	O
+”	O
 ,	O
 Hạnh	B-PERSON
 chia_sẻ	O
@@ -143494,9 +143494,9 @@ kín_đáo	O
 thanh_lịch	O
 .	O
 
-"	O
+”	O
 Ngọc_nữ	O
-"	O
+”	O
 Hàn_Quốc_thanh_lịch	O
 khi	O
 diện	O
@@ -143524,14 +143524,14 @@ chia_tay	O
 Trường_Giang	B-PERSON
 ?	O
 
-"	O
+”	O
 Thực_tế	O
 là	O
 ,	O
 KHÔNG	O
 SAO	O
 ĐÂU	O
-"	O
+”	O
 -	O
 điều	O
 mà	O
@@ -143579,12 +143579,12 @@ công_việc	O
 Dòng	O
 trạng_thái	O
 của	O
-"	O
+”	O
 ông	O
 hoàng	O
 nhạc	B-MISCELLANEOUS
 Việt	I-MISCELLANEOUS
-"	O
+”	O
 nhạn	O
 chóng	O
 nhận	O
@@ -143645,7 +143645,7 @@ lo_lắng	O
 Cô	O
 viết	O
 :	O
-"	O
+”	O
 Đừng	O
 bao_giờ	O
 tiết_kiệm	O
@@ -143674,7 +143674,7 @@ vì	O
 nụ	O
 cười	O
 đó	O
-"	O
+”	O
 .	O
 Nhiều	O
 người	O
@@ -143869,7 +143869,7 @@ chơi	O
 với	O
 Hương_Giang	B-PERSON
 :	O
-"	O
+”	O
 Nói	O
 cho	O
 mọi	O
@@ -143928,7 +143928,7 @@ Công_Chúa	O
 mới	O
 không	O
 chơi	O
-"	O
+”	O
 .	O
 
 Có_thể	O
@@ -144394,11 +144394,11 @@ thành_tích	O
 nể	O
 như	O
 :	O
-"	O
+”	O
 phim	O
 hay	O
 nhất	O
-"	O
+”	O
 tại	O
 Atlanta_Underground_Film_Festival	B-MISCELLANEOUS
 .	O
@@ -144412,40 +144412,40 @@ chiến_thắng	O
 ở	O
 4	O
 hạng_mục	O
-"	O
+”	O
 Quay_phim	O
 xuất_sắc	O
 nhất	O
-"	O
+”	O
 ,	O
-"	O
+”	O
 Giải	O
 khán_giả	O
 bình_chọn	O
-"	O
+”	O
 ,	O
-"	O
+”	O
 Phim	O
 Kinh_Dị	O
 Hay	O
 Nhất	O
-"	O
+”	O
 ,	O
-"	O
+”	O
 Phim	O
 hay	O
 nhất	O
 cho	O
 mọi	O
 thể_loại	O
-"	O
+”	O
 cùng	O
 đề_cử	O
-"	O
+”	O
 Đạo_diễn	O
 xuất_sắc	O
 nhất	O
-"	O
+”	O
 cho	O
 Adam_Ripp	B-PERSON
 
@@ -144834,7 +144834,7 @@ phần	O
 phim	O
 chia_sẻ	O
 :	O
-"	O
+”	O
 Sau	O
 khi	O
 xem	O
@@ -144855,7 +144855,7 @@ trông	O
 họ	O
 quá	O
 lịch_lãm	O
-"	O
+”	O
 .	O
 
 Nói	O
@@ -144981,10 +144981,10 @@ vũ_khí	O
 siêu	O
 hiện_đại	O
 và	O
-"	O
+”	O
 ảo	O
 diệu	O
-"	O
+”	O
 .	O
 
 Tiếp_nối	O
@@ -145140,9 +145140,9 @@ sự	O
 trở_lại	O
 bộ	O
 ba	O
-"	O
+”	O
 quyền_lực	O
-"	O
+”	O
 Taron_Egerton	B-PERSON
 (	O
 Eggsy_Unwin	B-PERSON
@@ -145261,10 +145261,10 @@ trong	O
 phim	O
 đều	O
 có	O
-"	O
+”	O
 đất	O
 diễn	O
-"	O
+”	O
 ,	O
 họ	O
 “	O
@@ -145375,7 +145375,7 @@ Một	O
 khán_giả	O
 bình_luận	O
 :	O
-"	O
+”	O
 Sau	O
 khi	O
 bị	O
@@ -145395,7 +145395,7 @@ vô_lý	O
 và	O
 phi	O
 thực_tế	O
-"	O
+”	O
 .	O
 
 Hai	O
@@ -145905,7 +145905,7 @@ hoàn_hảo	O
 quá	O
 .	O
 
-"	O
+”	O
 Và	O
 điều	O
 quan_trọng	O
@@ -145927,7 +145927,7 @@ ghi_điểm	O
 trước	O
 ban	O
 giám_khảo	O
-"	O
+”	O
 -	O
 người	O
 đẹp	O
@@ -147049,10 +147049,10 @@ với	O
 những	O
 ca_khúc	O
 đã	O
-"	O
+”	O
 đóng	O
 đinh	O
-"	O
+”	O
 như	O
 Hurt	O
 (	O
@@ -147205,7 +147205,7 @@ chú_trọng	O
 đến	O
 .	O
 
-"	O
+”	O
 Việc	O
 sử_dụng	O
 lời	B-MISCELLANEOUS
@@ -147255,7 +147255,7 @@ lên	O
 sân_khấu	O
 toả	O
 sáng	O
-"	O
+”	O
 -	O
 Nhạc_sĩ	O
 Dương_Cầm	B-PERSON
@@ -147352,9 +147352,9 @@ nhiều	O
 màu_sắc	O
 mới_mẻ	O
 để	O
-"	O
+”	O
 biến_hoá	O
-"	O
+”	O
 bài	O
 hát	O
 mang	O
@@ -148444,7 +148444,7 @@ phỏng_vấn	O
 Yoon_Ah	B-PERSON
 tiết_lộ	O
 :	O
-"	O
+”	O
 Mọi	O
 người	O
 hỏi	O
@@ -148500,7 +148500,7 @@ rằng	O
 nó	O
 khá	O
 đẹp	O
-"	O
+”	O
 .	O
 
 Mái_tóc	O
@@ -148611,7 +148611,7 @@ nhà	O
 SM	B-ORGANIZATION
 tuyên_bố	O
 :	O
-"	O
+”	O
 Tôi	O
 thấy	O
 khá	O
@@ -148735,19 +148735,19 @@ phối_hợp	O
 ban_hành	O
 văn_bản	O
 quy_định	O
-"	O
+”	O
 tỷ_lệ	O
 chi_phí_sản_xuất	O
 phim	O
-"	O
+”	O
 .	O
 
 Bảng	O
 thù_lao	O
-"	O
+”	O
 trên	O
 trời	O
-"	O
+”	O
 được	O
 công_bố	O
 của	O
@@ -148777,7 +148777,7 @@ vượt	O
 40%	O
 chi_phí_sản_xuất	O
 .	O
-"	O
+”	O
 Trong	O
 đó	O
 ,	O
@@ -148793,7 +148793,7 @@ hơn	O
 tổng	O
 thù_lao	O
 nghệ_sĩ	O
-"	O
+”	O
 ,	O
 trích_dẫn	O
 văn_bản	O
@@ -148848,7 +148848,7 @@ mức	O
 bất_hợp_lý	O
 .	O
 
-"	O
+”	O
 Tỷ_lệ	O
 mất	O
 cân_bằng	O
@@ -148888,7 +148888,7 @@ tổng	O
 kinh_phí	O
 sản_xuất	O
 phim	O
-"	O
+”	O
 ,	O
 văn_bản	O
 từ	O
@@ -152950,10 +152950,10 @@ tập	O
 3	O
 của	O
 chương_trình	O
-"	O
+”	O
 Mặt_trời	O
 bé_con	O
-"	O
+”	O
 vừa	O
 hé	O
 lộ	O
@@ -153382,7 +153382,7 @@ theo	O
 ABC	B-ORGANIZATION
 .	O
 
-"	O
+”	O
 Tôi	O
 bảo	O
 ông	O
@@ -153409,12 +153409,12 @@ không	O
 anh	O
 ?	O
 '	O
-"	O
+”	O
 bà	O
 nhớ	O
 lại	O
 .	O
-"	O
+”	O
 Chồng	O
 tôi	O
 là	O
@@ -153430,7 +153430,7 @@ bảo	O
 rồi	O
 .	O
 '	O
-"	O
+”	O
 
 Bà	O
 Finchum	B-PERSON
@@ -153546,7 +153546,7 @@ mình	O
 từng	O
 biết	O
 và	O
-"	O
+”	O
 là	O
 món	O
 quà	O
@@ -153555,7 +153555,7 @@ nhất	O
 trong	O
 đời	O
 tôi	O
-"	O
+”	O
 .	O
 
 Khi	O
@@ -153585,7 +153585,7 @@ và	O
 Florida	B-LOCATION
 .	O
 
-"	O
+”	O
 Số	O
 tiền	O
 này	O
@@ -153604,7 +153604,7 @@ gặp	O
 nạn	O
 trong	O
 bão	O
-"	O
+”	O
 ,	O
 ông	O
 Mack	B-PERSON
@@ -155417,7 +155417,7 @@ sử_dụng	O
 và	O
 bị	O
 huỷ_hoại	O
-"	O
+”	O
 ,	O
 cơ_quan_chức_năng	O
 phát_biểu	O
@@ -156195,9 +156195,9 @@ cưới	O
 đáng	O
 trông_đợi	O
 bởi	O
-"	O
+”	O
 Đông_Phương_Bất_Bại	B-PERSON
-"	O
+”	O
 có	O
 tới	O
 ba	O
@@ -156208,9 +156208,9 @@ còn	O
 Đỗ_Thuần	B-PERSON
 cũng	O
 là	O
-"	O
+”	O
 phù_rể	O
-"	O
+”	O
 quen_thuộc	O
 trong	O
 đám_cưới	O
@@ -156227,7 +156227,7 @@ sắp	O
 cưới	O
 .	O
 
-"	O
+”	O
 Trần_Kiều_Ân	B-PERSON
 ,	O
 Đỗ_Thuần	B-PERSON
@@ -156243,7 +156243,7 @@ là	O
 thông_tin	O
 được	O
 xác_thực	O
-"	O
+”	O
 ,	O
 nguồn	O
 tin	O
@@ -156282,7 +156282,7 @@ kết_thúc	O
 show	O
 .	O
 
-"	O
+”	O
 Giữa	O
 họ	O
 còn	O
@@ -156305,7 +156305,7 @@ vai_trò	O
 như	O
 ông	O
 mai	O
-"	O
+”	O
 ,	O
 nguồn	O
 tin	O
@@ -156542,7 +156542,7 @@ thương_tiếc	O
 
 Trong	O
 MV	O
-"	O
+”	O
 Tình_yêu	O
 không	O
 đủ	O
@@ -156550,7 +156550,7 @@ giữ	O
 người	O
 mình	O
 yêu	O
-"	O
+”	O
 ,	O
 lấy	O
 cảm_hứng	O
@@ -156790,7 +156790,7 @@ MV	O
 :	O
 T.L	B-PERSON
 
-"	O
+”	O
 Tình_yêu	O
 không	O
 đủ	O
@@ -156798,7 +156798,7 @@ giữ	O
 người	O
 mình	O
 yêu	O
-"	O
+”	O
 là	O
 một	O
 sáng_tác	O
@@ -157060,7 +157060,7 @@ cũng	O
 dịu_dàng	O
 đâu	O
 nghen	O
-"	O
+”	O
 .	O
 
 Đăng_Khôi	B-PERSON
@@ -157663,7 +157663,7 @@ quán	O
 bar	O
 .	O
 
-"	O
+”	O
 Tôi	O
 đau_đớn	O
 ,	O
@@ -157686,7 +157686,7 @@ quốc_gia	O
 tôi	O
 vô_cùng	O
 yêu_mến	O
-"	O
+”	O
 ,	O
 Jordan	B-PERSON
 Vogt-Roberts	I-PERSON
@@ -157699,7 +157699,7 @@ nhiệm_kỳ	O
 2017-2020	O
 bày_tỏ	O
 :	O
-"	O
+”	O
 Tôi	O
 có	O
 tình	O
@@ -157790,7 +157790,7 @@ nhất	O
 và	O
 đúng_đắn	O
 nhất	O
-"	O
+”	O
 .	O
 
 Jordan	B-PERSON
@@ -158118,12 +158118,12 @@ IT	O
 Sắp	O
 tới	O
 đây	O
-"	O
+”	O
 Lời	O
 thì_thầm	O
 của	O
 quỷ	O
-"	O
+”	O
 sẽ	O
 mang	O
 đến	O
@@ -158427,10 +158427,10 @@ cho	O
 mọi	O
 người	O
 có_thể	O
-"	O
+”	O
 quên	O
 đi	O
-"	O
+”	O
 ,	O
 đồng_thời	O
 bên	O
@@ -158698,11 +158698,11 @@ concert	O
 có	O
 tựa	O
 đề	O
-"	O
+”	O
 Mặt_trời	O
 của	O
 tôi	O
-"	O
+”	O
 được	O
 diễn	O
 ra	O
@@ -158876,14 +158876,14 @@ vượt	O
 thời_gian	O
 như	O
 :	O
-"	O
+”	O
 Hà_Nội	B-MISCELLANEOUS
 ,	I-MISCELLANEOUS
 niềm	I-MISCELLANEOUS
 tin	I-MISCELLANEOUS
 và	I-MISCELLANEOUS
 hy_vọng	I-MISCELLANEOUS
-"	O
+”	O
 (	O
 ca_khúc	O
 đánh_dấu	O
@@ -158907,21 +158907,21 @@ toàn_quốc	O
 1996	O
 )	O
 ,	O
-"	O
+”	O
 Giai_điệu	O
 Tổ_quốc	O
-"	O
+”	O
 ,	O
-"	O
+”	O
 Người	O
 chiến_sĩ	O
 ấy	O
-"	O
+”	O
 ,	O
-"	O
+”	O
 Người	B-MISCELLANEOUS
 Hà_Nội	I-MISCELLANEOUS
-"	O
+”	O
 ...	O
 Bên	O
 cạnh	O
@@ -158935,36 +158935,36 @@ tác_phẩm	O
 nước_ngoài	O
 nổi_tiếng	O
 :	O
-"	O
+”	O
 Besame	O
 mucho	O
-"	O
+”	O
 ,	O
-"	O
+”	O
 O	O
 solemio	O
-"	O
+”	O
 ,	O
-"	O
+”	O
 Mama	O
-"	O
+”	O
 ,	O
-"	O
+”	O
 Chiều_Maxtcova	B-MISCELLANEOUS
-"	O
+”	O
 ,	O
-"	O
+”	O
 Chiều	O
 hải_cảng	O
-"	O
+”	O
 ,	O
-"	O
+”	O
 Giờ	O
 này	O
 anh	O
 ở	O
 đâu	O
-"	O
+”	O
 .	O
 
 Với	O
@@ -159300,11 +159300,11 @@ chói_chang	O
 mà	O
 nhìn	O
 vẫn	O
-"	O
+”	O
 chất	O
 phát	O
 ngất	O
-"	O
+”	O
 
 Sơn	O
 móng	O
@@ -162720,7 +162720,7 @@ Hồng_Đăng	B-PERSON
 bố	O
 sẽ	O
 tham_gia	O
-"	O
+”	O
 Bố	O
 ơi	O
 !	O
@@ -162729,7 +162729,7 @@ Mình	O
 đâu	O
 thế	O
 ?	O
-"	O
+”	O
 mùa	O
 3	O
 hiện	O
@@ -163129,7 +163129,7 @@ chính_thức	O
 xác_nhận	O
 tham_gia	O
 chương_trình	O
-"	O
+”	O
 Bố	O
 ơi	O
 !	O
@@ -163138,7 +163138,7 @@ Mình	O
 đâu	O
 thế	O
 ?	O
-"	O
+”	O
 mùa	O
 3	O
 .	O
@@ -164442,9 +164442,9 @@ Tạ_Nam	B-PERSON
 Ngô_Kinh	B-PERSON
 trở_thành	O
 chú_rể	O
-"	O
+”	O
 bất_đắc_dĩ	O
-"	O
+”	O
 khi	O
 phải	O
 chống	O
@@ -164501,10 +164501,10 @@ Da_LAB	B-ORGANIZATION
 đã	O
 làm_nên	O
 một	O
-"	O
+”	O
 món	O
 trộn	O
-"	O
+”	O
 Rap	O
 với	O
 các	O
@@ -164533,21 +164533,21 @@ nhưng	O
 luôn	O
 tuyệt_vời	O
 vì	O
-"	O
+”	O
 có	O
 đúng	O
 có	O
 sai	O
-"	O
+”	O
 ...	O
 
-"	O
+”	O
 3	O
 chàng	O
 lính	O
 ngự	O
 lâm	O
-"	O
+”	O
 của	O
 Da_Lab	B-ORGANIZATION
 đang	O
@@ -166312,10 +166312,10 @@ một	O
 ngón	O
 tay	O
 là	O
-"	O
+”	O
 nhân_vật	O
 chính	O
-"	O
+”	O
 khiến	O
 người	O
 xem	O
@@ -167537,9 +167537,9 @@ hậu_trường	O
 khiến	O
 nhiều	O
 người	O
-"	O
+”	O
 ghen_tị	O
-"	O
+”	O
 .	O
 Anh	O
 chăm_sóc	O
@@ -167586,10 +167586,10 @@ với	O
 loạt	O
 ảnh	O
 sexy	O
-"	O
+”	O
 bỏng	O
 mắt	O
-"	O
+”	O
 .	O
 
 Khám_phá	O
@@ -168448,14 +168448,14 @@ Quang_Hà	B-PERSON
 ,	O
 chuẩn_bị	O
 cho	O
-"	O
+”	O
 Live_Concert	O
 2017	O
 -	O
 Trăm_năm	O
 không	O
 quên	O
-"	O
+”	O
 .	O
 
 Dù	O
@@ -169805,7 +169805,7 @@ QCT	B-ORGANIZATION
 cho	O
 biết	O
 .	O
-"	O
+”	O
 Với	O
 Asus_ZenFone	B-MISCELLANEOUS
 4	I-MISCELLANEOUS
@@ -169977,7 +169977,7 @@ TPHCM	B-LOCATION
 tổ_chức	O
 hội_thảo	O
 về	O
-"	O
+”	O
 Nghiên_cứu	O
 thiết_kế	O
 và	O
@@ -170004,7 +170004,7 @@ thực	O
 hiện	O
 đề	O
 tài	O
-"	O
+”	O
 Nghiên_cứu	O
 thiết_kế	O
 và	O
@@ -171153,7 +171153,7 @@ núi_lửa	O
 AFP	B-ORGANIZATION
 .	O
 
-"	O
+”	O
 Mức_độ	O
 hoạt_động	O
 của	O
@@ -171177,7 +171177,7 @@ các	O
 cơn	O
 rung	O
 chấn	O
-"	O
+”	O
 ,	O
 Reuters	B-ORGANIZATION
 dẫn	O
@@ -171269,7 +171269,7 @@ tới	O
 AFP	B-ORGANIZATION
 .	O
 
-"	O
+”	O
 Các	O
 số_liệu	O
 cho	O
@@ -171339,7 +171339,7 @@ dâng	O
 trào	O
 lên	O
 bề_mặt	O
-"	O
+”	O
 ,	O
 đài	O
 ABC	B-ORGANIZATION
@@ -171484,10 +171484,10 @@ Reuters	B-ORGANIZATION
 Indonesia	B-LOCATION
 nằm	O
 trên	O
-"	O
+”	O
 Vành_đai	O
 Lửa_Thái_Bình_Dương	O
-"	O
+”	O
 ,	O
 nơi	O
 các	O
@@ -171723,10 +171723,10 @@ VinaPhone	B-ORGANIZATION
 sẽ	O
 thực_hiện	O
 quy_trình	O
-"	O
+”	O
 một	O
 cửa	O
-"	O
+”	O
 khi	O
 triển_khai	O
 dịch_vụ	O
@@ -174213,10 +174213,10 @@ hình_dạng	O
 giống	O
 người	O
 có_vẻ	O
-"	O
+”	O
 đáng	O
 sợ	O
-"	O
+”	O
 nhưng	O
 một_số	O
 nhà_khoa_học	O
@@ -176784,7 +176784,7 @@ ngày	O
 29/9	O
 sắp	O
 tới	O
-"	O
+”	O
 .	O
 
 Trải_nghiệm	O
@@ -177376,7 +177376,7 @@ với	O
 bạn_bè	O
 .	O
 
-"	O
+”	O
 Ứng_dụng	O
 Facebook	O
 Messenger	O
@@ -177385,7 +177385,7 @@ bị	O
 văng	O
 cực_kỳ	O
 khó_chịu	O
-"	O
+”	O
 ,	O
 Nguyễn_Minh_Tân	B-PERSON
 -	O
@@ -177449,9 +177449,9 @@ Những	O
 người	O
 dùng	O
 còn	O
-"	O
+”	O
 trung_thành	O
-"	O
+”	O
 với	O
 iOS	O
 9	O
@@ -177488,12 +177488,12 @@ nguồn	O
 màn_hình	O
 hiện	O
 chữ	O
-"	O
+”	O
 Slide	O
 to	O
 power	O
 off	O
-"	O
+”	O
 (	O
 trượt	O
 để	O
@@ -179667,7 +179667,7 @@ viễn_thông	O
 công_nghệ_thông_tin	O
 .	O
 
-"	O
+”	O
 Với	O
 quyết_tâm	O
 và	O
@@ -179704,7 +179704,7 @@ với	O
 chất_lượng	O
 tốt	O
 hơn	O
-"	O
+”	O
 đại_diện	O
 Cục	B-ORGANIZATION
 Viễn_thông	I-ORGANIZATION
@@ -181451,11 +181451,11 @@ chiếc	O
 OPPO	B-MISCELLANEOUS
 R11	I-MISCELLANEOUS
 phiên_bản	O
-"	O
+”	O
 King	O
 of	O
 Glory	O
-"	O
+”	O
 sẽ	O
 chính_thức	O
 bán	O
@@ -181700,10 +181700,10 @@ iPhone	O
 .	O
 Tuy_nhiên	O
 ,	O
-"	O
+”	O
 Nhà	O
 Táo	O
-"	O
+”	O
 không	O
 cho	O
 biết	O
@@ -181740,11 +181740,11 @@ Apple	B-ORGANIZATION
 đã	O
 dành	O
 thêm	O
-"	O
+”	O
 một	O
 món	O
 ngon	O
-"	O
+”	O
 cho	O
 cụm	O
 camera	O
@@ -181925,14 +181925,14 @@ TrueDepth	O
 đọc	O
 và	O
 phân_tích	O
-"	O
+”	O
 hơn	O
 50	O
 chuyển_động	O
 cơ	O
 mặt_khác	O
 nhau	O
-"	O
+”	O
 và	O
 thể_hiện	O
 lại	O
@@ -182376,9 +182376,9 @@ này	O
 có_thể	O
 xem	O
 là	O
-"	O
+”	O
 bình_thường	O
-"	O
+”	O
 dù	O
 lần	O
 đầu	O
@@ -182489,9 +182489,9 @@ dùng	O
 nhìn_chung	O
 có	O
 xu_hướng	O
-"	O
+”	O
 bỏ_qua	O
-"	O
+”	O
 iPhone	O
 8	O
 để	O
@@ -182870,7 +182870,7 @@ Huawei	B-ORGANIZATION
 cho	O
 biết	O
 :	O
-"	O
+”	O
 Huawei	B-ORGANIZATION
 cam_kết	O
 thúc_đẩy	O
@@ -182950,7 +182950,7 @@ hệ_sinh_thái	O
 trong	O
 chuỗi	O
 ngành	O
-"	O
+”	O
 .	O
 
 Ông	O
@@ -182967,7 +182967,7 @@ Intel	B-ORGANIZATION
 ,	O
 nói	O
 :	O
-"	O
+”	O
 Intel	B-ORGANIZATION
 đã	O
 tích_cực	O
@@ -183033,7 +183033,7 @@ Trung_Quốc	B-LOCATION
 và	O
 trên	O
 toàn_cầu	O
-"	O
+”	O
 .	O
 Các	O
 tiêu_chuẩn	O
@@ -184303,14 +184303,14 @@ thế_giới	O
 .	O
 
 Đề_tài	O
-"	O
+”	O
 Smarthome	O
 cho	O
 các	O
 gia_đình	O
 nông_thôn	O
 Việt_Nam	B-LOCATION
-"	O
+”	O
 của	O
 Hiếu	B-PERSON
 và	O
@@ -185618,7 +185618,7 @@ cả	O
 một	O
 trải_nghiệm	O
 xe_hơi	O
-"	O
+”	O
 .	O
 
 14	O
@@ -185847,7 +185847,7 @@ mang	O
 tính	O
 nền_tảng	O
 (	O
-"	O
+”	O
 lợi_ích	O
 số	O
 đông	O
@@ -189111,14 +189111,14 @@ Good_Morning_America	O
 ,	O
 phản_hồi	O
 ý_kiến	O
-"	O
+”	O
 Giá	O
 bán	O
 iPhone	O
 X	O
 quá	O
 đắt	O
-"	O
+”	O
 ,	O
 CEO	O
 Apple	B-ORGANIZATION
@@ -189141,7 +189141,7 @@ này	O
 sở_hữu	O
 .	O
 
-"	O
+”	O
 iPhone	O
 ngày_càng	O
 trở_nên	O
@@ -189182,7 +189182,7 @@ nhu_cầu	O
 từ	O
 người	O
 dùng	O
-"	O
+”	O
 ,	O
 Tim	B-PERSON
 Cook	I-PERSON
@@ -189199,7 +189199,7 @@ Cook	I-PERSON
 cũng	O
 khẳng_định	O
 :	O
-"	O
+”	O
 Apple	B-ORGANIZATION
 không	O
 bao_giờ	O
@@ -189239,7 +189239,7 @@ cho	O
 cuộc_sống	O
 của	O
 con_người	O
-"	O
+”	O
 .	O
 
 Với	O
@@ -191561,10 +191561,10 @@ là	O
 những	O
 người	O
 có	O
-"	O
+”	O
 động_cơ	O
 tình_dục	O
-"	O
+”	O
 mạnh_mẽ	O
 nhất	O
 .	O
@@ -191593,9 +191593,9 @@ mức_độ	O
 ham_muốn	O
 cao	O
 và	O
-"	O
+”	O
 nguy_cơ	O
-"	O
+”	O
 tìm	O
 đến	O
 những	O
@@ -191770,10 +191770,10 @@ thấy	O
 người	O
 đàn_ông	O
 có	O
-"	O
+”	O
 tiềm_năng	O
 lãng_mạn	O
-"	O
+”	O
 cao	O
 hơn	O
 nhưng	O
@@ -191912,9 +191912,9 @@ FWHR	O
 cao	O
 có	O
 suy_nghĩ	O
-"	O
+”	O
 thoáng	O
-"	O
+”	O
 về	O
 tình_dục	O
 và	O
@@ -193285,14 +193285,14 @@ phút	O
 có	O
 tựa	O
 đề	O
-"	O
+”	O
 Những	O
 chú	O
 chó_ngao	O
 Tây_Tạng	B-LOCATION
 bị	O
 bỏ_rơi	O
-"	O
+”	O
 được	O
 phát_hành	O
 vào	O
@@ -193452,7 +193452,7 @@ Quartz	O
 :	O
 VCG	O
 
-"	O
+”	O
 Tình_trạng	O
 chó	O
 hoang	O
@@ -193494,7 +193494,7 @@ lợi_nhuận	O
 từ	O
 công_việc	O
 này	O
-"	O
+”	O
 -	O
 ông	O
 Yin_Hang	B-PERSON
@@ -193520,9 +193520,9 @@ hung_dữ	O
 ,	O
 chó_ngao	O
 Tây_Tạng	B-LOCATION
-"	O
+”	O
 lột_xác	O
-"	O
+”	O
 thành	O
 biểu_tượng	O
 giàu_sang	O
@@ -193688,7 +193688,7 @@ trang	O
 Quartz	O
 cho	O
 biết	O
-"	O
+”	O
 chỉ	O
 có	O
 4-5	O
@@ -193705,7 +193705,7 @@ giai_đoạn	O
 cực_thịnh	O
 của	O
 trào_lưu	O
-"	O
+”	O
 .	O
 
 Đến	O
@@ -193937,7 +193937,7 @@ có	O
 nuôi	O
 chúng	O
 .	O
-"	O
+”	O
 Một_số	O
 người	O
 cố_tình	O
@@ -193967,7 +193967,7 @@ sức_khoẻ	O
 vì	O
 rối_loạn	O
 gien	O
-"	O
+”	O
 -	O
 ông	O
 Zhou	B-PERSON
@@ -194271,7 +194271,7 @@ cơ_sở	O
 chăm_sóc	O
 .	O
 
-"	O
+”	O
 Món	O
 nợ	O
 do	O
@@ -194286,7 +194286,7 @@ những	O
 mạng	O
 sống	O
 vô_tội	O
-"	O
+”	O
 -	O
 một	O
 cư_dân	O
@@ -195209,10 +195209,10 @@ xuống	O
 khiến	O
 người	O
 xem	O
-"	O
+”	O
 đứng	O
 hình	O
-"	O
+”	O
 .	O
 
 Loài	O
@@ -197356,9 +197356,9 @@ hơn	O
 nhiều	O
 so	O
 với	O
-"	O
+”	O
 đối_thủ	O
-"	O
+”	O
 .	O
 
 Trong	O
@@ -198969,7 +198969,7 @@ BP	I-ORGANIZATION
 cho	O
 biết	O
 :	O
-"	O
+”	O
 Xe_điện	O
 tự	O
 nó	O
@@ -198998,7 +198998,7 @@ những	O
 tác_động	O
 lớn	O
 hơn	O
-"	O
+”	O
 .	O
 
 Hầu_hết	O
@@ -199084,7 +199084,7 @@ như_vậy	O
 Harford	B-PERSON
 nói	O
 :	O
-"	O
+”	O
 Những	O
 thứ	O
 này	O
@@ -199092,7 +199092,7 @@ phức_tạp	O
 hơn	O
 rất	O
 nhiều	O
-"	O
+”	O
 .	O
 Thay_vì	O
 việc	O
@@ -199108,7 +199108,7 @@ hiện_tại	O
 có_thể	O
 sẽ	O
 có	O
-"	O
+”	O
 thay_đổi	O
 mang	O
 tính	O
@@ -199118,7 +199118,7 @@ một	O
 mức_độ	O
 nào	O
 đó	O
-"	O
+”	O
 ,	O
 theo	O
 lời	O
@@ -199460,7 +199460,7 @@ bốn	O
 xy-lanh	O
 .	O
 
-"	O
+”	O
 Giá_cả	O
 có	O
 cạnh_tranh	O
@@ -199473,7 +199473,7 @@ vào	O
 tần_suất	O
 sử_dụng	O
 xe	O
-"	O
+”	O
 ,	O
 kinh_tế	O
 trưởng	O
@@ -199528,7 +199528,7 @@ công_nghệ	O
 và	O
 hiệu_suất	O
 khiến	O
-"	O
+”	O
 ngưỡng	O
 giá	O
 dầu	O
@@ -199547,7 +199547,7 @@ giảm	O
 USD	O
 /	O
 thùng	O
-"	O
+”	O
 .	O
 
 Theo	O
@@ -199665,14 +199665,14 @@ General_Electric	B-ORGANIZATION
 ,	O
 nói	O
 :	O
-"	O
+”	O
 Sự	O
 kết_hợp	O
 này	O
 sẽ	O
 tạo	O
 ra	O
-"	O
+”	O
 mô_hình	O
 Uber	B-ORGANIZATION
 có	O
@@ -199712,7 +199712,7 @@ thành_viên	O
 subscription	O
 service	O
 )	O
-"	O
+”	O
 .	O
 
 Việc	O
@@ -200115,7 +200115,7 @@ tiền	O
 )	O
 .	O
 
-"	O
+”	O
 Smartphone	O
 và	O
 hệ_sinh_thái	O
@@ -200129,7 +200129,7 @@ các	O
 mô_hình	O
 kinh_doanh	O
 mới	O
-"	O
+”	O
 là	O
 nhận_xét	O
 của	O
@@ -200155,7 +200155,7 @@ Reba	B-PERSON
 nói	O
 thêm	O
 :	O
-"	O
+”	O
 Sự	O
 kết_hợp	O
 của	O
@@ -200188,7 +200188,7 @@ dầu	O
 và	O
 ngành	O
 bán_lẻ	O
-"	O
+”	O
 .	O
 
 Nguồn	O
@@ -200396,7 +200396,7 @@ Mạnh	B-PERSON
 H.	I-PERSON
 bình_luận	O
 :	O
-"	O
+”	O
 Từ	O
 một_số	O
 hình_ảnh	O
@@ -200444,10 +200444,10 @@ nhôm	O
 và	O
 kính	O
 rồi	O
-"	O
+”	O
 .	O
 
-"	O
+”	O
 Các	O
 mẫu	O
 iPhone	O
@@ -200531,7 +200531,7 @@ là	O
 chuyện	O
 bình_thường	O
 thôi	O
-"	O
+”	O
 ,	O
 anh	O
 H.	B-PERSON
@@ -200546,7 +200546,7 @@ với	O
 ý_kiến	O
 trên	O
 :	O
-"	O
+”	O
 Việc	O
 lớp	O
 keo	O
@@ -200590,7 +200590,7 @@ về	O
 dùng	O
 là	O
 xong	O
-"	O
+”	O
 .	O
 
 Trái_ngược	O
@@ -200633,7 +200633,7 @@ không	O
 hoàn_thiện	O
 .	O
 
-"	O
+”	O
 Giá	O
 bán	O
 iPhone	O
@@ -200681,7 +200681,7 @@ khiến	O
 người	O
 tiêu_dùng	O
 thất_vọng	O
-"	O
+”	O
 ,	O
 anh	O
 Bắc	B-PERSON
@@ -200695,7 +200695,7 @@ ra	O
 ý_kiến	O
 cá_nhân	O
 :	O
-"	O
+”	O
 Chất_lượng	O
 của	O
 iPhone	O
@@ -200765,10 +200765,10 @@ thì	O
 bong	O
 sơn	O
 tương_tự	O
-"	O
+”	O
 .	O
 
-"	O
+”	O
 Nhiều	O
 bạn	O
 cho	O
@@ -200847,7 +200847,7 @@ việc	O
 người	O
 ta	O
 phàn_nàn	O
-"	O
+”	O
 ,	O
 một	O
 người	O
@@ -202022,7 +202022,7 @@ như	O
 nơi	O
 cất_giữ	O
 thẻ	O
-"	O
+”	O
 với	O
 nhiều	O
 lớp	O
@@ -202150,9 +202150,9 @@ Nỗi	O
 lo	O
 từ	O
 sự	O
-"	O
+”	O
 nở_rộ	O
-"	O
+”	O
 của	O
 ngành	O
 phẫu_thuật	O
@@ -203102,10 +203102,10 @@ nữ	O
 văn_sĩ	O
 và	O
 từ	O
-"	O
+”	O
 Ngân_hàng	O
 Anh	B-LOCATION
-"	O
+”	O
 được	O
 in	O
 bằng	O
@@ -203130,16 +203130,16 @@ một	O
 cái	O
 có	O
 chữ	O
-"	O
+”	O
 Ten	O
-"	O
+”	O
 ,	O
 và	O
 đổi	O
 thành	O
-"	O
+”	O
 Pounds	O
-"	O
+”	O
 khi	O
 để	O
 nghiêng	O
@@ -203839,9 +203839,9 @@ Clip	O
 :	O
 Cận_cảnh	O
 cá_đuối	O
-"	O
+”	O
 khủng	O
-"	O
+”	O
 nặng	O
 216kg	O
 ,	O
@@ -203921,9 +203921,9 @@ biết	O
 ,	O
 con	O
 cá_đuối	O
-"	O
+”	O
 khủng	O
-"	O
+”	O
 này	O
 được	O
 chủ	O
@@ -203950,9 +203950,9 @@ Việt_Nam	B-LOCATION
 ,	O
 cá_đuối	O
 nước_ngọt	O
-"	O
+”	O
 khủng	O
-"	O
+”	O
 nhất	O
 từng	O
 xuất_hiện	O
@@ -203991,9 +203991,9 @@ Tiền	I-LOCATION
 
 Con	O
 cá_đuối	O
-"	O
+”	O
 khủng	O
-"	O
+”	O
 nặng	O
 216kg	O
 .	O
@@ -205223,13 +205223,13 @@ cho_phép	O
 các	O
 bậc	O
 cha_mẹ	O
-"	O
+”	O
 đo	O
 ni	O
 ,	O
 đóng	O
 giày	O
-"	O
+”	O
 con_cái	O
 ,	O
 cụ_thể	O
@@ -205390,13 +205390,13 @@ người	O
 sẽ	O
 là	O
 một	O
-"	O
+”	O
 tội_ác	O
 chống	O
 lại	O
 phẩm_cách	O
 nhân_loại	O
-"	O
+”	O
 và	O
 nhân_quyền	O
 .	O
@@ -206804,7 +206804,7 @@ khiến	O
 bạn	O
 có	O
 cảm_giác	O
-"	O
+”	O
 nhẹ	O
 bụng	O
 ”	O
@@ -208160,10 +208160,10 @@ căn_bệnh	O
 gọi	O
 là	O
 bệnh	O
-"	O
+”	O
 lối	O
 sống	O
-"	O
+”	O
 như	O
 tiểu_đường	O
 ,	O
@@ -209161,9 +209161,9 @@ ngăn_ngừa	O
 nhiều	O
 bệnh	O
 đang	O
-"	O
+”	O
 rình_rập	O
-"	O
+”	O
 xung_quanh	O
 nhé	O
 .	O
@@ -209776,9 +209776,9 @@ làm	O
 gây	O
 ấn_tượng	O
 với	O
-"	O
+”	O
 crush	O
-"	O
+”	O
 của	O
 mình	O
 :	O
@@ -209904,9 +209904,9 @@ kể	O
 từ	O
 khi	O
 có	O
-"	O
+”	O
 crush	O
-"	O
+”	O
 ,	O
 đời	O
 ta	O
@@ -209920,9 +209920,9 @@ khác	O
 vậy	O
 .	O
 Chúng_ta	O
-"	O
+”	O
 tự_nhiên	O
-"	O
+”	O
 trở_nên	O
 năng_nổ	O
 và	O
@@ -209963,9 +209963,9 @@ hay	O
 làm	O
 để	O
 tạo	O
-"	O
+”	O
 dấu_ấn	O
-"	O
+”	O
 với	O
 crush	O
 chính	O
@@ -210064,9 +210064,9 @@ lâu_lâu	O
 thả	O
 vài	O
 câu	O
-"	O
+”	O
 thính	O
-"	O
+”	O
 lên	O
 mạng	O
 xã_hội	O
@@ -210367,12 +210367,12 @@ tin	O
 nhắn	O
 của	O
 anh	O
-"	O
+”	O
 Mình	O
 yêu	O
 nhau	O
 đi	O
-"	O
+”	O
 .	O
 
 Bốn	O
@@ -210695,16 +210695,16 @@ len	O
 vào	O
 lòng	O
 :	O
-"	O
+”	O
 Hình_như	O
 mình	O
 đã	O
 cư_xử	O
 quá	O
 tệ	O
-"	O
+”	O
 ,	O
-"	O
+”	O
 hình_như	O
 mình	O
 đã	O
@@ -210714,7 +210714,7 @@ tấm	O
 lòng	O
 trong	O
 thiên_hạ	O
-"	O
+”	O
 .	O
 Rồi	O
 tôi	O
@@ -210785,12 +210785,12 @@ với	O
 lời	O
 đề_nghị	O
 :	O
-"	O
+”	O
 Mình	O
 yêu	O
 nhau	O
 đi	O
-"	O
+”	O
 .	O
 
 Đã	O
@@ -210910,7 +210910,7 @@ Anh	O
 hay	O
 nói	O
 rằng	O
-"	O
+”	O
 3	O
 năm	O
 trước	O
@@ -210932,7 +210932,7 @@ không	O
 bao_giờ	O
 buông	O
 tay	O
-"	O
+”	O
 .	O
 Bàn_tay	O
 anh	O
@@ -210976,7 +210976,7 @@ ra	O
 nữa	O
 .	O
 
-"	O
+”	O
 …	O
 Gặp	O
 được	O
@@ -211016,7 +211016,7 @@ ban_tặng	O
 cho	O
 chúng_ta	O
 …	O
-"	O
+”	O
 ,	O
 tình_cờ	O
 bắt_gặp	O
@@ -211582,7 +211582,7 @@ ra	O
 một	O
 câu	O
 rằng	O
-"	O
+”	O
 Hoá_ra	O
 trước	O
 giờ	O
@@ -211602,7 +211602,7 @@ trò	O
 vui	O
 mà	O
 thôi	O
-"	O
+”	O
 .	O
 Cô	O
 bạn	O
@@ -211844,12 +211844,12 @@ kia	O
 còn	O
 rất	O
 nhiều	O
-"	O
+”	O
 cậu	O
 con	O
 trai	O
 trưởng_thành	O
-"	O
+”	O
 sẵn_sàng	O
 lo_lắng	O
 cho	O
@@ -211971,19 +211971,19 @@ khó	O
 chấp_nhận	O
 được	O
 là	O
-"	O
+”	O
 cưa	O
 cẩm	O
 con	O
 khác	O
-"	O
+”	O
 ,	O
-"	O
+”	O
 chán	O
 cơm	O
 thèm	O
 phở	O
-"	O
+”	O
 ,	O
 ...	O
 thì	O
@@ -212691,22 +212691,22 @@ tiền	O
 
 Cũng	O
 như	O
-"	O
+”	O
 Hội	O
 con	O
 nhà	O
 giàu	O
 thế_giới	O
-"	O
+”	O
 ,	O
 cuộc_sống	O
 của	O
-"	O
+”	O
 Hội	O
 cha_mẹ	O
 giàu	O
 thế_giới	O
-"	O
+”	O
 gắn	O
 liền	O
 với	O
@@ -212724,12 +212724,12 @@ Cuộc_sống	O
 sang	O
 chảnh	O
 của	O
-"	O
+”	O
 Hội	O
 cha_mẹ	O
 giàu	O
 thế_giới	O
-"	O
+”	O
 là	O
 những	O
 chuyến	O
@@ -212797,9 +212797,9 @@ Hoá_đơn	O
 thanh_toán	O
 dài	O
 như	O
-"	O
+”	O
 vô_tận	O
-"	O
+”	O
 .	O
 Ảnh	O
 :	O
@@ -212868,9 +212868,9 @@ trải	O
 ra	O
 ghế_ngồi	O
 cho	O
-"	O
+”	O
 êm	O
-"	O
+”	O
 .	O
 Ảnh	O
 :	O
@@ -212938,12 +212938,12 @@ chết	O
 Ở	O
 tập	O
 7	O
-"	O
+”	O
 Ghét	O
 thì	O
 yêu	O
 thôi	O
-"	O
+”	O
 ,	O
 Bà	O
 Diễm	B-PERSON
@@ -213672,7 +213672,7 @@ chẳng	O
 ghi_nhớ	O
 .	O
 
-"	O
+”	O
 Vậy	O
 giờ	O
 chị	O
@@ -213683,7 +213683,7 @@ Việt_Nam	B-LOCATION
 phải	O
 không	O
 ?	O
-"	O
+”	O
 Minh	B-PERSON
 hỏi	O
 .	O
@@ -214713,9 +214713,9 @@ mẹ	O
 nên	O
 yêu_cầu	O
 bác_sĩ	O
-"	O
+”	O
 giải_quyết	O
-"	O
+”	O
 giúp	O
 .	O
 
@@ -214780,9 +214780,9 @@ Trường_hợp	O
 nữ_sinh	O
 lớp	O
 7	O
-"	O
+”	O
 yêu	O
-"	O
+”	O
 chung	O
 một	O
 người	O
@@ -218571,10 +218571,10 @@ Nhà_nghiên_cứu	O
 dược_học	O
 nổi_tiếng	O
 ,	O
-"	O
+”	O
 cây	O
 đại_thụ	O
-"	O
+”	O
 của	O
 nền	O
 y_học	O
@@ -219915,7 +219915,7 @@ mới	O
 kể_lể	O
 sự_tình	O
 rằng	O
-"	O
+”	O
 em	O
 nghe	O
 nói	O
@@ -219947,7 +219947,7 @@ cô	O
 quan_hệ	O
 rồi	O
 không	O
-"	O
+”	O
 .	O
 Không_chỉ	O
 Xuân	B-PERSON
@@ -219967,7 +219967,7 @@ Chung	B-PERSON
 Nữ	O
 bác_sĩ	O
 hỏi	O
-"	O
+”	O
 thế	O
 hai	O
 người_yêu	O
@@ -219981,11 +219981,11 @@ tân_hôn	O
 mà	O
 bảo	O
 thế	O
-"	O
+”	O
 .	O
 Chung	B-PERSON
 khép_nép	O
-"	O
+”	O
 bọn	O
 em	O
 yêu	O
@@ -220002,12 +220002,12 @@ với	O
 vợ	O
 em	O
 bao_giờ	O
-"	O
+”	O
 .	O
 Nữ	O
 bác_sĩ	O
 tiếp_lời	O
-"	O
+”	O
 chẳng_lẽ	O
 cậu	O
 không	O
@@ -220042,7 +220042,7 @@ quá	O
 Đúng	O
 là	O
 nực_cười	O
-"	O
+”	O
 .	O
 Chung	B-PERSON
 dường_như	O
@@ -220064,7 +220064,7 @@ còn	O
 với_lại	O
 một	O
 câu	O
-"	O
+”	O
 lần	O
 sau	O
 nhớ	O
@@ -220075,7 +220075,7 @@ rồi	O
 hãy	O
 phát_biểu	O
 nhé	O
-"	O
+”	O
 .	O
 
 Về	O
@@ -220551,14 +220551,14 @@ nhất	O
 của	O
 cô	O
 là	O
-"	O
+”	O
 được	O
 sống	O
 thêm	O
 50	O
 năm	O
 nữa	O
-"	O
+”	O
 và	O
 Lộ_Lộ	B-PERSON
 đã	O
@@ -220805,10 +220805,10 @@ giúp	O
 mạnh_mẽ	O
 hơn	O
 trong	O
-"	O
+”	O
 chuyện	O
 ấy	O
-"	O
+”	O
 .	O
 
 Giờ	O
@@ -223508,9 +223508,9 @@ hình_ảnh	O
 Linh_hoạt	O
 trong	O
 chuyện	O
-"	O
+”	O
 chăn_gối	O
-"	O
+”	O
 :	O
 Người	O
 ta	O
@@ -225386,7 +225386,7 @@ tuyên_bố	O
 với	O
 bố_mẹ	O
 rằng	O
-"	O
+”	O
 chuyện	O
 của	O
 con	O
@@ -225414,14 +225414,14 @@ con	O
 cưới	O
 là	O
 được	O
-"	O
+”	O
 .	O
 
 Các	O
 cụ	O
 bảo	O
 ,	O
-"	O
+”	O
 con	O
 gái	O
 mà	O
@@ -225437,7 +225437,7 @@ nó	O
 cũng	O
 mang	O
 cho	O
-"	O
+”	O
 .	O
 Nhưng	O
 ở	O
@@ -225663,7 +225663,7 @@ sang	O
 gọi	O
 bố_mẹ	O
 tôi	O
-"	O
+”	O
 con	O
 gái	O
 nhà	O
@@ -225676,7 +225676,7 @@ nhà	O
 chồng	O
 kia	O
 kìa	O
-"	O
+”	O
 .	O
 Những	O
 lúc	O
@@ -227794,16 +227794,16 @@ dưới	O
 ,	O
 để	O
 giúp	O
-"	O
+”	O
 cây	O
 tình	O
-"	O
+”	O
 mãi	O
 vĩnh_cửu	O
 và	O
-"	O
+”	O
 duy_nhất	O
-"	O
+”	O
 .	O
 
 Nếu	O
@@ -227902,9 +227902,9 @@ mình	O
 cái	O
 quyền	O
 được	O
-"	O
+”	O
 quấy_rối	O
-"	O
+”	O
 bạn	O
 trai	O
 /	O
@@ -227935,9 +227935,9 @@ giờ	O
 mức	O
 các	O
 chàng	O
-"	O
+”	O
 nghẹt_thở	O
-"	O
+”	O
 chỉ	O
 muốn	O
 bỏ	O
@@ -227948,9 +227948,9 @@ Người	O
 ta	O
 vẫn	O
 nói	O
-"	O
+”	O
 mềm_nắn_rắn_buông	O
-"	O
+”	O
 ,	O
 trong	O
 mối	O
@@ -228101,9 +228101,9 @@ một	O
 chiếc	O
 chìa_khoá	O
 để	O
-"	O
+”	O
 giữ_chân	O
-"	O
+”	O
 chàng	O
 .	O
 Với	O
@@ -229176,7 +229176,7 @@ nên	O
 mình	O
 chia_tay	O
 nhé	O
-"	O
+”	O
 .	O
 
 Những	O
@@ -229690,7 +229690,7 @@ tự_tin	O
 nói	O
 rằng	O
 :	O
-"	O
+”	O
 Em	O
 biết	O
 một	O
@@ -229714,7 +229714,7 @@ tất_cả	O
 người	O
 chồng	O
 hài_lòng	O
-"	O
+”	O
 .	O
 Cũng	O
 chính	O
@@ -230558,7 +230558,7 @@ hoá	O
 và	O
 chức_năng	O
 tế_bào	O
-"	O
+”	O
 ,	O
 các	O
 chuyên_gia	O
@@ -230591,7 +230591,7 @@ cơ_thể	O
 giữ	O
 nước	O
 .	O
-"	O
+”	O
 Không_chỉ	O
 giúp	O
 bạn	O
@@ -230853,10 +230853,10 @@ khiến	O
 người	O
 xem	O
 không_thể	O
-"	O
+”	O
 ngồi	O
 yên	O
-"	O
+”	O
 .	O
 
 Trẻ_em	O
@@ -230976,13 +230976,13 @@ ta	O
 gọi	O
 đây	O
 là	O
-"	O
+”	O
 Người	O
 cha_anh	O
 hùng	O
 của	O
 năm	O
-"	O
+”	O
 .	O
 
 Từ	O
@@ -231112,7 +231112,7 @@ với	O
 Đức	B-PERSON
 Phúc	I-PERSON
 :	O
-"	O
+”	O
 Em	O
 sống	O
 tệ	O
@@ -231121,7 +231121,7 @@ lắm	O
 Phúc	B-PERSON
 ạ	O
 !	O
-"	O
+”	O
 
 Theo	O
 TH	B-PERSON
@@ -232257,11 +232257,11 @@ bảng	O
 và	O
 quát	O
 trẻ	O
-"	O
+”	O
 đi	O
 làm_việc	O
 khác	O
-"	O
+”	O
 thì	O
 chắc_chắn	O
 xung_đột	O
@@ -234470,9 +234470,9 @@ phụ_nữ	O
 nào	O
 mà	O
 không	O
-"	O
+”	O
 nóng_mắt	O
-"	O
+”	O
 cho	O
 được	O
 cơ	O
@@ -236944,9 +236944,9 @@ H	O
 )	O
 
 Tư_thế	O
-"	O
+”	O
 yêu	O
-"	O
+”	O
 nguy_hiểm	O
 dễ	O
 khiến	O
@@ -236961,9 +236961,9 @@ vợ_chồng	O
 thường	O
 thay_đổi	O
 tư_thế	O
-"	O
+”	O
 yêu	O
-"	O
+”	O
 để	O
 cuộc	O
 yêu	O
@@ -237004,15 +237004,15 @@ bất_lực	O
 ,	O
 một_số	O
 tư_thế	O
-"	O
+”	O
 yêu	O
-"	O
+”	O
 có_thể	O
 khiến	O
-"	O
+”	O
 cậu	O
 nhỏ	O
-"	O
+”	O
 bị	O
 gãy	O
 .	O
@@ -237051,9 +237051,9 @@ các	O
 trường_hợp	O
 bị	O
 gãy	O
-"	O
+”	O
 súng	O
-"	O
+”	O
 là	O
 do	O
 chấn_thương	O
@@ -237068,9 +237068,9 @@ xem_xét	O
 kỹ	O
 hơn	O
 tư_thế	O
-"	O
+”	O
 yêu	O
-"	O
+”	O
 mà	O
 họ	O
 thực_hiện	O
@@ -237088,10 +237088,10 @@ khoảng	O
 nam_giới	O
 bị	O
 gãy	O
-"	O
+”	O
 cậu	O
 nhỏ	O
-"	O
+”	O
 khi	O
 đang	O
 thực_hiện	O
@@ -238276,11 +238276,11 @@ tên	O
 những	O
 sao	O
 nữ	O
-"	O
+”	O
 hai	O
 lần	O
 đò	O
-"	O
+”	O
 trong	O
 Showbiz_Việt	B-MISCELLANEOUS
 
@@ -238441,7 +238441,7 @@ nhận	O
 câu	O
 trả_lời	O
 :	O
-"	O
+”	O
 Thôi	O
 lương	O
 10	O
@@ -240663,7 +240663,7 @@ chồng	O
 nói	O
 !	O
 
-"	O
+”	O
 Chồng	O
 tôi	O
 chả	O
@@ -240676,7 +240676,7 @@ vẫn	O
 nhàm_chán	O
 lắm	O
 !	O
-"	O
+”	O
 
 Là	O
 mẹ	O
@@ -240741,7 +240741,7 @@ sướng	O
 ấy	O
 .	O
 
-"	O
+”	O
 Chồng	O
 tôi	O
 chả	O
@@ -240845,7 +240845,7 @@ máy_tính	O
 dọn	O
 nhà	O
 ...	O
-"	O
+”	O
 
 Vì	O
 anh	O
@@ -240884,7 +240884,7 @@ có	O
 lúc	O
 bỏ_qua	O
 .	O
-"	O
+”	O
 Ngày	O
 cưới	O
 ,	O
@@ -240906,7 +240906,7 @@ mới	O
 nghe	O
 thấy	O
 !	O
-"	O
+”	O
 ,	O
 chị	O
 Thu_Phượng	B-PERSON
@@ -241005,7 +241005,7 @@ cha	O
 tốt	O
 ,	O
 nhưng	O
-"	O
+”	O
 cả	O
 ngày	O
 về	O
@@ -241016,13 +241016,13 @@ như	O
 hai	O
 cái	O
 bóng	O
-"	O
+”	O
 ,	O
 chị	O
 tâm_sự	O
 .	O
 
-"	O
+”	O
 Ra	O
 ngoài	O
 ,	O
@@ -241038,18 +241038,18 @@ mình	O
 ,	O
 tôi	O
 cảm_thấy	O
-"	O
+”	O
 chống_chếnh	O
-"	O
+”	O
 .	O
 Đã	O
 có	O
 lúc	O
 tôi	O
-"	O
+”	O
 say	O
 nắng	O
-"	O
+”	O
 ,	O
 tôi	O
 sợ	O
@@ -241083,7 +241083,7 @@ lên	O
 thì	O
 anh	O
 nói	O
-"	O
+”	O
 Khi	O
 em	O
 kể_ra	O
@@ -241123,7 +241123,7 @@ phải	O
 ở	O
 những	O
 lời_nói	O
-"	O
+”	O
 .	O
 Chị	O
 giật_mình	O
@@ -241131,9 +241131,9 @@ giật_mình	O
 không	O
 ngờ	O
 chị	O
-"	O
+”	O
 bị	O
-"	O
+”	O
 anh	O
 nói	O
 lại	O
@@ -241175,7 +241175,7 @@ phải	O
 làm	O
 gì	O
 .	O
-"	O
+”	O
 Cuộc_sống	O
 có	O
 tẻ_nhạt	O
@@ -241211,7 +241211,7 @@ dành	O
 hết	O
 cho	O
 vợ_con	O
-"	O
+”	O
 ,	O
 chị	O
 Thanh_Thảo	B-PERSON
@@ -242275,7 +242275,7 @@ lời	O
 của	O
 thầy	O
 hiệu_trưởng	O
-"	O
+”	O
 Lấy	O
 vợ	O
 xong	O
@@ -242288,7 +242288,7 @@ dẹp	O
 được	O
 những	O
 lời_ong_tiếng_ve	O
-"	O
+”	O
 cũng	O
 khiến	O
 Sơn	B-PERSON
@@ -242347,10 +242347,10 @@ bà	O
 sợ	O
 Mai	B-PERSON
 đang	O
-"	O
+”	O
 gài	O
 bẫy	O
-"	O
+”	O
 Sơn	B-PERSON
 .	O
 
@@ -242408,7 +242408,7 @@ với	O
 con	O
 trai	O
 :	O
-"	O
+”	O
 Con	O
 có	O
 thực_sự	O
@@ -242433,7 +242433,7 @@ không	O
 phải	O
 sợ	O
 bố	O
-"	O
+”	O
 .	O
 
 Trái	O
@@ -242446,7 +242446,7 @@ Sơn	B-PERSON
 thản_nhiên	O
 đáp	O
 :	O
-"	O
+”	O
 Con	O
 đã	O
 nghĩ	O
@@ -242472,7 +242472,7 @@ cả	O
 trâu	O
 lẫn	O
 nghé	O
-"	O
+”	O
 .	O
 Dù_vậy	O
 bà	O
@@ -242482,7 +242482,7 @@ lấn_cấn	O
 trong	O
 lòng	O
 :	O
-"	O
+”	O
 Mẹ	O
 thấy	O
 con	O
@@ -242498,7 +242498,7 @@ con_bé	O
 bẫy	O
 con	O
 ?	O
-"	O
+”	O
 .	O
 
 Chuyện	O
@@ -242726,15 +242726,15 @@ rằng	O
 cô	O
 bạn	O
 quá	O
-"	O
+”	O
 cao_tay	O
-"	O
+”	O
 khi	O
 đã	O
-"	O
+”	O
 gài	O
 bẫy	O
-"	O
+”	O
 được	O
 giảng_viên	O
 còn	O
@@ -242979,7 +242979,7 @@ mười	O
 một	O
 năm	O
 .	O
-"	O
+”	O
 Lúc	O
 44	O
 tuổi	O
@@ -242989,7 +242989,7 @@ muốn	O
 trở_lại	O
 làm	O
 người_mẫu	O
-"	O
+”	O
 Samara	B-PERSON
 cho	O
 biết	O
@@ -243020,7 +243020,7 @@ làm	O
 trẻ_hoá	O
 khuôn_mặt	O
 .	O
-"	O
+”	O
 Tôi	O
 phải	O
 mất	O
@@ -243034,7 +243034,7 @@ ra	O
 thật	O
 sai_trái	O
 .	O
-"	O
+”	O
 
 Cô	O
 cho	O
@@ -243086,7 +243086,7 @@ Mỹ	B-LOCATION
 cho	O
 biết	O
 :	O
-"	O
+”	O
 Chúng_tôi	O
 chắc_chắn	O
 nhìn	O
@@ -243119,10 +243119,10 @@ cho	O
 biết	O
 những	O
 video	O
-"	O
+”	O
 tự	O
 làm	O
-"	O
+”	O
 này	O
 trên	O
 YouTube	O
@@ -243133,7 +243133,7 @@ xu_hướng	O
 lo_ngại	O
 .	O
 
-"	O
+”	O
 Họ	O
 xem	O
 một	O
@@ -243165,7 +243165,7 @@ tự	O
 làm	O
 được	O
 ?	O
-"	O
+”	O
 Tiến_sĩ	O
 Martin	B-PERSON
 giải_thích	O
@@ -243189,7 +243189,7 @@ Tiến_sĩ	O
 Martin	B-PERSON
 chia_sẻ	O
 :	O
-"	O
+”	O
 Với	O
 cách	O
 làm	O
@@ -243215,7 +243215,7 @@ hơn	O
 để	O
 chăm_sóc	O
 .	O
-"	O
+”	O
 
 Samara	B-PERSON
 không	O
@@ -243230,7 +243230,7 @@ mặt	O
 mình	O
 .	O
 
-"	O
+”	O
 Bạn	O
 có_thể	O
 hỏi	O
@@ -243257,7 +243257,7 @@ sản_phẩm	O
 trên	O
 đó	O
 .	O
-"	O
+”	O
 Tiến_sĩ	O
 Martin	B-PERSON
 khuyên	O
@@ -243289,7 +243289,7 @@ có	O
 hy_vọng	O
 .	O
 
-"	O
+”	O
 Tôi	O
 bắt_đầu	O
 trở_lại	O
@@ -243301,7 +243301,7 @@ sẽ	O
 mạnh_mẽ	O
 hơn	O
 .	O
-"	O
+”	O
 Samara	B-PERSON
 chia_sẻ	O
 .	O
@@ -243464,9 +243464,9 @@ này	O
 chồng	O
 tôi	O
 luôn	O
-"	O
+”	O
 giữ_miếng	O
-"	O
+”	O
 với	O
 vợ	O
 mình	O
@@ -243827,10 +243827,10 @@ tốt	O
 ,	O
 vì	O
 có_thể	O
-"	O
+”	O
 người	O
 kia	O
-"	O
+”	O
 từ	O
 nước_ngoài	O
 sắp	O
@@ -244358,10 +244358,10 @@ ai_ngờ	O
 tới	O
 
 Nguy_hại	O
-"	O
+”	O
 chết	O
 người	O
-"	O
+”	O
 từ	O
 đậu_phụ	O
 mà	O
@@ -247165,13 +247165,13 @@ học_tập	O
 
 Với	O
 chủ_đề	O
-"	O
+”	O
 Kỹ_năng	O
 sống	O
 cho	O
 học_sinh	O
 phổ_thông	O
-"	O
+”	O
 ,	O
 các	O
 chuyên_gia	O
@@ -248030,7 +248030,7 @@ nào	O
 vi_phạm	O
 ...	O
 
-"	O
+”	O
 Tôi	O
 được	O
 phân_công	O
@@ -248136,7 +248136,7 @@ tôi	O
 thật_sự	O
 tiếc_nuối	O
 ...	O
-"	O
+”	O
 ,	O
 Trung_tá	O
 Phong	B-PERSON
@@ -248569,9 +248569,9 @@ lý_do	O
 gì	O
 thì	O
 hành_vi	O
-"	O
+”	O
 tiểu_đường	O
-"	O
+”	O
 là	O
 một	O
 hành_vi	O
@@ -248622,7 +248622,7 @@ nhiều	O
 người	O
 biện_minh	O
 là	O
-"	O
+”	O
 lỡ	O
 rồi	O
 phải	O
@@ -248637,20 +248637,20 @@ muốn	O
 vậy	O
 đâu	O
 ...	O
-"	O
+”	O
 mà	O
 hành_vi	O
 xấu	O
 này	O
 trở_thành	O
 một	O
-"	O
+”	O
 căn_bệnh	O
-"	O
+”	O
 được	O
-"	O
+”	O
 phổ_cập	O
-"	O
+”	O
 trong	O
 mắt	O
 nhiều	O
@@ -250872,7 +250872,7 @@ Hà_Nội	B-LOCATION
 diễn	O
 ra	O
 hội_thảo	O
-"	O
+”	O
 Kiến_trúc	O
 -	O
 Triết_lý	O
@@ -250880,7 +250880,7 @@ Triết_lý	O
 Con_người	O
 -	O
 Thiên_nhiên	O
-"	O
+”	O
 .	O
 Hội_thảo	O
 lần	O
@@ -251374,7 +251374,7 @@ làm	O
 đúng	O
 quy_trình	O
 .	O
-"	O
+”	O
 Hôm	O
 Uỷ_ban	B-ORGANIZATION
 Kiểm_tra	I-ORGANIZATION
@@ -251400,7 +251400,7 @@ nên	O
 không	O
 trả_lời	O
 được	O
-"	O
+”	O
 ,	O
 ông	O
 Thơ	B-PERSON
@@ -251440,7 +251440,7 @@ bán	O
 cho	O
 nhà_đầu_tư	O
 .	O
-"	O
+”	O
 Kết_luận	O
 đã	O
 có	O
@@ -251460,7 +251460,7 @@ rồi	O
 bất_ngờ	O
 chi	O
 nữa	O
-"	O
+”	O
 ,	O
 ông	O
 Thơ	B-PERSON
@@ -251522,7 +251522,7 @@ lãnh_đạo	O
 này	O
 nhấn_mạnh	O
 :	O
-"	O
+”	O
 Cái	O
 chi	O
 cũng	O
@@ -251550,7 +251550,7 @@ còn	O
 nhạy_cảm	O
 chi	O
 nữa	O
-"	O
+”	O
 .	O
 
 Người	O
@@ -251570,7 +251570,7 @@ thành_phố	O
 và	O
 lãnh_đạo	O
 .	O
-"	O
+”	O
 Chuyện	O
 xảy	O
 ra	O
@@ -251710,7 +251710,7 @@ công	O
 Minh_Hoàng	B-PERSON
 .	O
 
-"	O
+”	O
 Không	O
 phải	O
 cái	O
@@ -251740,7 +251740,7 @@ phát_triển	O
 tốt	O
 đấy	O
 chứ	O
-"	O
+”	O
 ,	O
 ông	O
 Thơ	B-PERSON
@@ -251749,7 +251749,7 @@ với	O
 Zing.vn	O
 .	O
 
-"	O
+”	O
 Chúng_ta	O
 đừng	O
 vì	O
@@ -251943,7 +251943,7 @@ vai_trò	O
 chức_năng	O
 của	O
 mình	O
-"	O
+”	O
 –	O
 Thứ_trưởng	O
 Nguyễn_Thị_Nghĩa	B-PERSON
@@ -252045,7 +252045,7 @@ Thứ_trưởng	O
 Nguyễn_Thị_Nghĩa	B-PERSON
 cho_hay	O
 :	O
-"	O
+”	O
 Bộ	O
 sẽ	O
 xem_xét	O
@@ -252110,7 +252110,7 @@ Nguyễn_Thị_Nghĩa	B-PERSON
 cho	O
 biết	O
 :	O
-"	O
+”	O
 Hội	O
 phụ_huynh	O
 được	O
@@ -252153,7 +252153,7 @@ phải	O
 trên	O
 tinh_thần	O
 tự_nguyện	O
-"	O
+”	O
 .	O
 
 Đánh_giá	O
@@ -258321,9 +258321,9 @@ những	O
 cô	O
 tích_cóp	O
 thành	O
-"	O
+”	O
 vốn_liếng	O
-"	O
+”	O
 để	O
 sử_dụng	O
 vào	O
@@ -258436,7 +258436,7 @@ còn	O
 nhiều	O
 hạn_chế	O
 .	O
-"	O
+”	O
 Đặc_biệt	O
 với	O
 môn	O
@@ -258494,7 +258494,7 @@ thầy	O
 ,	O
 trò	O
 chúng_tôi	O
-"	O
+”	O
 -	O
 cô	O
 Phạm_Thị_Hương_Thảo	B-PERSON
@@ -258552,7 +258552,7 @@ phương_pháp	O
 dạy_học	O
 .	O
 
-"	O
+”	O
 Trước	O
 khi	O
 lên_lớp	O
@@ -258604,7 +258604,7 @@ chủ_quan	O
 trong	O
 quá_trình	O
 học_tập	O
-"	O
+”	O
 -	O
 cô	O
 Phạm_Thị_Hương_Thảo	B-PERSON
@@ -258792,7 +258792,7 @@ theo	O
 hoàn_cảnh	O
 .	O
 
-"	O
+”	O
 Chẳng_hạn	O
 như	O
 :	O
@@ -258863,7 +258863,7 @@ Việt	I-MISCELLANEOUS
 cho	O
 các	O
 em	O
-"	O
+”	O
 -	O
 cô	O
 Phạm_Thị_Hương_Thảo	B-PERSON
@@ -258951,7 +258951,7 @@ các	O
 em	O
 .	O
 
-"	O
+”	O
 Ngoài_ra	O
 ,	O
 để	O
@@ -258988,7 +258988,7 @@ mà	O
 học	O
 của	O
 học_sinh	O
-"	O
+”	O
 -	O
 cô	O
 Phạm_Thị_Hương_Thảo	B-PERSON
@@ -261604,7 +261604,7 @@ Trịnh_Xuân_Thanh	B-PERSON
 phải	O
 xử_lý	O
 
-"	O
+”	O
 Ví_dụ	O
 như	O
 Trịnh_Xuân_Thanh	B-PERSON
@@ -261625,7 +261625,7 @@ phải	O
 xử_lý	O
 là	O
 đúng	O
-"	O
+”	O
 ,	O
 ĐBQH	O
 Trương_Minh_Hoàng	B-PERSON
@@ -261714,9 +261714,9 @@ Về	O
 luồng	O
 dư_luận	O
 thường	O
-"	O
+”	O
 xì_xào	O
-"	O
+”	O
 khi	O
 một_số	O
 cán_bộ	O
@@ -261728,20 +261728,20 @@ cất_nhắc	O
 bổ_nhiệm	O
 theo	O
 kiểu	O
-"	O
+”	O
 đấy	O
 là	O
 con	O
 ai	O
 vậy	O
-"	O
+”	O
 ,	O
 ĐBQH	O
 Trương_Minh_Hoàng	B-PERSON
 cho	O
 rằng	O
 :	O
-"	O
+”	O
 Một	O
 cán_bộ	O
 trẻ	O
@@ -261780,10 +261780,10 @@ ngừng	O
 của	O
 một	O
 cán_bộ	O
-"	O
+”	O
 .	O
 
-"	O
+”	O
 Lâu_nay	O
 ,	O
 việc	O
@@ -261812,7 +261812,7 @@ phải	O
 chịu	O
 hoàn_toàn	O
 trách_nhiệm	O
-"	O
+”	O
 ,	O
 ĐBQH	O
 Trương_Minh_Hoàng	B-PERSON
@@ -261822,9 +261822,9 @@ nói	O
 Về	O
 vấn_đề	O
 bổ_nhiệm	O
-"	O
+”	O
 thần_tốc	O
-"	O
+”	O
 một_số	O
 cá_nhân	O
 khiến	O
@@ -261832,17 +261832,17 @@ dư_luận	O
 bất_bình	O
 với	O
 cụm_từ	O
-"	O
+”	O
 đúng	O
 quy_trình	O
-"	O
+”	O
 ,	O
 ông	O
 Hoàng	B-PERSON
 cho	O
 rằng	O
 :	O
-"	O
+”	O
 Có	O
 những	O
 lúc	O
@@ -261922,10 +261922,10 @@ phải	O
 xử_lý	O
 là	O
 đúng	O
-"	O
+”	O
 .	O
 
-"	O
+”	O
 Luân_chuyển	O
 cán_bộ	O
 là	O
@@ -262080,7 +262080,7 @@ công_khai	O
 minh_bạch	O
 ,	O
 khắt_khe	O
-"	O
+”	O
 ,	O
 vị	O
 Phó	O
@@ -263251,12 +263251,12 @@ buổi	O
 ra_mắt	O
 cuốn	O
 sách	O
-"	O
+”	O
 Dạy	O
 con	O
 tự	O
 học	O
-"	O
+”	O
 với	O
 sự	O
 góp_mặt	O
@@ -263338,12 +263338,12 @@ Kim_Thành	B-PERSON
 đã	O
 viết	O
 cuốn	O
-"	O
+”	O
 Dạy	O
 con	O
 tự	O
 học	O
-"	O
+”	O
 để_dành	O
 tặng	O
 trước_tiên	O
@@ -263456,12 +263456,12 @@ tự	O
 học	O
 ,	O
 cung_cấp	O
-"	O
+”	O
 bộ	O
 câu	O
 hỏi	O
 thông_thái	O
-"	O
+”	O
 rèn	O
 cho	O
 con_trẻ	O
@@ -263478,7 +263478,7 @@ với	O
 tác_giả	O
 nhấn_mạnh	O
 :	O
-"	O
+”	O
 Khi	O
 hỏi	O
 con	O
@@ -263525,7 +263525,7 @@ và	O
 giải_quyết	O
 vấn_đề	O
 ...	O
-"	O
+”	O
 .	O
 
 Với	O
@@ -263584,12 +263584,12 @@ học	O
 ,	O
 cuốn	O
 sách	O
-"	O
+”	O
 Dạy	O
 con	O
 tự	O
 học	O
-"	O
+”	O
 thực_sự	O
 là	O
 một	O
@@ -263617,7 +263617,7 @@ những	O
 lưu_ý	O
 như	O
 :	O
-"	O
+”	O
 Mỗi	O
 đứa	O
 trẻ	O
@@ -263680,9 +263680,9 @@ nhất	O
 ,	O
 hiệu_quả	O
 nhất	O
-"	O
+”	O
 ;	O
-"	O
+”	O
 Luôn	O
 hướng	O
 tới	O
@@ -263708,7 +263708,7 @@ bạn	O
 hoặc	O
 của	O
 con	O
-"	O
+”	O
 .	O
 
 Ngành	O
@@ -266091,9 +266091,9 @@ do	O
 hội	O
 cha_mẹ	O
 học_sinh	O
-"	O
+”	O
 vẽ	O
-"	O
+”	O
 ra	O
 .	O
 
@@ -267189,7 +267189,7 @@ HCM	I-LOCATION
 đặt	O
 vấn_đề	O
 :	O
-"	O
+”	O
 Chúng_tôi	O
 rất	O
 mong_muốn	O
@@ -267289,7 +267289,7 @@ trường	O
 ĐH	O
 xét	O
 tuyển	O
-"	O
+”	O
 .	O
 
 Đồng	O
@@ -267333,7 +267333,7 @@ mới	O
 ,	O
 cho_hay	O
 :	O
-"	O
+”	O
 Bộ_trưởng	O
 Bộ	B-ORGANIZATION
 GD-ĐT	I-ORGANIZATION
@@ -267386,7 +267386,7 @@ giữ	O
 thi	O
 như	O
 hiện_nay	O
-"	O
+”	O
 .	O
 
 Quảng_Trị	B-LOCATION
@@ -267929,7 +267929,7 @@ Tà_Rụt_Hồ_Văn	O
 Nhiếp	O
 khẩn_khoản	O
 :	O
-"	O
+”	O
 Mong	O
 sao	O
 cây	O
@@ -267950,7 +267950,7 @@ mong	O
 thoát	O
 được	O
 đói_nghèo	O
-"	O
+”	O
 .	O
 Ảnh	O
 :	O
@@ -270859,11 +270859,11 @@ tuổi	O
 vào	O
 tờ	O
 khai	O
-"	O
+”	O
 đòi	O
 lại	O
 giới_tính	O
-"	O
+”	O
 cho	O
 mình	O
 
@@ -270951,7 +270951,7 @@ Trần_Văn_Thanh	B-PERSON
 cho	O
 biết	O
 :	O
-"	O
+”	O
 Mặc_dù	O
 là	O
 con	O
@@ -270986,7 +270986,7 @@ của	O
 Hải	B-PERSON
 và	O
 gia_đình	O
-"	O
+”	O
 .	O
 
 Tờ	O
@@ -271045,7 +271045,7 @@ kiểm_tra	O
 giấy_tờ	O
 .	O
 
-"	O
+”	O
 Khi	O
 vào	O
 học	O
@@ -271097,7 +271097,7 @@ luôn	O
 nhà	O
 phụ_giúp	O
 gia_đình	O
-"	O
+”	O
 ,	O
 Hải	B-PERSON
 kể	O
@@ -271176,9 +271176,9 @@ ghi	O
 nhầm	O
 giới_tính	O
 thành	O
-"	O
+”	O
 nam	O
-"	O
+”	O
 với	O
 cái	O
 tên	O
@@ -271265,7 +271265,7 @@ thế_là	O
 nhầm	O
 .	O
 
-"	O
+”	O
 Mấy	O
 năm	O
 trước	O
@@ -274686,20 +274686,20 @@ có	O
 các	O
 nội_dung	O
 như	O
-"	O
+”	O
 Kỷ_niệm	O
 ngày	O
 8/3	O
 và	O
 thành_lập	O
 Đoàn	O
-"	O
+”	O
 hết	O
 20	O
 triệu	O
 đồng	O
 ,	O
-"	O
+”	O
 Kỷ_niệm	O
 30/4-1/5	O
 ,	O
@@ -274708,7 +274708,7 @@ Bác_Hồ	B-PERSON
 ,	O
 thành_lập	O
 Đội	O
-"	O
+”	O
 hết	O
 90	O
 triệu	O
@@ -275045,9 +275045,9 @@ quận	O
 cho	O
 rằng	O
 danh_sách	O
-"	O
+”	O
 đẻ	O
-"	O
+”	O
 ra	O
 quá	O
 nhiều	O
@@ -275080,7 +275080,7 @@ trường_lớp	O
 cho	O
 con	O
 
-"	O
+”	O
 Ngân_sách	O
 giáo_dục	O
 dành	O
@@ -275110,7 +275110,7 @@ mua_sắm	O
 cho	O
 trường_lớp	O
 ?	O
-"	O
+”	O
 ...	O
 
 Trong	O
@@ -275199,11 +275199,11 @@ lớp	O
 với	O
 ông	O
 bố	O
-"	O
+”	O
 cứng	O
 nhất	O
 năm	O
-"	O
+”	O
 Võ_Quốc_Bình	B-PERSON
 ,	O
 một	O
@@ -275212,7 +275212,7 @@ tại	O
 Hà_Nội	B-LOCATION
 phàn_nàn	O
 :	O
-"	O
+”	O
 Lớp	O
 con	O
 mình	O
@@ -275302,7 +275302,7 @@ không	O
 cần_thiết	O
 tí	O
 nào	O
-"	O
+”	O
 .	O
 
 Tương_tự	O
@@ -275344,7 +275344,7 @@ gỗ	O
 không	O
 cần_thiết	O
 vì	O
-"	O
+”	O
 cũng	O
 phải	O
 để	O
@@ -275355,7 +275355,7 @@ sự	O
 vất_vả	O
 của	O
 cha_mẹ	O
-"	O
+”	O
 .	O
 Dù_vậy	O
 ,	O
@@ -275416,7 +275416,7 @@ TP.	B-LOCATION
 HCM	I-LOCATION
 bày_tỏ	O
 :	O
-"	O
+”	O
 Nếu	O
 không	O
 có	O
@@ -275424,7 +275424,7 @@ hội	O
 sẽ	O
 khó	O
 làm_việc	O
-"	O
+”	O
 .	O
 
 Chị	O
@@ -275452,9 +275452,9 @@ nhất	O
 chứ	O
 không	O
 hề	O
-"	O
+”	O
 ăn	O
-"	O
+”	O
 đồng	O
 nào	O
 .	O
@@ -275481,9 +275481,9 @@ việc	O
 một_số	O
 nơi	O
 hơi	O
-"	O
+”	O
 quá_đà	O
-"	O
+”	O
 lạm_thu	O
 như	O
 việc	O
@@ -275496,7 +275496,7 @@ nghìn	O
 lễ_tết	O
 cô_giáo	O
 .	O
-"	O
+”	O
 Thật	O
 vô_lý	O
 khi	O
@@ -275515,7 +275515,7 @@ còn	O
 không	O
 thì	O
 thôi	O
-"	O
+”	O
 .	O
 
 Liên_quan	O
@@ -275540,7 +275540,7 @@ Hà_Nội	B-LOCATION
 cho	O
 rằng	O
 :	O
-"	O
+”	O
 Cha_mẹ	O
 lâu_nay	O
 vẫn	O
@@ -275576,7 +275576,7 @@ sân	O
 bóng	O
 ,	O
 bể_bơi	O
-"	O
+”	O
 .	O
 
 TS	O
@@ -275646,7 +275646,7 @@ trường	O
 2	O
 lần	O
 .	O
-"	O
+”	O
 Vậy	O
 tại_sao	O
 Hội	O
@@ -275675,7 +275675,7 @@ các	O
 quỹ	O
 không	O
 liên_quan	O
-"	O
+”	O
 ,	O
 tiến_sĩ	O
 Hương	B-PERSON
@@ -275826,10 +275826,10 @@ ngày	O
 .	O
 
 Ca_khúc	O
-"	O
+”	O
 Em_gái	O
 mưa	O
-"	O
+”	O
 xuất_hiện	O
 trong	O
 đề	O
@@ -275981,9 +275981,9 @@ Làm_tròn	O
 chữ_số	O
 sau	O
 dấu	O
-"	O
+”	O
 .	O
-"	O
+”	O
 nhé	O
 )	O
 ”	O
@@ -276098,10 +276098,10 @@ Hương_Tràm	B-PERSON
 thích_thú	O
 khi	O
 ca_khúc	O
-"	O
+”	O
 Em_gái	O
 mưa	O
-"	O
+”	O
 tiếp_tục	O
 xuất_hiện	O
 trong	O
@@ -277192,7 +277192,7 @@ chưa	O
 hết	O
 cho	O
 giáo_dục	O
-"	O
+”	O
 .	O
 
 Hiện_nay	O
@@ -277302,7 +277302,7 @@ Lâm	B-PERSON
 nhấn_mạnh	O
 .	O
 
-"	O
+”	O
 Như	O
 tự	O
 chỉ_định	O
@@ -277392,7 +277392,7 @@ là	O
 không	O
 được	O
 .	O
-"	O
+”	O
 Tôi	O
 nghĩ	O
 chính_quyền	O
@@ -277411,7 +277411,7 @@ nếu	O
 xảy	O
 ra	O
 lạm_thu	O
-"	O
+”	O
 ,	O
 thầy	O
 Lâm	B-PERSON
@@ -278810,7 +278810,7 @@ trưởng	O
 Nghĩa	B-PERSON
 cho_hay	O
 :	O
-"	O
+”	O
 Bộ	O
 sẽ	O
 xem_xét	O
@@ -278865,7 +278865,7 @@ bà	O
 Nghĩa	B-PERSON
 nói	O
 :	O
-"	O
+”	O
 Hội	O
 phụ_huynh	O
 được	O
@@ -278910,7 +278910,7 @@ phải	O
 trên	O
 tinh_thần	O
 tự_nguyện	O
-"	O
+”	O
 .	O
 
 Báo	B-ORGANIZATION
@@ -279796,7 +279796,7 @@ chấp_hành	O
 pháp_luật	O
 về	O
 ATGT	O
-"	O
+”	O
 -	O
 Thứ_trưởng	O
 Nguyễn_Thị_Nghĩa	B-PERSON
@@ -280348,9 +280348,9 @@ nhà_trường	O
 phổ_biến	O
 về	O
 những	O
-"	O
+”	O
 công_trình	O
-"	O
+”	O
 cần	O
 chi	O
 tiền	O
@@ -286308,13 +286308,13 @@ chấn_chỉnh	O
 ,	O
 không	O
 nên	O
-"	O
+”	O
 không	O
 làm	O
 được	O
 thì	O
 bỏ	O
-"	O
+”	O
 .	O
 
 “	O
@@ -289092,7 +289092,7 @@ tin	O
 lời	O
 người	O
 lạ	O
-"	O
+”	O
 ,	O
 Spencer	B-PERSON
 nhớ	O
@@ -289168,12 +289168,12 @@ Caitlin_Spencer	B-PERSON
 Spencer	B-PERSON
 nhớ	O
 rõ	O
-"	O
+”	O
 khách_hàng	O
-"	O
+”	O
 đầu_tiên	O
 .	O
-"	O
+”	O
 Đó	O
 là	O
 một	O
@@ -289193,7 +289193,7 @@ ta	O
 theo	O
 ảnh	O
 vợ_con	O
-"	O
+”	O
 ,	O
 cô	O
 nhớ	O
@@ -289215,7 +289215,7 @@ là	O
 người	O
 gốc	B-MISCELLANEOUS
 Á.	I-MISCELLANEOUS
-"	O
+”	O
 Chúng	O
 đe_doạ	O
 sẽ	O
@@ -289233,7 +289233,7 @@ sẽ	O
 đốt	O
 nhà	O
 tôi	O
-"	O
+”	O
 ,	O
 cô	O
 kể	O
@@ -289304,7 +289304,7 @@ không	O
 được	O
 bảo_vệ	O
 .	O
-"	O
+”	O
 Vì_thế	O
 ,	O
 tôi	O
@@ -289334,7 +289334,7 @@ tôi	O
 dừng	O
 việc	O
 trình_báo	O
-"	O
+”	O
 ,	O
 cô	O
 kể	O
@@ -289352,7 +289352,7 @@ của	O
 con	O
 gái	O
 .	O
-"	O
+”	O
 Người	O
 khác	O
 dễ_dàng	O
@@ -289384,7 +289384,7 @@ làm	O
 được	O
 gì	O
 ?	O
-"	O
+”	O
 ,	O
 Spencer	B-PERSON
 buồn_rầu	O
@@ -289483,7 +289483,7 @@ dùng	O
 thuốc	O
 kích_thích	O
 .	O
-"	O
+”	O
 Tôi	O
 chẳng	O
 biết	O
@@ -289512,7 +289512,7 @@ nghiện_ngập	O
 dễ	O
 khống_chế	O
 hơn	O
-"	O
+”	O
 ,	O
 Spencer	B-PERSON
 nhận_định	O
@@ -289612,7 +289612,7 @@ giữa	O
 hai	O
 chủng_tộc	O
 .	O
-"	O
+”	O
 Đôi_khi	O
 các	O
 con	O
@@ -289629,7 +289629,7 @@ bao_giờ	O
 muốn	O
 con	O
 biết	O
-"	O
+”	O
 ,	O
 Spencer	B-PERSON
 nói	O
@@ -289783,10 +289783,10 @@ và	O
 ký_ức	O
 có	O
 nhiều	O
-"	O
+”	O
 khoảng	O
 trống	O
-"	O
+”	O
 của	O
 Spencer	B-PERSON
 do	O
@@ -289884,7 +289884,7 @@ các	O
 băng_nhóm	O
 này	O
 .	O
-"	O
+”	O
 Tôi	O
 sẽ	O
 không	O
@@ -289904,7 +289904,7 @@ thông_điệp	O
 cho	O
 mọi	O
 người	O
-"	O
+”	O
 ,	O
 Spencer	B-PERSON
 nói	O
@@ -291225,14 +291225,14 @@ cà_phê	O
 mờ	O
 không	O
 phải	O
-"	O
+”	O
 hối_lộ	O
-"	O
+”	O
 mà	O
 là	O
-"	O
+”	O
 bồi_dưỡng	O
-"	O
+”	O
 và	O
 thành	O
 thông_lệ	O
@@ -291375,7 +291375,7 @@ quán	O
 sau	O
 đó	O
 đã	O
-"	O
+”	O
 xin	O
 tổ	O
 công_tác	O
@@ -291383,7 +291383,7 @@ tha	O
 không	O
 lập	O
 biên_bản	O
-"	O
+”	O
 .	O
 Đáp	O
 lại	O
@@ -291405,12 +291405,12 @@ triệu	O
 đồng	O
 ,	O
 nói	O
-"	O
+”	O
 biếu	O
 quà	O
 các	O
 bác	O
-"	O
+”	O
 .	O
 
 Khuya	O
@@ -292041,10 +292041,10 @@ nghiên_cứu	O
 quy_luật	O
 di_chuyển	O
 của	O
-"	O
+”	O
 con	O
 mồi	O
-"	O
+”	O
 và	O
 chọn	O
 thời_điểm	O
@@ -293954,20 +293954,20 @@ quần_áo	O
 triệu_tập	O
 nghi	O
 phạm	O
-"	O
+”	O
 tự	O
 sướng	O
-"	O
+”	O
 trộm	O
 iPhone	O
 rồi	O
 chạy	O
-"	O
+”	O
 nhanh	O
 như	O
 cơn	O
 gió	O
-"	O
+”	O
 ;	O
 9x	O
 cụt	O
@@ -296687,10 +296687,10 @@ OceanBank	B-ORGANIZATION
 cùng	O
 đồng_phạm	O
 trong	O
-"	O
+”	O
 đại	O
 án	O
-"	O
+”	O
 kinh_tế	O
 xảy	O
 ra	O
@@ -296899,7 +296899,7 @@ xử_lý	O
 hình_sự	O
 đối_với	O
 tội	O
-"	O
+”	O
 Cố_ý	O
 làm	O
 trái	O
@@ -296909,7 +296909,7 @@ Nhà_nước	O
 gây	O
 hậu_quả	O
 nghiêm_trọng	O
-"	O
+”	O
 ,	O
 đại_diện	O
 Viện_Kiểm_sát	O
@@ -296931,7 +296931,7 @@ xử_lý	O
 hình_sự	O
 đối_với	O
 hành_vi	O
-"	O
+”	O
 Cố_ý	O
 làm	O
 trái	O
@@ -296942,7 +296942,7 @@ Nhà_nước	O
 gây	O
 hậu_quả	O
 nghiêm_trọng	O
-"	O
+”	O
 ,	O
 như	O
 :	O
@@ -297003,10 +297003,10 @@ Do_đó	O
 ,	O
 đối_với	O
 tội	O
-"	O
+”	O
 Tham_ô	O
 tài_sản	O
-"	O
+”	O
 của	O
 bị_cáo	O
 Nguyễn_Xuân_Sơn	B-PERSON
@@ -298316,7 +298316,7 @@ mức	O
 16-18	O
 năm	O
 tù_tội	O
-"	O
+”	O
 Cố_ý	O
 làm	O
 trái	O
@@ -298328,24 +298328,24 @@ kinh_tế	O
 gây	O
 hậu_quả	O
 nghiêm_trọng	O
-"	O
+”	O
 ;	O
 chung_thân	O
 tội	O
-"	O
+”	O
 Lạm_dụng	O
 chức_vụ	O
 quyền_hạn	O
 chiếm_đoạt	O
 tài_sản	O
-"	O
+”	O
 ;	O
 tử_hình	O
 tội	O
-"	O
+”	O
 Tham_ô	O
 tài_sản	O
-"	O
+”	O
 .	O
 Tổng	O
 mức	O
@@ -298366,7 +298366,7 @@ mức	O
 19-20	O
 năm	O
 tội	O
-"	O
+”	O
 Cố_ý	O
 làm	O
 trái	O
@@ -298378,12 +298378,12 @@ kinh_tế	O
 gây	O
 hậu_quả	O
 nghiêm_trọng	O
-"	O
+”	O
 ;	O
 18-20	O
 năm	O
 tội	O
-"	O
+”	O
 Vi_phạm	O
 quy_định	O
 về	O
@@ -298395,24 +298395,24 @@ của	O
 các	O
 tổ_chức	O
 tín_dụng	O
-"	O
+”	O
 ;	O
 20	O
 năm	O
 tội	O
-"	O
+”	O
 Lạm_dụng	O
 chức_vụ	O
 quyền_hạn	O
 chiếm_đoạt	O
 tài_sản	O
-"	O
+”	O
 ;	O
 chung_thân	O
 tội	O
-"	O
+”	O
 Tham_ô	O
-"	O
+”	O
 .	O
 Tổng	O
 mức	O
@@ -299677,10 +299677,10 @@ công_ty	O
 BSC	B-ORGANIZATION
 ,	O
 công_ty	O
-"	O
+”	O
 sân	O
 sau	O
-"	O
+”	O
 của	O
 Hà_Văn_Thắm	B-PERSON
 là	O
@@ -302684,7 +302684,7 @@ xử_lý	O
 kịp_thời	O
 .	O
 
-"	O
+”	O
 Chính_quyền	O
 địa_phương	O
 chưa	O
@@ -302712,7 +302712,7 @@ phá	O
 rừng	O
 xảy	O
 ra	O
-"	O
+”	O
 -	O
 ông	O
 Thanh	B-PERSON
@@ -302755,7 +302755,7 @@ tại	O
 xã	B-LOCATION
 Tiên_Lãnh	I-LOCATION
 
-"	O
+”	O
 Phải	O
 tìm	O
 ra	O
@@ -302788,7 +302788,7 @@ cần	O
 phải	O
 xử_lý	O
 nghiêm	O
-"	O
+”	O
 -	O
 ông	O
 Thanh	B-PERSON
@@ -303005,10 +303005,10 @@ năm	O
 tù	O
 về	O
 tội	O
-"	O
+”	O
 Giết	O
 người	O
-"	O
+”	O
 .	O
 
 Tổng_hợp	O
@@ -303042,10 +303042,10 @@ tù	O
 cùng	O
 về	O
 tội	O
-"	O
+”	O
 Giết	O
 người	O
-"	O
+”	O
 .	O
 
 Các	O
@@ -303090,7 +303090,7 @@ năm	O
 tù	O
 về	O
 tội	O
-"	O
+”	O
 Giết	O
 người	O
 '	O
@@ -303478,15 +303478,15 @@ Sê	I-LOCATION
 )	O
 về	O
 tội	O
-"	O
+”	O
 giết	O
 người	O
-"	O
+”	O
 ,	O
-"	O
+”	O
 cướp	O
 tài_sản	O
-"	O
+”	O
 .	O
 
 Xét	O
@@ -303529,10 +303529,10 @@ năm	O
 tù	O
 về	O
 tội	O
-"	O
+”	O
 cướp	O
 tài_sản	O
-"	O
+”	O
 ,	O
 tổng_hợp	O
 hình_phạt	O
@@ -303804,9 +303804,9 @@ cảnh_tượng	O
 rừng_phòng_hộ	O
 Tiên_Lãnh	B-LOCATION
 bị	O
-"	O
+”	O
 thảm_sát	O
-"	O
+”	O
 không	O
 thương_tiếc	O
 .	O
@@ -303852,7 +303852,7 @@ rừng	O
 Lê_Trí_Thanh	B-PERSON
 khẳng_định	O
 :	O
-"	O
+”	O
 Đúng	O
 là	O
 có	O
@@ -303862,7 +303862,7 @@ rừng	O
 tại	O
 rừng	O
 Tiên_Lãnh	B-LOCATION
-"	O
+”	O
 .	O
 
 Về	O
@@ -303914,7 +303914,7 @@ Tiên_Phước	I-LOCATION
 ,	O
 thừa_nhận	O
 :	O
-"	O
+”	O
 Tình_trạng	O
 phá	O
 rừng	O
@@ -303954,7 +303954,7 @@ và	O
 cung_cấp	O
 đến	O
 báo_giới	O
-"	O
+”	O
 .	O
 
 Mặt_khác	O
@@ -303970,10 +303970,10 @@ thẳng_tay	O
 ,	O
 không	O
 có	O
-"	O
+”	O
 vùng	O
 cấm	O
-"	O
+”	O
 đối_với	O
 các	O
 đối_tượng	O
@@ -304368,11 +304368,11 @@ chống_cự	O
 quyết_liệt	O
 và	O
 đạp	O
-"	O
+”	O
 yêu	O
 râu	O
 xanh	O
-"	O
+”	O
 xuống	O
 giường	O
 .	O
@@ -304939,18 +304939,18 @@ lần	O
 2	O
 ,	O
 cụm_từ	O
-"	O
+”	O
 chi	O
 lãi	O
 ngoài	O
-"	O
+”	O
 hay	O
-"	O
+”	O
 chi	O
 vượt	O
 trần	O
 lãi_suất	O
-"	O
+”	O
 mới	O
 được	O
 các	O
@@ -305035,10 +305035,10 @@ của	O
 ngân_hàng	O
 ,	O
 nhằm	O
-"	O
+”	O
 níu	O
 chân	O
-"	O
+”	O
 người	O
 gửi	O
 tiền	O
@@ -305095,12 +305095,12 @@ Hà_Văn_Thắm	B-PERSON
 thẳng_thắn	O
 thừa_nhận	O
 hành_vi	O
-"	O
+”	O
 chi	O
 vượt	O
 trần	O
 lãi_suất	O
-"	O
+”	O
 .	O
 
 Các	O
@@ -305296,7 +305296,7 @@ rủi_ro	O
 cho	O
 tổ_chức	O
 tín_dụng	O
-"	O
+”	O
 .	O
 
 Trong	O
@@ -305743,7 +305743,7 @@ Hoàng_Huy_Được	B-PERSON
 đã	O
 viện_dẫn	O
 :	O
-"	O
+”	O
 Thực_tế	O
 sau	O
 khi	O
@@ -305791,7 +305791,7 @@ là	O
 HDBank	B-ORGANIZATION
 và	O
 MaritimeBank	B-ORGANIZATION
-"	O
+”	O
 .	O
 
 Tuy_nhiên	O
@@ -305893,7 +305893,7 @@ việc	O
 này	O
 .	O
 
-"	O
+”	O
 Phải_chăng	O
 thiệt_hại	O
 ở	O
@@ -305912,7 +305912,7 @@ cho	O
 rằng	O
 không	O
 phải	O
-"	O
+”	O
 ,	O
 luật_sư	O
 nói	O
@@ -305943,7 +305943,7 @@ tên	O
 OceanBank	B-ORGANIZATION
 .	O
 
-"	O
+”	O
 OceanBank	B-ORGANIZATION
 là	O
 nhà_băng	O
@@ -305961,7 +305961,7 @@ duy_nhất	O
 bị	O
 xử_lý	O
 hình_sự	O
-"	O
+”	O
 ,	O
 ông	O
 Đăng	O
@@ -306241,9 +306241,9 @@ rõ_ràng	O
 là	O
 những	O
 trường_hợp	O
-"	O
+”	O
 ngoại_lệ	O
-"	O
+”	O
 ,	O
 không	O
 tuân	O
@@ -307084,7 +307084,7 @@ tỉnh	O
 cơ_sở	O
 .	O
 
-"	O
+”	O
 Dù	O
 đi	O
 chưa	O
@@ -307160,7 +307160,7 @@ các	O
 vấn_đề	O
 này	O
 ...	O
-"	O
+”	O
 -	O
 ông	O
 Thanh	B-PERSON
@@ -307444,9 +307444,9 @@ clip	O
 ghi	O
 lại	O
 cảnh	O
-"	O
+”	O
 chạy	O
-"	O
+”	O
 phăm_phăm	O
 ra	O
 sân	O
@@ -307519,9 +307519,9 @@ tai_nạn	O
 
 Việc	O
 bị_cáo	O
-"	O
+”	O
 xiêu_vẹo	O
-"	O
+”	O
 như	O
 người	O
 chết	O
@@ -307542,11 +307542,11 @@ dư_luận	O
 nghi_ngờ	O
 cụ	O
 ông	O
-"	O
+”	O
 yêu	O
 râu	O
 xanh	O
-"	O
+”	O
 này	O
 đang	O
 diễn	O
@@ -308026,10 +308026,10 @@ gần	O
 bà	O
 Phượng	B-PERSON
 bỗng_dưng	O
-"	O
+”	O
 biến	O
 mất	O
-"	O
+”	O
 khỏi	O
 địa_phương	O
 khiến	O
@@ -308037,7 +308037,7 @@ họ	O
 vô_cùng	O
 lo_lắng	O
 .	O
-"	O
+”	O
 Nhiều	O
 lần	O
 liên_lạc	O
@@ -308069,7 +308069,7 @@ và	O
 Công_an	O
 tỉnh	B-LOCATION
 Quảng_Nam	I-LOCATION
-"	O
+”	O
 ,	O
 một	O
 nạn_nhân	O
@@ -308143,7 +308143,7 @@ hàng	O
 trăm	O
 người	O
 .	O
-"	O
+”	O
 Nhiều	O
 người	O
 là	O
@@ -308157,7 +308157,7 @@ ngại	O
 nên	O
 không	O
 phản_ánh	O
-"	O
+”	O
 ,	O
 nguồn	O
 tin	O
@@ -308304,7 +308304,7 @@ yếu_tố	O
 hình_sự	O
 .	O
 
-"	O
+”	O
 Tiếp_nhận	O
 đơn	O
 thư	O
@@ -308379,7 +308379,7 @@ thống_nhất	O
 kết_luận	O
 nói	O
 trên	O
-"	O
+”	O
 ,	O
 vị	O
 lãnh_đạo	O
@@ -310039,10 +310039,10 @@ Phú_Nhuận	I-LOCATION
 )	O
 về	O
 tội	O
-"	O
+”	O
 Giết	O
 người	O
-"	O
+”	O
 .	O
 
 Liên_quan	O
@@ -310069,11 +310069,11 @@ Bình_Thạnh	I-LOCATION
 bị	O
 truy_tố	O
 tội	O
-"	O
+”	O
 Gây_rối	O
 trật_tự	O
 công_cộng	O
-"	O
+”	O
 .	O
 
 Cuối	O
@@ -310176,10 +310176,10 @@ nhưng	O
 có	O
 người	O
 hô	O
-"	O
+”	O
 công_an	O
 đến	O
-"	O
+”	O
 nên	O
 hai	O
 nhóm	O
@@ -310261,10 +310261,10 @@ Khải	B-PERSON
 bị	O
 truy_tố	O
 tội	O
-"	O
+”	O
 Giết	O
 người	O
-"	O
+”	O
 vì	O
 đã	O
 cho	O
@@ -311291,7 +311291,7 @@ của	O
 Nguyễn_Đình_Hoàng_Thắng	B-PERSON
 về	O
 hành_vi	O
-"	O
+”	O
 Cố_ý	O
 gây	O
 thương_tích	O
@@ -311303,18 +311303,18 @@ sức_khoẻ	O
 của	O
 người	O
 khác	O
-"	O
+”	O
 ,	O
 không	O
 đủ	O
 yếu_tố	O
 cấu_thành	O
 tội	O
-"	O
+”	O
 Gây_rối	O
 trật_tự	O
 công_cộng	O
-"	O
+”	O
 ...	O
 
 NGHỆ_AN	B-LOCATION
@@ -311339,7 +311339,7 @@ của	O
 Nguyễn_Đình_Hoàng_Thắng	B-PERSON
 về	O
 hành_vi	O
-"	O
+”	O
 Cố_ý	O
 gây	O
 thương_tích	O
@@ -311351,18 +311351,18 @@ sức_khoẻ	O
 của	O
 người	O
 khác	O
-"	O
+”	O
 ,	O
 không	O
 đủ	O
 yếu_tố	O
 cấu_thành	O
 tội	O
-"	O
+”	O
 Gây_rối	O
 trật_tự	O
 công_cộng	O
-"	O
+”	O
 nên	O
 không	O
 khởi_tố	O
@@ -311553,7 +311553,7 @@ hình_sự	O
 Nguyễn_Đình_Hoàng_Thắng	B-PERSON
 về	O
 hành_vi	O
-"	O
+”	O
 Cố_ý	O
 gây	O
 thương_tích	O
@@ -311564,7 +311564,7 @@ cho	O
 sức_khoẻ	O
 người	O
 khác	O
-"	O
+”	O
 .	O
 
 Ngoài_ra	O
@@ -311591,19 +311591,19 @@ không	O
 yếu_tố	O
 cấu_thành	O
 tội	O
-"	O
+”	O
 Gây_rối	O
 trật_tự	O
 công_cộng	O
-"	O
+”	O
 và	O
 tội	O
-"	O
+”	O
 Chống	O
 người	O
 thi_hành	O
 công_vụ	O
-"	O
+”	O
 .	O
 Tuy_nhiên	O
 ,	O
@@ -311615,7 +311615,7 @@ vi_phạm	O
 pháp_luật	O
 hành_chính	O
 như	O
-"	O
+”	O
 có	O
 lời_nói	O
 xúc_phạm	O
@@ -311625,24 +311625,24 @@ nhân_phẩm	O
 của	O
 người	O
 khác	O
-"	O
+”	O
 ,	O
-"	O
+”	O
 gây	O
 mất	O
 trật_tự	O
 ở	O
 bệnh_viện	O
-"	O
+”	O
 ,	O
-"	O
+”	O
 xâm_hại	O
 đến	O
 sức_khoẻ	O
 của	O
 người	O
 khác	O
-"	O
+”	O
 .	O
 Còn	O
 ông	O
@@ -311652,15 +311652,15 @@ hành_vi	O
 vi_phạm	O
 pháp_luật	O
 hành_chính	O
-"	O
+”	O
 gây	O
 mất	O
 trật_tự	O
 ở	O
 bệnh_viện	O
-"	O
+”	O
 và	O
-"	O
+”	O
 thiếu	O
 văn_hoá	O
 làm	O
@@ -311668,7 +311668,7 @@ mất	O
 an_ninh	O
 ,	O
 trật_tự	O
-"	O
+”	O
 .	O
 
 Hiện	O
@@ -312921,10 +312921,10 @@ nói	O
 trên	O
 khai	O
 đã	O
-"	O
+”	O
 được	O
 lệnh	O
-"	O
+”	O
 giúp	O
 bà	O
 Yingluck	B-PERSON
@@ -314268,13 +314268,13 @@ những	O
 hành_vi	O
 phạm_pháp	O
 luật_hành_chính	O
-"	O
+”	O
 Gây	O
 mất	O
 trật_tự	O
 ở	O
 bệnh_viện	O
-"	O
+”	O
 .	O
 Ngoài_ra	O
 ông	O
@@ -314328,7 +314328,7 @@ thì	O
 Huân	B-PERSON
 đã	O
 vi_phạm	O
-"	O
+”	O
 Thiếu	O
 văn_hoá	O
 làm	O
@@ -314336,7 +314336,7 @@ mất	O
 an_ninh	O
 ,	O
 trật_tự	O
-"	O
+”	O
 .	O
 
 Ông	O
@@ -314350,7 +314350,7 @@ hanh	O
 chính	O
 gồm	O
 :	O
-"	O
+”	O
 có	O
 lời_nói	O
 xúc_phạm	O
@@ -314360,23 +314360,23 @@ nhân_phẩm	O
 của	O
 người	O
 khác	O
-"	O
+”	O
 ;	O
-"	O
+”	O
 gây	O
 mất	O
 trật_tự	O
 ở	O
 bệnh_viện	O
-"	O
+”	O
 ;	O
-"	O
+”	O
 xâm_hại	O
 đến	O
 sức_khoẻ	O
 người	O
 khác	O
-"	O
+”	O
 .	O
 
 Cơ_quan	O
@@ -315544,21 +315544,21 @@ năm	O
 tù	O
 về	O
 tội	O
-"	O
+”	O
 Hiếp_dâm	O
 trẻ_em	O
-"	O
+”	O
 và	O
 4	O
 năm	O
 tù	O
 về	O
 tội	O
-"	O
+”	O
 Giao_cấu	O
 với	O
 trẻ_em	O
-"	O
+”	O
 .	O
 Tổng	O
 hình_phạt	O
@@ -315604,19 +315604,19 @@ thêm	O
 80	O
 triệu	O
 đồng	O
-"	O
+”	O
 tiền	O
 công	O
 nuôi	O
 con	O
-"	O
+”	O
 ,	O
-"	O
+”	O
 tiền	O
 bồi_thường	O
 danh_dự	O
 nhân_phẩm	O
-"	O
+”	O
 .	O
 
 Bị_cáo	O
@@ -316696,10 +316696,10 @@ HCM	I-LOCATION
 cùng	O
 về	O
 tội	O
-"	O
+”	O
 Giết	O
 người	O
-"	O
+”	O
 .	O
 
 Nhóm	O
@@ -318416,7 +318416,7 @@ suốt	O
 qua	O
 .	O
 
-"	O
+”	O
 Tất_cả	O
 bọn	O
 họ	O
@@ -318438,7 +318438,7 @@ các	O
 bằng_chứng	O
 chắc_chắn	O
 nhất	O
-"	O
+”	O
 -	O
 tướng	O
 Srivara	B-PERSON
@@ -318629,10 +318629,10 @@ chuyện	O
 bắt	O
 họ	O
 làm	O
-"	O
+”	O
 vật	O
 tế	O
-"	O
+”	O
 -	O
 theo	O
 báo	O
@@ -319585,7 +319585,7 @@ Việt_Nam	B-LOCATION
 cho	O
 biết	O
 :	O
-"	O
+”	O
 UNICEF	B-ORGANIZATION
 đánh_giá	O
 cao	O
@@ -322448,7 +322448,7 @@ Hạ_Long	I-LOCATION
 )	O
 cho_hay	O
 ,	O
-"	O
+”	O
 sau	O
 khi	O
 tình_trạng	O
@@ -322469,7 +322469,7 @@ chỉ	O
 mang	O
 tính	O
 tạm_thời	O
-"	O
+”	O
 .	O
 
 Theo	O
@@ -322906,10 +322906,10 @@ xuống	O
 cấp	O
 phép	O
 phù_hiệu	O
-"	O
+”	O
 xe	O
 hợp_đồng	O
-"	O
+”	O
 cho	O
 Công_an	O
 thành_phố	O
@@ -326109,9 +326109,9 @@ vừa_qua	O
 
 Với	O
 giải_thưởng	O
-"	O
+”	O
 khủng	O
-"	O
+”	O
 lần	O
 này	O
 ,	O
@@ -333179,9 +333179,9 @@ rõ	O
 
 Đã	O
 có	O
-"	O
+”	O
 mắt_thần	O
-"	O
+”	O
 ngăn_chặn	O
 trục_lợi	O
 BHYT	O
@@ -334290,9 +334290,9 @@ Làm	O
 xong	O
 đường_cao_tốc	O
 ,	O
-"	O
+”	O
 chạy_làng	O
-"	O
+”	O
 đường	O
 dân_sinh	O
 
@@ -342505,7 +342505,7 @@ phí	O
 rất	O
 lớn	O
 .	O
-"	O
+”	O
 Lưu_lượng	O
 phương_tiện	O
 ngày_càng	O
@@ -342523,7 +342523,7 @@ nhà_đầu_tư	O
 phải	O
 điều_chỉnh	O
 giảm_giá	O
-"	O
+”	O
 -	O
 ông	O
 Huyện	B-PERSON
@@ -342835,7 +342835,7 @@ hài_hoà	O
 nhất	O
 .	O
 
-"	O
+”	O
 Hiện_nay	O
 ở	O
 phía	O
@@ -342890,7 +342890,7 @@ Bộ	B-ORGANIZATION
 GTVT	I-ORGANIZATION
 đang	O
 xem_xét	O
-"	O
+”	O
 -	O
 ông	O
 Đông	B-PERSON
@@ -343808,7 +343808,7 @@ ngày	O
 26-29/9	O
 với	O
 chủ_đề	O
-"	O
+”	O
 Tăng_cường	O
 sự	O
 hội_nhập	O
@@ -343824,7 +343824,7 @@ một	O
 thế_giới	O
 đang	O
 thay_đổi	O
-"	O
+”	O
 .	O
 
 Diễn_đàn	O
@@ -345068,11 +345068,11 @@ bệnh	O
 KLN	O
 được	O
 ví_như	O
-"	O
+”	O
 cơn	O
 thuỷ_triều	O
 đỏ	O
-"	O
+”	O
 bởi	O
 gánh	O
 nặng	O
@@ -345305,7 +345305,7 @@ hàng	O
 tháng	O
 .	O
 
-"	O
+”	O
 Theo	O
 sổ	O
 hẹn	O
@@ -345374,7 +345374,7 @@ phiền_hà	O
 đến	O
 con_cháu	O
 ...	O
-"	O
+”	O
 -	O
 bà	O
 Thi	B-PERSON
@@ -346108,7 +346108,7 @@ tư_vấn	O
 thích_hợp	O
 .	O
 
-"	O
+”	O
 1	O
 bệnh_nhân	O
 điều_trị	O
@@ -346135,7 +346135,7 @@ với	O
 ở	O
 tuyến	O
 trên	O
-"	O
+”	O
 -	O
 Thứ_trưởng	O
 nói	O
@@ -346454,9 +346454,9 @@ Phù_Mỹ	B-LOCATION
 cũng	O
 xuất_hiện	O
 nhiều	O
-"	O
+”	O
 ổ_voi	O
-"	O
+”	O
 và	O
 điểm	O
 sụt	O
@@ -346500,7 +346500,7 @@ khó_khăn	O
 đi_lại	O
 .	O
 
-"	O
+”	O
 Nguyên_nhân	O
 có_thể	O
 do	O
@@ -346525,7 +346525,7 @@ khiến	O
 một_số	O
 vị_trí	O
 hư_hỏng	O
-"	O
+”	O
 ,	O
 Thứ_trưởng	O
 Trường	B-PERSON
@@ -346593,7 +346593,7 @@ phát_sinh	O
 chất_lượng	O
 .	O
 
-"	O
+”	O
 Bộ	O
 giao	O
 Cục	B-ORGANIZATION
@@ -346650,7 +346650,7 @@ cân	O
 khống_chế	O
 xe	O
 quá_tải	O
-"	O
+”	O
 ,	O
 ông	O
 Hồng	B-PERSON
@@ -346736,7 +346736,7 @@ xuất_hiện	O
 tình_trạng	O
 hư_hỏng	O
 .	O
-"	O
+”	O
 Nguyên_nhân	O
 khách_quan	O
 là	O
@@ -346773,7 +346773,7 @@ phụ_gia	O
 tăng	O
 độ	O
 dính	O
-"	O
+”	O
 ,	O
 ông	O
 Chung	B-PERSON
@@ -347005,7 +347005,7 @@ các	O
 đại_biểu	O
 .	O
 
-"	O
+”	O
 Lý_do	O
 hoãn	O
 là	O
@@ -347025,7 +347025,7 @@ nhiều	O
 lần	O
 như	O
 trước	O
-"	O
+”	O
 ,	O
 ông	O
 Hiếu	B-PERSON
@@ -347239,11 +347239,11 @@ sẽ	O
 có	O
 bài	O
 phát_biểu	O
-"	O
+”	O
 Định_hướng	O
 phát_triển	O
 Đà_Nẵng	B-LOCATION
-"	O
+”	O
 .	O
 
 Sau	O
@@ -347260,7 +347260,7 @@ các	O
 phóng_viên	O
 với	O
 nội_dung	O
-"	O
+”	O
 Diễn_đàn	O
 đầu_tư	O
 Đà_Nẵng	B-LOCATION
@@ -347270,7 +347270,7 @@ hoãn	O
 đến	O
 giữa	O
 tháng	O
-10/2017".	O
+10/2017”.	O
 
 Đoàn_Nguyên	B-PERSON
 
@@ -348624,9 +348624,9 @@ Hơn	O
 85	O
 tỷ	O
 đồng	O
-"	O
+”	O
 ngóng	O
-"	O
+”	O
 chủ_nhân	O
 
 Kết_quả	O
@@ -349011,9 +349011,9 @@ phản_ánh	O
 nhưng	O
 công_ty	O
 vẫn	O
-"	O
+”	O
 lờ	O
-"	O
+”	O
 đi	O
 .	O
 
@@ -349025,7 +349025,7 @@ Công_ty	O
 Việt	B-LOCATION
 -_Trung	O
 
-"	O
+”	O
 Cuộc_sống	O
 của	O
 người_dân	O
@@ -349091,7 +349091,7 @@ nước_thải	O
 tiêu_chuẩn	O
 về	O
 môi_trường	O
-"	O
+”	O
 -	O
 ông	O
 Dũng	B-PERSON
@@ -349218,7 +349218,7 @@ rất	O
 nhiều	O
 lần	O
 .	O
-"	O
+”	O
 Gần	O
 đây	O
 nhất	O
@@ -349266,7 +349266,7 @@ công_ty	O
 và	O
 yêu_cầu	O
 xử_lý	O
-"	O
+”	O
 -	O
 ông	O
 Phương	B-PERSON
@@ -349459,7 +349459,7 @@ mùi	O
 hôi	O
 .	O
 
-"	O
+”	O
 Đến	O
 thời_điểm	O
 hiện_tại	O
@@ -349492,7 +349492,7 @@ tuần	O
 sẽ	O
 có	O
 kết_quả	O
-"	O
+”	O
 -	O
 ông	O
 Hoà	B-PERSON
@@ -349821,10 +349821,10 @@ nhờ	O
 xe	O
 ba_gác	O
 máy	O
-"	O
+”	O
 cứu	O
 xe	O
-"	O
+”	O
 trên	O
 đường	B-LOCATION
 Lê_Văn_Lương	I-LOCATION
@@ -352948,7 +352948,7 @@ nêu	O
 rõ	O
 vấn_đề	O
 biên_giới	O
-"	O
+”	O
 phải	O
 là	O
 chủ_đề	O
@@ -352957,7 +352957,7 @@ của	O
 các	O
 cuộc	O
 đàm_phán	O
-"	O
+”	O
 ,	O
 đồng_thời	O
 nhấn_mạnh	O
@@ -353091,7 +353091,7 @@ ngocdoangiang64@gmail.com	O
 hỏi	O
 :	O
 
-"	O
+”	O
 Tôi	O
 là	O
 cán_bộ	O
@@ -355973,9 +355973,9 @@ mệnh_danh	O
 là	O
 vòng	O
 xoay	O
-"	O
+”	O
 tử_thần	O
-"	O
+”	O
 ,	O
 với	O
 hàng_loạt	O
@@ -355991,14 +355991,14 @@ lên	O
 Google	O
 đánh	O
 cụm_từ	O
-"	O
+”	O
 Tai_nạn	O
 ở	O
 vòng	B-LOCATION
 xoay	I-LOCATION
 Mỹ	I-LOCATION
 Thuỷ	I-LOCATION
-"	O
+”	O
 thì	O
 chỉ	O
 trong	O
@@ -356167,9 +356167,9 @@ cua	O
 
 Nỗi	O
 ám_ảnh	O
-"	O
+”	O
 tử_thần	O
-"	O
+”	O
 lởn_vởn	O
 ở	O
 các	O
@@ -356194,7 +356194,7 @@ bạn	O
 đánh_máy	O
 cụm_từ	O
 :	O
-"	O
+”	O
 Những	O
 khúc	O
 cong	O
@@ -356202,7 +356202,7 @@ tử_thần	O
 ở	O
 TP	B-LOCATION
 HCM	I-LOCATION
-"	O
+”	O
 .	O
 
 Bài	O
@@ -356880,11 +356880,11 @@ Jesus	B-PERSON
 tiếp_tục	O
 có	O
 1	O
-"	O
+”	O
 cơn	O
 mưa	O
 gôn	O
-"	O
+”	O
 vào	O
 lưới	O
 đối_thủ	O
@@ -359016,9 +359016,9 @@ Việt_Nam	B-LOCATION
 sẽ	O
 đá	O
 trận	O
-"	O
+”	O
 chung_kết	O
-"	O
+”	O
 bảng	O
 I	O
 vòng_loại	O
@@ -360906,7 +360906,7 @@ HLV	O
 Zinedine_Zidane	B-PERSON
 chia_sẻ	O
 :	O
-"	O
+”	O
 Toni	B-PERSON
 không_thể	O
 ra	O
@@ -360944,7 +360944,7 @@ thứ	O
 Ba	O
 tới	O
 .	O
-"	O
+”	O
 
 Ngoài	O
 Kroos	B-PERSON
@@ -365489,9 +365489,9 @@ quý_giá	O
 .	O
 
 Người	O
-"	O
+”	O
 mở_hàng	O
-"	O
+”	O
 HCV	O
 cho	O
 đoàn	O
@@ -365794,7 +365794,7 @@ báo_giới	O
 Aubameyang	B-PERSON
 thừa_nhận	O
 :	O
-"	O
+”	O
 Real_Madrid	O
 chỉ	O
 còn	O
@@ -368907,9 +368907,9 @@ thi_thể	O
 hình	O
 .	O
 
-"	O
+”	O
 Siêu_nhân	O
-"	O
+”	O
 Ronaldo	B-PERSON
 trở_lại	O
 cũng	O
@@ -368949,9 +368949,9 @@ R	O
 )	O
 
 Messi	B-PERSON
-"	O
+”	O
 mỉa_mai	O
-"	O
+”	O
 Real	B-ORGANIZATION
 khi	O
 đội	O
@@ -369479,12 +369479,12 @@ của	O
 Venezuela	B-LOCATION
 Deyna_Castellanos	B-PERSON
 và	O
-"	O
+”	O
 Messi	B-PERSON
 của	O
 bóng_đá	O
 nữ	O
-"	O
+”	O
 Lieke_Martens	B-PERSON
 là	O
 3	O
@@ -370443,10 +370443,10 @@ khi	O
 Crystal_Palace	B-ORGANIZATION
 sẽ	O
 là	O
-"	O
+”	O
 con	O
 mồi	O
-"	O
+”	O
 ngon	O
 cho	O
 Sergio_Aguero	B-PERSON
@@ -370633,9 +370633,9 @@ sự	O
 vắng_mặt	O
 của	O
 trung_vệ	O
-"	O
+”	O
 thép	O
-"	O
+”	O
 Virgil	B-PERSON
 van	I-PERSON
 Dijk	I-PERSON
@@ -370646,10 +370646,10 @@ nhỏ	O
 đến	O
 lối	O
 chơi	O
-"	O
+”	O
 đổ	O
 bê_tông	O
-"	O
+”	O
 của	O
 The_Saints	B-ORGANIZATION
 .	O
@@ -371293,7 +371293,7 @@ trở_nên	O
 quen_thuộc	O
 .	O
 
-"	O
+”	O
 Ngày_xưa	O
 đi	O
 tập_luyện	O
@@ -371341,7 +371341,7 @@ cho	O
 tôi	O
 rất	O
 nhiều	O
-"	O
+”	O
 ,	O
 Hải	B-PERSON
 chia_sẻ	O
@@ -371391,7 +371391,7 @@ ngoại	O
 tại	O
 Nghệ_An	B-LOCATION
 .	O
-"	O
+”	O
 Sang	O
 đây	O
 thi_đấu	O
@@ -371435,7 +371435,7 @@ mẹ	O
 tôi	O
 lại	O
 chạnh_lòng	O
-"	O
+”	O
 ,	O
 Hải	B-PERSON
 chia_sẻ	O
@@ -371624,9 +371624,9 @@ châu_Á	I-MISCELLANEOUS
 )	O
 Trận	O
 đấu	O
-"	O
+”	O
 no_nê	O
-"	O
+”	O
 với	O
 9	O
 bàn	O
@@ -374313,7 +374313,7 @@ của	O
 bóng	O
 cũ	O
 :	O
-"	O
+”	O
 Real	B-ORGANIZATION
 có	O
 rất	O
@@ -374355,13 +374355,13 @@ chuẩn	O
 trở	O
 về	O
 thi_đấu	O
-"	O
+”	O
 .	O
 
 Ronaldo	B-PERSON
 đánh_giá	O
 :	O
-"	O
+”	O
 Mùa	O
 trước	O
 Real	B-ORGANIZATION
@@ -374419,7 +374419,7 @@ về	O
 khả_năng	O
 của	O
 Real	B-ORGANIZATION
-"	O
+”	O
 .	O
 
 Thống_kê	O
@@ -374442,11 +374442,11 @@ cho	O
 bóng	O
 cũ	O
 ,	O
-"	B-PERSON
+”	B-PERSON
 Người	I-PERSON
 ngoài	I-PERSON
 hành_tinh	I-PERSON
-"	I-PERSON
+”	I-PERSON
 còn	O
 cổ_vũ	O
 cầu_thủ	O
@@ -374470,7 +374470,7 @@ hợp_đồng	O
 2021	O
 .	O
 
-"	O
+”	O
 Tôi	O
 rất	O
 vui	O
@@ -374531,7 +374531,7 @@ con	O
 trở_lại	O
 với	O
 chiến_thắng	O
-"	O
+”	O
 .	O
 
 Lịch	O
@@ -374640,11 +374640,11 @@ người	O
 gắn	O
 với	O
 biệt_danh	O
-"	B-PERSON
+”	B-PERSON
 Ronaldo	I-PERSON
 xứ	I-PERSON
 Nghệ	I-PERSON
-"	I-PERSON
+”	I-PERSON
 .	O
 Nếu	O
 may_mắn	O
@@ -374802,11 +374802,11 @@ bóng	O
 xanh	O
 vây	O
 áp	O
-"	B-PERSON
+”	B-PERSON
 Ronaldo	I-PERSON
 xứ	I-PERSON
 Nghệ	I-PERSON
-"	I-PERSON
+”	I-PERSON
 .	O
 
 Dù	O
@@ -375676,7 +375676,7 @@ với	O
 chiến_thắng	O
 này	O
 :	O
-"	O
+”	O
 Sau	O
 nhiều	O
 lần	O
@@ -376638,9 +376638,9 @@ xây_dựng	O
 
 Nadiem_Amiri	B-PERSON
 :	O
-"	O
+”	O
 Bộ_óc	O
-"	O
+”	O
 thiên_tài	O
 của	O
 ngựa_ô	O
@@ -378046,11 +378046,11 @@ HLV	O
 Vũ_Hồng_Việt	B-PERSON
 dễ_dàng	O
 tạo	O
-"	O
+”	O
 mưa	O
 bàn	O
 thắng	O
-"	O
+”	O
 vào	O
 lưới	O
 U16	O
@@ -379516,10 +379516,10 @@ giữ	O
 sạch	O
 lưới	O
 của	O
-"	O
+”	O
 Quỷ	O
 đỏ	O
-"	O
+”	O
 từ	O
 đầu	O
 mùa	O
@@ -382586,7 +382586,7 @@ cầu_thủ	O
 giỏi	O
 trong	O
 tương_lai	O
-"	O
+”	O
 .	O
 
 Huyền_thoại	O
@@ -384049,9 +384049,9 @@ Croatia	B-LOCATION
 với	O
 hàng_loạt	O
 phi_vụ	O
-"	O
+”	O
 đen	O
-"	O
+”	O
 .	O
 Ông	O
 này	O
