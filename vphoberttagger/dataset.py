@@ -3,8 +3,6 @@ from pathlib import Path
 from torch.utils.data import Dataset
 from tqdm import tqdm
 
-from vphoberttagger.constant import LABEL2ID
-
 import os
 import torch
 import pandas as pd
@@ -23,6 +21,8 @@ class NerFeatures(object):
 
 def convert_examples_features(data_path: Union[str, os.PathLike],
                               tokenizer,
+                              label2id,
+                              header_names: List[str],
                               max_seq_len: int = 256,
                               use_crf: bool = False) -> List[NerFeatures]:
     features = []
@@ -32,12 +32,12 @@ def convert_examples_features(data_path: Union[str, os.PathLike],
                        delimiter='\t',
                        encoding='utf-8',
                        skip_blank_lines=False,
-                       names=['token', 'pos', 'chunk', 'ner'])
+                       names=header_names)
     data.fillna(method="ffill")
     for row_idx, row in tqdm(data.iterrows(), total=len(data), desc=f"Load dataset {data_path}..."):
         if row.notna().token:
             tokens.append(row.token.strip().replace(' ', '_'))
-            tag_ids.append(LABEL2ID.index(row.ner.strip()))
+            tag_ids.append(label2id.index(row.ner.strip()))
             if not row_idx == len(data) - 1:
                 continue
         seq_len = len(tokens)
@@ -87,6 +87,8 @@ class NerDataset(Dataset):
 
 def build_dataset(data_dir: Union[str, os.PathLike],
                   tokenizer,
+                  label2id: List[str],
+                  header: List[str],
                   dtype: str = 'train',
                   max_seq_len:int = 256,
                   device:str = 'cpu',
@@ -95,7 +97,7 @@ def build_dataset(data_dir: Union[str, os.PathLike],
     dfile_path = Path(data_dir+f'/{dtype}.txt')
     cached_path = dfile_path.with_suffix('.cached')
     if not os.path.exists(cached_path) or overwrite_data:
-        features = convert_examples_features(dfile_path, tokenizer, max_seq_len, use_crf=use_crf)
+        features = convert_examples_features(dfile_path, tokenizer, label2id, header, max_seq_len, use_crf=use_crf)
         torch.save(features, cached_path)
     else:
         features = torch.load(cached_path)

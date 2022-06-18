@@ -1,4 +1,4 @@
-from vphoberttagger.constant import LOGGER, LABEL2ID, MODEL_MAPPING
+from vphoberttagger.constant import LOGGER, MODEL_MAPPING, LABEL_MAPPING
 from vphoberttagger.helper import set_ramdom_seed
 from vphoberttagger.arguments import get_train_argument
 from vphoberttagger.dataset import build_dataset
@@ -19,7 +19,7 @@ import itertools
 def save_model(args, saved_file, model):
     saved_data = {
         'model': model.state_dict(),
-        'classes': LABEL2ID,
+        'classes': args.label2id,
         'args': args
     }
     torch.save(saved_data, saved_file)
@@ -88,17 +88,23 @@ def train():
         os.makedirs(args.output_dir)
 
     assert os.path.isdir(args.data_dir), f'{args.data_dir} not found!'
-
+    setattr(args, 'label2id', LABEL_MAPPING[args.task]['label2id'])
+    setattr(args, 'id2label', LABEL_MAPPING[args.task]['id2label'])
     tokenizer = AutoTokenizer.from_pretrained(args.model_name_or_path)
 
     train_dataset = build_dataset(args.data_dir,
                                   tokenizer,
+                                  label2id=args.label2id,
+                                  header= LABEL_MAPPING[args.task]['header'],
                                   dtype='train',
                                   max_seq_len=args.max_seq_length,
                                   device=device,
                                   use_crf=use_crf,
                                   overwrite_data=args.overwrite_data)
-    eval_dataset = build_dataset(args.data_dir, tokenizer,
+    eval_dataset = build_dataset(args.data_dir,
+                                 tokenizer,
+                                 label2id=args.label2id,
+                                 header=LABEL_MAPPING[args.task]['header'],
                                  dtype='test',
                                  max_seq_len=args.max_seq_length,
                                  device=device,
@@ -106,7 +112,7 @@ def train():
                                  overwrite_data=args.overwrite_data)
 
     config = AutoConfig.from_pretrained(args.model_name_or_path,
-                                        num_labels=len(LABEL2ID),
+                                        num_labels=len(args.label2id),
                                         finetuning_task=args.task)
     model_clss = MODEL_MAPPING[args.model_arch]
     model = model_clss.from_pretrained(pretrained_model_name_or_path=args.model_name_or_path,
