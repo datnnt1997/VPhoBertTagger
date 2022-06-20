@@ -3,7 +3,7 @@ from pathlib import Path
 from torch.utils.data import Dataset
 from tqdm import tqdm
 
-from constant import LOGGER
+from vphoberttagger.constant import LOGGER
 
 import os
 import torch
