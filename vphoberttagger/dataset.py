@@ -44,6 +44,8 @@ def convert_examples_features(data_path: Union[str, os.PathLike],
                 continue
         seq_len = len(tokens)
         sentence = ' '.join(tokens)
+        LOGGER.info(sentence)
+        LOGGER.info(' '.join(tag_ids))
         encoding = tokenizer(sentence,
                              padding='max_length',
                              truncation=True,
@@ -79,6 +81,7 @@ def convert_examples_features(data_path: Union[str, os.PathLike],
 
         for k, v in items.items():
             assert len(v) == max_seq_len, f"Expected length of {k} is {max_seq_len} but got {len(v)}"
+
         tokens = []
         tag_ids = []
     return features
