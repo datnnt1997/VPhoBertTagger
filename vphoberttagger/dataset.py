@@ -44,8 +44,6 @@ def convert_examples_features(data_path: Union[str, os.PathLike],
                 continue
         seq_len = len(tokens)
         sentence = ' '.join(tokens)
-        LOGGER.info(sentence)
-        LOGGER.info(tag_ids)
         encoding = tokenizer(sentence,
                              padding='max_length',
                              truncation=True,
@@ -64,7 +62,7 @@ def convert_examples_features(data_path: Union[str, os.PathLike],
                 valid_ids[idx+1] = 1
             valid_labels[idx+1] = tag_ids[i-1]
             i += 1
-        if max_seq_len > seq_len + 2:
+        if max_seq_len >= seq_len + 2:
             label_padding_size = (max_seq_len - seq_len)
             label_marks[:seq_len] = [1] * seq_len
             tag_ids.extend([0] * label_padding_size)
