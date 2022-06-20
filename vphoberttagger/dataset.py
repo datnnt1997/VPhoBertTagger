@@ -3,6 +3,8 @@ from pathlib import Path
 from torch.utils.data import Dataset
 from tqdm import tqdm
 
+from constant import LOGGER
+
 import os
 import torch
 import pandas as pd
@@ -68,11 +70,15 @@ def convert_examples_features(data_path: Union[str, os.PathLike],
             tag_ids = tag_ids[:max_seq_len]
             label_marks[:-2] = [1] * (max_seq_len - 2)
             tag_ids[-2:] = [0] * 2
+
         items = {key: val for key, val in encoding.items()}
         items['labels'] = tag_ids if use_crf else valid_labels
         items['valid_ids'] = valid_ids
         items['label_masks'] = label_marks if use_crf else valid_ids
         features.append(NerFeatures(**items))
+
+        for k, v in items.items():
+            assert len(v) == max_seq_len, LOGGER.info(f"Expected length of {k} is {max_seq_len} but got {len(v)}")
         tokens = []
         tag_ids = []
     return features
