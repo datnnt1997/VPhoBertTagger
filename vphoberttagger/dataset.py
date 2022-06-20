@@ -78,7 +78,7 @@ def convert_examples_features(data_path: Union[str, os.PathLike],
         features.append(NerFeatures(**items))
 
         for k, v in items.items():
-            assert len(v) == max_seq_len, LOGGER.info(f"Expected length of {k} is {max_seq_len} but got {len(v)}")
+            assert len(v) == max_seq_len, f"Expected length of {k} is {max_seq_len} but got {len(v)}"
         tokens = []
         tag_ids = []
     return features
