@@ -1,5 +1,5 @@
 from .helper import init_logger
-from .model import PhoBertSoftmax, PhoBertLstmCrf
+from .model import PhoBertSoftmax, PhoBertCrf, PhoBertLstmCrf
 from datetime import datetime
 
 import re
@@ -13,6 +13,7 @@ LABEL2ID_VLSP2018 = ['O', 'B-ORGANIZATION', 'I-ORGANIZATION', 'B-LOCATION', 'I-L
 
 MODEL_MAPPING = {
     'softmax': PhoBertSoftmax,
+    'crf': PhoBertCrf,
     'lstm_crf': PhoBertLstmCrf
 }
 

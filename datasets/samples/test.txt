@@ -1,17 +1,3 @@
-Người	Nc	B-NP	O
-cầm	V	B-VP	O
-thư	N	B-NP	O
-đã	R	O	O
-chết	V	B-VP	O
-còn	R	O	O
-người	N	B-NP	O
-nhận	V	B-VP	O
-thư	N	B-NP	O
-thì	C	O	O
-bị	V	B-VP	O
-bắt	V	B-VP	O
-!	CH	O	O
-
 Biết	L	B-NP	O
 bao	L	I-NP	O
 nhiêu	L	I-NP	O
@@ -32,3 +18,20 @@ dòng	N	B-NP	O
 nước	N	B-NP	O
 mắt	N	I-NP	O
 .	CH	O	O
+
+Ở	E	B-PP	O
+Nghi Hải	Np	B-NP	B-LOC
+(	CH	O	O
+Nghệ An	Np	B-NP	B-LOC
+)	CH	O	O
+cũng	R	O	O
+có	V	B-VP	O
+những	L	B-NP	O
+thuyền viên	N	B-NP	O
+bỏ xác	V	B-VP	O
+nơi	N	B-NP	O
+biển	N	B-NP	O
+khơi	N	B-NP	O
+xa xôi	A	B-AP	O
+...	CH	O	O
+

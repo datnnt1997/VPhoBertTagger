@@ -39,7 +39,7 @@ The dataset must put on directory with structure as below.
 The commands below fine-tune **PhoBert** for Token-classification task. [Models](https://github.com/VinAIResearch/PhoBERT) download automatically from the latest
 Hugging Face [release](https://huggingface.co/vinai)
 ```bash
-python main.py train --data_dir ./datasets/samples --model_name_or_path vinai/phobert-base --model_arch softmax --output_dir outputs --max_seq_length 256 --train_batch_size 32 --eval_batch_size 32 --learning_rate 5e-5 --epochs 3 --overwrite_data
+python main.py train --task vlsp2016 --data_dir ./datasets/samples --model_name_or_path vinai/phobert-base --model_arch softmax --output_dir outputs --max_seq_length 256 --train_batch_size 32 --eval_batch_size 32 --learning_rate 5e-5 --epochs 3 --overwrite_data
 ```
 
 or
@@ -55,7 +55,7 @@ bash ./train.sh
 > + ***overwrite_data*** (`bool`, `*optional`) : Whether not to overwirte splitted dataset. Default=False
 > + ***load_weights*** (`Union[str, os.PathLike]`, `*optional`): Path of pretrained file.
 > + ***model_name_or_path*** (`str`, `*required`): Pre-trained model selected in the list: [`vinai/phobert-base`, `vinai/phobert-large`,...] Default=`vinai/phobert-base` 
-> + ***model_arch*** (`str`, `*required`): Punctuation prediction model architecture selected in the list: [`softmax`, `lstm_crf`].
+> + ***model_arch*** (`str`, `*required`): Punctuation prediction model architecture selected in the list: [`softmax`, `crf`, `lstm_crf`].
 > + ***output_dir*** (`Union[str, os.PathLike]`, `*required`): The output directory where the model predictions and checkpoints will be written.
 > + ***max_seq_length*** (`int`, `*optional`): The maximum total input sequence length after WordPiece tokenization. Sequences longer than this will be truncated, and sequences shorter than this will be padded. Default=190.
 > + ***train_batch_size*** (`int`, `*optional`): Total batch size for training. Default=32.

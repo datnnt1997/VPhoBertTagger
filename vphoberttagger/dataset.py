@@ -64,6 +64,9 @@ def convert_examples_features(data_path: Union[str, os.PathLike],
             label_padding_size = (max_seq_len - seq_len)
             label_marks[:seq_len] = [1] * seq_len
             tag_ids.extend([0] * label_padding_size)
+        else:
+            label_marks[:-2] = [1] * (max_seq_len - 2)
+            tag_ids[-2:] = [0] * 2
         items = {key: val for key, val in encoding.items()}
         items['labels'] = tag_ids if use_crf else valid_labels
         items['valid_ids'] = valid_ids
