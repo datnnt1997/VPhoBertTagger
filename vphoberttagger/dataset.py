@@ -45,7 +45,7 @@ def convert_examples_features(data_path: Union[str, os.PathLike],
         seq_len = len(tokens)
         sentence = ' '.join(tokens)
         LOGGER.info(sentence)
-        LOGGER.info(' '.join(tag_ids))
+        LOGGER.info(tag_ids)
         encoding = tokenizer(sentence,
                              padding='max_length',
                              truncation=True,
