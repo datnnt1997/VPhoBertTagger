@@ -1,22 +1,32 @@
-Biết	L	B-NP	O
-bao	L	I-NP	O
-nhiêu	L	I-NP	O
-bà	Nc	B-NP	O
-mẹ	N	B-NP	O
-như	C	O	O
-mẹ	N	B-NP	O
-Đường	Np	B-NP	B-PER
-sẽ	R	O	O
-còn	V	B-VP	O
-đau	A	B-AP	O
-khổ	A	I-AP	O
-khóc	V	B-VP	O
-than	V	I-VP	O
-đến	E	B-PP	O
-cạn	V	B-VP	O
-dòng	N	B-NP	O
-nước	N	B-NP	O
-mắt	N	I-NP	O
+Hơn	A	B-AP	O
+một	M	B-NP	O
+tháng	N	B-NP	O
+sau	N	B-NP	O
+,	CH	O	O
+Công ty	N	B-NP	B-ORG
+Inmasco	Np	I-NP	I-ORG
+(	CH	O	O
+thuộc	V	B-VP	O
+Tổng công ty	N	B-NP	B-ORG
+Xây dựng	X	I-NP	I-ORG
+công trình	N	I-NP	I-ORG
+giao thông	N	I-NP	I-ORG
+1	M	I-NP	I-ORG
+,	CH	O	O
+đơn vị	N	B-NP	O
+ký	V	B-VP	O
+hợp đồng	N	B-NP	O
+đưa	V	B-VP	O
+anh	Nc	B-NP	O
+đi	V	B-VP	O
+biển	N	B-NP	O
+)	CH	O	O
+thông báo	V	B-VP	O
+hung	A	B-AP	O
+tin	N	B-NP	O
+này	P	B-NP	O
+cho	E	B-PP	O
+gia đình	N	B-NP	O
 .	CH	O	O
 
 Ở	E	B-PP	O
@@ -34,4 +44,75 @@ biển	N	B-NP	O
 khơi	N	B-NP	O
 xa xôi	A	B-AP	O
 ...	CH	O	O
+
+Chúng tôi	P	B-NP	O
+lên đường	V	B-VP	O
+ngay	T	O	O
+khi	N	B-NP	O
+nhận	V	B-VP	O
+được	R	O	O
+email	FW	B-NP	O
+của	E	B-PP	O
+ngài	N	B-NP	O
+Noel	Np	B-NP	B-PER
+Choong	Np	I-NP	I-PER
+-	CH	O	O
+trưởng	N	B-NP	O
+đại diện	N	B-NP	O
+của	E	B-PP	O
+Cơ quan	N	B-NP	B-ORG
+Hàng hải	N	I-NP	I-ORG
+quốc tế	N	I-NP	I-ORG
+(	CH	O	O
+IMB	Np	B-NP	B-ORG
+)	CH	O	O
+tại	E	B-PP	O
+Malaysia	Np	B-NP	B-LOC
+-	CH	O	O
+đồng ý	V	B-VP	O
+tiếp	V	B-VP	O
+chúng tôi	P	B-NP	O
+để	E	B-PP	O
+cung cấp	V	B-VP	O
+những	L	B-NP	O
+thông tin	N	B-NP	O
+mới	A	B-AP	O
+nhất	A	B-AP	O
+về	E	B-PP	O
+hải tặc	N	B-NP	O
+eo biển	N	B-NP	B-LOC
+Malacca	Np	I-NP	I-LOC
+.	CH	O	O
+
+Người	Nc	B-NP	O
+lái xe	V	B-VP	O
+taxi	N	B-NP	O
+người	Nc	B-NP	B-MISC
+Indonesia Agusman	Np	I-NP	I-MISC
+trợn	V	B-VP	O
+mắt	N	B-NP	O
+khi	N	B-NP	O
+biết	V	B-VP	O
+chúng tôi	P	B-NP	O
+muốn	V	B-VP	O
+“	CH	O	O
+làm quen	V	B-VP	O
+”	CH	O	O
+với	E	B-PP	O
+những	L	B-NP	O
+tay	N	B-NP	O
+anh chị	Nc	B-NP	O
+là	V	B-VP	O
+thuỷ thủ	N	B-NP	O
+ở	E	B-PP	O
+Batam	Np	B-NP	B-LOC
+:	CH	O	O
+“	CH	O	O
+Các	L	B-NP	O
+anh	Nc	B-NP	O
+đã	R	O	O
+viết	V	B-VP	O
+di chúc	N	B-NP	O
+chưa	R	O	O
+?	CH	O	O
 

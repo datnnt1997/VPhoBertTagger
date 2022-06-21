@@ -2,8 +2,6 @@ from .helper import init_logger
 from .model import PhoBertSoftmax, PhoBertCrf, PhoBertLstmCrf
 from datetime import datetime
 
-import re
-
 
 LOGGER = init_logger(datetime.now().strftime('%d%b%Y_%H-%M-%S.log'))
 
@@ -17,18 +15,20 @@ MODEL_MAPPING = {
     'lstm_crf': PhoBertLstmCrf
 }
 
-OPENTAG_PATTERN = re.compile('<ENAMEX TYPE="(.+?)">')
-CLOSETAG_PATTERN = re.compile('</ENAMEX>')
-
 LABEL_MAPPING = {
     'vlsp2016': {
         'label2id': LABEL2ID_VLSP2016,
         'id2label': {idx: label for idx, label in enumerate(LABEL2ID_VLSP2016)},
         'header': ['token', 'pos', 'chunk', 'ner']
     },
-    'vlsp2018': {
+    'vlsp2018_l1': {
         'label2id': LABEL2ID_VLSP2018,
         'id2label': {idx: label for idx, label in enumerate(LABEL2ID_VLSP2018)},
-        'header': ['token', 'ner']
+        'header': ['token', 'ner', '_', '_']
+    },
+    'vlsp2018_l2': {
+        'label2id': LABEL2ID_VLSP2018,
+        'id2label': {idx: label for idx, label in enumerate(LABEL2ID_VLSP2018)},
+        'header': ['token', '_', 'ner', '_']
     }
 }
