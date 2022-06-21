@@ -65,7 +65,7 @@ class PhoBertCrf(RobertaForTokenClassification):
         super(PhoBertCrf, self).__init__(config=config)
         self.num_labels = config.num_labels
         self.crf = CRF(config.num_labels, batch_first=True)
-
+        self.init_weights()
     def forward(self, input_ids, token_type_ids=None, attention_mask=None, labels=None, valid_ids=None,
                 label_masks=None):
         seq_outputs = self.roberta(input_ids=input_ids,
@@ -121,7 +121,6 @@ class PhoBertLstmCrf(RobertaForTokenClassification):
         seq_lens = torch.sum(label_masks, dim=-1)
         range_vector = torch.arange(0, batch_size, dtype=torch.long, device=seq_outputs.device).unsqueeze(1)
         seq_outputs = seq_outputs[range_vector, valid_ids]
-
 
         sorted_seq_outputs, sorted_seq_lens, reversed_idx = self.sort_batch(src_tensor=seq_outputs,
                                                                             lengths=seq_lens)

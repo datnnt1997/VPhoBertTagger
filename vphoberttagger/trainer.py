@@ -95,7 +95,7 @@ def train():
     train_dataset = build_dataset(args.data_dir,
                                   tokenizer,
                                   label2id=args.label2id,
-                                  header= LABEL_MAPPING[args.task]['header'],
+                                  header=LABEL_MAPPING[args.task]['header'],
                                   dtype='train',
                                   max_seq_len=args.max_seq_length,
                                   device=device,
@@ -130,12 +130,24 @@ def train():
         checkpoint_data = None
 
     no_decay = ['bias', 'LayerNorm.weight']
-    param_optimizer = list(model.named_parameters())
+    bert_param_optimizer = list(model.roberta.named_parameters())
+    ner_param_optimizer = list(model.classifier.named_parameters())
+    if 'lstm' in args.model_arch:
+        ner_param_optimizer.extend(list(model.lstm.named_parameters()))
+    if 'crf' in args.model_arch:
+        ner_param_optimizer.extend(list(model.classifier.named_parameters()))
+
     optimizer_grouped_parameters = [
-        {'params': [p for n, p in param_optimizer if not any(nd in n for nd in no_decay)],
+        {'params': [p for n, p in bert_param_optimizer if not any(nd in n for nd in no_decay)],
          'weight_decay': args.weight_decay},
-        {'params': [p for n, p in param_optimizer if any(nd in n for nd in no_decay)], 'weight_decay': 0.0}
+        {'params': [p for n, p in bert_param_optimizer if any(nd in n for nd in no_decay)],
+         'weight_decay': 0.0},
+        {'params': [p for n, p in ner_param_optimizer if not any(nd in n for nd in no_decay)],
+         'lr': args.learning_rate * 5, 'weight_decay': args.weight_decay},
+        {'params': [p for n, p in ner_param_optimizer if any(nd in n for nd in no_decay)],
+         'lr': args.learning_rate * 5, 'weight_decay': 0.0}
     ]
+
     optimizer = torch.optim.AdamW(optimizer_grouped_parameters, lr=args.learning_rate, eps=args.adam_epsilon)
 
     train_sampler = RandomSampler(train_dataset)
