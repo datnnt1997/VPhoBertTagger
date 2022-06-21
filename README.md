@@ -39,7 +39,7 @@ The dataset must put on directory with structure as below.
 The commands below fine-tune **PhoBert** for Token-classification task. [Models](https://github.com/VinAIResearch/PhoBERT) download automatically from the latest
 Hugging Face [release](https://huggingface.co/vinai)
 ```bash
-python main.py train --task vlsp2016 --data_dir ./datasets/samples --model_name_or_path vinai/phobert-base --model_arch softmax --output_dir outputs --max_seq_length 256 --train_batch_size 32 --eval_batch_size 32 --learning_rate 5e-5 --epochs 3 --overwrite_data
+python main.py train --task vlsp2016 --run_test --data_dir ./datasets/samples --model_name_or_path vinai/phobert-base --model_arch softmax --output_dir outputs --max_seq_length 256 --train_batch_size 32 --eval_batch_size 32 --learning_rate 5e-5 --epochs 3 --overwrite_data
 ```
 
 or
@@ -50,7 +50,7 @@ bash ./train.sh
 
 > Arguments:
 > + ***type*** (`str`,`*required`): What is process type to be run. Must in [`train`, `test`, `predict`].
-> + ***task*** (`str`, `*optional`): Training task selected in the list: [`viner`]. Default: `viner`
+> + ***task*** (`str`, `*optional`): Training task selected in the list: [`vlsp2016`, `vlsp2018_l1`, `vlsp2018_l2`, `vlsp2018_join`]. Default: `vlsp2016`
 > + ***data_dir*** (`Union[str, os.PathLike]`, `*required`): The input data dir. Should contain the .csv files (or other data files) for the task.
 > + ***overwrite_data*** (`bool`, `*optional`) : Whether not to overwirte splitted dataset. Default=False
 > + ***load_weights*** (`Union[str, os.PathLike]`, `*optional`): Path of pretrained file.
@@ -67,6 +67,7 @@ bash ./train.sh
 > + ***max_grad_norm*** (`float`, `*optional`): Max gradient norm. Default=1.0.
 > + ***early_stop*** (`float`, `*optional`): Number of early stop step. Default=10.0.
 > + ***no_cuda*** (`bool`, `*optional`): Whether not to use CUDA when available. Default=False.
+> + ***run_test*** (`bool`, `*optional`): Whether not to run evaluate best model on test set after train. Default=False.
 > + ***seed*** (`bool`, `*optional`): Random seed for initialization. Default=42.
 > + ***num_workers*** (`int`, `*optional`): how many subprocesses to use for data loading. 0 means that the data will be loaded in the main process. Default=0.
 > + ***save_step*** (`int`, `*optional`): The number of steps in the model will be saved. Default=10000.

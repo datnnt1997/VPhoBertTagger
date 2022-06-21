@@ -99,7 +99,7 @@ def find_tok_index(start_syl_id, end_syl_id, token_list):
 
 
 def remove_xml_tags(entity):
-    entity = re.sub(r"<ENAMEX TYPE=\"(.+?)\">", "", entity)
+    entity = re.sub(r"<ENAMEX TYPE=”(.+?)”>", "", entity)
     entity = re.sub(r"</ENAMEX>", "", entity)
     return entity
 
@@ -145,7 +145,7 @@ def get_entities(line):
 
     Args:
         line (string): Input sentence (single sentence) with XML tags
-        E.g., Đây là lý do khiến <ENAMEX TYPE=\"PERSON\">Yoon Ah</ENAMEX> quyết định cắt mái tóc dài 'nữ thần'
+        E.g., Đây là lý do khiến <ENAMEX TYPE=”PERSON”>Yoon Ah</ENAMEX> quyết định cắt mái tóc dài 'nữ thần'
 
     Returns:
         raw (string): raw sentence
@@ -155,7 +155,7 @@ def get_entities(line):
     raw = ""
     entities = []
 
-    regex_opentag = re.compile(r"<ENAMEX TYPE=\"(.+?)\">")
+    regex_opentag = re.compile(r"<ENAMEX TYPE=”(.+?)”>")
     regex_closetag = re.compile(r"</ENAMEX>")
     next_start_pos = 0
     match1 = regex_opentag.search(line, next_start_pos)
@@ -315,6 +315,7 @@ def text_normalize(text):
     text = re.sub(r"ũy", "uỹ", text)
     text = re.sub(r"ụy", "uỵ", text)
     text = re.sub(r"Ủy", "Uỷ", text)
+    text = re.sub(r'"', '”', text)
 
     return text
 
@@ -328,7 +329,7 @@ def preprocess(text):
 
 
 def get_raw(line):
-    regex_opentag = re.compile(r"<ENAMEX TYPE=\"(.+?)\">")
+    regex_opentag = re.compile(r"<ENAMEX TYPE=”(.+?)”>")
     regex_closetag = re.compile(r"</ENAMEX>")
     text = regex_opentag.sub("", line)
     text = regex_closetag.sub("", text)
@@ -397,7 +398,7 @@ def is_end_of_sentence(i, line):
 
 def is_valid_xml(astring):
     """Check well-formed XML"""
-    if not re.search(r"<ENAMEX TYPE=\"(.+?)\">", astring):
+    if not re.search(r"<ENAMEX TYPE=”(.+?)”>", astring):
         return True
 
     OPEN_TAG = 1
@@ -535,7 +536,7 @@ def xml2tokens(xml_tagged_sent, tokenized_sent, raw_sent):
                 for i in range(start_syl_id + 1, end_syl_id):
                     level3_syl_tags[i] = "I-" + entity_type
         else:
-            print("{},{},\"{}\" in '{}' ({})".format(start, end, value, raw, xml_tagged_sent))
+            print("{},{},”{}” in '{}' ({})".format(start, end, value, raw, xml_tagged_sent))
             flag = True
 
         if start_tok_id is not None and end_tok_id is not None:
@@ -553,7 +554,7 @@ def xml2tokens(xml_tagged_sent, tokenized_sent, raw_sent):
                     level3_token_tags[i] = "I-" + entity_type
         else:
             pass
-            # print("{},{},\"{}\" in '{}' ({})".format(start_syl_id, end_syl_id, value, raw, xml_tagged_sent))
+            # print("{},{},”{}” in '{}' ({})".format(start_syl_id, end_syl_id, value, raw, xml_tagged_sent))
 
     ret_syllables = list(zip([s.text for s in syllables], level1_syl_tags, level2_syl_tags, level3_syl_tags))
     ret_tokens = list(zip([tk.text for tk in tokens], level1_token_tags, level2_token_tags, level3_token_tags))

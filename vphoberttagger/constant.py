@@ -24,11 +24,11 @@ LABEL_MAPPING = {
     'vlsp2018_l1': {
         'label2id': LABEL2ID_VLSP2018,
         'id2label': {idx: label for idx, label in enumerate(LABEL2ID_VLSP2018)},
-        'header': ['token', 'ner', '_', '_']
+        'header': ['token', 'ner', 'tmp1', 'tmp2']
     },
     'vlsp2018_l2': {
         'label2id': LABEL2ID_VLSP2018,
         'id2label': {idx: label for idx, label in enumerate(LABEL2ID_VLSP2018)},
-        'header': ['token', '_', 'ner', '_']
+        'header': ['token', 'tmp1', 'ner', 'tmp2']
     }
 }

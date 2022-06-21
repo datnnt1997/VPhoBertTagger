@@ -102,7 +102,7 @@ Think	O	O	O
 and	O	O	O
 Grow	O	O	O
 Rich	O	O	O
-"	O	O	O
+”	O	O	O
 ,	O	O	O
 nhà	O	O	O
 báo	O	O	O
@@ -933,11 +933,11 @@ thừa	O	O	O
 nhận	O	O	O
 tình	O	O	O
 trạng	O	O	O
-"	O	O	O
+”	O	O	O
 loạn	O	O	O
 khởi	O	O	O
 nghiệp	O	O	O
-"	O	O	O
+”	O	O	O
 ở	O	O	O
 Việt	B-LOCATION	O	O
 Nam	I-LOCATION	O	O
@@ -1039,7 +1039,7 @@ thất	O	O	O
 nghiệp	O	O	O
 .	O	O	O
 
-"	O	O	O
+”	O	O	O
 Mang	O	O	O
 một	O	O	O
 xe	O	O	O
@@ -1073,7 +1073,7 @@ mới	O	O	O
 là	O	O	O
 khởi	O	O	O
 nghiệp	O	O	O
-"	O	O	O
+”	O	O	O
 -	O	O	O
 ông	O	O	O
 Khả	O	O	O
@@ -1310,11 +1310,11 @@ gia	O	O	O
 giải	O	O	O
 thích	O	O	O
 ,	O	O	O
-"	O	O	O
+”	O	O	O
 loạn	O	O	O
 khởi	O	O	O
 nghiệp	O	O	O
-"	O	O	O
+”	O	O	O
 thực	O	O	O
 tế	O	O	O
 muốn	O	O	O
@@ -1364,7 +1364,7 @@ nghiệp	O	O	O
 phong	O	O	O
 trào	O	O	O
 như	O	O	O
-"	O	O	O
+”	O	O	O
 Thanh	O	O	O
 niên	O	O	O
 nông	O	O	O
@@ -1373,7 +1373,7 @@ mới	O	O	O
 cùng	O	O	O
 khởi	O	O	O
 nghiệp	O	O	O
-"	O	O	O
+”	O	O	O
 thì	O	O	O
 đó	O	O	O
 không	O	O	O
@@ -1490,7 +1490,7 @@ lời	O	O	O
 được	O	O	O
 .	O	O	O
 
-"	O	O	O
+”	O	O	O
 Một	O	O	O
 luận	O	O	O
 án	O	O	O
@@ -1527,7 +1527,7 @@ gọi	O	O	O
 là	O	O	O
 khởi	O	O	O
 nghiệp	O	O	O
-"	O	O	O
+”	O	O	O
 -	O	O	O
 ông	O	O	O
 Dinh	B-PERSON	O	O
@@ -1663,7 +1663,7 @@ lãng	O	O	O
 phí	O	O	O
 .	O	O	O
 
-"	O	O	O
+”	O	O	O
 Nếu	O	O	O
 khởi	O	O	O
 nghiệp	O	O	O
@@ -1689,11 +1689,11 @@ tỷ	O	O	O
 đồng	O	O	O
 cũng	O	O	O
 sớm	O	O	O
-"	O	O	O
+”	O	O	O
 bay	O	O	O
-"	O	O	O
+”	O	O	O
 hết	O	O	O
-"	O	O	O
+”	O	O	O
 -	O	O	O
 ông	O	O	O
 Khả	B-PERSON	O	O
@@ -1795,7 +1795,7 @@ rót	O	O	O
 vốn	O	O	O
 .	O	O	O
 
-"	O	O	O
+”	O	O	O
 Không	O	O	O
 có	O	O	O
 ai	O	O	O
@@ -1830,7 +1830,7 @@ xét	O	O	O
 tư	O	O	O
 mạo	O	O	O
 hiểm	O	O	O
-"	O	O	O
+”	O	O	O
 -	O	O	O
 ông	O	O	O
 Khả	B-PERSON	O	O
@@ -1946,7 +1946,7 @@ khởi	O	O	O
 nghiệp	O	O	O
 .	O	O	O
 
-"	O	O	O
+”	O	O	O
 Nếu	O	O	O
 cơ	O	O	O
 chế	O	O	O
@@ -1989,7 +1989,7 @@ sẽ	O	O	O
 khởi	O	O	O
 sắc	O	O	O
 hơn	O	O	O
-"	O	O	O
+”	O	O	O
 -	O	O	O
 ông	O	O	O
 Khả	B-PERSON	O	O
@@ -6915,7 +6915,7 @@ E	O	O	O
 5	O	O	O
 .	O	O	O
 
-"	O	O	O
+”	O	O	O
 Khi	O	O	O
 tôi	O	O	O
 tới	O	O	O
@@ -7002,7 +7002,7 @@ sử	O	O	O
 dụng	O	O	O
 lần	O	O	O
 2	O	O	O
-"	O	O	O
+”	O	O	O
 ,	O	O	O
 PGS.TS	O	O	O
 Nguyễn	B-PERSON	O	O
@@ -7029,7 +7029,7 @@ E	O	O	O
 5	O	O	O
 .	O	O	O
 
-"	O	O	O
+”	O	O	O
 Rõ	O	O	O
 ràng	O	O	O
 cách	O	O	O
@@ -7228,7 +7228,7 @@ với	O	O	O
 nhau	O	O	O
 như	O	O	O
 thế	O	O	O
-"	O	O	O
+”	O	O	O
 ,	O	O	O
 PGS.TS	O	O	O
 Nguyễn	B-PERSON	O	O
@@ -7301,7 +7301,7 @@ trục	O	O	O
 lợi	O	O	O
 .	O	O	O
 
-"	O	O	O
+”	O	O	O
 Khi	O	O	O
 xăng	O	O	O
 A92	O	O	O
@@ -7471,7 +7471,7 @@ an	O	O	O
 toàn	O	O	O
 không	O	O	O
 ...	O	O	O
-"	O	O	O
+”	O	O	O
 ,	O	O	O
 vị	O	O	O
 chuyên	O	O	O
@@ -7574,7 +7574,7 @@ hiệu	O	O	O
 quả	O	O	O
 .	O	O	O
 
-"	O	O	O
+”	O	O	O
 Không	O	O	O
 thể	O	O	O
 chấp	O	O	O
@@ -7663,7 +7663,7 @@ dùng	O	O	O
 xăng	O	O	O
 E	O	O	O
 5	O	O	O
-"	O	O	O
+”	O	O	O
 ,	O	O	O
 vị	O	O	O
 Trưởng	O	O	O
@@ -7730,7 +7730,7 @@ sẵn	O	O	O
 sàng	O	O	O
 .	O	O	O
 
-"	O	O	O
+”	O	O	O
 Đừng	O	O	O
 vì	O	O	O
 lý	O	O	O
@@ -7782,7 +7782,7 @@ trong	O	O	O
 nước	O	O	O
 quá	O	O	O
 kém	O	O	O
-"	O	O	O
+”	O	O	O
 ,	O	O	O
 vị	O	O	O
 chuyên	O	O	O
@@ -10025,7 +10025,7 @@ USD	O	O	O
 đánh	O	O	O
 giá	O	O	O
 :	O	O	O
-"	O	O	O
+”	O	O	O
 Chắc	O	O	O
 chắn	O	O	O
 sẽ	O	O	O
@@ -10100,7 +10100,7 @@ chỉ	O	O	O
 là	O	O	O
 bong	O	O	O
 bóng	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Jamie	B-PERSON	O	O
@@ -10199,12 +10199,12 @@ còn	O	O	O
 tồi	O	O	O
 tệ	O	O	O
 hơn	O	O	O
-"	O	O	O
+”	O	O	O
 bong	O	O	O
 bóng	O	O	O
 hoa	O	O	O
 tulip	O	O	O
-"	O	O	O
+”	O	O	O
 tại	O	O	O
 Hà	B-LOCATION	O	O
 Lan	I-LOCATION	O	O
@@ -10294,7 +10294,7 @@ Chase	I-ORGANIZATION	O	O
 còn	O	O	O
 nhấn	O	O	O
 mạnh	O	O	O
-"	O	O	O
+”	O	O	O
 Nếu	O	O	O
 một	O	O	O
 người	O	O	O
@@ -10315,7 +10315,7 @@ một	O	O	O
 ngày	O	O	O
 sắp	O	O	O
 tới	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Ray	B-PERSON	O	O
@@ -10396,7 +10396,7 @@ USD	O	O	O
 đã	O	O	O
 đánh	O	O	O
 giá	O	O	O
-"	O	O	O
+”	O	O	O
 Bitcoin	O	O	O
 là	O	O	O
 một	O	O	O
@@ -10440,7 +10440,7 @@ của	O	O	O
 tiền	O	O	O
 ảo	O	O	O
 này	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 John	B-PERSON	O	O
@@ -10478,9 +10478,9 @@ tiền	O	O	O
 là	O	O	O
 một	O	O	O
 loại	O	O	O
-"	O	O	O
+”	O	O	O
 rác	O	O	O
-"	O	O	O
+”	O	O	O
 và	O	O	O
 cho	O	O	O
 rằng	O	O	O
@@ -10504,7 +10504,7 @@ vàng	O	O	O
 
 Theo	O	O	O
 ông	O	O	O
-"	O	O	O
+”	O	O	O
 mọi	O	O	O
 người	O	O	O
 chắc	O	O	O
@@ -10561,27 +10561,27 @@ bé	O	O	O
 so	O	O	O
 với	O	O	O
 vàng	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
-"	O	O	O
+”	O	O	O
 Sói	O	O	O
 già	O	O	O
 của	O	O	O
 phố	B-LOCATION	O	O
 Wall	I-LOCATION	O	O
-"	O	O	O
+”	O	O	O
 Jordan	B-PERSON	O	O
 Belfort	I-PERSON	O	O
 .	O	O	O
 
-"	O	O	O
+”	O	O	O
 Sói	O	O	O
 già	O	O	O
 của	O	O	O
 phố	B-LOCATION	O	O
 Wall	I-LOCATION	O	O
-"	O	O	O
+”	O	O	O
 Jordan	B-PERSON	O	O
 Belfort	I-PERSON	O	O
 cũng	O	O	O
@@ -10604,7 +10604,7 @@ gian	O	O	O
 lận	O	O	O
 .	O	O	O
 
-"	O	O	O
+”	O	O	O
 Tôi	O	O	O
 không	O	O	O
 nói	O	O	O
@@ -10640,7 +10640,7 @@ tan	O	O	O
 biến	O	O	O
 rất	O	O	O
 nhanh	O	O	O
-"	O	O	O
+”	O	O	O
 ,	O	O	O
 ông	O	O	O
 cho	O	O	O
@@ -10672,13 +10672,13 @@ giới	O	O	O
 gọi	O	O	O
 Bitcoin	O	O	O
 là	O	O	O
-"	O	O	O
+”	O	O	O
 một	O	O	O
 bong	O	O	O
 bóng	O	O	O
 thực	O	O	O
 sự	O	O	O
-"	O	O	O
+”	O	O	O
 vào	O	O	O
 cuối	O	O	O
 tháng	O	O	O
@@ -10729,7 +10729,7 @@ tạo	O	O	O
 ra	O	O	O
 giá	O	O	O
 trị	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Giám	O	O	O
@@ -10824,7 +10824,7 @@ USD	O	O	O
 Ông	O	O	O
 cho	O	O	O
 rằng	O	O	O
-"	O	O	O
+”	O	O	O
 Từ	O	O	O
 những	O	O	O
 gì	O	O	O
@@ -10866,7 +10866,7 @@ về	O	O	O
 một	O	O	O
 bong	O	O	O
 bóng	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Mike	B-PERSON	O	O
@@ -10932,7 +10932,7 @@ cũng	O	O	O
 giá	O	O	O
 thêm	O	O	O
 rằng	O	O	O
-"	O	O	O
+”	O	O	O
 Đây	O	O	O
 sẽ	O	O	O
 là	O	O	O
@@ -10953,7 +10953,7 @@ tiến	O	O	O
 lên	O	O	O
 phía	O	O	O
 trước	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Sau	O	O	O
@@ -11208,12 +11208,12 @@ hoạt	O	O	O
 ngôn	O	O	O
 với	O	O	O
 bao	O	O	O
-"	O	O	O
+”	O	O	O
 lời	O	O	O
 vàng	O	O	O
 ý	O	O	O
 ngọc	O	O	O
-"	O	O	O
+”	O	O	O
 về	O	O	O
 đạo	O	O	O
 đức	O	O	O
@@ -11342,9 +11342,9 @@ Khải	B-PERSON	O	O
 Phải	O	O	O
 gọi	O	O	O
 là	O	O	O
-"	O	O	O
+”	O	O	O
 thầy	O	O	O
-"	O	O	O
+”	O	O	O
 vì	O	O	O
 ông	O	O	O
 Khải	B-PERSON	O	O
@@ -11628,12 +11628,12 @@ chí	O	O	O
 Khaisilk	B-ORGANIZATION	O	O
 như	O	O	O
 hàng	O	O	O
-"	O	O	O
+”	O	O	O
 Made	O	O	O
 in	O	O	O
 Viet	B-LOCATION	O	O
 Nam	I-LOCATION	O	O
-"	O	O	O
+”	O	O	O
 hay	O	O	O
 Campuchia	B-LOCATION	O	O
 nhưng	O	O	O
@@ -11657,20 +11657,20 @@ in	O	O	O
 .	O	O	O
 
 Đã	O	O	O
-"	O	O	O
+”	O	O	O
 Made	O	O	O
 in	O	O	O
 China	B-LOCATION	O	O
-"	O	O	O
+”	O	O	O
 còn	O	O	O
 kèm	O	O	O
 theo	O	O	O
-"	O	O	O
+”	O	O	O
 Made	O	O	O
 in	O	O	O
 Viet	B-LOCATION	O	O
 Nam	I-LOCATION	O	O
-"	O	O	O
+”	O	O	O
 nên	O	O	O
 mới	O	O	O
 rắc	O	O	O
@@ -11700,11 +11700,11 @@ nửa	O	O	O
 .	O	O	O
 
 Bỏ	O	O	O
-"	O	O	O
+”	O	O	O
 Made	O	O	O
 in	O	O	O
 China	B-LOCATION	O	O
-"	O	O	O
+”	O	O	O
 sao	O	O	O
 không	O	O	O
 tháo	O	O	O
@@ -11794,9 +11794,9 @@ xứng	O	O	O
 được	O	O	O
 gọi	O	O	O
 là	O	O	O
-"	O	O	O
+”	O	O	O
 Thầy	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Gần	O	O	O
@@ -12210,9 +12210,9 @@ nghi	O	O	O
 của	O	O	O
 mấy	O	O	O
 kẻ	O	O	O
-"	O	O	O
+”	O	O	O
 GATO	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Nhìn	O	O	O
@@ -12880,10 +12880,10 @@ mình	O	O	O
 lại	O	O	O
 trở	O	O	O
 thành	O	O	O
-"	O	O	O
+”	O	O	O
 ông	O	O	O
 trùm	O	O	O
-"	O	O	O
+”	O	O	O
 thành	O	O	O
 công	O	O	O
 nhất	O	O	O
@@ -12972,10 +12972,10 @@ Rocinha	B-LOCATION	O	O
 
 Trở	O	O	O
 thành	O	O	O
-"	O	O	O
+”	O	O	O
 ông	O	O	O
 trùm	O	O	O
-"	O	O	O
+”	O	O	O
 ,	O	O	O
 Nem	O	O	O
 điều	O	O	O
@@ -12997,12 +12997,12 @@ khoảng	O	O	O
 200	O	O	O
 tay	O	O	O
 súng	O	O	O
-"	O	O	O
+”	O	O	O
 đầu	O	O	O
 trộm	O	O	O
 đuôi	O	O	O
 cướp	O	O	O
-"	O	O	O
+”	O	O	O
 chịu	O	O	O
 trách	O	O	O
 nhiệm	O	O	O
@@ -13083,10 +13083,10 @@ có	O	O	O
 thể	O	O	O
 tiếp	O	O	O
 cận	O	O	O
-"	O	O	O
+”	O	O	O
 ông	O	O	O
 trùm	O	O	O
-"	O	O	O
+”	O	O	O
 để	O	O	O
 vay	O	O	O
 vốn	O	O	O
@@ -13147,10 +13147,10 @@ buôn	O	O	O
 bán	O	O	O
 cocaine	O	O	O
 của	O	O	O
-"	O	O	O
+”	O	O	O
 ông	O	O	O
 trùm	O	O	O
-"	O	O	O
+”	O	O	O
 Nem	B-PERSON	O	O
 có	O	O	O
 lúc	O	O	O
@@ -13806,7 +13806,7 @@ người	O	O	O
 mất	O	O	O
 phương	O	O	O
 hướng	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Nhưng	O	O	O
@@ -24784,7 +24784,7 @@ tổ	O	O	O
 chức	O	O	O
 toạ	O	O	O
 đàm	O	O	O
-"	O	O	O
+”	O	O	O
 Định	O	O	O
 hướng	O	O	O
 thu	O	O	O
@@ -24795,7 +24795,7 @@ trong	O	O	O
 thời	O	O	O
 gian	O	O	O
 tới	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Tại	O	O	O
@@ -27983,7 +27983,7 @@ khổ	O	O	O
 của	O	O	O
 Sáng	O	O	O
 kiến	O	O	O
-"	O	O	O
+”	O	O	O
 Vành	O	O	O
 đai	O	O	O
 và	O	O	O
@@ -39802,7 +39802,7 @@ Báo	B-ORGANIZATION	O	O
 Đầu	I-ORGANIZATION	O	O
 tư	I-ORGANIZATION	O	O
 
-"	O	O	O
+”	O	O	O
 Về	O	O	O
 hoá	O	O	O
 dầu	O	O	O
@@ -39980,7 +39980,7 @@ nhà	O	O	O
 đầu	O	O	O
 tư	O	O	O
 ngoại	O	O	O
-"	O	O	O
+”	O	O	O
 ,	O	O	O
 ông	O	O	O
 Trần	B-PERSON	O	O
@@ -40094,7 +40094,7 @@ lượng	O	O	O
 nhận	O	O	O
 xét	O	O	O
 :	O	O	O
-"	O	O	O
+”	O	O	O
 SNT	B-ORGANIZATION	O	O
 đã	O	O	O
 làm	O	O	O
@@ -40237,7 +40237,7 @@ chính	O	O	O
 sách	O	O	O
 tốt	O	O	O
 ...	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Ông	O	O	O
@@ -40325,7 +40325,7 @@ hoá	O	O	O
 dầu	O	O	O
 .	O	O	O
 
-"	O	O	O
+”	O	O	O
 Khi	O	O	O
 các	O	O	O
 nhà	O	O	O
@@ -40532,7 +40532,7 @@ sẽ	O	O	O
 được	O	O	O
 giải	O	O	O
 quyết	O	O	O
-"	O	O	O
+”	O	O	O
 ,	O	O	O
 ông	O	O	O
 Ngãi	O	O	O
@@ -40616,7 +40616,7 @@ nhân	O	O	O
 tạo	O	O	O
 ...	O	O	O
 
-"	O	O	O
+”	O	O	O
 Nhà	O	O	O
 đầu	O	O	O
 tư	O	O	O
@@ -40692,7 +40692,7 @@ tập	O	O	O
 và	O	O	O
 vươn	O	O	O
 lên	O	O	O
-"	O	O	O
+”	O	O	O
 ,	O	O	O
 Chủ	O	O	O
 tịch	O	O	O
@@ -45244,10 +45244,10 @@ và	O	O	O
 là	O	O	O
 thời	O	O	O
 kỳ	O	O	O
-"	O	O	O
+”	O	O	O
 đỉnh	O	O	O
 cao	O	O	O
-"	O	O	O
+”	O	O	O
 của	O	O	O
 hình	O	O	O
 phạt	O	O	O
@@ -45994,7 +45994,7 @@ súng	O	O	O
 ”	O	O	O
 là	O	O	O
 …	O	O	O
-"	O	O	O
+”	O	O	O
 Nó	O	O	O
 bước	O	O	O
 vào	O	O	O
@@ -46025,7 +46025,7 @@ bắt	O	O	O
 chuyến	O	O	O
 phiêu	O	O	O
 lưu	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Bên	O	O	O
@@ -48179,13 +48179,13 @@ cho	O	O	O
 phép	O	O	O
 cuộc	O	O	O
 sống	O	O	O
-"	O	O	O
+”	O	O	O
 chỉ	O	O	O
 để	O	O	O
 xảy	O	O	O
 ra	O	O	O
 .	O	O	O
-"	O	O	O
+”	O	O	O
 Tôi	O	O	O
 có	O	O	O
 kế	O	O	O
@@ -48914,9 +48914,9 @@ có	O	O	O
 thể	O	O	O
 viết	O	O	O
 chữ	O	O	O
-"	O	O	O
+”	O	O	O
 X	O	O	O
-"	O	O	O
+”	O	O	O
 nếu	O	O	O
 chúng	O	O	O
 ở	O	O	O
@@ -48945,7 +48945,7 @@ một	O	O	O
 đoạn	O	O	O
 văn	O	O	O
 :	O	O	O
-"	O	O	O
+”	O	O	O
 Tôi	O	O	O
 cần	O	O	O
 bạn	O	O	O
@@ -49226,7 +49226,7 @@ nghe	O	O	O
 tôi	O	O	O
 nói	O	O	O
 :	O	O	O
-"	O	O	O
+”	O	O	O
 Chúng	O	O	O
 tôi	O	O	O
 rất	O	O	O
@@ -49240,7 +49240,7 @@ nhau	O	O	O
 làm	O	O	O
 việc	O	O	O
 X	O	O	O
-"	O	O	O
+”	O	O	O
 mỗi	O	O	O
 ngày	O	O	O
 .	O	O	O
@@ -50562,10 +50562,10 @@ thế	O	O	O
 ,	O	O	O
 trước	O	O	O
 khi	O	O	O
-"	O	O	O
+”	O	O	O
 hành	O	O	O
 động	O	O	O
-"	O	O	O
+”	O	O	O
 ,	O	O	O
 hãy	O	O	O
 nói	O	O	O
@@ -50737,13 +50737,13 @@ dùng	O	O	O
 những	O	O	O
 từ	O	O	O
 như	O	O	O
-"	O	O	O
+”	O	O	O
 chà	O	O	O
-"	O	O	O
+”	O	O	O
 ,	O	O	O
-"	O	O	O
+”	O	O	O
 à	O	O	O
-"	O	O	O
+”	O	O	O
 …	O	O	O
 để	O	O	O
 có	O	O	O
@@ -51069,10 +51069,10 @@ ngẩm	O	O	O
 biến	O	O	O
 mình	O	O	O
 thành	O	O	O
-"	O	O	O
+”	O	O	O
 bà	O	O	O
 tám	O	O	O
-"	O	O	O
+”	O	O	O
 công	O	O	O
 sở	O	O	O
 trong	O	O	O
@@ -51365,7 +51365,7 @@ Anh	B-LOCATION	O	O
 cho	O	O	O
 biết	O	O	O
 :	O	O	O
-"	O	O	O
+”	O	O	O
 Những	O	O	O
 lời	O	O	O
 khen	O	O	O
@@ -51499,23 +51499,23 @@ dương	O	O	O
 ,	O	O	O
 lời	O	O	O
 khen	O	O	O
-"	O	O	O
+”	O	O	O
 hết	O	O	O
 tầm	O	O	O
-"	O	O	O
+”	O	O	O
 như	O	O	O
-"	O	O	O
+”	O	O	O
 Con	O	O	O
 giỏi	O	O	O
 quá	O	O	O
-"	O	O	O
+”	O	O	O
 ,	O	O	O
-"	O	O	O
+”	O	O	O
 Con	O	O	O
 thông	O	O	O
 minh	O	O	O
 quá	O	O	O
-"	O	O	O
+”	O	O	O
 …	O	O	O
 về	O	O	O
 lâu	O	O	O
@@ -51535,9 +51535,9 @@ là	O	O	O
 những	O	O	O
 lời	O	O	O
 khen	O	O	O
-"	O	O	O
+”	O	O	O
 khủng	O	O	O
-"	O	O	O
+”	O	O	O
 cho	O	O	O
 một	O	O	O
 việc	O	O	O
@@ -51584,7 +51584,7 @@ chuyên	O	O	O
 gia	O	O	O
 Elizabeth	B-PERSON	O	O
 :	O	O	O
-"	O	O	O
+”	O	O	O
 Cha	O	O	O
 mẹ	O	O	O
 chỉ	O	O	O
@@ -52629,7 +52629,7 @@ Elizabeth	B-PERSON	O	O
 chia	O	O	O
 sẻ	O	O	O
 :	O	O	O
-"	O	O	O
+”	O	O	O
 Để	O	O	O
 những	O	O	O
 lời	O	O	O
@@ -52684,7 +52684,7 @@ rất	O	O	O
 tốt	O	O	O
 ”	O	O	O
 ,	O	O	O
-"	O	O	O
+”	O	O	O
 Con	O	O	O
 đã	O	O	O
 rất	O	O	O
@@ -52697,7 +52697,7 @@ thật	O	O	O
 tuyệt	O	O	O
 vời	O	O	O
 !	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Cha	O	O	O
@@ -52787,7 +52787,7 @@ hỏi	O	O	O
 đùa	O	O	O
 bé	O	O	O
 :	O	O	O
-"	O	O	O
+”	O	O	O
 Thế	O	O	O
 1%	O	O	O
 còn	O	O	O
@@ -52843,7 +52843,7 @@ mẹ	O	O	O
 hãy	O	O	O
 nói	O	O	O
 :	O	O	O
-"	O	O	O
+”	O	O	O
 Con	O	O	O
 làm	O	O	O
 tốt	O	O	O
@@ -54855,7 +54855,7 @@ lâu	O	O	O
 dài	O	O	O
 .	O	O	O
 
-"	O	O	O
+”	O	O	O
 Nhờ	O	O	O
 vậy	O	O	O
 ,	O	O	O
@@ -54876,7 +54876,7 @@ trong	O	O	O
 lúc	O	O	O
 giảm	O	O	O
 cân	O	O	O
-"	O	O	O
+”	O	O	O
 ,	O	O	O
 cô	O	O	O
 nói	O	O	O
@@ -55174,7 +55174,7 @@ không	O	O	O
 Ông	O	O	O
 nói	O	O	O
 :	O	O	O
-"	O	O	O
+”	O	O	O
 Những	O	O	O
 thực	O	O	O
 phẩm	O	O	O
@@ -55286,7 +55286,7 @@ New	B-LOCATION	O	O
 York	I-LOCATION	O	O
 nói	O	O	O
 :	O	O	O
-"	O	O	O
+”	O	O	O
 Tôi	O	O	O
 thậm	O	O	O
 chí	O	O	O
@@ -55299,7 +55299,7 @@ rất	O	O	O
 nhàm	O	O	O
 chán	O	O	O
 !	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Vì	O	O	O
@@ -55344,10 +55344,10 @@ không	O	O	O
 nhầm	O	O	O
 lẫn	O	O	O
 giữa	O	O	O
-"	O	O	O
+”	O	O	O
 lành	O	O	O
 mạnh	O	O	O
-"	O	O	O
+”	O	O	O
 và	O	O	O
 “	O	O	O
 vô	O	O	O
@@ -55553,7 +55553,7 @@ sao	O	O	O
 Thực	O	O	O
 tế	O	O	O
 ,	O	O	O
-"	O	O	O
+”	O	O	O
 bữa	O	O	O
 ăn	O	O	O
 lớn	O	O	O
@@ -55615,9 +55615,9 @@ ngủ	O	O	O
 .	O	O	O
 
 Nhưng	O	O	O
-"	O	O	O
+”	O	O	O
 lớn	O	O	O
-"	O	O	O
+”	O	O	O
 không	O	O	O
 có	O	O	O
 nghĩa	O	O	O
@@ -56393,9 +56393,9 @@ phòng	O	O	O
 khách	O	O	O
 sạn	O	O	O
 luôn	O	O	O
-"	O	O	O
+”	O	O	O
 cháy	O	O	O
-"	O	O	O
+”	O	O	O
 vào	O	O	O
 tháng	O	O	O
 một	O	O	O
@@ -56448,15 +56448,15 @@ nó	O	O	O
 thành	O	O	O
 một	O	O	O
 lời	O	O	O
-"	O	O	O
+”	O	O	O
 tiên	O	O	O
 tri	O	O	O
 tự	O	O	O
 vận	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
-"	O	O	O
+”	O	O	O
 Khi	O	O	O
 kỳ	O	O	O
 vọng	O	O	O
@@ -56486,7 +56486,7 @@ với	O	O	O
 kỳ	O	O	O
 vọng	O	O	O
 đó	O	O	O
-"	O	O	O
+”	O	O	O
 ,	O	O	O
 bà	O	O	O
 Burke	B-PERSON	O	O
@@ -56494,7 +56494,7 @@ giải	O	O	O
 thích	O	O	O
 .	O	O	O
 
-"	O	O	O
+”	O	O	O
 Ví	O	O	O
 dụ	O	O	O
 ,	O	O	O
@@ -56537,7 +56537,7 @@ lười	O	O	O
 làm	O	O	O
 việc	O	O	O
 nhà	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Chưa	O	O	O
@@ -56602,7 +56602,7 @@ hai	O	O	O
 hạnh	O	O	O
 phúc	O	O	O
 :	O	O	O
-"	O	O	O
+”	O	O	O
 Thay	O	O	O
 vì	O	O	O
 đào	O	O	O
@@ -56646,7 +56646,7 @@ bạn	O	O	O
 cái	O	O	O
 ôm	O	O	O
 chặt	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Cuối	O	O	O
@@ -61598,7 +61598,7 @@ ngược	O	O	O
 lại	O	O	O
 rằng	O	O	O
 :	O	O	O
-"	O	O	O
+”	O	O	O
 Mẹ	O	O	O
 không	O	O	O
 biết	O	O	O
@@ -63530,10 +63530,10 @@ xảy	O	O	O
 ra	O	O	O
 tình	O	O	O
 trạng	O	O	O
-"	O	O	O
+”	O	O	O
 cháy	O	O	O
 phòng	O	O	O
-"	O	O	O
+”	O	O	O
 ,	O	O	O
 nhiều	O	O	O
 gia	O	O	O
@@ -63795,7 +63795,7 @@ hợp	O	O	O
 nhất	O	O	O
 .	O	O	O
 
-"	O	O	O
+”	O	O	O
 Không	O	O	O
 gian	O	O	O
 nhà	O	O	O
@@ -63876,7 +63876,7 @@ những	O	O	O
 thanh	O	O	O
 hay	O	O	O
 được	O	O	O
-"	O	O	O
+”	O	O	O
 ,	O	O	O
 anh	O	O	O
 Xin	O	O	O
@@ -64201,9 +64201,9 @@ mẽ	O	O	O
 ,	O	O	O
 không	O	O	O
 bị	O	O	O
-"	O	O	O
+”	O	O	O
 đuối	O	O	O
-"	O	O	O
+”	O	O	O
 ,	O	O	O
 giảm	O	O	O
 hư	O	O	O
@@ -64474,7 +64474,7 @@ nối	O	O	O
 mạng	O	O	O
 ...	O	O	O
 
-"	O	O	O
+”	O	O	O
 Chúng	O	O	O
 có	O	O	O
 ưu	O	O	O
@@ -64527,7 +64527,7 @@ hơn	O	O	O
 nhiều	O	O	O
 cho	O	O	O
 người	O	O	O
-"	O	O	O
+”	O	O	O
 ,	O	O	O
 anh	O	O	O
 Nguyên	B-PERSON	O	O
@@ -64925,10 +64925,10 @@ phải	O	O	O
 ngồi	O	O	O
 ở	O	O	O
 một	O	O	O
-"	O	O	O
+”	O	O	O
 góc	O	O	O
 chết	O	O	O
-"	O	O	O
+”	O	O	O
 để	O	O	O
 nhìn	O	O	O
 rõ	O	O	O
@@ -65284,9 +65284,9 @@ bloatware	O	O	O
 ,	O	O	O
 dữ	O	O	O
 liệu	O	O	O
-"	O	O	O
+”	O	O	O
 rác	O	O	O
-"	O	O	O
+”	O	O	O
 được	O	O	O
 nhà	O	O	O
 sản	O	O	O
@@ -65356,7 +65356,7 @@ triệu	O	O	O
 và	O	O	O
 nghĩ	O	O	O
 rằng	O	O	O
-"	O	O	O
+”	O	O	O
 sao	O	O	O
 mình	O	O	O
 không	O	O	O
@@ -65371,7 +65371,7 @@ laptop	O	O	O
 tốt	O	O	O
 hơn	O	O	O
 nhỉ	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Bạn	O	O	O
@@ -65525,10 +65525,10 @@ nhất	O	O	O
 ,	O	O	O
 tránh	O	O	O
 bị	O	O	O
-"	O	O	O
+”	O	O	O
 hoang	O	O	O
 mang	O	O	O
-"	O	O	O
+”	O	O	O
 khi	O	O	O
 đến	O	O	O
 cửa	O	O	O
@@ -65866,9 +65866,9 @@ Tuy	O	O	O
 nhiên	O	O	O
 giữa	O	O	O
 một	O	O	O
-"	O	O	O
+”	O	O	O
 rừng	O	O	O
-"	O	O	O
+”	O	O	O
 các	O	O	O
 sản	O	O	O
 phẩm	O	O	O
@@ -65931,9 +65931,9 @@ nhiên	O	O	O
 là	O	O	O
 chiếc	O	O	O
 smartphone	O	O	O
-"	O	O	O
+”	O	O	O
 hot	O	O	O
-"	O	O	O
+”	O	O	O
 nhất	O	O	O
 ở	O	O	O
 thời	O	O	O
@@ -65968,13 +65968,13 @@ tương	O	O	O
 u	O	O	O
 ám	O	O	O
 ,	O	O	O
-"	O	O	O
+”	O	O	O
 xám	O	O	O
-"	O	O	O
+”	O	O	O
 và	O	O	O
-"	O	O	O
+”	O	O	O
 bạc	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Ngoài	O	O	O
@@ -65995,10 +65995,10 @@ các	O	O	O
 đấng	O	O	O
 mày	O	O	O
 râu	O	O	O
-"	O	O	O
+”	O	O	O
 tránh	O	O	O
 xa	O	O	O
-"	O	O	O
+”	O	O	O
 chiếc	O	O	O
 smartphone	O	O	O
 này	O	O	O
@@ -66012,10 +66012,10 @@ hồng	O	O	O
 -	O	O	O
 món	O	O	O
 quà	O	O	O
-"	O	O	O
+”	O	O	O
 hoàn	O	O	O
 hảo	O	O	O
-"	O	O	O
+”	O	O	O
 cho	O	O	O
 ngày	O	O	O
 Valentine	O	O	O
@@ -66035,9 +66035,9 @@ một	O	O	O
 chiếc	O	O	O
 smartphone	O	O	O
 màu	O	O	O
-"	O	O	O
+”	O	O	O
 hường	O	O	O
-"	O	O	O
+”	O	O	O
 (	O	O	O
 rose	O	O	O
 gold	O	O	O
@@ -66053,9 +66053,9 @@ Với	O	O	O
 tiêu	O	O	O
 chí	O	O	O
 màu	O	O	O
-"	O	O	O
+”	O	O	O
 hường	O	O	O
-"	O	O	O
+”	O	O	O
 ,	O	O	O
 iPhone	O	O	O
 7/7	O	O	O
@@ -66074,9 +66074,9 @@ Không	O	O	O
 chỉ	O	O	O
 có	O	O	O
 màu	O	O	O
-"	O	O	O
+”	O	O	O
 hường	O	O	O
-"	O	O	O
+”	O	O	O
 ,	O	O	O
 iPhone	O	O	O
 7/7	O	O	O
@@ -66116,9 +66116,9 @@ sách	O	O	O
 iPhone	O	O	O
 SE	O	O	O
 màu	O	O	O
-"	O	O	O
+”	O	O	O
 hường	O	O	O
-"	O	O	O
+”	O	O	O
 giá	O	O	O
 349	O	O	O
 USD	O	O	O
@@ -66276,9 +66276,9 @@ màu	O	O	O
 sắc	O	O	O
 mà	O	O	O
 còn	O	O	O
-"	O	O	O
+”	O	O	O
 đẹp	O	O	O
-"	O	O	O
+”	O	O	O
 về	O	O	O
 giá	O	O	O
 bán	O	O	O
@@ -66322,10 +66322,10 @@ chọn	O	O	O
 .	O	O	O
 
 Thật	O	O	O
-"	O	O	O
+”	O	O	O
 khó	O	O	O
 cưỡng	O	O	O
-"	O	O	O
+”	O	O	O
 khi	O	O	O
 nhận	O	O	O
 được	O	O	O
@@ -66366,18 +66366,18 @@ với	O	O	O
 dây	O	O	O
 đeo	O	O	O
 màu	O	O	O
-"	O	O	O
+”	O	O	O
 hường	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Giá	O	O	O
 bán	O	O	O
 là	O	O	O
-"	O	O	O
+”	O	O	O
 khuyết	O	O	O
 điểm	O	O	O
-"	O	O	O
+”	O	O	O
 duy	O	O	O
 nhất	O	O	O
 của	O	O	O
@@ -66428,9 +66428,9 @@ LG	B-MISCELLANEOUS	O	O
 Watch	I-MISCELLANEOUS	O	O
 Style	I-MISCELLANEOUS	O	O
 màu	O	O	O
-"	O	O	O
+”	O	O	O
 hường	O	O	O
-"	O	O	O
+”	O	O	O
 chạy	O	O	O
 trên	O	O	O
 hệ	O	O	O
@@ -66499,13 +66499,13 @@ hội	O	O	O
 3	O	O	O
 yếu	O	O	O
 tố	O	O	O
-"	O	O	O
+”	O	O	O
 ngon	O	O	O
 ,	O	O	O
 bổ	O	O	O
 ,	O	O	O
 rẻ	O	O	O
-"	O	O	O
+”	O	O	O
 
 Chiếc	O	O	O
 loa	O	O	O
@@ -67321,9 +67321,9 @@ phù	O	O	O
 hợp	O	O	O
 với	O	O	O
 từng	O	O	O
-"	O	O	O
+”	O	O	O
 gu	O	O	O
-"	O	O	O
+”	O	O	O
 nội	O	O	O
 thất	O	O	O
 căn	O	O	O
@@ -68990,10 +68990,10 @@ từng	O	O	O
 coi	O	O	O
 là	O	O	O
 sạc	O	O	O
-"	O	O	O
+”	O	O	O
 tiêu	O	O	O
 chuẩn	O	O	O
-"	O	O	O
+”	O	O	O
 (	O	O	O
 theo	O	O	O
 cách	O	O	O
@@ -69748,9 +69748,9 @@ tên	O	O	O
 là	O	O	O
 bộ	O	O	O
 sạc	O	O	O
-"	O	O	O
+”	O	O	O
 chậm	O	O	O
-"	O	O	O
+”	O	O	O
 vì	O	O	O
 có	O	O	O
 cường	O	O	O
@@ -70423,9 +70423,9 @@ Câu	O	O	O
 trả	O	O	O
 lời	O	O	O
 là	O	O	O
-"	O	O	O
+”	O	O	O
 có	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Khi	O	O	O
@@ -72421,13 +72421,13 @@ không	O	O	O
 ,	O	O	O
 hãng	O	O	O
 đã	O	O	O
-"	O	O	O
+”	O	O	O
 lắng	O	O	O
 nghe	O	O	O
 và	O	O	O
 tiếp	O	O	O
 thu	O	O	O
-"	O	O	O
+”	O	O	O
 những	O	O	O
 ý	O	O	O
 kiến	O	O	O
@@ -74783,10 +74783,10 @@ vui	O	O	O
 là	O	O	O
 màn	O	O	O
 hình	O	O	O
-"	O	O	O
+”	O	O	O
 tai	O	O	O
 thỏ	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Đây	O	O	O
@@ -75703,12 +75703,12 @@ Thần	O	O	O
 hiệp	O	O	O
 2006	O	O	O
 ,	O	O	O
-"	O	O	O
+”	O	O	O
 thần	O	O	O
 tiên	O	O	O
 tỷ	O	O	O
 tỷ	O	O	O
-"	O	O	O
+”	O	O	O
 xứ	B-LOCATION	O	O
 Trung	I-LOCATION	O	O
 chỉ	O	O	O
@@ -75750,10 +75750,10 @@ sinh	O	O	O
 năm	O	O	O
 1987	O	O	O
 bị	O	O	O
-"	O	O	O
+”	O	O	O
 hắt	O	O	O
 hủi	O	O	O
-"	O	O	O
+”	O	O	O
 khi	O	O	O
 tham	O	O	O
 gia	O	O	O
@@ -75786,10 +75786,10 @@ vỏn	O	O	O
 vẹn	O	O	O
 ba	O	O	O
 chữ	O	O	O
-"	O	O	O
+”	O	O	O
 Hehe	O	O	O
 da	O	O	O
-"	O	O	O
+”	O	O	O
 (	O	O	O
 tạm	O	O	O
 dịch	O	O	O
@@ -76129,17 +76129,17 @@ nếu	O	O	O
 cả	O	O	O
 hai	O	O	O
 lên	O	O	O
-"	O	O	O
+”	O	O	O
 bàn	O	O	O
 cân	O	O	O
-"	O	O	O
+”	O	O	O
 thì	O	O	O
-"	O	O	O
+”	O	O	O
 thần	O	O	O
 tiên	O	O	O
 tỷ	O	O	O
 tỷ	O	O	O
-"	O	O	O
+”	O	O	O
 xứ	B-LOCATION	O	O
 Trung	I-LOCATION	O	O
 vẫn	O	O	O
@@ -76347,12 +76347,12 @@ mỹ	O	O	O
 nhân	O	O	O
 trở	O	O	O
 thành	O	O	O
-"	O	O	O
+”	O	O	O
 không	O	O	O
 đội	O	O	O
 trời	O	O	O
 chung	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Một	O	O	O
@@ -76515,13 +76515,13 @@ chí	O	O	O
 Seventeen	B-ORGANIZATION	O	O
 gọi	O	O	O
 là	O	O	O
-"	O	O	O
+”	O	O	O
 cặp	O	O	O
 chị	O	O	O
 em	O	O	O
 tai	O	O	O
 tiếng	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Hãy	O	O	O
@@ -76596,7 +76596,7 @@ thể	O	O	O
 hiện	O	O	O
 ý	O	O	O
 tưởng	O	O	O
-"	O	O	O
+”	O	O	O
 nước	O	O	O
 ngọt	O	O	O
 kết	O	O	O
@@ -76606,7 +76606,7 @@ người	O	O	O
 ,	O	O	O
 tầng	O	O	O
 lớp	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Sẽ	O	O	O
@@ -76632,11 +76632,11 @@ chủng	O	O	O
 tộc	O	O	O
 mang	O	O	O
 tên	O	O	O
-"	O	O	O
+”	O	O	O
 Black	O	O	O
 Lives	O	O	O
 Matter	O	O	O
-"	O	O	O
+”	O	O	O
 (	O	O	O
 Cuộc	O	O	O
 sống	O	O	O
@@ -76704,7 +76704,7 @@ khóc	O	O	O
 và	O	O	O
 nói	O	O	O
 :	O	O	O
-"	O	O	O
+”	O	O	O
 Tôi	O	O	O
 không	O	O	O
 bao	O	O	O
@@ -76745,7 +76745,7 @@ mình	O	O	O
 thật	O	O	O
 ngu	O	O	O
 ngốc	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Cũng	O	O	O
@@ -77009,7 +77009,7 @@ Vogue	B-ORGANIZATION	O	O
 phân	O	O	O
 trần	O	O	O
 :	O	O	O
-"	O	O	O
+”	O	O	O
 Chúng	O	O	O
 tôi	O	O	O
 có	O	O	O
@@ -77090,7 +77090,7 @@ tôi	O	O	O
 là	O	O	O
 người	B-MISCELLANEOUS	O	O
 Ấn	I-MISCELLANEOUS	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Tháng	O	O	O
@@ -77194,7 +77194,7 @@ cắt	O	O	O
 cổ	O	O	O
 .	O	O	O
 
-"	O	O	O
+”	O	O	O
 Kendall	B-PERSON	O	O
 và	O	O	O
 Kylie	B-PERSON	O	O
@@ -77222,7 +77222,7 @@ với	O	O	O
 giá	O	O	O
 125	O	O	O
 USD	O	O	O
-"	O	O	O
+”	O	O	O
 ,	O	O	O
 một	O	O	O
 độc	O	O	O
@@ -77266,7 +77266,7 @@ viết	O	O	O
 trên	O	O	O
 Twitter	O	O	O
 :	O	O	O
-"	O	O	O
+”	O	O	O
 Những	O	O	O
 thiết	O	O	O
 kế	O	O	O
@@ -77329,7 +77329,7 @@ tượng	O	O	O
 văn	O	O	O
 hoá	O	O	O
 này	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Năm	O	O	O
@@ -77429,7 +77429,7 @@ người	O	O	O
 mẫu	O	O	O
 viết	O	O	O
 :	O	O	O
-"	O	O	O
+”	O	O	O
 Quyền	O	O	O
 năng	O	O	O
 của	O	O	O
@@ -77445,7 +77445,7 @@ của	O	O	O
 các	O	O	O
 cô	O	O	O
 gái	O	O	O
-"	O	O	O
+”	O	O	O
 và	O	O	O
 đăng	O	O	O
 biểu	O	O	O
@@ -77606,14 +77606,14 @@ Kendall	B-PERSON	O	O
 và	O	O	O
 Kylie	B-PERSON	O	O
 là	O	O	O
-"	O	O	O
+”	O	O	O
 những	O	O	O
 kẻ	O	O	O
 trục	O	O	O
 lợi	O	O	O
 văn	O	O	O
 hoá	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Năm	O	O	O
@@ -77692,7 +77692,7 @@ bắt	O	O	O
 chước	O	O	O
 .	O	O	O
 
-"	O	O	O
+”	O	O	O
 Thêm	O	O	O
 một	O	O	O
 việc	O	O	O
@@ -77727,7 +77727,7 @@ là	O	O	O
 của	O	O	O
 riêng	O	O	O
 họ	O	O	O
-"	O	O	O
+”	O	O	O
 ,	O	O	O
 một	O	O	O
 độc	O	O	O
@@ -77792,7 +77792,7 @@ Lý	O	O	O
 do	O	O	O
 kiện	O	O	O
 là	O	O	O
-"	O	O	O
+”	O	O	O
 hành	O	O	O
 hung	O	O	O
 ,	O	O	O
@@ -77801,7 +77801,7 @@ công	O	O	O
 và	O	O	O
 phá	O	O	O
 hoại	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Theo	O	O	O
@@ -77845,12 +77845,12 @@ Chyna	B-PERSON	O	O
 đấu	O	O	O
 tranh	O	O	O
 để	O	O	O
-"	O	O	O
+”	O	O	O
 giành	O	O	O
 lại	O	O	O
 công	O	O	O
 bằng	O	O	O
-"	O	O	O
+”	O	O	O
 ,	O	O	O
 chống	O	O	O
 lại	O	O	O
@@ -77869,26 +77869,26 @@ khẳng	O	O	O
 cáo	O	O	O
 buộc	O	O	O
 là	O	O	O
-"	O	O	O
+”	O	O	O
 xấu	O	O	O
 xí	O	O	O
 và	O	O	O
 sai	O	O	O
 sự	O	O	O
 thật	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Có	O	O	O
 lẽ	O	O	O
 chỉ	O	O	O
 với	O	O	O
-"	O	O	O
+”	O	O	O
 gia	O	O	O
 đình	O	O	O
 thị	O	O	O
 phi	O	O	O
-"	O	O	O
+”	O	O	O
 khét	O	O	O
 tiếng	O	O	O
 Hollywood	B-LOCATION	O	O
@@ -77935,10 +77935,10 @@ tháng	O	O	O
 hot	O	O	O
 girl	O	O	O
 hoặc	O	O	O
-"	O	O	O
+”	O	O	O
 trốn	O	O	O
 tiệt	O	O	O
-"	O	O	O
+”	O	O	O
 truyền	O	O	O
 thông	O	O	O
 hoặc	O	O	O
@@ -77997,10 +77997,10 @@ giả	O	O	O
 trong	O	O	O
 khi	O	O	O
 vẫn	O	O	O
-"	O	O	O
+”	O	O	O
 thả	O	O	O
 thính	O	O	O
-"	O	O	O
+”	O	O	O
 tin	O	O	O
 đồn	O	O	O
 mỗi	O	O	O
@@ -80377,10 +80377,10 @@ dị	O	O	O
 sẽ	O	O	O
 dễ	O	O	O
 bị	O	O	O
-"	O	O	O
+”	O	O	O
 trách	O	O	O
 móc	O	O	O
-"	O	O	O
+”	O	O	O
 xuề	O	O	O
 xoà	O	O	O
 ,	O	O	O
@@ -80396,10 +80396,10 @@ lồng	O	O	O
 lộn	O	O	O
 lại	O	O	O
 dễ	O	O	O
-"	O	O	O
+”	O	O	O
 lấn	O	O	O
 át	O	O	O
-"	O	O	O
+”	O	O	O
 cô	O	O	O
 dâu	O	O	O
 chú	O	O	O
@@ -80408,12 +80408,12 @@ rể	O	O	O
 
 Xem	O	O	O
 những	O	O	O
-"	O	O	O
+”	O	O	O
 kinh	O	O	O
 nghiệm	O	O	O
 xướng	O	O	O
 máu	O	O	O
-"	O	O	O
+”	O	O	O
 từ	O	O	O
 CL	B-PERSON	O	O
 ,	O	O	O
@@ -80478,11 +80478,11 @@ ví	O	O	O
 cô	O	O	O
 nàng	O	O	O
 như	O	O	O
-"	O	O	O
+”	O	O	O
 gấu	O	O	O
 lông	O	O	O
 xù	O	O	O
-"	O	O	O
+”	O	O	O
 bởi	O	O	O
 chiếc	O	O	O
 áo	O	O	O
@@ -80502,10 +80502,10 @@ trang	O	O	O
 .	O	O	O
 
 Và	O	O	O
-"	O	O	O
+”	O	O	O
 quả	O	O	O
 đắng	O	O	O
-"	O	O	O
+”	O	O	O
 đến	O	O	O
 ngay	O	O	O
 lập	O	O	O
@@ -80525,10 +80525,10 @@ phải	O	O	O
 đuôi	O	O	O
 áo	O	O	O
 và	O	O	O
-"	O	O	O
+”	O	O	O
 ngã	O	O	O
 nhào	O	O	O
-"	O	O	O
+”	O	O	O
 ngay	O	O	O
 trước	O	O	O
 bao	O	O	O
@@ -80553,11 +80553,11 @@ Kim	B-PERSON	O	O
 Ki	I-PERSON	O	O
 Bang	I-PERSON	O	O
 ,	O	O	O
-"	O	O	O
+”	O	O	O
 hươu	O	O	O
 cao	O	O	O
 cổ	O	O	O
-"	O	O	O
+”	O	O	O
 Kwang	B-PERSON	O	O
 Soo	I-PERSON	O	O
 đã	O	O	O
@@ -80601,10 +80601,10 @@ cài	O	O	O
 tăng	O	O	O
 thêm	O	O	O
 độ	O	O	O
-"	O	O	O
+”	O	O	O
 lồng	O	O	O
 lộn	O	O	O
-"	O	O	O
+”	O	O	O
 về	O	O	O
 phần	O	O	O
 nhìn	O	O	O
@@ -80620,17 +80620,17 @@ cư	O	O	O
 dân	O	O	O
 mạng	O	O	O
 cũng	O	O	O
-"	O	O	O
+”	O	O	O
 ngao	O	O	O
 ngán	O	O	O
-"	O	O	O
+”	O	O	O
 vì	O	O	O
 Kwang	B-PERSON	O	O
 Soo	I-PERSON	O	O
 quá	O	O	O
-"	O	O	O
+”	O	O	O
 lố	O	O	O
-"	O	O	O
+”	O	O	O
 ,	O	O	O
 trong	O	O	O
 khi	O	O	O
@@ -80769,9 +80769,9 @@ cư	O	O	O
 dân	O	O	O
 mạng	O	O	O
 vì	O	O	O
-"	O	O	O
+”	O	O	O
 tội	O	O	O
-"	O	O	O
+”	O	O	O
 vừa	O	O	O
 quá	O	O	O
 đẹp	O	O	O
@@ -80855,10 +80855,10 @@ của	O	O	O
 Crayon	B-ORGANIZATION	O	O
 Pop	I-ORGANIZATION	O	O
 còn	O	O	O
-"	O	O	O
+”	O	O	O
 chơi	O	O	O
 trội	O	O	O
-"	O	O	O
+”	O	O	O
 hơn	O	O	O
 ,	O	O	O
 diện	O	O	O
@@ -80885,10 +80885,10 @@ Dù	O	O	O
 đã	O	O	O
 phải	O	O	O
 đứng	O	O	O
-"	O	O	O
+”	O	O	O
 ngoài	O	O	O
 rìa	O	O	O
-"	O	O	O
+”	O	O	O
 khi	O	O	O
 chụp	O	O	O
 ảnh	O	O	O
@@ -80904,10 +80904,10 @@ Crayon	B-ORGANIZATION	O	O
 Pop	I-ORGANIZATION	O	O
 vẫn	O	O	O
 bị	O	O	O
-"	O	O	O
+”	O	O	O
 ném	O	O	O
 đá	O	O	O
-"	O	O	O
+”	O	O	O
 dữ	O	O	O
 dội	O	O	O
 .	O	O	O
@@ -81204,13 +81204,13 @@ nhận	O	O	O
 ông	O	O	O
 đã	O	O	O
 dùng	O	O	O
-"	O	O	O
+”	O	O	O
 những	O	O	O
 từ	O	O	O
 ngữ	O	O	O
 sai	O	O	O
 trái	O	O	O
-"	O	O	O
+”	O	O	O
 ,	O	O	O
 nhưng	O	O	O
 đó	O	O	O
@@ -81223,7 +81223,7 @@ sự	O	O	O
 ức	O	O	O
 chế	O	O	O
 sau	O	O	O
-"	O	O	O
+”	O	O	O
 một	O	O	O
 năm	O	O	O
 trời	O	O	O
@@ -81235,7 +81235,7 @@ Hai	O	O	O
 hoa	O	O	O
 hậu	O	O	O
 Mỹ	B-LOCATION	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Haskell	B-PERSON	O	O
@@ -81270,14 +81270,14 @@ trên	O	O	O
 Huffington	B-ORGANIZATION	O	O
 Post	I-ORGANIZATION	O	O
 là	O	O	O
-"	O	O	O
+”	O	O	O
 sai	O	O	O
 sự	O	O	O
 thật	O	O	O
 và	O	O	O
 đáng	O	O	O
 khinh	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Trong	O	O	O
@@ -81362,11 +81362,11 @@ quyết	O	O	O
 định	O	O	O
 đổi	O	O	O
 từ	O	O	O
-"	O	O	O
+”	O	O	O
 Forever	O	O	O
 Miss	O	O	O
 Americas	B-LOCATION	O	O
-"	O	O	O
+”	O	O	O
 (	O	O	O
 Những	O	O	O
 hoa	O	O	O
@@ -81376,11 +81376,11 @@ vĩnh	O	O	O
 viễn	O	O	O
 )	O	O	O
 thành	O	O	O
-"	O	O	O
+”	O	O	O
 Former	O	O	O
 Miss	O	O	O
 Americas	B-LOCATION	O	O
-"	O	O	O
+”	O	O	O
 (	O	O	O
 Cựu	O	O	O
 hoa	O	O	O
@@ -81429,7 +81429,7 @@ này	O	O	O
 Friedman	B-PERSON	O	O
 đùa	O	O	O
 :	O	O	O
-"	O	O	O
+”	O	O	O
 Tôi	O	O	O
 đã	O	O	O
 đổi	O	O	O
@@ -81446,12 +81446,12 @@ hài	O	O	O
 lòng	O	O	O
 không	O	O	O
 ?	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
-"	O	O	O
+”	O	O	O
 Cunts	O	O	O
-"	O	O	O
+”	O	O	O
 là	O	O	O
 tiếng	O	O	O
 lóng	O	O	O
@@ -81471,13 +81471,13 @@ lại	O	O	O
 Haskell	B-PERSON	O	O
 viết	O	O	O
 :	O	O	O
-"	O	O	O
+”	O	O	O
 Hoàn	O	O	O
 hảo	O	O	O
 .	O	O	O
 
 Hahaha	O	O	O
-"	O	O	O
+”	O	O	O
 ,	O	O	O
 cho	O	O	O
 thấy	O	O	O
@@ -81539,7 +81539,7 @@ khác	O	O	O
 Haskell	B-PERSON	O	O
 viết	O	O	O
 :	O	O	O
-"	O	O	O
+”	O	O	O
 Ôi	O	O	O
 Chúa	O	O	O
 ơi	O	O	O
@@ -81562,7 +81562,7 @@ cô	O	O	O
 ta	O	O	O
 nhỉ	O	O	O
 ?	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Chủ	O	O	O
@@ -81571,7 +81571,7 @@ Randle	B-PERSON	O	O
 phản	O	O	O
 hồi	O	O	O
 :	O	O	O
-"	O	O	O
+”	O	O	O
 Trông	O	O	O
 cũng	O	O	O
 khoẻ	O	O	O
@@ -81580,7 +81580,7 @@ mạnh	O	O	O
 chứ	O	O	O
 ,	O	O	O
 hahaha	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Còn	O	O	O
@@ -81590,13 +81590,13 @@ phẩm	O	O	O
 là	O	O	O
 trông	O	O	O
 Hagan	B-PERSON	O	O
-"	O	O	O
+”	O	O	O
 không	O	O	O
 thể	O	O	O
 nhận	O	O	O
 ra	O	O	O
 nổi	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Trong	O	O	O
@@ -81621,7 +81621,7 @@ hoa	O	O	O
 hậu	O	O	O
 .	O	O	O
 
-"	O	O	O
+”	O	O	O
 Có	O	O	O
 phải	O	O	O
 bốn	O	O	O
@@ -81640,7 +81640,7 @@ cùng	O	O	O
 không	O	O	O
 nhỉ	O	O	O
 ?	O	O	O
-"	O	O	O
+”	O	O	O
 ,	O	O	O
 Friedman	B-PERSON	O	O
 đặt	O	O	O
@@ -81648,11 +81648,11 @@ câu	O	O	O
 hỏi	O	O	O
 .	O	O	O
 
-"	O	O	O
+”	O	O	O
 Đúng	O	O	O
 vậy	O	O	O
 đấy	O	O	O
-"	O	O	O
+”	O	O	O
 ,	O	O	O
 Haskell	B-PERSON	O	O
 trả	O	O	O
@@ -81698,13 +81698,13 @@ khiếm	O	O	O
 nhã	O	O	O
 của	O	O	O
 các	O	O	O
-"	O	O	O
+”	O	O	O
 ông	O	O	O
 chủ	O	O	O
 ngành	O	O	O
 hoa	O	O	O
 hậu	O	O	O
-"	O	O	O
+”	O	O	O
 còn	O	O	O
 hướng	O	O	O
 đến	O	O	O
@@ -81755,7 +81755,7 @@ của	O	O	O
 MAO	B-ORGANIZATION	O	O
 .	O	O	O
 
-"	O	O	O
+”	O	O	O
 Tôi	O	O	O
 thấy	O	O	O
 được	O	O	O
@@ -81806,7 +81806,7 @@ trút	O	O	O
 bỏ	O	O	O
 gánh	O	O	O
 nặng	O	O	O
-"	O	O	O
+”	O	O	O
 ,	O	O	O
 cô	O	O	O
 nói	O	O	O
@@ -81860,10 +81860,10 @@ chỉ	O	O	O
 là	O	O	O
 hành	O	O	O
 động	O	O	O
-"	O	O	O
+”	O	O	O
 trấn	O	O	O
 an	O	O	O
-"	O	O	O
+”	O	O	O
 ,	O	O	O
 điều	O	O	O
 họ	O	O	O
@@ -81886,7 +81886,7 @@ sạch	O	O	O
 sẽ	O	O	O
 .	O	O	O
 
-"	O	O	O
+”	O	O	O
 Thi	O	O	O
 hoa	O	O	O
 hậu	O	O	O
@@ -81895,7 +81895,7 @@ theo	O	O	O
 đuổi	O	O	O
 ước	O	O	O
 mơ	O	O	O
-"	O	O	O
+”	O	O	O
 và	O	O	O
 thực	O	O	O
 tế	O	O	O
@@ -81926,7 +81926,7 @@ bá	O	O	O
 với	O	O	O
 thông	O	O	O
 điệp	O	O	O
-"	O	O	O
+”	O	O	O
 là	O	O	O
 môt	O	O	O
 bước	O	O	O
@@ -81950,7 +81950,7 @@ và	O	O	O
 được	O	O	O
 ước	O	O	O
 mơ	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Mặc	O	O	O
@@ -82093,7 +82093,7 @@ MAO	B-ORGANIZATION	O	O
 cho	O	O	O
 biết	O	O	O
 :	O	O	O
-"	O	O	O
+”	O	O	O
 Hội	O	O	O
 đồng	O	O	O
 sẽ	O	O	O
@@ -82150,7 +82150,7 @@ theo	O	O	O
 đuổi	O	O	O
 ước	O	O	O
 mơ	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Thêm	O	O	O
@@ -82709,7 +82709,7 @@ hình	O	O	O
 ”	O	O	O
 .	O	O	O
 
-"	O	O	O
+”	O	O	O
 Vì	O	O	O
 bệnh	O	O	O
 nên	O	O	O
@@ -82833,7 +82833,7 @@ khá	O	O	O
 hơn	O	O	O
 rất	O	O	O
 nhiều	O	O	O
-"	O	O	O
+”	O	O	O
 ,	O	O	O
 anh	O	O	O
 nói	O	O	O
@@ -82901,7 +82901,7 @@ thân	O	O	O
 thiết	O	O	O
 .	O	O	O
 
-"	O	O	O
+”	O	O	O
 Tôi	O	O	O
 không	O	O	O
 phải	O	O	O
@@ -82953,7 +82953,7 @@ luôn	O	O	O
 trân	O	O	O
 trọng	O	O	O
 họ	O	O	O
-"	O	O	O
+”	O	O	O
 ,	O	O	O
 Lâm	B-PERSON	O	O
 Vinh	I-PERSON	O	O
@@ -83179,7 +83179,7 @@ sân	O	O	O
 cỏ	O	O	O
 .	O	O	O
 
-"	O	O	O
+”	O	O	O
 Bóng	O	O	O
 đá	O	O	O
 là	O	O	O
@@ -83339,7 +83339,7 @@ phong	O	O	O
 đông	O	O	O
 độ	O	O	O
 kém	O	O	O
-"	O	O	O
+”	O	O	O
 ,	O	O	O
 Duy	B-PERSON	O	O
 Mạnh	I-PERSON	O	O
@@ -83363,7 +83363,7 @@ phó	O	O	O
 U23	B-ORGANIZATION	O	O
 bảo	O	O	O
 :	O	O	O
-"	O	O	O
+”	O	O	O
 Cuộc	O	O	O
 sống	O	O	O
 với	O	O	O
@@ -83482,7 +83482,7 @@ gì	O	O	O
 đó	O	O	O
 quan	O	O	O
 trọng	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Cởi	O	O	O
@@ -83506,14 +83506,14 @@ biệt	O	O	O
 tới	O	O	O
 câu	O	O	O
 hỏi	O	O	O
-"	O	O	O
+”	O	O	O
 bán	O	O	O
 hàng	O	O	O
 online	O	O	O
 với	O	O	O
 bạn	O	O	O
 gái	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Hào	O	O	O
@@ -83521,7 +83521,7 @@ hứng	O	O	O
 cho	O	O	O
 biết	O	O	O
 :	O	O	O
-"	O	O	O
+”	O	O	O
 Cửa	O	O	O
 hàng	O	O	O
 bạn	O	O	O
@@ -83542,7 +83542,7 @@ thành	O	O	O
 công	O	O	O
 trở	O	O	O
 về	O	O	O
-"	O	O	O
+”	O	O	O
 ,	O	O	O
 hậu	O	O	O
 vệ	O	O	O
@@ -83552,13 +83552,13 @@ bật	O	O	O
 mí	O	O	O
 thêm	O	O	O
 về	O	O	O
-"	O	O	O
+”	O	O	O
 phận	O	O	O
 làm	O	O	O
 shipper	O	O	O
-"	O	O	O
+”	O	O	O
 :	O	O	O
-"	O	O	O
+”	O	O	O
 Một	O	O	O
 hôm	O	O	O
 vào	O	O	O
@@ -83607,7 +83607,7 @@ tôi	O	O	O
 đã	O	O	O
 đi	O	O	O
 ship	O	O	O
-"	O	O	O
+”	O	O	O
 ,	O	O	O
 Duy	B-PERSON	O	O
 Mạnh	I-PERSON	O	O
@@ -83619,10 +83619,10 @@ Kể	O	O	O
 lại	O	O	O
 buổi	O	O	O
 tối	O	O	O
-"	O	O	O
+”	O	O	O
 định	O	O	O
 mệnh	O	O	O
-"	O	O	O
+”	O	O	O
 ,	O	O	O
 Duy	B-PERSON	O	O
 Mạnh	I-PERSON	O	O
@@ -83645,7 +83645,7 @@ Trước	O	O	O
 câu	O	O	O
 hỏi	O	O	O
 :	O	O	O
-"	O	O	O
+”	O	O	O
 Bây	O	O	O
 giờ	O	O	O
 có	O	O	O
@@ -83655,7 +83655,7 @@ ship	O	O	O
 hàng	O	O	O
 không	O	O	O
 ?	O	O	O
-"	O	O	O
+”	O	O	O
 ,	O	O	O
 đội	O	O	O
 phó	O	O	O
@@ -83664,7 +83664,7 @@ Việt	B-LOCATION	I-ORGANIZATION	O
 Nam	I-LOCATION	I-ORGANIZATION	O
 bảo	O	O	O
 :	O	O	O
-"	O	O	O
+”	O	O	O
 Bây	O	O	O
 giờ	O	O	O
 nếu	O	O	O
@@ -83694,7 +83694,7 @@ cho	O	O	O
 bạn	O	O	O
 gái	O	O	O
 thôi	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Kết	O	O	O
@@ -83878,11 +83878,11 @@ việc	O	O	O
 Duy	B-PERSON	O	O
 Mạnh	I-PERSON	O	O
 có	O	O	O
-"	O	O	O
+”	O	O	O
 nghề	O	O	O
 tay	O	O	O
 trái	O	O	O
-"	O	O	O
+”	O	O	O
 là	O	O	O
 bán	O	O	O
 hàng	O	O	O
@@ -83927,11 +83927,11 @@ cho	O	O	O
 biết	O	O	O
 mình	O	O	O
 là	O	O	O
-"	O	O	O
+”	O	O	O
 phận	O	O	O
 làm	O	O	O
 shipper	O	O	O
-"	O	O	O
+”	O	O	O
 trong	O	O	O
 những	O	O	O
 bài	O	O	O
@@ -84189,10 +84189,10 @@ vòng	O	O	O
 ba	O	O	O
 của	O	O	O
 cô	O	O	O
-"	O	O	O
+”	O	O	O
 phình	O	O	O
 to	O	O	O
-"	O	O	O
+”	O	O	O
 hơn	O	O	O
 dự	O	O	O
 kiến	O	O	O
@@ -84485,11 +84485,11 @@ gió	O	O	O
 
 Hội	O	O	O
 chứng	O	O	O
-"	O	O	O
+”	O	O	O
 xương	O	O	O
 thuỷ	O	O	O
 tinh	O	O	O
-"	O	O	O
+”	O	O	O
 này	O	O	O
 đã	O	O	O
 khiến	O	O	O
@@ -84794,12 +84794,12 @@ không	O	O	O
 có	O	O	O
 thân	O	O	O
 hình	O	O	O
-"	O	O	O
+”	O	O	O
 mình	O	O	O
 hạc	O	O	O
 xương	O	O	O
 mai	O	O	O
-"	O	O	O
+”	O	O	O
 ,	O	O	O
 nhưng	O	O	O
 Thaina	B-PERSON	O	O
@@ -85006,12 +85006,12 @@ bên	O	O	O
 gọi	O	O	O
 là	O	O	O
 hai	O	O	O
-"	O	O	O
+”	O	O	O
 búp	O	O	O
 bê	O	O	O
 barbie	O	O	O
 sống	O	O	O
-"	O	O	O
+”	O	O	O
 ngoài	O	O	O
 đời	O	O	O
 thực	O	O	O
@@ -85050,10 +85050,10 @@ lẽ	O	O	O
 là	O	O	O
 gia	O	O	O
 đình	O	O	O
-"	O	O	O
+”	O	O	O
 kỳ	O	O	O
 dị	O	O	O
-"	O	O	O
+”	O	O	O
 nhất	O	O	O
 thế	O	O	O
 giới	O	O	O
@@ -85145,10 +85145,10 @@ người	O	O	O
 đàn	O	O	O
 ông	O	O	O
 có	O	O	O
-"	O	O	O
+”	O	O	O
 của	O	O	O
 quý	O	O	O
-"	O	O	O
+”	O	O	O
 dài	O	O	O
 nhất	O	O	O
 thế	O	O	O
@@ -85395,7 +85395,7 @@ sĩ	O	O	O
 đã	O	O	O
 nói	O	O	O
 :	O	O	O
-"	O	O	O
+”	O	O	O
 Theo	O	O	O
 suy	O	O	O
 nghĩ	O	O	O
@@ -85428,7 +85428,7 @@ những	O	O	O
 điều	O	O	O
 đó	O	O	O
 đâu	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Nhiều	O	O	O
@@ -85579,7 +85579,7 @@ Instagram	O	O	O
 có	O	O	O
 đoạn	O	O	O
 :	O	O	O
-"	O	O	O
+”	O	O	O
 Tôi	O	O	O
 nghĩ	O	O	O
 đó	O	O	O
@@ -85678,12 +85678,12 @@ mạnh	O	O	O
 cho	O	O	O
 bạn	O	O	O
 ấy	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
-"	O	O	O
+”	O	O	O
 Gà	O	O	O
-"	O	O	O
+”	O	O	O
 nhà	O	O	O
 SM	O	O	O
 cũng	O	O	O
@@ -85998,12 +85998,12 @@ chương	O	O	O
 trình	O	O	O
 truyền	O	O	O
 hình	O	O	O
-"	O	O	O
+”	O	O	O
 My	O	O	O
 Father	O	O	O
 is	O	O	O
 strange	O	O	O
-"	O	O	O
+”	O	O	O
 của	O	O	O
 đài	O	O	O
 KBS	B-ORGANIZATION	O	O
@@ -86054,12 +86054,12 @@ phân	O	O	O
 cảnh	O	O	O
 này	O	O	O
 trong	O	O	O
-"	O	O	O
+”	O	O	O
 My	O	O	O
 Father	O	O	O
 is	O	O	O
 strange	O	O	O
-"	O	O	O
+”	O	O	O
 ,	O	O	O
 nhiều	O	O	O
 khán	O	O	O
@@ -86195,10 +86195,10 @@ Awards	O	O	O
 2016	O	O	O
 đã	O	O	O
 làm	O	O	O
-"	O	O	O
+”	O	O	O
 ấm	O	O	O
 lòng	O	O	O
-"	O	O	O
+”	O	O	O
 người	O	O	O
 hâm	O	O	O
 mô	O	O	O
@@ -86225,21 +86225,21 @@ chung	O	O	O
 trong	O	O	O
 bộ	O	O	O
 phim	O	O	O
-"	O	O	O
+”	O	O	O
 My	O	O	O
 daughter	O	O	O
 geum	O	O	O
 sa	O	O	O
 wol	O	O	O
-"	O	O	O
+”	O	O	O
 năm	O	O	O
 2015	O	O	O
 .	O	O	O
 
 Màn	O	O	O
-"	O	O	O
+”	O	O	O
 diễn	O	O	O
-"	O	O	O
+”	O	O	O
 của	O	O	O
 họ	O	O	O
 quá	O	O	O
@@ -86258,12 +86258,12 @@ gì	O	O	O
 về	O	O	O
 chuyện	O	O	O
 tình	O	O	O
-"	O	O	O
+”	O	O	O
 phim	O	O	O
 giả	O	O	O
 tình	O	O	O
 thật	O	O	O
-"	O	O	O
+”	O	O	O
 của	O	O	O
 hai	O	O	O
 người	O	O	O
@@ -86310,14 +86310,14 @@ nhau	O	O	O
 trong	O	O	O
 bộ	O	O	O
 phim	O	O	O
-"	O	O	O
+”	O	O	O
 Save	O	O	O
 the	O	O	O
 last	O	O	O
 dance	O	O	O
 for	O	O	O
 me	O	O	O
-"	O	O	O
+”	O	O	O
 năm	O	O	O
 2004	O	O	O
 .	O	O	O
@@ -86384,7 +86384,7 @@ Ki	I-PERSON	O	O
 Cặp	O	O	O
 đôi	O	O	O
 vàng	O	O	O
-"	O	O	O
+”	O	O	O
 của	O	O	O
 Hàn	B-LOCATION	O	O
 Quốc	I-LOCATION	O	O
@@ -86395,12 +86395,12 @@ bộ	O	O	O
 phim	O	O	O
 đình	O	O	O
 đám	O	O	O
-"	O	O	O
+”	O	O	O
 Hậu	O	O	O
 duệ	O	O	O
 mặt	O	O	O
 trời	O	O	O
-"	O	O	O
+”	O	O	O
 Mặc	O	O	O
 dù	O	O	O
 ,	O	O	O
@@ -86431,12 +86431,12 @@ nhưng	O	O	O
 cặp	O	O	O
 đôi	O	O	O
 vẫn	O	O	O
-"	O	O	O
+”	O	O	O
 im	O	O	O
 hơi	O	O	O
 lặng	O	O	O
 tiếng	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Đến	O	O	O
@@ -86480,14 +86480,14 @@ trong	O	O	O
 phim	O	O	O
 truyền	O	O	O
 hình	O	O	O
-"	O	O	O
+”	O	O	O
 The	O	O	O
 gentleman	O	O	O
 of	O	O	O
 wolgyesu	O	O	O
 tailor	O	O	O
 shop	O	O	O
-"	O	O	O
+”	O	O	O
 vào	O	O	O
 năm	O	O	O
 2016	O	O	O
@@ -86542,9 +86542,9 @@ yêu	O	O	O
 nhau	O	O	O
 trong	O	O	O
 phim	O	O	O
-"	O	O	O
+”	O	O	O
 Blood	O	O	O
-"	O	O	O
+”	O	O	O
 năm	O	O	O
 2015	O	O	O
 ,	O	O	O
@@ -86568,12 +86568,12 @@ thực	O	O	O
 
 Cặp	O	O	O
 đôi	O	O	O
-"	O	O	O
+”	O	O	O
 trai	O	O	O
 tài	O	O	O
 gái	O	O	O
 sắc	O	O	O
-"	O	O	O
+”	O	O	O
 kết	O	O	O
 hôn	O	O	O
 vào	O	O	O
@@ -87028,11 +87028,11 @@ Anh	B-LOCATION	O	O
 Pháp	B-LOCATION	O	O
 .	O	O	O
 
-"	O	O	O
+”	O	O	O
 Bông	O	O	O
 hồng	O	O	O
 lai	O	O	O
-"	O	O	O
+”	O	O	O
 18	O	O	O
 tuổi	O	O	O
 là	O	O	O
@@ -87330,9 +87330,9 @@ cách	O	O	O
 thời	O	O	O
 trang	O	O	O
 khá	O	O	O
-"	O	O	O
+”	O	O	O
 chất	O	O	O
-"	O	O	O
+”	O	O	O
 ,	O	O	O
 Klaudia	B-PERSON	O	O
 hiện	O	O	O
@@ -87510,12 +87510,12 @@ m	O	O	O
 nhiều	O	O	O
 nhãn	O	O	O
 hàng	O	O	O
-"	O	O	O
+”	O	O	O
 chọn	O	O	O
 mặt	O	O	O
 gửi	O	O	O
 vàng	O	O	O
-"	O	O	O
+”	O	O	O
 để	O	O	O
 quảng	O	O	O
 cáo	O	O	O
@@ -87677,10 +87677,10 @@ lẫn	O	O	O
 tuổi	O	O	O
 tác	O	O	O
 với	O	O	O
-"	O	O	O
+”	O	O	O
 kiều	O	O	O
 nữ	O	O	O
-"	O	O	O
+”	O	O	O
 bậc	O	O	O
 nhất	O	O	O
 Hàn	B-LOCATION	O	O
@@ -87823,12 +87823,12 @@ sống	O	O	O
 
 Sau	O	O	O
 khi	O	O	O
-"	O	O	O
+”	O	O	O
 đường	O	O	O
 ai	O	O	O
 nấy	O	O	O
 đi	O	O	O
-"	O	O	O
+”	O	O	O
 với	O	O	O
 Choiza	B-PERSON	O	O
 ,	O	O	O
@@ -87856,10 +87856,10 @@ cặp	O	O	O
 đôi	O	O	O
 nhanh	O	O	O
 chóng	O	O	O
-"	O	O	O
+”	O	O	O
 tan	O	O	O
 rã	O	O	O
-"	O	O	O
+”	O	O	O
 sau	O	O	O
 4	O	O	O
 tháng	O	O	O
@@ -88042,24 +88042,24 @@ hình	O	O	O
 hẹn	O	O	O
 hò	O	O	O
 của	O	O	O
-"	O	O	O
+”	O	O	O
 em	O	O	O
 gái	O	O	O
 quốc	O	O	O
 dân	O	O	O
-"	O	O	O
+”	O	O	O
 IU	B-PERSON	O	O
 và	O	O	O
 thành	O	O	O
 viên	O	O	O
 nhóm	O	O	O
 nhạc	O	O	O
-"	O	O	O
+”	O	O	O
 Kiha	B-ORGANIZATION	O	O
 &	I-ORGANIZATION	O	O
 The	I-ORGANIZATION	O	O
 Faces	I-ORGANIZATION	O	O
-"	O	O	O
+”	O	O	O
 -	O	O	O
 Jang	B-PERSON	O	O
 Ki	I-PERSON	O	O
@@ -88129,12 +88129,12 @@ scandal	O	O	O
 khiến	O	O	O
 hình	O	O	O
 ảnh	O	O	O
-"	O	O	O
+”	O	O	O
 em	O	O	O
 gái	O	O	O
 quốc	O	O	O
 dân	O	O	O
-"	O	O	O
+”	O	O	O
 trở	O	O	O
 nên	O	O	O
 xấu	O	O	O
@@ -88344,10 +88344,10 @@ mối	O	O	O
 quan	O	O	O
 hệ	O	O	O
 với	O	O	O
-"	O	O	O
+”	O	O	O
 tình	O	O	O
 mới	O	O	O
-"	O	O	O
+”	O	O	O
 Jo	B-PERSON	O	O
 Yoon	I-PERSON	O	O
 Hee	I-PERSON	O	O
@@ -88444,11 +88444,11 @@ tài	O	O	O
 tử	O	O	O
 cái	O	O	O
 danh	O	O	O
-"	O	O	O
+”	O	O	O
 kẻ	O	O	O
 lăng	O	O	O
 nhăng	O	O	O
-"	O	O	O
+”	O	O	O
 ,	O	O	O
 bội	O	O	O
 bạc	O	O	O
@@ -88688,12 +88688,12 @@ thông	O	O	O
 tin	O	O	O
 hai	O	O	O
 người	O	O	O
-"	O	O	O
+”	O	O	O
 đường	O	O	O
 ai	O	O	O
 nấy	O	O	O
 đi	O	O	O
-"	O	O	O
+”	O	O	O
 khiến	O	O	O
 nhiều	O	O	O
 người	O	O	O
@@ -88829,10 +88829,10 @@ ràng	O	O	O
 và	O	O	O
 sau	O	O	O
 hồi	O	O	O
-"	O	O	O
+”	O	O	O
 tranh	O	O	O
 luận	O	O	O
-"	O	O	O
+”	O	O	O
 ,	O	O	O
 hai	O	O	O
 người	O	O	O
@@ -88857,12 +88857,12 @@ hai	O	O	O
 người	O	O	O
 chính	O	O	O
 thức	O	O	O
-"	O	O	O
+”	O	O	O
 đường	O	O	O
 ai	O	O	O
 nấy	O	O	O
 đi	O	O	O
-"	O	O	O
+”	O	O	O
 vào	O	O	O
 năm	O	O	O
 2014	O	O	O
@@ -88882,10 +88882,10 @@ bạn	O	O	O
 cũ	O	O	O
 của	O	O	O
 Pamela	B-PERSON	O	O
-"	O	O	O
+”	O	O	O
 để	O	O	O
 ý	O	O	O
-"	O	O	O
+”	O	O	O
 đến	O	O	O
 cô	O	O	O
 thì	O	O	O
@@ -88929,11 +88929,11 @@ sét	O	O	O
 trên	O	O	O
 phim	O	O	O
 trường	O	O	O
-"	O	O	O
+”	O	O	O
 Nữ	B-MISCELLANEOUS	O	O
 hoàng	I-MISCELLANEOUS	O	O
 Cleopatra	I-MISCELLANEOUS	O	O
-"	O	O	O
+”	O	O	O
 năm	O	O	O
 1964	O	O	O
 .	O	O	O
@@ -89186,12 +89186,12 @@ và	O	O	O
 hai	O	O	O
 người	O	O	O
 đã	O	O	O
-"	O	O	O
+”	O	O	O
 đường	O	O	O
 ai	O	O	O
 nấy	O	O	O
 đi	O	O	O
-"	O	O	O
+”	O	O	O
 sau	O	O	O
 2	O	O	O
 năm	O	O	O
@@ -89357,10 +89357,10 @@ là	O	O	O
 chủ	O	O	O
 nhân	O	O	O
 của	O	O	O
-"	O	O	O
+”	O	O	O
 Ngòn	O	O	O
 Ngon	O	O	O
-"	O	O	O
+”	O	O	O
 đang	O	O	O
 được	O	O	O
 nhiều	O	O	O
@@ -91321,10 +91321,10 @@ khứ	O	O	O
 
 Cặp	O	O	O
 đôi	O	O	O
-"	O	O	O
+”	O	O	O
 gây	O	O	O
 sốt	O	O	O
-"	O	O	O
+”	O	O	O
 Bạn	O	O	O
 muốn	O	O	O
 hẹn	O	O	O
@@ -91907,7 +91907,7 @@ khuyết	O	O	O
 điểm	O	O	O
 ”	O	O	O
 ,	O	O	O
-"	O	O	O
+”	O	O	O
 Em	O	O	O
 92kg	O	O	O
 ,	O	O	O
@@ -91915,7 +91915,7 @@ em	O	O	O
 nhỏ	O	O	O
 con	O	O	O
 mà	O	O	O
-"	O	O	O
+”	O	O	O
 ...	O	O	O
 
 Anh	B-PERSON	O	O
@@ -92539,10 +92539,10 @@ Cùng	O	O	O
 với	O	O	O
 thông	O	O	O
 tin	O	O	O
-"	O	O	O
+”	O	O	O
 Đường	B-PERSON	O	O
 Tăng	I-PERSON	O	O
-"	O	O	O
+”	O	O	O
 Nhiếp	B-PERSON	O	O
 Viễn	I-PERSON	O	O
 ngoại	O	O	O
@@ -93739,10 +93739,10 @@ quá	O	O	O
 thì	O	O	O
 cô	O	O	O
 ấy	O	O	O
-"	O	O	O
+”	O	O	O
 nổ	O	O	O
 tung	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 -	O	O	O
@@ -96253,11 +96253,11 @@ nghèo	O	O	O
 từ	O	O	O
 nguồn	O	O	O
 Quỹ	O	O	O
-"	O	O	O
+”	O	O	O
 Vì	O	O	O
 người	O	O	O
 nghèo	O	O	O
-"	O	O	O
+”	O	O	O
 các	O	O	O
 cấp	O	O	O
 và	O	O	O
@@ -96306,11 +96306,11 @@ cứ	O	O	O
 vào	O	O	O
 nguồn	O	O	O
 Quỹ	O	O	O
-"	O	O	O
+”	O	O	O
 Vì	O	O	O
 người	O	O	O
 nghèo	O	O	O
-"	O	O	O
+”	O	O	O
 Trung	O	O	O
 ương	O	O	O
 ,	O	O	O
@@ -96318,11 +96318,11 @@ Ban	O	O	O
 Vận	O	O	O
 động	O	O	O
 Quỹ	O	O	O
-"	O	O	O
+”	O	O	O
 Vì	O	O	O
 người	O	O	O
 nghèo	O	O	O
-"	O	O	O
+”	O	O	O
 thống	O	O	O
 nhất	O	O	O
 trích	O	O	O
@@ -99881,7 +99881,7 @@ quy	O	O	O
 định	O	O	O
 :	O	O	O
 
-"	O	O	O
+”	O	O	O
 1	O	O	O
 .	O	O	O
 
@@ -100058,7 +100058,7 @@ Nam	B-LOCATION	O	O
 về	O	O	O
 2	O	O	O
 tội	O	O	O
-"	O	O	O
+”	O	O	O
 Bắt	O	O	O
 ,	O	O	O
 giữ	O	O	O
@@ -100066,14 +100066,14 @@ người	O	O	O
 trái	O	O	O
 pháp	O	O	O
 luật	O	O	O
-"	O	O	O
+”	O	O	O
 và	O	O	O
-"	O	O	O
+”	O	O	O
 Cưỡng	O	O	O
 đoạt	O	O	O
 tài	O	O	O
 sản	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Liên	O	O	O
@@ -100148,7 +100148,7 @@ cao	I-ORGANIZATION	O	O
 truy	O	O	O
 tố	O	O	O
 tội	O	O	O
-"	O	O	O
+”	O	O	O
 Bắt	O	O	O
 ,	O	O	O
 giữ	O	O	O
@@ -100156,7 +100156,7 @@ người	O	O	O
 trái	O	O	O
 pháp	O	O	O
 luật	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Theo	O	O	O
@@ -101220,14 +101220,14 @@ Miên	I-PERSON	O	O
 về	O	O	O
 2	O	O	O
 tội	O	O	O
-"	O	O	O
+”	O	O	O
 Cưỡng	O	O	O
 đoạt	O	O	O
 tài	O	O	O
 sản	O	O	O
-"	O	O	O
+”	O	O	O
 và	O	O	O
-"	O	O	O
+”	O	O	O
 Bắt	O	O	O
 ,	O	O	O
 giữ	O	O	O
@@ -101235,7 +101235,7 @@ người	O	O	O
 trái	O	O	O
 pháp	O	O	O
 luật	O	O	O
-"	O	O	O
+”	O	O	O
 ;	O	O	O
 Lê	B-PERSON	O	O
 Thị	I-PERSON	O	O
@@ -101248,7 +101248,7 @@ bị	O	O	O
 truy	O	O	O
 tố	O	O	O
 tội	O	O	O
-"	O	O	O
+”	O	O	O
 Bắt	O	O	O
 ,	O	O	O
 giữ	O	O	O
@@ -101256,7 +101256,7 @@ người	O	O	O
 trái	O	O	O
 pháp	O	O	O
 luật	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Tuy	O	O	O
@@ -101310,7 +101310,7 @@ lý	O	O	O
 do	O	O	O
 hành	O	O	O
 vi	O	O	O
-"	O	O	O
+”	O	O	O
 Bắt	O	O	O
 ,	O	O	O
 giữ	O	O	O
@@ -101318,7 +101318,7 @@ người	O	O	O
 trái	O	O	O
 pháp	O	O	O
 luật	O	O	O
-"	O	O	O
+”	O	O	O
 của	O	O	O
 Thảo	B-PERSON	O	O
 và	O	O	O
@@ -101370,7 +101370,7 @@ Văn	I-PERSON	O	O
 Miên	I-PERSON	O	O
 về	O	O	O
 tội	O	O	O
-"	O	O	O
+”	O	O	O
 Bắt	O	O	O
 ,	O	O	O
 giữ	O	O	O
@@ -101378,7 +101378,7 @@ người	O	O	O
 trái	O	O	O
 pháp	O	O	O
 luật	O	O	O
-"	O	O	O
+”	O	O	O
 ,	O	O	O
 sau	O	O	O
 đó	O	O	O
@@ -101390,12 +101390,12 @@ tố	O	O	O
 bổ	O	O	O
 sung	O	O	O
 tội	O	O	O
-"	O	O	O
+”	O	O	O
 Cưỡng	O	O	O
 đoạt	O	O	O
 tài	O	O	O
 sản	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Ngày	O	O	O
@@ -101430,7 +101430,7 @@ Văn	I-PERSON	O	O
 Miên	I-PERSON	O	O
 2	O	O	O
 tội	O	O	O
-"	O	O	O
+”	O	O	O
 Bắt	O	O	O
 ,	O	O	O
 giữ	O	O	O
@@ -101438,14 +101438,14 @@ người	O	O	O
 trái	O	O	O
 pháp	O	O	O
 luật	O	O	O
-"	O	O	O
+”	O	O	O
 và	O	O	O
-"	O	O	O
+”	O	O	O
 Cưỡng	O	O	O
 đoạt	O	O	O
 tài	O	O	O
 sản	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Ngày	O	O	O
@@ -101609,7 +101609,7 @@ Miên	I-PERSON	O	O
 phạm	O	O	O
 2	O	O	O
 tội	O	O	O
-"	O	O	O
+”	O	O	O
 Bắt	O	O	O
 ,	O	O	O
 giữ	O	O	O
@@ -101617,14 +101617,14 @@ người	O	O	O
 trái	O	O	O
 pháp	O	O	O
 luật	O	O	O
-"	O	O	O
+”	O	O	O
 và	O	O	O
-"	O	O	O
+”	O	O	O
 Cưỡng	O	O	O
 đoạt	O	O	O
 tài	O	O	O
 sản	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Bài	O	O	O
@@ -107257,7 +107257,7 @@ năm	O	O	O
 tù	O	O	O
 về	O	O	O
 tội	O	O	O
-"	O	O	O
+”	O	O	O
 Cố	O	O	O
 ý	O	O	O
 làm	O	O	O
@@ -107277,7 +107277,7 @@ hậu	O	O	O
 quả	O	O	O
 nghiêm	O	O	O
 trọng	O	O	O
-"	O	O	O
+”	O	O	O
 ,	O	O	O
 nhưng	O	O	O
 luật	O	O	O
@@ -112729,7 +112729,7 @@ tại	O	O	O
 bài	O	O	O
 viết	O	O	O
 :	O	O	O
-"	O	O	O
+”	O	O	O
 Dân	O	O	O
 tố	O	O	O
 thôn	O	O	O
@@ -112741,15 +112741,15 @@ trái	O	O	O
 thẩm	O	O	O
 quyền	O	O	O
 :	O	O	O
-"	O	O	O
+”	O	O	O
 Nỗi	O	O	O
 đau	O	O	O
-"	O	O	O
+”	O	O	O
 của	O	O	O
 huyện	B-LOCATION	O	O
 Yên	I-LOCATION	O	O
 Dũng	I-LOCATION	O	O
-"	O	O	O
+”	O	O	O
 ,	O	O	O
 nội	O	O	O
 dung	O	O	O
@@ -112817,7 +112817,7 @@ Minh	I-ORGANIZATION	O	O
 cho	O	O	O
 hay	O	O	O
 :	O	O	O
-"	O	O	O
+”	O	O	O
 Nếu	O	O	O
 đúng	O	O	O
 như	O	O	O
@@ -112893,7 +112893,7 @@ Hình	O	O	O
 sự	O	O	O
 năm	O	O	O
 2015	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Một	O	O	O
@@ -113069,7 +113069,7 @@ Yên	I-LOCATION	O	O
 cho	O	O	O
 biết	O	O	O
 :	O	O	O
-"	O	O	O
+”	O	O	O
 Mới	O	O	O
 đây	O	O	O
 ,	O	O	O
@@ -113154,7 +113154,7 @@ che	O	O	O
 cho	O	O	O
 sai	O	O	O
 phạm	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Nguồn	O	O	O
@@ -113208,7 +113208,7 @@ Dũng	I-LOCATION	I-ORGANIZATION	O
 cho	O	O	O
 biết	O	O	O
 :	O	O	O
-"	O	O	O
+”	O	O	O
 Chúng	O	O	O
 tôi	O	O	O
 đã	O	O	O
@@ -113245,7 +113245,7 @@ tồn	O	O	O
 đọng	O	O	O
 kéo	O	O	O
 dài	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Ông	O	O	O
@@ -113334,10 +113334,10 @@ quan	O	O	O
 tham	O	O	O
 đã	O	O	O
 phải	O	O	O
-"	O	O	O
+”	O	O	O
 đau	O	O	O
 đớn	O	O	O
-"	O	O	O
+”	O	O	O
 trả	O	O	O
 giá	O	O	O
 bằng	O	O	O
@@ -113354,10 +113354,10 @@ tự	O	O	O
 do	O	O	O
 vì	O	O	O
 sự	O	O	O
-"	O	O	O
+”	O	O	O
 lạm	O	O	O
 quyền	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Vậy	O	O	O
@@ -113401,10 +113401,10 @@ dân	O	O	O
 gửi	O	O	O
 Đơn	O	O	O
 mới	O	O	O
-"	O	O	O
+”	O	O	O
 cuống	O	O	O
 cuồng	O	O	O
-"	O	O	O
+”	O	O	O
 sửa	O	O	O
 lỗi	O	O	O
 .	O	O	O
@@ -113434,9 +113434,9 @@ mới	O	O	O
 đây	O	O	O
 chưa	O	O	O
 hết	O	O	O
-"	O	O	O
+”	O	O	O
 nóng	O	O	O
-"	O	O	O
+”	O	O	O
 Báo	B-ORGANIZATION	O	O
 An	I-ORGANIZATION	O	O
 ninh	I-ORGANIZATION	O	O
@@ -113523,20 +113523,20 @@ ngăn	O	O	O
 chặn	O	O	O
 mà	O	O	O
 lại	O	O	O
-"	O	O	O
+”	O	O	O
 hướng	O	O	O
 dẫn	O	O	O
-"	O	O	O
+”	O	O	O
 cán	O	O	O
 bộ	O	O	O
 thôn	O	O	O
 làm	O	O	O
 thủ	O	O	O
 tục	O	O	O
-"	O	O	O
+”	O	O	O
 hợp	O	O	O
 pháp	O	O	O
-"	O	O	O
+”	O	O	O
 đất	O	O	O
 cho	O	O	O
 các	O	O	O
@@ -113568,7 +113568,7 @@ thúc	O	O	O
 tra	O	O	O
 vụ	O	O	O
 án	O	O	O
-"	O	O	O
+”	O	O	O
 Lợi	O	O	O
 dụng	O	O	O
 chức	O	O	O
@@ -113582,7 +113582,7 @@ thi	O	O	O
 hành	O	O	O
 công	O	O	O
 vụ	O	O	O
-"	O	O	O
+”	O	O	O
 xảy	O	O	O
 ra	O	O	O
 tại	O	O	O
@@ -113694,7 +113694,7 @@ trên	O	O	O
 đều	O	O	O
 phạm	O	O	O
 tội	O	O	O
-"	O	O	O
+”	O	O	O
 Lợi	O	O	O
 dụng	O	O	O
 chức	O	O	O
@@ -113708,7 +113708,7 @@ thi	O	O	O
 hành	O	O	O
 công	O	O	O
 vụ	O	O	O
-"	O	O	O
+”	O	O	O
 quy	O	O	O
 định	O	O	O
 tại	O	O	O
@@ -115523,7 +115523,7 @@ Hình	O	O	O
 sự	O	O	O
 quy	O	O	O
 định	O	O	O
-"	O	O	O
+”	O	O	O
 Tội	O	O	O
 vi	O	O	O
 phạm	O	O	O
@@ -115556,7 +115556,7 @@ y	O	O	O
 tế	O	O	O
 khác	O	O	O
 .	O	O	O
-"	O	O	O
+”	O	O	O
 
 Kết	O	O	O
 quả	O	O	O
@@ -120938,7 +120938,7 @@ nhưng	O	O	O
 lại	O	O	O
 rằng	O	O	O
 ,	O	O	O
-"	O	O	O
+”	O	O	O
 không	O	O	O
 có	O	O	O
 ai	O	O	O
@@ -120946,7 +120946,7 @@ ai	O	O	O
 bay	O	O	O
 miễn	O	O	O
 phí	O	O	O
-"	O	O	O
+”	O	O	O
 ,	O	O	O
 theo	O	O	O
 tờ	O	O	O
@@ -121040,7 +121040,7 @@ tờ	O	O	O
 NYT	B-ORGANIZATION	O	O
 .	O	O	O
 
-"	O	O	O
+”	O	O	O
 Tôi	O	O	O
 chưa	O	O	O
 từng	O	O	O
@@ -121061,7 +121061,7 @@ bà	O	O	O
 vẫn	O	O	O
 ra	O	O	O
 đi	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Trước	O	O	O
@@ -121260,11 +121260,11 @@ liên	O	O	O
 hệ	O	O	O
 với	O	O	O
 Prelas	B-PERSON	O	O
-"	O	O	O
+”	O	O	O
 rất	O	O	O
 nhiều	O	O	O
 lần	O	O	O
-"	O	O	O
+”	O	O	O
 sau	O	O	O
 khi	O	O	O
 có	O	O	O
@@ -121290,7 +121290,7 @@ hoàn	O	O	O
 tiền	O	O	O
 .	O	O	O
 
-"	O	O	O
+”	O	O	O
 Tôi	O	O	O
 xin	O	O	O
 lỗi	O	O	O
@@ -121302,7 +121302,7 @@ của	O	O	O
 cô	O	O	O
 Amrich	B-PERSON	O	O
 ,	O	O	O
-"	O	O	O
+”	O	O	O
 Gallant	B-PERSON	O	O
 viết	O	O	O
 trong	O	O	O
@@ -121313,7 +121313,7 @@ cho	O	O	O
 NYT	B-ORGANIZATION	O	O
 .	O	O	O
 
-"	O	O	O
+”	O	O	O
 Rất	O	O	O
 đáng	O	O	O
 buồn	O	O	O
@@ -121343,7 +121343,7 @@ tránh	O	O	O
 được	O	O	O
 .	O	O	O
 
-"	O	O	O
+”	O	O	O
 
 Một	O	O	O
 đại	O	O	O
@@ -121817,12 +121817,12 @@ Nguỵ	B-LOCATION	O	O
 đã	O	O	O
 sẵn	O	O	O
 sàng	O	O	O
-"	O	O	O
+”	O	O	O
 bỏ	O	O	O
 Nguỵ	B-LOCATION	O	O
 về	O	O	O
 Thục	B-LOCATION	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Khương	B-PERSON	O	O
@@ -121977,7 +121977,7 @@ có	O	O	O
 đoạn	O	O	O
 viết	O	O	O
 :	O	O	O
-"	O	O	O
+”	O	O	O
 Khương	B-PERSON	O	O
 Bá	I-PERSON	O	O
 Ước	I-PERSON	O	O
@@ -122357,12 +122357,12 @@ lợi	O	O	O
 nhưng	O	O	O
 sự	O	O	O
 nghiệp	O	O	O
-"	O	O	O
+”	O	O	O
 nhất	O	O	O
 thống	O	O	O
 thiên	O	O	O
 hạ	O	O	O
-"	O	O	O
+”	O	O	O
 của	O	O	O
 Thục	B-LOCATION	O	O
 Hán	I-LOCATION	O	O
@@ -122713,7 +122713,7 @@ giữ	O	O	O
 trọn	O	O	O
 cơ	O	O	O
 nghiệp	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Câu	O	O	O
@@ -122885,7 +122885,7 @@ khuyên	O	O	O
 Khương	B-PERSON	O	O
 Duy	I-PERSON	O	O
 ,	O	O	O
-"	O	O	O
+”	O	O	O
 Binh	O	O	O
 không	O	O	O
 dấu	O	O	O
@@ -122951,7 +122951,7 @@ làm	O	O	O
 quá	O	O	O
 khó	O	O	O
 khăn	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Việc	O	O	O
@@ -122963,7 +122963,7 @@ chiến	O	O	O
 đánh	O	O	O
 giá	O	O	O
 là	O	O	O
-"	O	O	O
+”	O	O	O
 biết	O	O	O
 chắc	O	O	O
 thất	O	O	O
@@ -123070,10 +123070,10 @@ binh	O	O	O
 chinh	O	O	O
 phạt	O	O	O
 để	O	O	O
-"	O	O	O
+”	O	O	O
 lập	O	O	O
 uy	O	O	O
-"	O	O	O
+”	O	O	O
 ,	O	O	O
 nhưng	O	O	O
 vấp	O	O	O
@@ -123084,12 +123084,12 @@ Hán	B-LOCATION	O	O
 Trung	I-LOCATION	O	O
 nên	O	O	O
 đành	O	O	O
-"	O	O	O
+”	O	O	O
 ngậm	O	O	O
 ngùi	O	O	O
 trở	O	O	O
 về	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Khi	O	O	O
@@ -123253,10 +123253,10 @@ yếu	O	O	O
 khiến	O	O	O
 Thục	B-LOCATION	O	O
 Hán	I-LOCATION	O	O
-"	O	O	O
+”	O	O	O
 hở	O	O	O
 sườn	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Các	O	O	O
@@ -123630,9 +123630,9 @@ hành	O	O	O
 trình	O	O	O
 SSM-N	O	O	O
 -8	O	O	O
-"	O	O	O
+”	O	O	O
 Regulus	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Vũ	O	O	O
@@ -126231,9 +126231,9 @@ hành	O	O	O
 trình	O	O	O
 SSM-N	O	O	O
 -8	O	O	O
-"	O	O	O
+”	O	O	O
 Regulus	O	O	O
-"	O	O	O
+”	O	O	O
 ,	O	O	O
 đánh	O	O	O
 dấu	O	O	O
@@ -130572,17 +130572,17 @@ tưởng	O	O	O
 được	O	O	O
 phong	O	O	O
 làm	O	O	O
-"	O	O	O
+”	O	O	O
 Hữu	O	O	O
 tướng	O	O	O
 quân	O	O	O
-"	O	O	O
+”	O	O	O
 và	O	O	O
-"	O	O	O
+”	O	O	O
 Dương	O	O	O
 Bình	O	O	O
 hầu	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Khi	O	O	O
@@ -130666,12 +130666,12 @@ khốn	O	O	O
 và	O	O	O
 buộc	O	O	O
 phải	O	O	O
-"	O	O	O
+”	O	O	O
 ước	O	O	O
 pháp	O	O	O
 tam	O	O	O
 chương	O	O	O
-"	O	O	O
+”	O	O	O
 với	O	O	O
 Tào	B-PERSON	O	O
 để	O	O	O
@@ -130685,23 +130685,23 @@ nhân	O	O	O
 .	O	O	O
 
 Theo	O	O	O
-"	O	O	O
+”	O	O	O
 Tam	O	O	O
 Quốc	O	O	O
 Diễn	O	O	O
 Nghĩa	O	O	O
-"	O	O	O
+”	O	O	O
 ,	O	O	O
 việc	O	O	O
 Quan	B-PERSON	O	O
 Công	I-PERSON	O	O
-"	O	O	O
+”	O	O	O
 hàng	O	O	O
 Hán	B-MISCELLANEOUS	O	O
 không	O	O	O
 hàng	O	O	O
 Tào	B-PERSON	O	O
-"	O	O	O
+”	O	O	O
 thể	O	O	O
 hiện	O	O	O
 sự	O	O	O
@@ -130839,10 +130839,10 @@ Trong	O	O	O
 đội	O	O	O
 kỵ	O	O	O
 binh	O	O	O
-"	O	O	O
+”	O	O	O
 trứ	O	O	O
 danh	O	O	O
-"	O	O	O
+”	O	O	O
 nhất	O	O	O
 chính	O	O	O
 là	O	O	O
@@ -130858,12 +130858,12 @@ có	O	O	O
 thể	O	O	O
 nói	O	O	O
 là	O	O	O
-"	O	O	O
+”	O	O	O
 độc	O	O	O
 bá	O	O	O
 võ	O	O	O
 lâm	O	O	O
-"	O	O	O
+”	O	O	O
 trong	O	O	O
 giai	O	O	O
 đoạn	O	O	O
@@ -131030,12 +131030,12 @@ vẫn	O	O	O
 tiếp	O	O	O
 tục	O	O	O
 chuỗi	O	O	O
-"	O	O	O
+”	O	O	O
 bách	O	O	O
 chiến	O	O	O
 bách	O	O	O
 bại	O	O	O
-"	O	O	O
+”	O	O	O
 ,	O	O	O
 cuối	O	O	O
 cùng	O	O	O
@@ -131086,10 +131086,10 @@ Bích	I-LOCATION	O	O
 ,	O	O	O
 Lưu	B-PERSON	O	O
 Bị	I-PERSON	O	O
-"	O	O	O
+”	O	O	O
 ăn	O	O	O
 theo	O	O	O
-"	O	O	O
+”	O	O	O
 thắng	O	O	O
 lợi	O	O	O
 của	O	O	O
@@ -131203,12 +131203,12 @@ Bàng	B-PERSON	O	O
 qua	O	O	O
 một	O	O	O
 đêm	O	O	O
-"	O	O	O
+”	O	O	O
 uy	O	O	O
 chấn	O	O	O
 Trung	B-LOCATION	O	O
 Nguyên	I-LOCATION	O	O
-"	O	O	O
+”	O	O	O
 ,	O	O	O
 khiến	O	O	O
 Tào	B-PERSON	O	O
@@ -131295,11 +131295,11 @@ không	O	O	O
 ai	O	O	O
 khác	O	O	O
 ngoài	O	O	O
-"	O	O	O
+”	O	O	O
 lão	O	O	O
 bằng	O	O	O
 hữu	O	O	O
-"	O	O	O
+”	O	O	O
 Từ	B-PERSON	O	O
 Hoảng	I-PERSON	O	O
 .	O	O	O
@@ -131337,12 +131337,12 @@ Tốn	I-PERSON	O	O
 với	O	O	O
 chiến	O	O	O
 dịch	O	O	O
-"	O	O	O
+”	O	O	O
 bạch	O	O	O
 y	O	O	O
 độ	O	O	O
 giang	O	O	O
-"	O	O	O
+”	O	O	O
 ,	O	O	O
 nhưng	O	O	O
 chưa	O	O	O
@@ -131410,7 +131410,7 @@ Hoảng	I-PERSON	O	O
 
 Ông	O	O	O
 cho	O	O	O
-"	O	O	O
+”	O	O	O
 đào	O	O	O
 hào	O	O	O
 đắp	O	O	O
@@ -131434,7 +131434,7 @@ công	O	O	O
 hạ	O	O	O
 Phàn	B-PERSON	O	O
 Thành	I-PERSON	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Quan	B-PERSON	O	O
@@ -131465,12 +131465,12 @@ ngự	O	O	O
 của	O	O	O
 Thục	B-LOCATION	O	O
 Hán	I-LOCATION	O	O
-"	O	O	O
+”	O	O	O
 thế	O	O	O
 như	O	O	O
 chẻ	O	O	O
 tre	O	O	O
-"	O	O	O
+”	O	O	O
 ,	O	O	O
 phá	O	O	O
 vỡ	O	O	O
@@ -131600,7 +131600,7 @@ Trường	I-PERSON	O	O
 
 Nhắc	O	O	O
 tới	O	O	O
-"	O	O	O
+”	O	O	O
 phá	O	O	O
 Quan	B-PERSON	O	O
 (	O	O	O
@@ -131609,7 +131609,7 @@ Vũ	B-PERSON	O	O
 đệ	O	O	O
 nhất	O	O	O
 công	O	O	O
-"	O	O	O
+”	O	O	O
 ,	O	O	O
 không	O	O	O
 thể	O	O	O
@@ -131627,7 +131627,7 @@ Từ	B-PERSON	O	O
 Hoảng	I-PERSON	O	O
 .	O	O	O
 
-"	O	O	O
+”	O	O	O
 Tam	O	O	O
 Quốc	O	O	O
 Chí	O	O	O
@@ -131638,11 +131638,11 @@ thư	I-MISCELLANEOUS	O	O
 Từ	B-PERSON	O	O
 Hoảng	I-PERSON	O	O
 truyện	O	O	O
-"	O	O	O
+”	O	O	O
 chép	O	O	O
 rằng	O	O	O
 -	O	O	O
-"	O	O	O
+”	O	O	O
 Từ	B-PERSON	O	O
 Hoảng	I-PERSON	O	O
 là	O	O	O
@@ -131684,7 +131684,7 @@ trị	O	O	O
 quân	O	O	O
 có	O	O	O
 tài	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Tào	B-PERSON	O	O
@@ -131696,7 +131696,7 @@ Từ	B-PERSON	O	O
 Hoảng	I-PERSON	O	O
 rằng	O	O	O
 -	O	O	O
-"	O	O	O
+”	O	O	O
 Từ	B-PERSON	O	O
 tướng	O	O	O
 quân	O	O	O
@@ -131733,7 +131733,7 @@ thần	O	O	O
 Chu	B-PERSON	O	O
 Bột	I-PERSON	O	O
 )	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Sau	O	O	O
@@ -131752,7 +131752,7 @@ Tháo	I-PERSON	O	O
 lại	O	O	O
 nói	O	O	O
 -	O	O	O
-"	O	O	O
+”	O	O	O
 Phòng	O	O	O
 tuyến	O	O	O
 của	O	O	O
@@ -131829,16 +131829,16 @@ Nhương	I-PERSON	O	O
 Thư	I-PERSON	O	O
 năm	O	O	O
 xưa	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Giai	O	O	O
 đoạn	O	O	O
-"	O	O	O
+”	O	O	O
 hậu	O	O	O
 Quan	B-PERSON	O	O
 Vũ	I-PERSON	O	O
-"	O	O	O
+”	O	O	O
 ,	O	O	O
 Từ	B-PERSON	O	O
 Hoảng	I-PERSON	O	O
@@ -131849,14 +131849,14 @@ vật	O	O	O
 được	O	O	O
 xưng	O	O	O
 danh	O	O	O
-"	O	O	O
+”	O	O	O
 Tam	O	O	O
 Quốc	O	O	O
 đệ	O	O	O
 nhất	O	O	O
 danh	O	O	O
 tướng	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Mãi	O	O	O
@@ -132399,10 +132399,10 @@ nhất	O	O	O
 trên	O	O	O
 đời	O	O	O
 là	O	O	O
-"	O	O	O
+”	O	O	O
 Cô	O	O	O
 Đơn	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Từ	O	O	O
@@ -132964,13 +132964,13 @@ nhiều	O	O	O
 bài	O	O	O
 thơ	O	O	O
 tình	O	O	O
-"	O	O	O
+”	O	O	O
 Vừa	O	O	O
 đủ	O	O	O
 để	O	O	O
 yêu	O	O	O
 thương	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Tình	O	O	O
@@ -132985,7 +132985,7 @@ giới	O	O	O
 hạn	O	O	O
 :	O	O	O
 
-"	O	O	O
+”	O	O	O
 Có	O	O	O
 một	O	O	O
 chút	O	O	O
@@ -133025,7 +133025,7 @@ mông	O	O	O
 ...	O	O	O
 
 ...	O	O	O
-"	O	O	O
+”	O	O	O
 Sáu	O	O	O
 câu	O	O	O
 vọng	O	O	O
@@ -133041,7 +133041,7 @@ lời	O	O	O
 ca	O	O	O
 mủi	O	O	O
 lòng	O	O	O
-"	O	O	O
+”	O	O	O
 
 Tham	O	O	O
 gia	O	O	O
@@ -133182,7 +133182,7 @@ Mỹ	B-LOCATION	O	O
 là	O	O	O
 thế	O	O	O
 hệ	O	O	O
-"	O	O	O
+”	O	O	O
 vàng	O	O	O
 '	O	O	O
 của	O	O	O
@@ -133721,7 +133721,7 @@ Anh	O	O	O
 khái	O	O	O
 quát	O	O	O
 :	O	O	O
-"	O	O	O
+”	O	O	O
 Làm	O	O	O
 Chủ	O	O	O
 tịch	O	O	O
@@ -133785,7 +133785,7 @@ nhanh	O	O	O
 chủ	O	O	O
 động	O	O	O
 cao	O	O	O
-"	O	O	O
+”	O	O	O
 Từ	O	O	O
 thực	O	O	O
 tiễn	O	O	O
@@ -133797,7 +133797,7 @@ bản	O	O	O
 tập	O	O	O
 sách	O	O	O
 là	O	O	O
-"	O	O	O
+”	O	O	O
 Lê	B-PERSON	O	O
 Doãn	I-PERSON	O	O
 Hợp	I-PERSON	O	O
@@ -133808,7 +133808,7 @@ rút	O	O	O
 từ	O	O	O
 thực	O	O	O
 tiễn	O	O	O
-"	O	O	O
+”	O	O	O
 và	O	O	O
 “	O	O	O
 Dấu	O	O	O
@@ -133926,7 +133926,7 @@ phê	O	O	O
 duyệt	O	O	O
 đề	O	O	O
 án	O	O	O
-"	O	O	O
+”	O	O	O
 Sớm	O	O	O
 đưa	O	O	O
 Việt	B-LOCATION	O	O
@@ -133938,7 +133938,7 @@ về	O	O	O
 CNTT	O	O	O
 và	O	O	O
 TT	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 -	O	O	O
@@ -134022,7 +134022,7 @@ qua	O	O	O
 Thường	O	O	O
 trực	O	O	O
 CP	O	O	O
-"	O	O	O
+”	O	O	O
 Quỹ	O	O	O
 bù	O	O	O
 đắp	O	O	O
@@ -134143,7 +134143,7 @@ người	O	O	O
 xứ	B-LOCATION	O	O
 Nghệ	I-LOCATION	O	O
 :	O	O	O
-"	O	O	O
+”	O	O	O
 Can	O	O	O
 đảm	O	O	O
 đến	O	O	O
@@ -134166,10 +134166,10 @@ và	O	O	O
 tằn	O	O	O
 tiện	O	O	O
 đến	O	O	O
-"	O	O	O
+”	O	O	O
 cá	O	O	O
 gỗ	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Giáo	O	O	O
@@ -134217,7 +134217,7 @@ tiền	O	O	O
 phong	O	O	O
 cách	O	O	O
 mạng	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Nhà	O	O	O
@@ -134231,7 +134231,7 @@ thì	O	O	O
 phân	O	O	O
 tích	O	O	O
 :	O	O	O
-"	O	O	O
+”	O	O	O
 Người	O	O	O
 xứ	B-LOCATION	O	O
 Nghệ	I-LOCATION	O	O
@@ -134413,9 +134413,9 @@ linh	O	O	O
 và	O	O	O
 biết	O	O	O
 làm	O	O	O
-"	O	O	O
+”	O	O	O
 Ngơ	O	O	O
-"	O	O	O
+”	O	O	O
 trước	O	O	O
 những	O	O	O
 hiện	O	O	O
@@ -134549,10 +134549,10 @@ dựng	O	O	O
 52	O	O	O
 ngôi	O	O	O
 nhà	O	O	O
-"	O	O	O
+”	O	O	O
 Tình	O	O	O
 nghĩa	O	O	O
-"	O	O	O
+”	O	O	O
 tìm	O	O	O
 kiếm	O	O	O
 quy	O	O	O
@@ -134643,7 +134643,7 @@ gia	O	O	O
 đình	O	O	O
 là	O	O	O
 :	O	O	O
-"	O	O	O
+”	O	O	O
 Đơn	O	O	O
 vị	O	O	O
 kinh	O	O	O
@@ -134788,12 +134788,12 @@ cho	O	O	O
 Đảng	O	O	O
 nay	O	O	O
 được	O	O	O
-"	O	O	O
+”	O	O	O
 Hạ	O	O	O
 cánh	O	O	O
 an	O	O	O
 toàn	O	O	O
-"	O	O	O
+”	O	O	O
 về	O	O	O
 làm	O	O	O
 đảng	O	O	O
@@ -134877,12 +134877,12 @@ trường	O	O	O
 ;	O	O	O
 xứng	O	O	O
 danh	O	O	O
-"	O	O	O
+”	O	O	O
 Bộ	B-MISCELLANEOUS	O	O
 đội	I-MISCELLANEOUS	O	O
 Cụ	I-MISCELLANEOUS	O	O
 Hồ	I-MISCELLANEOUS	O	O
-"	O	O	O
+”	O	O	O
 ;	O	O	O
 xứng	O	O	O
 đáng	O	O	O
@@ -135751,12 +135751,12 @@ nghệ	O	O	O
 tại	O	O	O
 một	O	O	O
 điểm	O	O	O
-"	O	O	O
+”	O	O	O
 hoà	O	O	O
 hợp	O	O	O
 dân	O	O	O
 tộc	O	O	O
-"	O	O	O
+”	O	O	O
 được	O	O	O
 phát	O	O	O
 thanh	O	O	O
@@ -136180,13 +136180,13 @@ nhạc	O	O	O
 Vàng	O	O	O
 như	O	O	O
 bài	O	O	O
-"	O	O	O
+”	O	O	O
 Xuân	O	O	O
 này	O	O	O
 con	O	O	O
 không	O	O	O
 về	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Hát	O	O	O
@@ -136875,7 +136875,7 @@ Lý	B-PERSON	O	O
 cho	O	O	O
 biết	O	O	O
 :	O	O	O
-"	O	O	O
+”	O	O	O
 Cứ	O	O	O
 vào	O	O	O
 thứ	O	O	O
@@ -137308,7 +137308,7 @@ Hải	I-LOCATION	I-ORGANIZATION	O
 cho	O	O	O
 biết	O	O	O
 :	O	O	O
-"	O	O	O
+”	O	O	O
 Ở	O	O	O
 Đại	B-ORGANIZATION	O	O
 đội	I-ORGANIZATION	O	O
@@ -143126,12 +143126,12 @@ Vậy	O	O	O
 nhưng	O	O	O
 ở	O	O	O
 vào	O	O	O
-"	O	O	O
+”	O	O	O
 thời	O	O	O
 kỳ	O	O	O
 hoàng	O	O	O
 kim	O	O	O
-"	O	O	O
+”	O	O	O
 của	O	O	O
 mộ	O	O	O
 tặc	O	O	O
@@ -143214,11 +143214,11 @@ bản	O	O	O
 xứ	O	O	O
 gọi	O	O	O
 là	O	O	O
-"	O	O	O
+”	O	O	O
 Hoàng	B-LOCATION	O	O
 phần	I-LOCATION	O	O
 sơn	I-LOCATION	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Người	O	O	O
@@ -143262,11 +143262,11 @@ mà	O	O	O
 thôi	O	O	O
 .	O	O	O
 
-"	O	O	O
+”	O	O	O
 Hoàng	B-LOCATION	O	O
 phần	I-LOCATION	O	O
 sơn	I-LOCATION	O	O
-"	O	O	O
+”	O	O	O
 sở	O	O	O
 hữu	O	O	O
 vị	O	O	O
@@ -143290,12 +143290,12 @@ bọc	O	O	O
 tạo	O	O	O
 thành	O	O	O
 thế	O	O	O
-"	O	O	O
+”	O	O	O
 cửu	O	O	O
 biện	O	O	O
 liên	O	O	O
 hoa	O	O	O
-"	O	O	O
+”	O	O	O
 ,	O	O	O
 mà	O	O	O
 phần	O	O	O
@@ -143424,12 +143424,12 @@ số	O	O	O
 người	O	O	O
 bởi	O	O	O
 vì	O	O	O
-"	O	O	O
+”	O	O	O
 lòng	O	O	O
 tham	O	O	O
 vô	O	O	O
 đáy	O	O	O
-"	O	O	O
+”	O	O	O
 ,	O	O	O
 quyết	O	O	O
 chẳng	O	O	O
@@ -143703,7 +143703,7 @@ Quan	B-PERSON	O	O
 Công	I-PERSON	O	O
 rằng	O	O	O
 :	O	O	O
-"	O	O	O
+”	O	O	O
 Đầu	O	O	O
 nằm	O	O	O
 Lạc	B-LOCATION	O	O
@@ -143718,7 +143718,7 @@ hồn	O	O	O
 về	O	O	O
 cố	O	O	O
 hương	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Lịch	O	O	O
@@ -143872,7 +143872,7 @@ Vũ	I-PERSON	O	O
 được	O	O	O
 tôn	O	O	O
 làm	O	O	O
-"	O	O	O
+”	O	O	O
 Trung	O	O	O
 thần	O	O	O
 nghĩa	O	O	O
@@ -143888,7 +143888,7 @@ quang	O	O	O
 thánh	O	O	O
 đại	O	O	O
 đế	O	O	O
-"	O	O	O
+”	O	O	O
 ,	O	O	O
 thậm	O	O	O
 chí	O	O	O
@@ -144755,12 +144755,12 @@ nhìn	O	O	O
 kỹ	O	O	O
 ,	O	O	O
 vị	O	O	O
-"	O	O	O
+”	O	O	O
 thần	O	O	O
 cơ	O	O	O
 diệu	O	O	O
 toán	O	O	O
-"	O	O	O
+”	O	O	O
 ấy	O	O	O
 không	O	O	O
 khỏi	O	O	O
@@ -144773,7 +144773,7 @@ trên	O	O	O
 viết	O	O	O
 rằng	O	O	O
 :	O	O	O
-"	O	O	O
+”	O	O	O
 Tiểu	O	O	O
 Lưu	B-PERSON	O	O
 ,	O	O	O
@@ -144784,7 +144784,7 @@ mau	O	O	O
 mau	O	O	O
 thêm	O	O	O
 dầu	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Bấy	O	O	O
@@ -144798,7 +144798,7 @@ nói	O	O	O
 một	O	O	O
 câu	O	O	O
 :	O	O	O
-"	O	O	O
+”	O	O	O
 Tiền	O	O	O
 vô	O	O	O
 cổ	O	O	O
@@ -144808,7 +144808,7 @@ hậu	O	O	O
 vô	O	O	O
 lai	O	O	O
 giả	O	O	O
-"	O	O	O
+”	O	O	O
 (	O	O	O
 ý	O	O	O
 nói	O	O	O
@@ -146083,10 +146083,10 @@ vẫn	O	O	O
 tồn	O	O	O
 tại	O	O	O
 một	O	O	O
-"	O	O	O
+”	O	O	O
 khúc	O	O	O
 mắc	O	O	O
-"	O	O	O
+”	O	O	O
 khiến	O	O	O
 các	O	O	O
 nhà	O	O	O
@@ -148705,7 +148705,7 @@ trữ	I-ORGANIZATION	O	O
 Liên	I-ORGANIZATION	O	O
 bang	I-ORGANIZATION	O	O
 đã	O	O	O
-"	O	O	O
+”	O	O	O
 cảnh	O	O	O
 báo	O	O	O
 về	O	O	O
@@ -153642,13 +153642,13 @@ toàn	O	O	O
 các	O	O	O
 đợt	O	O	O
 IPO	O	O	O
-"	O	O	O
+”	O	O	O
 phiền	O	O	O
 hà	O	O	O
 và	O	O	O
 tốn	O	O	O
 kém	O	O	O
-"	O	O	O
+”	O	O	O
 (	O	O	O
 công	O	O	O
 ty	O	O	O
@@ -154550,7 +154550,7 @@ vào	O	O	O
 Altcoin	O	O	O
 .	O	O	O
 
-"	O	O	O
+”	O	O	O
 Trong	O	O	O
 khi	O	O	O
 Bitcoin	O	O	O
@@ -157641,10 +157641,10 @@ sự	O	O	O
 tạo	O	O	O
 nên	O	O	O
 một	O	O	O
-"	O	O	O
+”	O	O	O
 cơn	O	O	O
 sốt	O	O	O
-"	O	O	O
+”	O	O	O
 toàn	O	O	O
 cầu	O	O	O
 mới	O	O	O
@@ -158317,9 +158317,9 @@ thì	O	O	O
 không	O	O	O
 bao	O	O	O
 giờ	O	O	O
-"	O	O	O
+”	O	O	O
 chết	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Nên	O	O	O
@@ -159108,10 +159108,10 @@ Với	O	O	O
 sự	O	O	O
 biến	O	O	O
 động	O	O	O
-"	O	O	O
+”	O	O	O
 lơ	O	O	O
 lửng	O	O	O
-"	O	O	O
+”	O	O	O
 gần	O	O	O
 mức	O	O	O
 thấp	O	O	O
@@ -160982,10 +160982,10 @@ nhau	O	O	O
 xuống	O	O	O
 đường	O	O	O
 để	O	O	O
-"	O	O	O
+”	O	O	O
 đi	O	O	O
 bão	O	O	O
-"	O	O	O
+”	O	O	O
 ăn	O	O	O
 mừng	O	O	O
 chiến	O	O	O
@@ -161002,10 +161002,10 @@ hình	O	O	O
 của	O	O	O
 những	O	O	O
 người	O	O	O
-"	O	O	O
+”	O	O	O
 đi	O	O	O
 bão	O	O	O
-"	O	O	O
+”	O	O	O
 ,	O	O	O
 thì	O	O	O
 vẫn	O	O	O
@@ -161056,17 +161056,17 @@ xiêm	O	O	O
 y	O	O	O
 ,	O	O	O
 để	O	O	O
-"	O	O	O
+”	O	O	O
 mình	O	O	O
 trần	O	O	O
 như	O	O	O
 nhộng	O	O	O
-"	O	O	O
+”	O	O	O
 khi	O	O	O
-"	O	O	O
+”	O	O	O
 đi	O	O	O
 bão	O	O	O
-"	O	O	O
+”	O	O	O
 ...	O	O	O
 
 Những	O	O	O
@@ -161080,7 +161080,7 @@ bức	O	O	O
 xúc	O	O	O
 .	O	O	O
 
-"	O	O	O
+”	O	O	O
 Thấy	O	O	O
 những	O	O	O
 hành	O	O	O
@@ -161123,7 +161123,7 @@ thể	O	O	O
 chấp	O	O	O
 nhận	O	O	O
 được	O	O	O
-"	O	O	O
+”	O	O	O
 ,	O	O	O
 Hồ	B-PERSON	O	O
 Hiếu	I-PERSON	O	O
@@ -161150,10 +161150,10 @@ vi	O	O	O
 phản	O	O	O
 cảm	O	O	O
 khi	O	O	O
-"	O	O	O
+”	O	O	O
 đi	O	O	O
 bão	O	O	O
-"	O	O	O
+”	O	O	O
 
 Ảnh	O	O	O
 :	O	O	O
@@ -161175,10 +161175,10 @@ thì	O	O	O
 trong	O	O	O
 những	O	O	O
 lần	O	O	O
-"	O	O	O
+”	O	O	O
 đi	O	O	O
 bão	O	O	O
-"	O	O	O
+”	O	O	O
 vừa	O	O	O
 qua	O	O	O
 ,	O	O	O
@@ -161208,7 +161208,7 @@ quy	O	O	O
 định	O	O	O
 .	O	O	O
 
-"	O	O	O
+”	O	O	O
 Nếu	O	O	O
 người	O	O	O
 nào	O	O	O
@@ -161272,7 +161272,7 @@ hiệu	O	O	O
 lực	O	O	O
 ngày	O	O	O
 1.1.2018	O	O	O
-"	O	O	O
+”	O	O	O
 ,	O	O	O
 ông	O	O	O
 Chiến	O	O	O
@@ -161296,10 +161296,10 @@ Nam	I-LOCATION	I-ORGANIZATION	O
 chiến	O	O	O
 thắng	O	O	O
 sẽ	O	O	O
-"	O	O	O
+”	O	O	O
 lột	O	O	O
 đồ	O	O	O
-"	O	O	O
+”	O	O	O
 ,	O	O	O
 đốt	O	O	O
 xe	O	O	O
@@ -161321,10 +161321,10 @@ hành	O	O	O
 phản	O	O	O
 cảm	O	O	O
 khi	O	O	O
-"	O	O	O
+”	O	O	O
 đi	O	O	O
 bão	O	O	O
-"	O	O	O
+”	O	O	O
 ,	O	O	O
 thạc	O	O	O
 sĩ	O	O	O
@@ -161344,7 +161344,7 @@ Tâm	I-ORGANIZATION	O	O
 ,	O	O	O
 khuyên	O	O	O
 :	O	O	O
-"	O	O	O
+”	O	O	O
 Đừng	O	O	O
 vì	O	O	O
 quá	O	O	O
@@ -161412,7 +161412,7 @@ thì	O	O	O
 rất	O	O	O
 xấu	O	O	O
 hổ	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Cũng	O	O	O
@@ -161420,7 +161420,7 @@ theo	O	O	O
 bà	O	O	O
 Thương	B-PERSON	O	O
 :	O	O	O
-"	O	O	O
+”	O	O	O
 Vui	O	O	O
 thôi	O	O	O
 ,	O	O	O
@@ -161497,7 +161497,7 @@ chăm	O	O	O
 học	O	O	O
 hơn	O	O	O
 ...	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Đêm	O	O	O
@@ -161548,7 +161548,7 @@ bất	O	O	O
 an	O	O	O
 .	O	O	O
 
-"	O	O	O
+”	O	O	O
 Người	O	O	O
 ra	O	O	O
 đường	O	O	O
@@ -161576,7 +161576,7 @@ toàn	O	O	O
 của	O	O	O
 người	O	O	O
 khác	O	O	O
-"	O	O	O
+”	O	O	O
 ,	O	O	O
 Lê	B-PERSON	O	O
 Phương	I-PERSON	O	O
@@ -161601,10 +161601,10 @@ mõm	O	O	O
 cũng	O	O	O
 được	O	O	O
 đưa	O	O	O
-"	O	O	O
+”	O	O	O
 đi	O	O	O
 bão	O	O	O
-"	O	O	O
+”	O	O	O
 khiến	O	O	O
 nhiều	O	O	O
 người	O	O	O
@@ -161687,7 +161687,7 @@ Hoa	I-ORGANIZATION	O	O
 Sen	I-ORGANIZATION	O	O
 thì	O	O	O
 :	O	O	O
-"	O	O	O
+”	O	O	O
 Chúng	O	O	O
 mình	O	O	O
 sẽ	O	O	O
@@ -161707,10 +161707,10 @@ tích	O	O	O
 của	O	O	O
 đội	O	O	O
 tuyển	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
-"	O	O	O
+”	O	O	O
 Có	O	O	O
 lẽ	O	O	O
 rất	O	O	O
@@ -161775,7 +161775,7 @@ vui	O	O	O
 cùng	O	O	O
 đội	O	O	O
 tuyển	O	O	O
-"	O	O	O
+”	O	O	O
 ,	O	O	O
 Trần	B-PERSON	O	O
 Minh	I-PERSON	O	O
@@ -161814,10 +161814,10 @@ HCM	I-LOCATION	O	O
 )	O	O	O
 thì	O	O	O
 :	O	O	O
-"	O	O	O
+”	O	O	O
 Đi	O	O	O
 bão	O	O	O
-"	O	O	O
+”	O	O	O
 cho	O	O	O
 vui	O	O	O
 cùng	O	O	O
@@ -161831,24 +161831,24 @@ sao	O	O	O
 
 Nhưng	O	O	O
 đừng	O	O	O
-"	O	O	O
+”	O	O	O
 kiếm	O	O	O
 cớ	O	O	O
-"	O	O	O
+”	O	O	O
 để	O	O	O
-"	O	O	O
+”	O	O	O
 đi	O	O	O
 bão	O	O	O
-"	O	O	O
+”	O	O	O
 xuyên	O	O	O
 đêm	O	O	O
 ,	O	O	O
 rồi	O	O	O
 để	O	O	O
-"	O	O	O
+”	O	O	O
 đi	O	O	O
 bão	O	O	O
-"	O	O	O
+”	O	O	O
 biến	O	O	O
 tướng	O	O	O
 thành	O	O	O
@@ -161859,7 +161859,7 @@ phóng	O	O	O
 xe	O	O	O
 bạt	O	O	O
 mạng	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Anh	O	O	O
@@ -161876,10 +161876,10 @@ nhiều	O	O	O
 nhóm	O	O	O
 bạn	O	O	O
 trẻ	O	O	O
-"	O	O	O
+”	O	O	O
 xé	O	O	O
 gió	O	O	O
-"	O	O	O
+”	O	O	O
 kinh	O	O	O
 hoàng	O	O	O
 trong	O	O	O
@@ -161901,10 +161901,10 @@ Qatar	B-LOCATION	I-ORGANIZATION	O
 .	O	O	O
 
 Từng	O	O	O
-"	O	O	O
+”	O	O	O
 đi	O	O	O
 bão	O	O	O
-"	O	O	O
+”	O	O	O
 ăn	O	O	O
 mừng	O	O	O
 chiến	O	O	O
@@ -161929,7 +161929,7 @@ Gia	B-LOCATION	I-ORGANIZATION	O
 cho	O	O	O
 biết	O	O	O
 :	O	O	O
-"	O	O	O
+”	O	O	O
 Mình	O	O	O
 thấy	O	O	O
 nhiều	O	O	O
@@ -161972,7 +161972,7 @@ hình	O	O	O
 ảnh	O	O	O
 đó	O	O	O
 nữa	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Được	O	O	O
@@ -161991,10 +161991,10 @@ người	O	O	O
 đổ	O	O	O
 xuống	O	O	O
 đường	O	O	O
-"	O	O	O
+”	O	O	O
 đi	O	O	O
 bão	O	O	O
-"	O	O	O
+”	O	O	O
 ăn	O	O	O
 mừng	O	O	O
 chiến	O	O	O
@@ -162087,10 +162087,10 @@ tuổi	O	O	O
 Hải	B-LOCATION	O	O
 Phòng	I-LOCATION	O	O
 khi	O	O	O
-"	O	O	O
+”	O	O	O
 đi	O	O	O
 bão	O	O	O
-"	O	O	O
+”	O	O	O
 vào	O	O	O
 chiều	O	O	O
 tối	O	O	O
@@ -162121,10 +162121,10 @@ người	O	O	O
 Đêm	O	O	O
 nay	O	O	O
 có	O	O	O
-"	O	O	O
+”	O	O	O
 đi	O	O	O
 bão	O	O	O
-"	O	O	O
+”	O	O	O
 thì	O	O	O
 nhớ	O	O	O
 đảm	O	O	O
@@ -162140,7 +162140,7 @@ nhé	O	O	O
 Minh	B-PERSON	O	O
 Tú	I-PERSON	O	O
 
-"	O	O	O
+”	O	O	O
 Đêm	O	O	O
 nay	O	O	O
 27.1	O	O	O
@@ -162184,7 +162184,7 @@ toàn	O	O	O
 cho	O	O	O
 bản	O	O	O
 thân	O	O	O
-"	O	O	O
+”	O	O	O
 ,	O	O	O
 anh	O	O	O
 Trần	B-PERSON	O	O
@@ -162216,17 +162216,17 @@ ai	O	O	O
 có	O	O	O
 dự	O	O	O
 định	O	O	O
-"	O	O	O
+”	O	O	O
 đi	O	O	O
 bão	O	O	O
-"	O	O	O
+”	O	O	O
 tối	O	O	O
 nay	O	O	O
 ,	O	O	O
 đó	O	O	O
 là	O	O	O
 :	O	O	O
-"	O	O	O
+”	O	O	O
 Đừng	O	O	O
 quên	O	O	O
 đội	O	O	O
@@ -162296,7 +162296,7 @@ bão	O	O	O
 an	O	O	O
 toàn	O	O	O
 được	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Rúng	O	O	O
@@ -162381,7 +162381,7 @@ hãm	O	O	O
 hại	O	O	O
 .	O	O	O
 
-"	O	O	O
+”	O	O	O
 Hầu	O	O	O
 hết	O	O	O
 mọi	O	O	O
@@ -162443,7 +162443,7 @@ lạm	O	O	O
 dụng	O	O	O
 tình	O	O	O
 dục	O	O	O
-"	O	O	O
+”	O	O	O
 ,	O	O	O
 Simone	B-PERSON	O	O
 Biles	I-PERSON	O	O
@@ -162451,7 +162451,7 @@ mở	O	O	O
 lời	O	O	O
 .	O	O	O
 
-"	O	O	O
+”	O	O	O
 Thật	O	O	O
 khó	O	O	O
 khăn	O	O	O
@@ -162562,7 +162562,7 @@ bất	O	O	O
 kỳ	O	O	O
 ai	O	O	O
 khác	O	O	O
-"	O	O	O
+”	O	O	O
 ,	O	O	O
 nhà	O	O	O
 vô	O	O	O
@@ -162632,7 +162632,7 @@ chia	O	O	O
 sẻ	O	O	O
 .	O	O	O
 
-"	O	O	O
+”	O	O	O
 Sau	O	O	O
 khi	O	O	O
 nghe	O	O	O
@@ -162711,7 +162711,7 @@ vinh	O	O	O
 quang	O	O	O
 của	O	O	O
 tôi	O	O	O
-"	O	O	O
+”	O	O	O
 ,	O	O	O
 Biles	B-PERSON	O	O
 viết	O	O	O
@@ -162735,11 +162735,11 @@ tiếng	O	O	O
 tố	O	O	O
 cáo	O	O	O
 tên	O	O	O
-"	O	O	O
+”	O	O	O
 yêu	O	O	O
 râu	O	O	O
 xanh	O	O	O
-"	O	O	O
+”	O	O	O
 Nassar	B-PERSON	O	O
 ,	O	O	O
 trong	O	O	O
@@ -162807,7 +162807,7 @@ y	O	O	O
 khoa	O	O	O
 cần	O	O	O
 thiết	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Thậm	O	O	O
@@ -162879,10 +162879,10 @@ danh	O	O	O
 tàng	O	O	O
 trữ	O	O	O
 ảnh	O	O	O
-"	O	O	O
+”	O	O	O
 khiêu	O	O	O
 dâm	O	O	O
-"	O	O	O
+”	O	O	O
 trẻ	O	O	O
 em	O	O	O
 trái	O	O	O
@@ -163515,7 +163515,7 @@ danh	O	O	O
 hiệu	O	O	O
 của	O	O	O
 mình	O	O	O
-"	O	O	O
+”	O	O	O
 ,	O	O	O
 Dana	B-PERSON	O	O
 White	I-PERSON	O	O
@@ -163528,10 +163528,10 @@ Không	O	O	O
 tái	O	O	O
 xuất	O	O	O
 ,	O	O	O
-"	O	O	O
+”	O	O	O
 The	O	O	O
 Notorious	O	O	O
-"	O	O	O
+”	O	O	O
 sẽ	O	O	O
 bị	O	O	O
 tước	O	O	O
@@ -165369,7 +165369,7 @@ giác	O	O	O
 sợ	O	O	O
 hãi	O	O	O
 :	O	O	O
-"	O	O	O
+”	O	O	O
 Tôi	O	O	O
 cảm	O	O	O
 thấy	O	O	O
@@ -165387,7 +165387,7 @@ thoát	O	O	O
 khỏi	O	O	O
 đó	O	O	O
 .	O	O	O
-"	O	O	O
+”	O	O	O
 Nhiều	O	O	O
 phóng	O	O	O
 viên	O	O	O
@@ -165429,7 +165429,7 @@ lúc	O	O	O
 giống	O	O	O
 như	O	O	O
 :	O	O	O
-"	O	O	O
+”	O	O	O
 bị	O	O	O
 mắc	O	O	O
 kẹt	O	O	O
@@ -166494,17 +166494,17 @@ mạnh	O	O	O
 huỷ	O	O	O
 diệt	O	O	O
 của	O	O	O
-"	O	O	O
+”	O	O	O
 Người	O	O	O
 máy	O	O	O
-"	O	O	O
+”	O	O	O
 và	O	O	O
-"	O	O	O
+”	O	O	O
 độc	O	O	O
 cô	O	O	O
 cầu	O	O	O
 bại	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Bản	O	O	O
@@ -171136,7 +171136,7 @@ sau	O	O	O
 trận	O	O	O
 đấu	O	O	O
 :	O	O	O
-"	O	O	O
+”	O	O	O
 Nếu	O	O	O
 thật	O	O	O
 lòng	O	O	O
@@ -171226,7 +171226,7 @@ những	O	O	O
 trận	O	O	O
 đấu	O	O	O
 tới	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Dirk	B-PERSON	O	O
@@ -174382,10 +174382,10 @@ James	I-PERSON	O	O
 dẫn	O	O	O
 dắt	O	O	O
 đoàn	O	O	O
-"	O	O	O
+”	O	O	O
 kỵ	O	O	O
 sĩ	O	O	O
-"	O	O	O
+”	O	O	O
 đến	O	O	O
 Quicken	B-LOCATION	O	O
 Loans	I-LOCATION	O	O
@@ -174441,10 +174441,10 @@ hiệp	O	O	O
 đầu	O	O	O
 tiên	O	O	O
 các	O	O	O
-"	O	O	O
+”	O	O	O
 kỵ	O	O	O
 sĩ	O	O	O
-"	O	O	O
+”	O	O	O
 đã	O	O	O
 vượt	O	O	O
 lên	O	O	O
@@ -174605,12 +174605,12 @@ ai	O	O	O
 đối	O	O	O
 trọng	O	O	O
 với	O	O	O
-"	O	O	O
+”	O	O	O
 người	O	O	O
 khổng	O	O	O
 lồ	O	O	O
 xanh	O	O	O
-"	O	O	O
+”	O	O	O
 Draymond	B-PERSON	O	O
 Green	I-PERSON	O	O
 khi	O	O	O
@@ -181179,10 +181179,10 @@ Tiếp	O	O	O
 đội	O	O	O
 bóng	O	O	O
 đang	O	O	O
-"	O	O	O
+”	O	O	O
 hấp	O	O	O
 hối	O	O	O
-"	O	O	O
+”	O	O	O
 dưới	O	O	O
 đáy	O	O	O
 BXH	O	O	O
@@ -181696,10 +181696,10 @@ có	O	O	O
 pha	O	O	O
 làm	O	O	O
 bàn	O	O	O
-"	O	O	O
+”	O	O	O
 góp	O	O	O
 vui	O	O	O
-"	O	O	O
+”	O	O	O
 ở	O	O	O
 phút	O	O	O
 84	O	O	O
@@ -183193,21 +183193,21 @@ mến	O	O	O
 mệnh	O	O	O
 danh	O	O	O
 là	O	O	O
-"	O	O	O
+”	O	O	O
 Công	O	O	O
 chúa	O	O	O
 nhạc	O	O	O
 pop	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
-"	O	O	O
+”	O	O	O
 Britney	B-PERSON	O	O
 :	O	O	O
 Piece	O	O	O
 of	O	O	O
 Me	O	O	O
-"	O	O	O
+”	O	O	O
 được	O	O	O
 trao	O	O	O
 4	O	O	O
@@ -183404,12 +183404,12 @@ Năm	O	O	O
 single	O	O	O
 đầu	O	O	O
 tiên	O	O	O
-"	O	O	O
+”	O	O	O
 Baby	O	O	O
 One	O	O	O
 More	O	O	O
 Time	O	O	O
-"	O	O	O
+”	O	O	O
 của	O	O	O
 Britney	B-PERSON	O	O
 Spears	I-PERSON	O	O
@@ -183503,20 +183503,20 @@ bài	O	O	O
 hát	O	O	O
 như	O	O	O
 :	O	O	O
-"	O	O	O
+”	O	O	O
 Baby	O	O	O
 One	O	O	O
 More	O	O	O
 Time	O	O	O
-"	O	O	O
+”	O	O	O
 ,	O	O	O
-"	O	O	O
+”	O	O	O
 Lucky	O	O	O
-"	O	O	O
+”	O	O	O
 ,	O	O	O
-"	O	O	O
+”	O	O	O
 Everytime	O	O	O
-"	O	O	O
+”	O	O	O
 ...	O	O	O
 luôn	O	O	O
 thường	O	O	O
@@ -183916,13 +183916,13 @@ Review-Journal	O	I-ORGANIZATION	O
 bình	O	O	O
 chọn	O	O	O
 ,	O	O	O
-"	O	O	O
+”	O	O	O
 Britney	B-PERSON	O	O
 :	O	O	O
 Piece	O	O	O
 of	O	O	O
 Me	O	O	O
-"	O	O	O
+”	O	O	O
 được	O	O	O
 trao	O	O	O
 4	O	O	O
@@ -184467,7 +184467,7 @@ Bảo	I-PERSON	O	O
 nhưng	O	O	O
 anh	O	O	O
 thấy	O	O	O
-"	O	O	O
+”	O	O	O
 đó	O	O	O
 là	O	O	O
 một	O	O	O
@@ -184485,7 +184485,7 @@ có	O	O	O
 khán	O	O	O
 giả	O	O	O
 ...	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Trong	O	O	O
@@ -184512,7 +184512,7 @@ sĩ	O	O	O
 Bảo	I-PERSON	O	O
 nói	O	O	O
 :	O	O	O
-"	O	O	O
+”	O	O	O
 Tôi	O	O	O
 làm	O	O	O
 nhạc	O	O	O
@@ -184684,7 +184684,7 @@ giá	O	O	O
 cao	O	O	O
 điều	O	O	O
 đó	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Ngày	O	O	O
@@ -185541,12 +185541,12 @@ bóng	O	O	O
 tài	O	O	O
 tình	O	O	O
 ,	O	O	O
-"	O	O	O
+”	O	O	O
 người	O	O	O
 nhện	O	O	O
 khung	O	O	O
 sắt	O	O	O
-"	O	O	O
+”	O	O	O
 khiến	O	O	O
 công	O	O	O
 chúng	O	O	O
@@ -185592,10 +185592,10 @@ scandal	O	O	O
 Từ	O	O	O
 lùm	O	O	O
 xùm	O	O	O
-"	O	O	O
+”	O	O	O
 thả	O	O	O
 thính	O	O	O
-"	O	O	O
+”	O	O	O
 các	O	O	O
 người	O	O	O
 đẹp	O	O	O
@@ -185623,9 +185623,9 @@ anh	O	O	O
 cố	O	O	O
 tình	O	O	O
 tạo	O	O	O
-"	O	O	O
+”	O	O	O
 phốt	O	O	O
-"	O	O	O
+”	O	O	O
 để	O	O	O
 giúp	O	O	O
 anh	O	O	O
@@ -185697,12 +185697,12 @@ tuổi	O	O	O
 năm	O	O	O
 ấy	O	O	O
 đã	O	O	O
-"	O	O	O
+”	O	O	O
 một	O	O	O
 thân	O	O	O
 một	O	O	O
 mình	O	O	O
-"	O	O	O
+”	O	O	O
 Nam	B-LOCATION	O	O
 tiến	O	O	O
 lập	O	O	O
@@ -185735,20 +185735,20 @@ hàng	O	O	O
 loạt	O	O	O
 hit	O	O	O
 từ	O	O	O
-"	O	O	O
+”	O	O	O
 Nắng	O	O	O
 ấm	O	O	O
 xa	O	O	O
 dần	O	O	O
-"	O	O	O
+”	O	O	O
 ,	O	O	O
-"	O	O	O
+”	O	O	O
 Em	O	O	O
 của	O	O	O
 ngày	O	O	O
 hôm	O	O	O
 qua	O	O	O
-"	O	O	O
+”	O	O	O
 ,	O	O	O
 chàng	O	O	O
 trai	O	O	O
@@ -185964,7 +185964,7 @@ từ	O	O	O
 mặt	O	O	O
 .	O	O	O
 
-"	O	O	O
+”	O	O	O
 Chỉ	O	O	O
 một	O	O	O
 phút	O	O	O
@@ -186042,7 +186042,7 @@ như	O	O	O
 ngày	O	O	O
 nào	O	O	O
 hơn	O	O	O
-"	O	O	O
+”	O	O	O
 ,	O	O	O
 Hoài	B-PERSON	O	O
 Lâm	I-PERSON	O	O
@@ -187895,10 +187895,10 @@ còn	O	O	O
 bị	O	O	O
 công	O	O	O
 chúng	O	O	O
-"	O	O	O
+”	O	O	O
 tẩy	O	O	O
 chay	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Vừa	O	O	O
@@ -187965,17 +187965,17 @@ khi	O	O	O
 đểu	O	O	O
 RM	B-PERSON	O	O
 là	O	O	O
-"	O	O	O
+”	O	O	O
 kẻ	O	O	O
 chậm	O	O	O
 chạp	O	O	O
-"	O	O	O
+”	O	O	O
 ,	O	O	O
-"	O	O	O
+”	O	O	O
 không	O	O	O
 biết	O	O	O
 rap	O	O	O
-"	O	O	O
+”	O	O	O
 trong	O	O	O
 bài	O	O	O
 đăng	O	O	O
@@ -188090,9 +188090,9 @@ lần	O	O	O
 hậu	O	O	O
 bối	O	O	O
 dính	O	O	O
-"	O	O	O
+”	O	O	O
 phốt	O	O	O
-"	O	O	O
+”	O	O	O
 thiếu	O	O	O
 tôn	O	O	O
 trọng	O	O	O
@@ -188217,9 +188217,9 @@ Yewon	B-PERSON	O	O
 lại	O	O	O
 tiếp	O	O	O
 tục	O	O	O
-"	O	O	O
+”	O	O	O
 lườm	O	O	O
-"	O	O	O
+”	O	O	O
 cô	O	O	O
 nàng	O	O	O
 .	O	O	O
@@ -188241,10 +188241,10 @@ của	O	O	O
 Yewon	B-PERSON	O	O
 trở	O	O	O
 nên	O	O	O
-"	O	O	O
+”	O	O	O
 xấu	O	O	O
 xí	O	O	O
-"	O	O	O
+”	O	O	O
 trong	O	O	O
 mắt	O	O	O
 công	O	O	O
@@ -188255,10 +188255,10 @@ Cô	O	O	O
 nhận	O	O	O
 phải	O	O	O
 nhiều	O	O	O
-"	O	O	O
+”	O	O	O
 gạch	O	O	O
 đá	O	O	O
-"	O	O	O
+”	O	O	O
 từ	O	O	O
 dư	O	O	O
 luận	O	O	O
@@ -188383,7 +188383,7 @@ Moon	B-PERSON	O	O
 Geun	I-PERSON	O	O
 Young	I-PERSON	O	O
 :	O	O	O
-"	O	O	O
+”	O	O	O
 Đấy	O	O	O
 ,	O	O	O
 anh	O	O	O
@@ -188399,7 +188399,7 @@ kể	O	O	O
 nữa	O	O	O
 rồi	O	O	O
 kìa	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Trong	O	O	O
@@ -188435,10 +188435,10 @@ mạng	O	O	O
 vì	O	O	O
 nói	O	O	O
 chuyện	O	O	O
-"	O	O	O
+”	O	O	O
 thô	O	O	O
 lỗ	O	O	O
-"	O	O	O
+”	O	O	O
 với	O	O	O
 đàn	O	O	O
 chị	O	O	O
@@ -188468,12 +188468,12 @@ không	O	O	O
 kính	O	O	O
 ngữ	O	O	O
 :	O	O	O
-"	O	O	O
+”	O	O	O
 Chỉ	O	O	O
 cần	O	O	O
 tắm	O	O	O
 nắng	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Vì	O	O	O
@@ -188800,10 +188800,10 @@ trích	O	O	O
 và	O	O	O
 hứng	O	O	O
 chịu	O	O	O
-"	O	O	O
+”	O	O	O
 gạch	O	O	O
 đá	O	O	O
-"	O	O	O
+”	O	O	O
 mà	O	O	O
 thôi	O	O	O
 .	O	O	O
@@ -190179,10 +190179,10 @@ là	O	O	O
 cái	O	O	O
 tên	O	O	O
 khá	O	O	O
-"	O	O	O
+”	O	O	O
 lận	O	O	O
 đận	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Không	O	O	O
@@ -190245,9 +190245,9 @@ anh	O	O	O
 chàng	O	O	O
 BTOB	B-ORGANIZATION	O	O
 còn	O	O	O
-"	O	O	O
+”	O	O	O
 lầy	O	O	O
-"	O	O	O
+”	O	O	O
 và	O	O	O
 hài	O	O	O
 hước	O	O	O
@@ -190261,12 +190261,12 @@ mức	O	O	O
 được	O	O	O
 gọi	O	O	O
 là	O	O	O
-"	O	O	O
+”	O	O	O
 Thần	O	O	O
 tượng	O	O	O
 giải	O	O	O
 trí	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Một	O	O	O
@@ -190365,10 +190365,10 @@ Hoon	I-PERSON	O	O
 Sở	O	O	O
 hữu	O	O	O
 cả	O	O	O
-"	O	O	O
+”	O	O	O
 bầu	O	O	O
 trời	O	O	O
-"	O	O	O
+”	O	O	O
 tài	O	O	O
 năng	O	O	O
 như	O	O	O
@@ -190452,11 +190452,11 @@ Mamamoo	B-ORGANIZATION	O	O
 còn	O	O	O
 khiến	O	O	O
 fan	O	O	O
-"	O	O	O
+”	O	O	O
 đổ	O	O	O
 rầm	O	O	O
 rầm	O	O	O
-"	O	O	O
+”	O	O	O
 bởi	O	O	O
 tài	O	O	O
 năng	O	O	O
@@ -190513,10 +190513,10 @@ Moon	B-PERSON	O	O
 Byul	I-PERSON	O	O
 hát	O	O	O
 rap	O	O	O
-"	O	O	O
+”	O	O	O
 siêu	O	O	O
 ngầu	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 4	O	O	O
@@ -190616,10 +190616,10 @@ thêm	O	O	O
 tài	O	O	O
 chế	O	O	O
 lời	O	O	O
-"	O	O	O
+”	O	O	O
 đỉnh	O	O	O
 cao	O	O	O
-"	O	O	O
+”	O	O	O
 để	O	O	O
 tăng	O	O	O
 tương	O	O	O
@@ -190915,13 +190915,13 @@ mai	O	O	O
 là	O	O	O
 nhóm	O	O	O
 nhạc	O	O	O
-"	O	O	O
+”	O	O	O
 Zico	B-PERSON	O	O
 và	O	O	O
 những	O	O	O
 người	O	O	O
 bạn	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Ma	O	O	O
@@ -190993,9 +190993,9 @@ cao	O	O	O
 nhưng	O	O	O
 cũng	O	O	O
 không	O	O	O
-"	O	O	O
+”	O	O	O
 flop	O	O	O
-"	O	O	O
+”	O	O	O
 đến	O	O	O
 mức	O	O	O
 không	O	O	O
@@ -191045,10 +191045,10 @@ năng	O	O	O
 biến	O	O	O
 hoá	O	O	O
 concept	O	O	O
-"	O	O	O
+”	O	O	O
 siêu	O	O	O
 đỉnh	O	O	O
-"	O	O	O
+”	O	O	O
 ,	O	O	O
 đặc	O	O	O
 biệt	O	O	O
@@ -191058,10 +191058,10 @@ concept	O	O	O
 mang	O	O	O
 hơi	O	O	O
 hướng	O	O	O
-"	O	O	O
+”	O	O	O
 kinh	O	O	O
 dị	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Các	O	O	O
@@ -191144,11 +191144,11 @@ là	O	O	O
 N.	B-PERSON	O	O
 N	I-PERSON	O	O
 đã	O	O	O
-"	O	O	O
+”	O	O	O
 đá	O	O	O
 chéo	O	O	O
 sân	O	O	O
-"	O	O	O
+”	O	O	O
 sang	O	O	O
 lĩnh	O	O	O
 vực	O	O	O
@@ -191290,9 +191290,9 @@ Ed	B-PERSON	O	O
 Sheeran	I-PERSON	O	O
 ...	O	O	O
 
-"	O	O	O
+”	O	O	O
 Paris	B-MISCELLANEOUS	O	O
-"	O	O	O
+”	O	O	O
 là	O	O	O
 một	O	O	O
 bài	O	O	O
@@ -191313,20 +191313,20 @@ như	O	O	O
 trước	O	O	O
 đây	O	O	O
 ,	O	O	O
-"	O	O	O
+”	O	O	O
 Paris	B-MISCELLANEOUS	O	O
-"	O	O	O
+”	O	O	O
 từng	O	O	O
 được	O	O	O
 hứa	O	O	O
 hẹn	O	O	O
 sẽ	O	O	O
-"	O	O	O
+”	O	O	O
 làm	O	O	O
 mưa	O	O	O
 làm	O	O	O
 gió	O	O	O
-"	O	O	O
+”	O	O	O
 trên	O	O	O
 thị	O	O	O
 trường	O	O	O
@@ -191345,10 +191345,10 @@ công	O	O	O
 vang	O	O	O
 dội	O	O	O
 như	O	O	O
-"	O	O	O
+”	O	O	O
 chủ	O	O	O
 nhân	O	O	O
-"	O	O	O
+”	O	O	O
 của	O	O	O
 nó	O	O	O
 mong	O	O	O
@@ -191363,9 +191363,9 @@ này	O	O	O
 cho	O	O	O
 rằng	O	O	O
 ,	O	O	O
-"	O	O	O
+”	O	O	O
 Paris	B-MISCELLANEOUS	O	O
-"	O	O	O
+”	O	O	O
 giống	O	O	O
 như	O	O	O
 bài	O	O	O
@@ -191420,10 +191420,10 @@ khá	O	O	O
 Trong	O	O	O
 đó	O	O	O
 ,	O	O	O
-"	O	O	O
+”	O	O	O
 Bon	O	O	O
 Appetit	O	O	O
-"	O	O	O
+”	O	O	O
 được	O	O	O
 đánh	O	O	O
 giá	O	O	O
@@ -191470,16 +191470,16 @@ này	O	O	O
 nhận	O	O	O
 xét	O	O	O
 ,	O	O	O
-"	O	O	O
+”	O	O	O
 Bon	O	O	O
 Appetit	O	O	O
-"	O	O	O
+”	O	O	O
 nhạt	O	O	O
 nhẽo	O	O	O
 ,	O	O	O
 được	O	O	O
 coi	O	O	O
-"	O	O	O
+”	O	O	O
 là	O	O	O
 một	O	O	O
 loại	O	O	O
@@ -191488,7 +191488,7 @@ của	O	O	O
 dòng	O	O	O
 nhạc	O	O	O
 pop	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Tạp	O	O	O
@@ -191498,11 +191498,11 @@ cho	O	O	O
 rằng	O	O	O
 ca	O	O	O
 khúc	O	O	O
-"	O	O	O
+”	O	O	O
 Strip	O	O	O
 That	O	O	O
 Down	O	O	O
-"	O	O	O
+”	O	O	O
 của	O	O	O
 Liam	B-PERSON	O	O
 Payne	I-PERSON	O	O
@@ -191534,7 +191534,7 @@ thể	O	O	O
 câu	O	O	O
 hát	O	O	O
 ,	O	O	O
-"	O	O	O
+”	O	O	O
 Used	O	O	O
 to	O	O	O
 be	O	O	O
@@ -191548,7 +191548,7 @@ I	O	O	O
 m	O	O	O
 out	O	O	O
 free	O	O	O
-"	O	O	O
+”	O	O	O
 (	O	O	O
 Tôi	O	O	O
 từng	O	O	O
@@ -191685,9 +191685,9 @@ Theo	O	O	O
 như	O	O	O
 Time	B-ORGANIZATION	O	O
 ,	O	O	O
-"	O	O	O
+”	O	O	O
 Thunder	O	O	O
-"	O	O	O
+”	O	O	O
 là	O	O	O
 một	O	O	O
 ca	O	O	O
@@ -191764,10 +191764,10 @@ thôi	O	O	O
 Time	B-ORGANIZATION	O	O
 đánh	O	O	O
 giá	O	O	O
-"	O	O	O
+”	O	O	O
 Mo	O	O	O
 Bounce	O	O	O
-"	O	O	O
+”	O	O	O
 là	O	O	O
 ca	O	O	O
 khúc	O	O	O
@@ -191781,13 +191781,13 @@ là	O	O	O
 đoạn	O	O	O
 điệp	O	O	O
 khúc	O	O	O
-"	O	O	O
+”	O	O	O
 bounce	O	O	O
 ,	O	O	O
 bounce	O	O	O
 ,	O	O	O
 bounce	O	O	O
-"	O	O	O
+”	O	O	O
 là	O	O	O
 bằng	O	O	O
 chứng	O	O	O
@@ -191866,11 +191866,11 @@ mộ	O	O	O
 của	O	O	O
 họ	O	O	O
 và	O	O	O
-"	O	O	O
+”	O	O	O
 Young	O	O	O
 and	O	O	O
 Menace	O	O	O
-"	O	O	O
+”	O	O	O
 cũng	O	O	O
 không	O	O	O
 phải	O	O	O
@@ -191880,13 +191880,13 @@ lệ	O	O	O
 
 Ca	O	O	O
 khúc	O	O	O
-"	O	O	O
+”	O	O	O
 Body	O	O	O
 Like	O	O	O
 a	O	O	O
 Back	O	O	O
 Road	O	O	O
-"	O	O	O
+”	O	O	O
 của	O	O	O
 Sam	B-PERSON	O	O
 Hunt	I-PERSON	O	O
@@ -191936,21 +191936,21 @@ Time	B-ORGANIZATION	O	O
 cho	O	O	O
 rằng	O	O	O
 ,	O	O	O
-"	O	O	O
+”	O	O	O
 Swalla	O	O	O
-"	O	O	O
+”	O	O	O
 là	O	O	O
 một	O	O	O
 màn	O	O	O
 trình	O	O	O
 diễn	O	O	O
-"	O	O	O
+”	O	O	O
 vô	O	O	O
 thưởng	O	O	O
 ,	O	O	O
 vô	O	O	O
 phạt	O	O	O
-"	O	O	O
+”	O	O	O
 và	O	O	O
 sự	O	O	O
 xuất	O	O	O
@@ -191977,9 +191977,9 @@ cho	O	O	O
 rằng	O	O	O
 ca	O	O	O
 khúc	O	O	O
-"	O	O	O
+”	O	O	O
 Rockstar	O	O	O
-"	O	O	O
+”	O	O	O
 của	O	O	O
 Post	B-PERSON	O	O
 Malone	I-PERSON	O	O
@@ -194473,7 +194473,7 @@ phẩm	O	O	O
 phần	O	O	O
 mềm	O	O	O
 mới	O	O	O
-"	O	O	O
+”	O	O	O
 vào	O	O	O
 năm	O	O	O
 2020	O	O	O
@@ -195546,7 +195546,7 @@ Nga	B-LOCATION	I-ORGANIZATION	O
 cho	O	O	O
 biết	O	O	O
 :	O	O	O
-"	O	O	O
+”	O	O	O
 Năm	O	O	O
 nay	O	O	O
 ,	O	O	O
@@ -195615,7 +195615,7 @@ viên	O	O	O
 đạn	O	O	O
 các	O	O	O
 loại	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Phòng	O	O	O
@@ -198203,7 +198203,7 @@ Nghiệp	I-ORGANIZATION	O	O
 cho	O	O	O
 biết	O	O	O
 :	O	O	O
-"	O	O	O
+”	O	O	O
 Gắn	O	O	O
 chíp	O	O	O
 vào	O	O	O
@@ -198252,7 +198252,7 @@ chức	O	O	O
 trách	O	O	O
 địa	O	O	O
 phương	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Một	O	O	O
@@ -198513,13 +198513,13 @@ cứu	O	O	O
 trợ	O	O	O
 động	O	O	O
 vật	O	O	O
-"	O	O	O
+”	O	O	O
 The	B-ORGANIZATION	O	O
 Dog	I-ORGANIZATION	O	O
 '	I-ORGANIZATION	O	O
 s	I-ORGANIZATION	O	O
 Trust	I-ORGANIZATION	O	O
-"	O	O	O
+”	O	O	O
 cho	O	O	O
 rằng	O	O	O
 luật	O	O	O
@@ -198532,11 +198532,11 @@ mối	O	O	O
 lo	O	O	O
 ngại	O	O	O
 và	O	O	O
-"	O	O	O
+”	O	O	O
 quá	O	O	O
 cứng	O	O	O
 nhắc	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Người	O	O	O
@@ -198551,7 +198551,7 @@ Leo	I-LOCATION	O	O
 Whitlock	I-LOCATION	O	O
 nói	O	O	O
 :	O	O	O
-"	O	O	O
+”	O	O	O
 Các	O	O	O
 luật	O	O	O
 mới	O	O	O
@@ -198600,10 +198600,10 @@ nếu	O	O	O
 họ	O	O	O
 không	O	O	O
 dọn	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
-"	O	O	O
+”	O	O	O
 Theo	O	O	O
 quy	O	O	O
 định	O	O	O
@@ -198637,7 +198637,7 @@ túi	O	O	O
 dọn	O	O	O
 phân	O	O	O
 chó	O	O	O
-"	O	O	O
+”	O	O	O
 ,	O	O	O
 ông	O	O	O
 nói	O	O	O
@@ -198658,7 +198658,7 @@ Trust	I-ORGANIZATION	O	O
 cho	O	O	O
 biết	O	O	O
 :	O	O	O
-"	O	O	O
+”	O	O	O
 Chúng	O	O	O
 tôi	O	O	O
 rất	O	O	O
@@ -198731,7 +198731,7 @@ vài	O	O	O
 người	O	O	O
 vi	O	O	O
 phạm	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Bên	O	O	O
@@ -198895,7 +198895,7 @@ Burgess	B-PERSON	O	O
 nói	O	O	O
 rằng	O	O	O
 đã	O	O	O
-"	O	O	O
+”	O	O	O
 sửa	O	O	O
 đổi	O	O	O
 luật	O	O	O
@@ -198925,7 +198925,7 @@ dạo	O	O	O
 nói	O	O	O
 thêm	O	O	O
 :	O	O	O
-"	O	O	O
+”	O	O	O
 Không	O	O	O
 gian	O	O	O
 công	O	O	O
@@ -198974,7 +198974,7 @@ sáu	O	O	O
 xuống	O	O	O
 còn	O	O	O
 bốn	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Ông	O	O	O
@@ -198982,7 +198982,7 @@ cũng	O	O	O
 nói	O	O	O
 thêm	O	O	O
 :	O	O	O
-"	O	O	O
+”	O	O	O
 Mọi	O	O	O
 người	O	O	O
 sẽ	O	O	O
@@ -201729,7 +201729,7 @@ chăm	O	O	O
 bón	O	O	O
 .	O	O	O
 
-"	O	O	O
+”	O	O	O
 Tôi	O	O	O
 nghĩ	O	O	O
 việc	O	O	O
@@ -201844,7 +201844,7 @@ liệu	O	O	O
 trên	O	O	O
 mặt	O	O	O
 đất	O	O	O
-"	O	O	O
+”	O	O	O
 -	O	O	O
 ông	O	O	O
 Tomer	B-PERSON	O	O
@@ -205983,9 +205983,9 @@ Sen	I-ORGANIZATION	O	O
 Group	I-ORGANIZATION	O	O
 tiếp	O	O	O
 tục	O	O	O
-"	O	O	O
+”	O	O	O
 ngập	O	O	O
-"	O	O	O
+”	O	O	O
 trong	O	O	O
 nợ	O	O	O
 vay	O	O	O
@@ -208940,7 +208940,7 @@ BKAV	I-ORGANIZATION	O	O
 nhấn	O	O	O
 mạnh	O	O	O
 ,	O	O	O
-"	O	O	O
+”	O	O	O
 Trước	O	O	O
 đây	O	O	O
 ,	O	O	O
@@ -208998,7 +208998,7 @@ trọng	O	O	O
 ,	O	O	O
 nhạy	O	O	O
 cảm	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Tội	O	O	O
@@ -209155,12 +209155,12 @@ trong	O	O	O
 việc	O	O	O
 xây	O	O	O
 dựng	O	O	O
-"	O	O	O
+”	O	O	O
 bản	O	O	O
 đồ	O	O	O
 mã	O	O	O
 độc	O	O	O
-"	O	O	O
+”	O	O	O
 là	O	O	O
 Công	B-ORGANIZATION	O	O
 ty	I-ORGANIZATION	O	O
@@ -209192,7 +209192,7 @@ Cyradar	I-ORGANIZATION	O	O
 cho	O	O	O
 biết	O	O	O
 ,	O	O	O
-"	O	O	O
+”	O	O	O
 Công	O	O	O
 ty	O	O	O
 áp	O	O	O
@@ -209255,7 +209255,7 @@ kết	O	O	O
 nối	O	O	O
 đó	O	O	O
 .	O	O	O
-"	O	O	O
+”	O	O	O
 
 Theo	O	O	O
 ông	O	O	O
@@ -209337,7 +209337,7 @@ của	O	O	O
 mình	O	O	O
 .	O	O	O
 
-"	O	O	O
+”	O	O	O
 Tình	O	O	O
 hình	O	O	O
 an	O	O	O
@@ -209404,7 +209404,7 @@ an	O	O	O
 toàn	O	O	O
 thông	O	O	O
 tin	O	O	O
-"	O	O	O
+”	O	O	O
 ,	O	O	O
 ông	O	O	O
 Nguyễn	B-PERSON	O	O
@@ -211188,9 +211188,9 @@ sau	O	O	O
 khiển	O	O	O
 bởi	O	O	O
 bộ	O	O	O
-"	O	O	O
+”	O	O	O
 Monitor	O	O	O
-"	O	O	O
+”	O	O	O
 hiển	O	O	O
 thị	O	O	O
 trên	O	O	O
@@ -211380,11 +211380,11 @@ này	O	O	O
 nó	O	O	O
 gọi	O	O	O
 là	O	O	O
-"	O	O	O
+”	O	O	O
 A	O	O	O
 Monitor	O	O	O
 Darkly	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Đội	O	O	O
@@ -211431,7 +211431,7 @@ Dell	B-ORGANIZATION	O	O
 cho	O	O	O
 biết	O	O	O
 :	O	O	O
-"	O	O	O
+”	O	O	O
 an	O	O	O
 ninh	O	O	O
 là	O	O	O
@@ -211449,7 +211449,7 @@ phải	O	O	O
 được	O	O	O
 ưu	O	O	O
 tiên	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Mặt	O	O	O
@@ -211827,10 +211827,10 @@ lớn	O	O	O
 là	O	O	O
 những	O	O	O
 nhà	O	O	O
-"	O	O	O
+”	O	O	O
 truyền	O	O	O
 giáo	O	O	O
-"	O	O	O
+”	O	O	O
 trong	O	O	O
 lĩnh	O	O	O
 vực	O	O	O
@@ -212005,10 +212005,10 @@ ty	O	O	O
 chỉ	O	O	O
 cần	O	O	O
 thêm	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 com	O	O	O
-"	O	O	O
+”	O	O	O
 vào	O	O	O
 tên	O	O	O
 mình	O	O	O
@@ -212273,7 +212273,7 @@ số	O	O	O
 giải	O	O	O
 thích	O	O	O
 :	O	O	O
-"	O	O	O
+”	O	O	O
 Người	O	O	O
 trẻ	O	O	O
 như	O	O	O
@@ -212338,7 +212338,7 @@ ro	O	O	O
 cao	O	O	O
 hơn	O	O	O
 này	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Leibowitz	B-PERSON	O	O
@@ -212394,7 +212394,7 @@ rất	O	O	O
 nhanh	O	O	O
 .	O	O	O
 
-"	O	O	O
+”	O	O	O
 Ngay	O	O	O
 khi	O	O	O
 bạn	O	O	O
@@ -212425,7 +212425,7 @@ chắc	O	O	O
 chắn	O	O	O
 là	O	O	O
 Fomo	O	O	O
-"	O	O	O
+”	O	O	O
 ,	O	O	O
 anh	O	O	O
 nói	O	O	O
@@ -212577,9 +212577,9 @@ Blockchain	O	O	O
 
 Khái	O	O	O
 niệm	O	O	O
-"	O	O	O
+”	O	O	O
 đào	O	O	O
-"	O	O	O
+”	O	O	O
 trên	O	O	O
 thực	O	O	O
 tế	O	O	O
@@ -214685,7 +214685,7 @@ hơn	O	O	O
 nhiều	O	O	O
 .	O	O	O
 
-"	O	O	O
+”	O	O	O
 Dường	O	O	O
 như	O	O	O
 việc	O	O	O
@@ -214711,7 +214711,7 @@ giá	O	O	O
 200	O	O	O
 triệu	O	O	O
 USD	O	O	O
-"	O	O	O
+”	O	O	O
 ,	O	O	O
 Sokolin	B-PERSON	O	O
 nói	O	O	O
@@ -214798,12 +214798,12 @@ sinh	O	O	O
 thái	O	O	O
 blockchain	O	O	O
 -	O	O	O
-"	O	O	O
+”	O	O	O
 sổ	O	O	O
 cái	O	O	O
 phân	O	O	O
 tán	O	O	O
-"	O	O	O
+”	O	O	O
 phi	O	O	O
 tập	O	O	O
 trung	O	O	O
@@ -215037,7 +215037,7 @@ thách	O	O	O
 thức	O	O	O
 .	O	O	O
 
-"	O	O	O
+”	O	O	O
 Mỗi	O	O	O
 việc	O	O	O
 triển	O	O	O
@@ -215051,12 +215051,12 @@ riêng	O	O	O
 của	O	O	O
 nó	O	O	O
 ,	O	O	O
-"	O	O	O
+”	O	O	O
 Suiche	B-PERSON	O	O
 nói	O	O	O
 .	O	O	O
 
-"	O	O	O
+”	O	O	O
 Càng	O	O	O
 triển	O	O	O
 khai	O	O	O
@@ -215067,7 +215067,7 @@ khó	O	O	O
 khăn	O	O	O
 hơn	O	O	O
 .	O	O	O
-"	O	O	O
+”	O	O	O
 Blockchains	O	O	O
 có	O	O	O
 thể	O	O	O
@@ -215166,16 +215166,16 @@ bán	O	O	O
 lẻ	O	O	O
 ,	O	O	O
 nhưng	O	O	O
-"	O	O	O
+”	O	O	O
 phần	O	O	O
 thưởng	O	O	O
 sẽ	O	O	O
 lớn	O	O	O
 hơn	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
-"	O	O	O
+”	O	O	O
 Bạn	O	O	O
 có	O	O	O
 nhiều	O	O	O
@@ -215188,7 +215188,7 @@ thể	O	O	O
 ăn	O	O	O
 cắp	O	O	O
 .	O	O	O
-"	O	O	O
+”	O	O	O
 Khai	O	O	O
 thác	O	O	O
 các	O	O	O
@@ -215366,7 +215366,7 @@ IEEE	B-ORGANIZATION	O	O
 cho	O	O	O
 biết	O	O	O
 :	O	O	O
-"	O	O	O
+”	O	O	O
 Chúng	O	O	O
 tôi	O	O	O
 không	O	O	O
@@ -215389,7 +215389,7 @@ trên	O	O	O
 Bitcoin	O	O	O
 .	O	O	O
 
-"	O	O	O
+”	O	O	O
 Tuy	O	O	O
 nhiên	O	O	O
 ,	O	O	O
@@ -215420,7 +215420,7 @@ cao	O	O	O
 và	O	O	O
 thực	O	O	O
 tiễn	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 '	O	O	O
@@ -215460,7 +215460,7 @@ bao	O	O	O
 gồm	O	O	O
 một	O	O	O
 lỗi	O	O	O
-"	O	O	O
+”	O	O	O
 có	O	O	O
 thể	O	O	O
 dẫn	O	O	O
@@ -215478,7 +215478,7 @@ tài	O	O	O
 khoản	O	O	O
 hiện	O	O	O
 có	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Một	O	O	O
@@ -215729,7 +215729,7 @@ Y	B-ORGANIZATION	O	O
 Combinator	I-ORGANIZATION	O	O
 Inc	I-ORGANIZATION	O	O
 .	I-ORGANIZATION	O	O
-"	O	O	O
+”	O	O	O
 Với	O	O	O
 một	O	O	O
 hợp	O	O	O
@@ -215752,7 +215752,7 @@ thay	O	O	O
 đổi	O	O	O
 nữa	O	O	O
 .	O	O	O
-"	O	O	O
+”	O	O	O
 Gõ	O	O	O
 cửa	O	O	O
 cơ	O	O	O
@@ -215818,7 +215818,7 @@ số	O	O	O
 blockchain	O	O	O
 .	O	O	O
 
-"	O	O	O
+”	O	O	O
 Trong	O	O	O
 nhiều	O	O	O
 trường	O	O	O
@@ -215840,7 +215840,7 @@ vệ	O	O	O
 hệ	O	O	O
 sinh	O	O	O
 thái	O	O	O
-"	O	O	O
+”	O	O	O
 ,	O	O	O
 Steve	B-PERSON	O	O
 Grobman	I-PERSON	O	O
@@ -215888,7 +215888,7 @@ phần	O	O	O
 mềm	O	O	O
 nào	O	O	O
 khác	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Theo	O	O	O
@@ -216814,10 +216814,10 @@ phim	O	O	O
 người	O	O	O
 lớn	O	O	O
 như	O	O	O
-"	O	O	O
+”	O	O	O
 mồi	O	O	O
 câu	O	O	O
-"	O	O	O
+”	O	O	O
 để	O	O	O
 dụ	O	O	O
 người	O	O	O
@@ -217163,9 +217163,9 @@ trên	O	O	O
 smartphone	O	O	O
 Android	O	O	O
 như	O	O	O
-"	O	O	O
+”	O	O	O
 scareware	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Loại	O	O	O
@@ -217493,7 +217493,7 @@ Anh	B-PERSON	O	O
 chỉ	O	O	O
 rõ	O	O	O
 :	O	O	O
-"	O	O	O
+”	O	O	O
 Đây	O	O	O
 là	O	O	O
 biểu	O	O	O
@@ -217875,7 +217875,7 @@ thức	O	O	O
 đập	O	O	O
 bố	O	O	O
 mẹ	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Cũng	O	O	O
@@ -217910,7 +217910,7 @@ Nội	I-LOCATION	O	O
 cho	O	O	O
 biết	O	O	O
 :	O	O	O
-"	O	O	O
+”	O	O	O
 Với	O	O	O
 những	O	O	O
 tình	O	O	O
@@ -217954,7 +217954,7 @@ bên	O	O	O
 nào	O	O	O
 sai	O	O	O
 ít	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Nguyên	O	O	O
@@ -218208,7 +218208,7 @@ Chuẩn	B-PERSON	O	O
 kể	O	O	O
 lại	O	O	O
 :	O	O	O
-"	O	O	O
+”	O	O	O
 Tôi	O	O	O
 từng	O	O	O
 gặp	O	O	O
@@ -218578,7 +218578,7 @@ khăn	O	O	O
 giờ	O	O	O
 con	O	O	O
 khổ	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Cũng	O	O	O
@@ -219070,7 +219070,7 @@ cũng	O	O	O
 rất	O	O	O
 nhạy	O	O	O
 bén	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Để	O	O	O
@@ -220610,7 +220610,7 @@ với	O	O	O
 biệt	O	O	O
 danh	O	O	O
 N.	B-PERSON	O	O
-"	I-PERSON	O	O
+”	I-PERSON	O	O
 đầu	I-PERSON	O	O
 gấu	I-PERSON	O	O
 ”	I-PERSON	O	O
@@ -221212,7 +221212,7 @@ và	I-ORGANIZATION	O	O
 Tuyên	I-ORGANIZATION	O	O
 truyền	I-ORGANIZATION	O	O
 :	O	O	O
-"	O	O	O
+”	O	O	O
 Kiến	O	O	O
 thức	O	O	O
 vô	O	O	O
@@ -221823,7 +221823,7 @@ ra	O	O	O
 như	O	O	O
 ngỗng	O	O	O
 ...	O	O	O
-"	O	O	O
+”	O	O	O
 rồi	O	O	O
 lắp	O	O	O
 bắp	O	O	O
@@ -222238,10 +222238,10 @@ công	O	O	O
 bố	O	O	O
 ,	O	O	O
 truyện	O	O	O
-"	O	O	O
+”	O	O	O
 Chí	B-MISCELLANEOUS	O	O
 Phèo	I-MISCELLANEOUS	O	O
-"	O	O	O
+”	O	O	O
 của	O	O	O
 Nam	B-PERSON	O	O
 Cao	I-PERSON	O	O
@@ -223021,9 +223021,9 @@ phải	O	O	O
 phát	O	O	O
 âm	O	O	O
 là	O	O	O
-"	O	O	O
+”	O	O	O
 rờ	O	O	O
-"	O	O	O
+”	O	O	O
 rồi	O	O	O
 ,	O	O	O
 nhưng	O	O	O
@@ -223035,9 +223035,9 @@ Bắc	I-MISCELLANEOUS	O	O
 phát	O	O	O
 âm	O	O	O
 là	O	O	O
-"	O	O	O
+”	O	O	O
 dờ	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Thế	O	O	O
@@ -224989,7 +224989,7 @@ cộng	O	O	O
 
 Bài	O	O	O
 viết	O	O	O
-"	O	O	O
+”	O	O	O
 Cậu	O	O	O
 học	O	O	O
 trò	O	O	O
@@ -225000,16 +225000,16 @@ gương	O	O	O
 nghị	O	O	O
 lực	O	O	O
 lớn	O	O	O
-"	O	O	O
+”	O	O	O
 và	O	O	O
 bài	O	O	O
 viết	O	O	O
-"	O	O	O
+”	O	O	O
 Sao	O	O	O
 không	O	O	O
 là	O	O	O
 em	O	O	O
-"	O	O	O
+”	O	O	O
 viết	O	O	O
 về	O	O	O
 em	O	O	O
@@ -226082,7 +226082,7 @@ cuộc	O	O	O
 đời	O	O	O
 ,	O	O	O
 vì	O	O	O
-"	O	O	O
+”	O	O	O
 được	O	O	O
 giảng	O	O	O
 bài	O	O	O
@@ -226092,7 +226092,7 @@ vô	O	O	O
 cùng	O	O	O
 thích	O	O	O
 thú	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Chọn	O	O	O
@@ -228635,12 +228635,12 @@ nhà	O	O	O
 tuyển	O	O	O
 dụng	O	O	O
 còn	O	O	O
-"	O	O	O
+”	O	O	O
 chọn	O	O	O
 mặt	O	O	O
 gửi	O	O	O
 vàng	O	O	O
-"	O	O	O
+”	O	O	O
 những	O	O	O
 bạn	O	O	O
 hội	O	O	O
@@ -235898,12 +235898,12 @@ Giang	I-LOCATION	O	O
 Thiết	O	O	O
 nghĩ	O	O	O
 những	O	O	O
-"	O	O	O
+”	O	O	O
 trung	O	O	O
 tâm	O	O	O
 quyền	O	O	O
 lực	O	O	O
-"	O	O	O
+”	O	O	O
 này	O	O	O
 ở	O	O	O
 trung	O	O	O
@@ -235954,14 +235954,14 @@ nhưng	O	O	O
 tại	O	O	O
 sao	O	O	O
 để	O	O	O
-"	O	O	O
+”	O	O	O
 con	O	O	O
 voi	O	O	O
 chui	O	O	O
 qua	O	O	O
 lỗ	O	O	O
 kim	O	O	O
-"	O	O	O
+”	O	O	O
 ?	O	O	O
 
 Quy	O	O	O
@@ -236092,7 +236092,7 @@ phục	O	O	O
 tình	O	O	O
 trạng	O	O	O
 trên	O	O	O
-"	O	O	O
+”	O	O	O
 ...	O	O	O
 Quy	O	O	O
 định	O	O	O
@@ -236128,7 +236128,7 @@ công	O	O	O
 tác	O	O	O
 cán	O	O	O
 bộ	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Đảng	O	O	O
@@ -237200,9 +237200,9 @@ thư	O	O	O
 thời	O	O	O
 @	O	O	O
 :	O	O	O
-"	O	O	O
+”	O	O	O
 Chơi	O	O	O
-"	O	O	O
+”	O	O	O
 Facebook	O	O	O
 và	O	O	O
 đam	O	O	O
@@ -237482,7 +237482,7 @@ Liêu	I-LOCATION	I-ORGANIZATION	O
 -	O	O	O
 Loạt	O	O	O
 bài	O	O	O
-"	O	O	O
+”	O	O	O
 Xã	B-LOCATION	O	O
 Cổ	I-LOCATION	O	O
 Đô	I-LOCATION	O	O
@@ -237497,7 +237497,7 @@ Bất	O	O	O
 một	O	O	O
 vùng	O	O	O
 quê	O	O	O
-"	O	O	O
+”	O	O	O
 ;	O	O	O
 nhóm	O	O	O
 tác	O	O	O
@@ -237711,10 +237711,10 @@ lộ	O	O	O
 thần	O	O	O
 tốc	O	O	O
 của	O	O	O
-"	O	O	O
+”	O	O	O
 hot	O	O	O
 girl	O	O	O
-"	O	O	O
+”	O	O	O
 xứ	B-LOCATION	O	O
 Thanh	I-LOCATION	O	O
 ;	O	O	O
@@ -238064,11 +238064,11 @@ sự	O	O	O
 Những	O	O	O
 chiến	O	O	O
 sĩ	O	O	O
-"	O	O	O
+”	O	O	O
 quân	O	O	O
 hàm	O	O	O
 xanh	O	O	O
-"	O	O	O
+”	O	O	O
 trên	O	O	O
 núi	B-LOCATION	O	O
 Nặm	I-LOCATION	O	O
@@ -239574,7 +239574,7 @@ phổ	O	O	O
 thông	O	O	O
 .	O	O	O
 
-"	O	O	O
+”	O	O	O
 Tăng	O	O	O
 cường	O	O	O
 xã	O	O	O
@@ -239636,7 +239636,7 @@ các	O	O	O
 trường	O	O	O
 phổ	O	O	O
 thông	O	O	O
-"	O	O	O
+”	O	O	O
 ,	O	O	O
 dự	O	O	O
 thảo	O	O	O
@@ -241125,7 +241125,7 @@ giao	O	O	O
 thông	O	O	O
 nói	O	O	O
 riêng	O	O	O
-"	O	O	O
+”	O	O	O
 ,	O	O	O
 Thứ	O	O	O
 trưởng	O	O	O
@@ -243043,7 +243043,7 @@ tổ	O	O	O
 chức	O	O	O
 Hội	O	O	O
 thảo	O	O	O
-"	O	O	O
+”	O	O	O
 Đánh	O	O	O
 giá	O	O	O
 giới	O	O	O
@@ -243061,7 +243061,7 @@ chặng	O	O	O
 sắp	O	O	O
 tới	O	O	O
 .	O	O	O
-"	O	O	O
+”	O	O	O
 
 Báo	O	O	O
 cáo	O	O	O
@@ -244199,9 +244199,9 @@ trên	O	O	O
 tinh	O	O	O
 thần	O	O	O
 lấy	O	O	O
-"	O	O	O
+”	O	O	O
 xây	O	O	O
-"	O	O	O
+”	O	O	O
 là	O	O	O
 nhiệm	O	O	O
 vụ	O	O	O
@@ -244212,9 +244212,9 @@ lâu	O	O	O
 dài	O	O	O
 ,	O	O	O
 lấy	O	O	O
-"	O	O	O
+”	O	O	O
 chống	O	O	O
-"	O	O	O
+”	O	O	O
 là	O	O	O
 nhiệm	O	O	O
 vụ	O	O	O
@@ -244299,7 +244299,7 @@ tiêu	O	O	O
 cực	O	O	O
 .	O	O	O
 
-"	O	O	O
+”	O	O	O
 Hai	O	O	O
 năm	O	O	O
 qua	O	O	O
@@ -244352,7 +244352,7 @@ chung	O	O	O
 của	O	O	O
 đất	O	O	O
 nước	O	O	O
-"	O	O	O
+”	O	O	O
 -	O	O	O
 Tổng	O	O	O
 Bí	O	O	O
@@ -244687,7 +244687,7 @@ hiệu	O	O	O
 quả	O	O	O
 .	O	O	O
 
-"	O	O	O
+”	O	O	O
 Tại	O	O	O
 sao	O	O	O
 có	O	O	O
@@ -244759,7 +244759,7 @@ này	O	O	O
 thế	O	O	O
 nào	O	O	O
 ?	O	O	O
-"	O	O	O
+”	O	O	O
 -	O	O	O
 Tổng	O	O	O
 Bí	O	O	O
@@ -244916,7 +244916,7 @@ mắt	O	O	O
 là	O	O	O
 Đề	O	O	O
 án	O	O	O
-"	O	O	O
+”	O	O	O
 Xây	O	O	O
 dựng	O	O	O
 đội	O	O	O
@@ -244949,7 +244949,7 @@ ngang	O	O	O
 tầm	O	O	O
 nhiệm	O	O	O
 vụ	O	O	O
-"	O	O	O
+”	O	O	O
 để	O	O	O
 trình	O	O	O
 Hội	O	O	O
@@ -245431,7 +245431,7 @@ hoàn	O	O	O
 thiện	O	O	O
 .	O	O	O
 
-"	O	O	O
+”	O	O	O
 Chúng	O	O	O
 ta	O	O	O
 phải	O	O	O
@@ -245520,7 +245520,7 @@ công	O	O	O
 tác	O	O	O
 cán	O	O	O
 bộ	O	O	O
-"	O	O	O
+”	O	O	O
 -	O	O	O
 Tổng	O	O	O
 Bí	O	O	O
@@ -248120,9 +248120,9 @@ trên	O	O	O
 tinh	O	O	O
 thần	O	O	O
 lấy	O	O	O
-"	O	O	O
+”	O	O	O
 xây	O	O	O
-"	O	O	O
+”	O	O	O
 là	O	O	O
 nhiệm	O	O	O
 vụ	O	O	O
@@ -248133,9 +248133,9 @@ lâu	O	O	O
 dài	O	O	O
 ,	O	O	O
 lấy	O	O	O
-"	O	O	O
+”	O	O	O
 chống	O	O	O
-"	O	O	O
+”	O	O	O
 là	O	O	O
 nhiệm	O	O	O
 vụ	O	O	O
@@ -248220,7 +248220,7 @@ tiêu	O	O	O
 cực	O	O	O
 .	O	O	O
 
-"	O	O	O
+”	O	O	O
 Hai	O	O	O
 năm	O	O	O
 qua	O	O	O
@@ -248273,7 +248273,7 @@ chung	O	O	O
 của	O	O	O
 đất	O	O	O
 nước	O	O	O
-"	O	O	O
+”	O	O	O
 -	O	O	O
 Tổng	O	O	O
 Bí	O	O	O
@@ -248608,7 +248608,7 @@ hiệu	O	O	O
 quả	O	O	O
 .	O	O	O
 
-"	O	O	O
+”	O	O	O
 Tại	O	O	O
 sao	O	O	O
 có	O	O	O
@@ -248680,7 +248680,7 @@ này	O	O	O
 thế	O	O	O
 nào	O	O	O
 ?	O	O	O
-"	O	O	O
+”	O	O	O
 -	O	O	O
 Tổng	O	O	O
 Bí	O	O	O
@@ -248837,7 +248837,7 @@ mắt	O	O	O
 là	O	O	O
 Đề	O	O	O
 án	O	O	O
-"	O	O	O
+”	O	O	O
 Xây	O	O	O
 dựng	O	O	O
 đội	O	O	O
@@ -248870,7 +248870,7 @@ ngang	O	O	O
 tầm	O	O	O
 nhiệm	O	O	O
 vụ	O	O	O
-"	O	O	O
+”	O	O	O
 để	O	O	O
 trình	O	O	O
 Hội	O	O	O
@@ -249352,7 +249352,7 @@ hoàn	O	O	O
 thiện	O	O	O
 .	O	O	O
 
-"	O	O	O
+”	O	O	O
 Chúng	O	O	O
 ta	O	O	O
 phải	O	O	O
@@ -249441,7 +249441,7 @@ công	O	O	O
 tác	O	O	O
 cán	O	O	O
 bộ	O	O	O
-"	O	O	O
+”	O	O	O
 -	O	O	O
 Tổng	O	O	O
 Bí	O	O	O
@@ -254524,10 +254524,10 @@ Tie	O	O	O
 Break	O	O	O
 10	O	O	O
 trước	O	O	O
-"	O	O	O
+”	O	O	O
 lão	O	O	O
 tướng	O	O	O
-"	O	O	O
+”	O	O	O
 Lleyton	B-PERSON	O	O
 Hewitt	I-PERSON	O	O
 cho	O	O	O
@@ -254742,11 +254742,11 @@ trong	O	O	O
 đó	O	O	O
 cá	O	O	O
 nhân	O	O	O
-"	O	O	O
+”	O	O	O
 Tàu	O	O	O
 tốc	O	O	O
 hành	O	O	O
-"	O	O	O
+”	O	O	O
 thắng	O	O	O
 cả	O	O	O
 4	O	O	O
@@ -254892,11 +254892,11 @@ chuyên	O	O	O
 môn	O	O	O
 tin	O	O	O
 rằng	O	O	O
-"	O	O	O
+”	O	O	O
 Tàu	O	O	O
 tốc	O	O	O
 hành	O	O	O
-"	O	O	O
+”	O	O	O
 sẽ	O	O	O
 giải	O	O	O
 quyết	O	O	O
@@ -255021,12 +255021,12 @@ khao	O	O	O
 khát	O	O	O
 soán	O	O	O
 ngôi	O	O	O
-"	O	O	O
+”	O	O	O
 nữ	O	O	O
 hoàng	O	O	O
 quần	O	O	O
 vợt	O	O	O
-"	O	O	O
+”	O	O	O
 của	O	O	O
 Sharapova	B-PERSON	O	O
 .	O	O	O
@@ -256040,7 +256040,7 @@ lời	O	O	O
 ông	O	O	O
 Sơn	B-PERSON	O	O
 :	O	O	O
-"	O	O	O
+”	O	O	O
 Trước	O	O	O
 khi	O	O	O
 bị	O	O	O
@@ -256125,7 +256125,7 @@ dấu	O	O	O
 hiệu	O	O	O
 say	O	O	O
 rượu	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Theo	O	O	O
@@ -256272,10 +256272,10 @@ xế	O	O	O
 bị	O	O	O
 tạt	O	O	O
 đầu	O	O	O
-"	O	O	O
+”	O	O	O
 giải	O	O	O
 quyết	O	O	O
-"	O	O	O
+”	O	O	O
 ngay	O	O	O
 việc	O	O	O
 tông	O	O	O
@@ -256483,7 +256483,7 @@ cẩu	O	O	O
 đi	O	O	O
 .	O	O	O
 
-"	O	O	O
+”	O	O	O
 Chúng	O	O	O
 tôi	O	O	O
 đang	O	O	O
@@ -256512,10 +256512,10 @@ Về	O	O	O
 dấu	O	O	O
 hiệu	O	O	O
 có	O	O	O
-"	O	O	O
+”	O	O	O
 vòi	O	O	O
 vĩnh	O	O	O
-"	O	O	O
+”	O	O	O
 và	O	O	O
 tài	O	O	O
 xế	O	O	O
@@ -256559,7 +256559,7 @@ như	O	O	O
 vậy	O	O	O
 là	O	O	O
 đúng	O	O	O
-"	O	O	O
+”	O	O	O
 -	O	O	O
 ông	O	O	O
 Sơn	B-PERSON	O	O
@@ -258300,7 +258300,7 @@ Bùi	B-PERSON	O	O
 phân	O	O	O
 tích	O	O	O
 :	O	O	O
-"	O	O	O
+”	O	O	O
 Nếu	O	O	O
 tài	O	O	O
 xế	O	O	O
@@ -258454,10 +258454,10 @@ trách	O	O	O
 nhiệm	O	O	O
 hình	O	O	O
 sự	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
-"	O	O	O
+”	O	O	O
 Thông	O	O	O
 tin	O	O	O
 ban	O	O	O
@@ -258554,7 +258554,7 @@ năm	O	O	O
 đến	O	O	O
 10	O	O	O
 năm	O	O	O
-"	O	O	O
+”	O	O	O
 -	O	O	O
 luật	O	O	O
 sư	O	O	O
@@ -259168,7 +259168,7 @@ ngoài	O	O	O
 muốn	O	O	O
 .	O	O	O
 
-"	O	O	O
+”	O	O	O
 Hiện	O	O	O
 vụ	O	O	O
 việc	O	O	O
@@ -259207,7 +259207,7 @@ tin	O	O	O
 cụ	O	O	O
 thể	O	O	O
 hơn	O	O	O
-"	O	O	O
+”	O	O	O
 ,	O	O	O
 Trung	O	O	O
 tá	O	O	O
@@ -261650,11 +261650,11 @@ còn	O	O	O
 được	O	O	O
 gọi	O	O	O
 là	O	O	O
-"	O	O	O
+”	O	O	O
 con	O	O	O
 gấu	O	O	O
 đỏ	O	O	O
-"	O	O	O
+”	O	O	O
 ,	O	O	O
 là	O	O	O
 khách	O	O	O
@@ -262571,10 +262571,10 @@ tặng	O	O	O
 ngư	O	O	O
 phủ	O	O	O
 những	O	O	O
-"	O	O	O
+”	O	O	O
 đặc	O	O	O
 ân	O	O	O
-"	O	O	O
+”	O	O	O
 dưới	O	O	O
 các	O	O	O
 khúc	O	O	O
@@ -262702,10 +262702,10 @@ khua	O	O	O
 nước	O	O	O
 ,	O	O	O
 tiếng	O	O	O
-"	O	O	O
+”	O	O	O
 í	O	O	O
 ới	O	O	O
-"	O	O	O
+”	O	O	O
 gọi	O	O	O
 nhau	O	O	O
 …	O	O	O
@@ -262906,7 +262906,7 @@ công	O	O	O
 nhân	O	O	O
 .	O	O	O
 
-"	O	O	O
+”	O	O	O
 Thời	O	O	O
 điểm	O	O	O
 này	O	O	O
@@ -262971,7 +262971,7 @@ kiếm	O	O	O
 được	O	O	O
 tiền	O	O	O
 triệu	O	O	O
-"	O	O	O
+”	O	O	O
 -	O	O	O
 anh	O	O	O
 Giang	B-PERSON	O	O
@@ -263041,10 +263041,10 @@ ghe	O	O	O
 họ	O	O	O
 phải	O	O	O
 nằm	O	O	O
-"	O	O	O
+”	O	O	O
 chờ	O	O	O
 tài	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Người	O	O	O
@@ -263128,10 +263128,10 @@ lưới	O	O	O
 cá	O	O	O
 bông	O	O	O
 lau	O	O	O
-"	O	O	O
+”	O	O	O
 cự	O	O	O
 phách	O	O	O
-"	O	O	O
+”	O	O	O
 trên	O	O	O
 sông	B-LOCATION	O	O
 Vàm	I-LOCATION	O	O
@@ -263160,10 +263160,10 @@ Do	O	O	O
 ,	O	O	O
 ông	O	O	O
 đã	O	O	O
-"	O	O	O
+”	O	O	O
 cự	O	O	O
 tuyệt	O	O	O
-"	O	O	O
+”	O	O	O
 với	O	O	O
 nghề	O	O	O
 hạ	O	O	O
@@ -263209,10 +263209,10 @@ gắn	O	O	O
 bó	O	O	O
 với	O	O	O
 nghề	O	O	O
-"	O	O	O
+”	O	O	O
 bà	O	O	O
 thuỷ	O	O	O
-"	O	O	O
+”	O	O	O
 chẳng	O	O	O
 dư	O	O	O
 dả	O	O	O
@@ -263294,7 +263294,7 @@ dòng	O	O	O
 Mêkông	B-LOCATION	O	O
 .	O	O	O
 
-"	O	O	O
+”	O	O	O
 Vào	O	O	O
 nghề	O	O	O
 đã	O	O	O
@@ -263327,7 +263327,7 @@ lại	O	O	O
 vùng	O	O	O
 nước	O	O	O
 lợ	O	O	O
-"	O	O	O
+”	O	O	O
 -	O	O	O
 anh	O	O	O
 Lợi	B-PERSON	O	O
@@ -263421,7 +263421,7 @@ Nao	I-LOCATION	O	O
 cho	O	O	O
 biết	O	O	O
 :	O	O	O
-"	O	O	O
+”	O	O	O
 trời	O	O	O
 trở	O	O	O
 lạnh	O	O	O
@@ -263477,7 +263477,7 @@ tiêu	O	O	O
 dùng	O	O	O
 ưa	O	O	O
 chuộng	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Còn	O	O	O
@@ -263509,7 +263509,7 @@ lộ	I-LOCATION	O	O
 cho	O	O	O
 biết	O	O	O
 :	O	O	O
-"	O	O	O
+”	O	O	O
 Mỗi	O	O	O
 ngày	O	O	O
 ,	O	O	O
@@ -263539,7 +263539,7 @@ lại	O	O	O
 mua	O	O	O
 rất	O	O	O
 đông	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Tờ	O	O	O
@@ -263556,10 +263556,10 @@ cũng	O	O	O
 là	O	O	O
 lúc	O	O	O
 nhiều	O	O	O
-"	O	O	O
+”	O	O	O
 ngư	O	O	O
 phủ	O	O	O
-"	O	O	O
+”	O	O	O
 lỉnh	O	O	O
 kỉnh	O	O	O
 xách	O	O	O
@@ -265901,10 +265901,10 @@ hiện	O	O	O
 trong	O	O	O
 bộ	O	O	O
 phim	O	O	O
-"	O	O	O
+”	O	O	O
 The	O	O	O
 Hangover	O	O	O
-"	O	O	O
+”	O	O	O
 phần	O	O	O
 2	O	O	O
 ,	O	O	O
@@ -267899,14 +267899,14 @@ câu	O	O	O
 cảm	O	O	O
 thán	O	O	O
 :	O	O	O
-"	O	O	O
+”	O	O	O
 Quang	O	O	O
 cảnh	O	O	O
 thật	O	O	O
 đẹp	O	O	O
 biết	O	O	O
 bao	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Đây	O	O	O
@@ -268041,14 +268041,14 @@ Push	B-PERSON	O	O
 chú	O	O	O
 thích	O	O	O
 :	O	O	O
-"	O	O	O
+”	O	O	O
 Rất	O	O	O
 lạnh	O	O	O
 nhưng	O	O	O
 cũng	O	O	O
 rất	O	O	O
 đẹp	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Vốn	O	O	O
@@ -268160,14 +268160,14 @@ ngừng	O	O	O
 xuýt	O	O	O
 xoa	O	O	O
 rằng	O	O	O
-"	O	O	O
+”	O	O	O
 Đất	O	O	O
 nước	O	O	O
 họ	O	O	O
 đẹp	O	O	O
 quá	O	O	O
 !	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Đêm	O	O	O
@@ -268201,10 +268201,10 @@ cột	O	O	O
 đèn	O	O	O
 giao	O	O	O
 thông	O	O	O
-"	O	O	O
+”	O	O	O
 tình	O	O	O
 yêu	O	O	O
-"	O	O	O
+”	O	O	O
 ngay	O	O	O
 thủ	O	O	O
 đô	O	O	O
@@ -268287,10 +268287,10 @@ Lan	I-LOCATION	O	O
 ,	O	O	O
 tài	O	O	O
 tử	O	O	O
-"	O	O	O
+”	O	O	O
 than	O	O	O
 khổ	O	O	O
-"	O	O	O
+”	O	O	O
 vì	O	O	O
 còn	O	O	O
 đến	O	O	O
@@ -273391,10 +273391,10 @@ vẫn	O	O	O
 tồn	O	O	O
 tại	O	O	O
 những	O	O	O
-"	O	O	O
+”	O	O	O
 cặp	O	O	O
 đôi	O	O	O
-"	O	O	O
+”	O	O	O
 lạ	O	O	O
 lẫm	O	O	O
 nhưng	O	O	O
@@ -273531,10 +273531,10 @@ rốt	O	O	O
 ,	O	O	O
 chính	O	O	O
 là	O	O	O
-"	O	O	O
+”	O	O	O
 thủ	O	O	O
 phạm	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Nhiều	O	O	O
@@ -273805,9 +273805,9 @@ National	B-ORGANIZATION	O	O
 Geographic	I-ORGANIZATION	O	O
 
 Mưa	O	O	O
-"	O	O	O
+”	O	O	O
 máu	O	O	O
-"	O	O	O
+”	O	O	O
 xảy	O	O	O
 ra	O	O	O
 nhiều	O	O	O
@@ -273841,9 +273841,9 @@ Lanka	I-LOCATION	O	O
 .	O	O	O
 
 Mưa	O	O	O
-"	O	O	O
+”	O	O	O
 máu	O	O	O
-"	O	O	O
+”	O	O	O
 là	O	O	O
 hiện	O	O	O
 tượng	O	O	O
@@ -274056,9 +274056,9 @@ châu	B-LOCATION	O	O
 
 Ngoài	O	O	O
 mưa	O	O	O
-"	O	O	O
+”	O	O	O
 máu	O	O	O
-"	O	O	O
+”	O	O	O
 ,	O	O	O
 người	O	O	O
 dân	O	O	O
@@ -274254,7 +274254,7 @@ rất	O	O	O
 nhiều	O	O	O
 .	O	O	O
 
-"	O	O	O
+”	O	O	O
 Khi	O	O	O
 quan	O	O	O
 sát	O	O	O
@@ -274292,7 +274292,7 @@ trắng	O	O	O
 từ	O	O	O
 trên	O	O	O
 xuống	O	O	O
-"	O	O	O
+”	O	O	O
 ,	O	O	O
 Les	B-PERSON	O	O
 Cowley	I-PERSON	O	O
@@ -274341,13 +274341,13 @@ cái	O	O	O
 tên	O	O	O
 mỹ	O	O	O
 miều	O	O	O
-"	O	O	O
+”	O	O	O
 biển	O	O	O
 của	O	O	O
 những	O	O	O
 vì	O	O	O
 sao	O	O	O
-"	O	O	O
+”	O	O	O
 .	O	O	O
 
 Vào	O	O	O
@@ -274367,13 +274367,13 @@ trời	O	O	O
 buông	O	O	O
 xuống	O	O	O
 ,	O	O	O
-"	O	O	O
+”	O	O	O
 biển	O	O	O
 của	O	O	O
 những	O	O	O
 vì	O	O	O
 sao	O	O	O
-"	O	O	O
+”	O	O	O
 mới	O	O	O
 thực	O	O	O
 sự	O	O	O
@@ -274460,10 +274460,10 @@ khi	O	O	O
 phát	O	O	O
 sáng	O	O	O
 để	O	O	O
-"	O	O	O
+”	O	O	O
 tố	O	O	O
 giác	O	O	O
-"	O	O	O
+”	O	O	O
 mình	O	O	O
 lại	O	O	O
 là	O	O	O
@@ -274839,7 +274839,7 @@ trắng	O	O	O
 Ông	O	O	O
 nói	O	O	O
 :	O	O	O
-"	O	O	O
+”	O	O	O
 Tôi	O	O	O
 đang	O	O	O
 dắt	O	O	O
@@ -274908,7 +274908,7 @@ gì	O	O	O
 được	O	O	O
 nữa	O	O	O
 .	O	O	O
-"	O	O	O
+”	O	O	O
 
 Nhận	O	O	O
 thấy	O	O	O
@@ -275021,7 +275021,7 @@ ra	O	O	O
 chia	O	O	O
 sẻ	O	O	O
 :	O	O	O
-"	O	O	O
+”	O	O	O
 Tôi	O	O	O
 cảm	O	O	O
 thấy	O	O	O
@@ -275054,7 +275054,7 @@ của	O	O	O
 tôi	O	O	O
 mất	O	O	O
 .	O	O	O
-"	O	O	O
+”	O	O	O
 
 Ông	O	O	O
 cũng	O	O	O
@@ -275084,10 +275084,10 @@ cổ	O	O	O
 của	O	O	O
 nó	O	O	O
 bị	O	O	O
-"	O	O	O
+”	O	O	O
 xé	O	O	O
 toạc	O	O	O
-"	O	O	O
+”	O	O	O
 ,	O	O	O
 trong	O	O	O
 khi	O	O	O
@@ -275107,7 +275107,7 @@ hình	O	O	O
 thù	O	O	O
 .	O	O	O
 
-"	O	O	O
+”	O	O	O
 Bobby	O	O	O
 bị	O	O	O
 thương	O	O	O
@@ -275139,7 +275139,7 @@ cổ	O	O	O
 được	O	O	O
 rồi	O	O	O
 .	O	O	O
-"	O	O	O
+”	O	O	O
 
 John	B-PERSON	O	O
 cũng	O	O	O
@@ -275238,7 +275238,7 @@ mình	O	O	O
 nói	O	O	O
 thêm	O	O	O
 :	O	O	O
-"	O	O	O
+”	O	O	O
 Những	O	O	O
 con	O	O	O
 chó	O	O	O
@@ -275309,7 +275309,7 @@ gia	O	O	O
 đình	O	O	O
 mình	O	O	O
 .	O	O	O
-"	O	O	O
+”	O	O	O
 
 Nguồn	O	O	O
 :	O	O	O
