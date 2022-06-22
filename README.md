@@ -80,7 +80,38 @@ tensorboard --logdir runs --host 0.0.0.0 --port=6006
 ```
 
 ## <div align="center">🥇Performances🥇</div>
+### VLSP 2016
 
+<table align="center">
+    <thead>
+        <tr>
+            <th align="center" rowspan="2">Model</th>
+            <th align="center" colspan="4">BIO-Metrics</th>
+            <th align="center" colspan="4">NE-Metrics</th>
+        </tr>
+        <tr>
+            <th align="center">Accuracy</th>
+            <th align="center">Precision</th>
+            <th align="center">Recall</th>
+            <th align="center">F1-score</th>
+            <th align="center">Accuracy</th>
+            <th align="center">Precision</th>
+            <th align="center">Recall</th>
+            <th align="center">F1-score</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td align="center">PhoBert-base + Softmax</td>
+            <td align="center">0.99</td>
+            <td align="center">0.96</td>
+            <td align="center">0.91</td>
+            <td align="center">0.93</td>
+        </tr>
+    </tbody>
+</table>
+
+### VLSP 2018
 
 ## <div align="center">🧠Inference🧠</div>
 The command below load your fine-tuned model and inference in your text input.

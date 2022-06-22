@@ -56,6 +56,7 @@ def validate(model, task, iterator, cur_epoch: int, output_dir: Union[str, os.Pa
         reports: dict = classification_report(eval_golds, eval_preds,
                                               output_dict=False,
                                               zero_division=0,
+                                              digits=4,
                                               target_names=LABEL_MAPPING[task]["label2id"])
         LOGGER.info(reports)
         label_index_to_print = list(range(len(LABEL_MAPPING[task]["label2id"])))
