@@ -278,14 +278,14 @@ def train():
 
         if eval_loss < best_loss:
             best_loss = eval_loss
-            cumulative_early_steps = 0
-        else:
-            cumulative_early_steps += 1
         if eval_f1 > best_score:
+            cumulative_early_steps = 0
             best_score = eval_f1
             saved_file = Path(args.output_dir + f"/best_model.pt")
             LOGGER.info(f"\t***New best model, saving to {saved_file}...***")
             save_model(args, saved_file, model)
+        else:
+            cumulative_early_steps += 1
     if args.run_test:
         test_dataset = build_dataset(args.data_dir,
                                      tokenizer,
