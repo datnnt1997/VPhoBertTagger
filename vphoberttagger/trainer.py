@@ -8,6 +8,7 @@ from tqdm import tqdm
 from pathlib import Path
 from typing import Union
 from prettytable import PrettyTable
+from tensorboardX import SummaryWriter
 from sklearn.metrics import classification_report
 from torch.utils.data import RandomSampler, DataLoader
 from transformers import AutoTokenizer, AutoConfig, get_cosine_schedule_with_warmup, AdamW
@@ -16,6 +17,7 @@ import os
 import sys
 import torch
 import time
+import datetime
 import itertools
 
 
@@ -71,9 +73,9 @@ def validate(model, task, iterator, cur_epoch: int, output_dir: Union[str, os.Pa
         epoch_avg_acc = reports['accuracy']
         LOGGER.info(f"\t{'*' * 20}Validate Summary{'*' * 20}")
         LOGGER.info(f"\tValidation Loss: {epoch_loss:.4f};\n"
-                    f"\tAccuracy: {epoch_avg_acc:.4f};\n"
-                    f"\tMacro-F1 score: {epoch_avg_f1:.4f}; "
-                    f"\tSpend time: {time.time() - start_time}")
+                    f"\tBIO-Accuracy: {epoch_avg_acc:.4f};\n"
+                    f"\tBIO-Macro-F1 score: {epoch_avg_f1:.4f}; "
+                    f"\tSpend time: {datetime.timedelta(seconds=(time.time() - start_time))}")
         return epoch_loss, epoch_avg_acc, epoch_avg_f1
 
 
@@ -96,12 +98,13 @@ def train_one_epoch(model, iterator, optim, cur_epoch: int, max_grad_norm: float
     LOGGER.info(f"\t{'*' * 20}Train Summary{'*' * 20}")
     LOGGER.info(f"\tTraining Lr: {optim.param_groups[0]['lr']}; "
                 f"Loss: {epoch_loss:.4f}; "
-                f"Spend time: {time.time() - start_time}")
+                f"Spend time: {datetime.timedelta(seconds=(time.time() - start_time))}")
     return epoch_loss
 
 
 def test():
     args = get_test_argument()
+    LOGGER.info(f"Arguments: {args}")
     device = 'cuda' if not args.no_cuda and torch.cuda.is_available() else 'cpu'
     assert os.path.exists(args.model_path), f'Checkpoint file `{args.model_path}` not exists!'
     if device == 'cpu':
@@ -160,12 +163,13 @@ def test():
 
 def train():
     args = get_train_argument()
+    LOGGER.info(f"Arguments: {args}")
     set_ramdom_seed(args.seed)
     device = 'cuda' if not args.no_cuda and torch.cuda.is_available() else 'cpu'
     use_crf = True if 'crf' in args.model_arch else False
     if not os.path.exists(args.output_dir):
         os.makedirs(args.output_dir)
-
+    tensorboard_writer = SummaryWriter()
     assert os.path.isdir(args.data_dir), f'{args.data_dir} not found!'
     setattr(args, 'label2id', LABEL_MAPPING[args.task]['label2id'])
     setattr(args, 'id2label', LABEL_MAPPING[args.task]['id2label'])
@@ -214,7 +218,7 @@ def train():
     if 'lstm' in args.model_arch:
         ner_param_optimizer.extend(list(model.lstm.named_parameters()))
     if 'crf' in args.model_arch:
-        ner_param_optimizer.extend(list(model.classifier.named_parameters()))
+        ner_param_optimizer.extend(list(model.crf.named_parameters()))
 
     optimizer_grouped_parameters = [
         {'params': [p for n, p in bert_param_optimizer if not any(nd in n for nd in no_decay)],
@@ -239,6 +243,7 @@ def train():
                                 num_workers=args.num_workers)
     eval_iterator = DataLoader(eval_dataset, batch_size=args.eval_batch_size, num_workers=args.num_workers)
     best_score = 0.0
+    best_loss = float('inf')
     cumulative_early_steps = 0
     for epoch in range(int(args.epochs)):
         if cumulative_early_steps > args.early_stop:
@@ -246,27 +251,40 @@ def train():
             break
         LOGGER.info(f"\n{'=' * 30}Training epoch {epoch}{'=' * 30}")
         # Fit model with dataset
-        train_one_epoch(model=model,
-                        optim=optimizer,
-                        iterator=train_iterator,
-                        cur_epoch=epoch,
-                        max_grad_norm=args.max_grad_norm,
-                        scheduler=scheduler)
+        tr_loss = train_one_epoch(model=model,
+                                  optim=optimizer,
+                                  iterator=train_iterator,
+                                  cur_epoch=epoch,
+                                  max_grad_norm=args.max_grad_norm,
+                                  scheduler=scheduler)
+
+        tensorboard_writer.add_scalar('TRAIN/Loss', tr_loss, epoch)
+
         # Validate trained model on dataset
-        _, _, eval_f1 = validate(model=model,
+        eval_loss, eval_acc, eval_f1 = validate(model=model,
                                  task=args.task,
                                  iterator=eval_iterator,
                                  cur_epoch=epoch,
                                  is_test=False)
-        LOGGER.info(f"\tEpoch F1 score = {eval_f1} ; Best score = {best_score}")
+
+        tensorboard_writer.add_scalar('EVAL_RESULT/Loss', eval_loss, epoch)
+        tensorboard_writer.add_scalar('EVAL_RESULT/BIO-Accuracy', eval_acc, epoch)
+        tensorboard_writer.add_scalar('EVAL_RESULT/BIO-F1-score', eval_f1, epoch)
+
+        LOGGER.info(f"\t{'*' * 20}Epoch Summary{'*' * 20}")
+        LOGGER.info(f"\tEpoch Loss = {eval_loss:.6f} ; Best loss = {best_loss:.6f}")
+        LOGGER.info(f"\tEpoch BIO-F1 score = {eval_f1:.6f} ; Best score = {best_score:.6f}")
+
+        if eval_loss < best_loss:
+            best_loss = eval_loss
+            cumulative_early_steps = 0
+        else:
+            cumulative_early_steps += 1
         if eval_f1 > best_score:
             best_score = eval_f1
             saved_file = Path(args.output_dir + f"/best_model.pt")
             LOGGER.info(f"\t***New best model, saving to {saved_file}...***")
             save_model(args, saved_file, model)
-            cumulative_early_steps = 0
-        else:
-            cumulative_early_steps += 1
     if args.run_test:
         test_dataset = build_dataset(args.data_dir,
                                      tokenizer,

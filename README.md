@@ -73,6 +73,12 @@ bash ./train.sh
 > + ***save_step*** (`int`, `*optional`): The number of steps in the model will be saved. Default=10000.
 > + ***gradient_accumulation_steps*** (`int`, `*optional`): Number of updates steps to accumulate before performing a backward/update pass. Default=1.
 
+## <div align="center">📈Tensorboard📈</div>
+The command below start Tensorboard help you follow fine-tune process.
+```bash
+tensorboard --logdir runs --host 0.0.0.0 --port=6006
+```
+
 ## <div align="center">🧠Inference🧠</div>
 The command below load your fine-tuned model and inference in your text input.
 ```bash

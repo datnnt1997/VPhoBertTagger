@@ -117,8 +117,8 @@ def plot_confusion_matrix(y_true, y_pred, classes, labels,
 
     # plt.rcParams['savefig.dpi'] = 200
     # plt.rcParams['figure.dpi'] = 200
-    # plt.rcParams['figure.figsize'] = [20, 20]
-    # plt.rcParams.update({'font.size': 10})
+    plt.rcParams['figure.figsize'] = [10, 10]
+    plt.rcParams.update({'font.size': 16})
 
     fig, ax = plt.subplots()
     im = ax.imshow(cm, interpolation='nearest', cmap=cmap)
@@ -141,8 +141,7 @@ def plot_confusion_matrix(y_true, y_pred, classes, labels,
            xlabel='Predicted label')
 
     # Rotate the tick labels and set their alignment.
-    plt.setp(ax.get_xticklabels(), rotation=45, ha="right",
-             rotation_mode="anchor")
+    plt.setp(ax.get_xticklabels(), rotation=45, ha="right", rotation_mode="anchor")
 
     # Loop over data dimensions and create text annotations.
     fmt = '.2f' if normalize else 'd'
