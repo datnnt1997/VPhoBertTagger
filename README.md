@@ -80,20 +80,23 @@ tensorboard --logdir runs --host 0.0.0.0 --port=6006
 ```
 
 ## <div align="center">🥇Performances🥇</div>
+All experiments were performed on an **RTX 3090** with **24GB VRAM**, and  a CPU **Xeon® E5-2678 v3** with **64GB RAM**, both of which are available for rent on **[vast.ai](https://vast.ai/)**. The pretrained-model used for comparison are available on **[HuggingFace](https://huggingface.co/models)**.
 ### VLSP 2016
 
 <table align="center">
     <thead>
         <tr>
-            <th align="center" rowspan="2">Model</th>
+            <th align="center" rowspan="2" colspan="2">Model</th>
             <th align="center" colspan="4">BIO-Metrics</th>
-            <th align="center" colspan="4">NE-Metrics</th>
+            <th align="center" colspan="5">NE-Metrics</th>
+            <th align="center" rowspan="2">Epoch</th>
         </tr>
         <tr>
             <th align="center">Accuracy</th>
             <th align="center">Precision</th>
             <th align="center">Recall</th>
             <th align="center">F1-score</th>
+            <th align="center">Accuracy<br>(w/o 'O')</th>
             <th align="center">Accuracy</th>
             <th align="center">Precision</th>
             <th align="center">Recall</th>
@@ -102,17 +105,570 @@ tensorboard --logdir runs --host 0.0.0.0 --port=6006
     </thead>
     <tbody>
         <tr>
-            <td align="center">PhoBert-base + Softmax</td>
-            <td align="center">0.99</td>
-            <td align="center">0.96</td>
-            <td align="center">0.91</td>
-            <td align="center">0.93</td>
+            <td align="left" rowspan="3">Bert-base-multilingual-cased [1]</td>
+            <td align="left">Softmax</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+        </tr>
+        <tr>
+            <td align="left">CRF</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+        </tr>
+        <tr>
+            <td align="left">LSTM_CRF</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+        </tr>
+        <tr>
+            <td align="left" rowspan="3">PhoBert-base [2]</td>
+            <td align="left">Softmax</td>
+            <td align="center">0.9949</td>
+            <td align="center">0.9442</td>
+            <td align="center">0.9266</td>
+            <td align="center">0.9344</td>
+            <td align="center">0.9501</td>
+            <td align="center">0.9949</td>
+            <td align="center">0.9382</td>
+            <td align="center">0.9419</td>
+            <td align="center">0.9400</td>
+            <td align="center">5</td>
+        </tr>
+        <tr>
+            <td align="left">CRF</td>
+            <td align="center">0.9950</td>
+            <td align="center">0.9449</td>
+            <td align="center">0.9245</td>
+            <td align="center">0.9340</td>
+            <td align="center">0.9527</td>
+            <td align="center">0.9950</td>
+            <td align="center">0.9468</td>
+            <td align="center">0.9513</td>
+            <td align="center">0.9491</td>
+            <td align="center">14</td>
+        </tr>
+        <tr>
+            <td align="left">LSTM+CRF</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+        </tr>
+        <tr>
+            <td align="left" rowspan="3">viBERT [3]</td>
+            <td align="left">Softmax</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+        </tr>
+        <tr>
+            <td align="left">CRF</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+        </tr>
+        <tr>
+            <td align="left">LSTM_CRF</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
         </tr>
     </tbody>
 </table>
 
 ### VLSP 2018
+#### Level 1
+<table align="center">
+    <thead>
+        <tr>
+            <th align="center" rowspan="2" colspan="2">Model</th>
+            <th align="center" colspan="4">BIO-Metrics</th>
+            <th align="center" colspan="5">NE-Metrics</th>
+            <th align="center" rowspan="2">Epoch</th>
+        </tr>
+        <tr>
+            <th align="center">Accuracy</th>
+            <th align="center">Precision</th>
+            <th align="center">Recall</th>
+            <th align="center">F1-score</th>
+            <th align="center">Accuracy<br>(w/o 'O')</th>
+            <th align="center">Accuracy</th>
+            <th align="center">Precision</th>
+            <th align="center">Recall</th>
+            <th align="center">F1-score</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td align="left" rowspan="3">Bert-base-multilingual-cased [1]</td>
+            <td align="left">Softmax</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+        </tr>
+        <tr>
+            <td align="left">CRF</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+        </tr>
+        <tr>
+            <td align="left">LSTM_CRF</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+        </tr>
+        <tr>
+            <td align="left" rowspan="3">PhoBert-base [2]</td>
+            <td align="left">Softmax</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+        </tr>
+        <tr>
+            <td align="left">CRF</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+        </tr>
+        <tr>
+            <td align="left">LSTM+CRF</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+        </tr>
+        <tr>
+            <td align="left" rowspan="3">viBERT [3]</td>
+            <td align="left">Softmax</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+        </tr>
+        <tr>
+            <td align="left">CRF</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+        </tr>
+        <tr>
+            <td align="left">LSTM_CRF</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+        </tr>
+    </tbody>
+</table>
 
+#### Level 2
+
+<table align="center">
+    <thead>
+        <tr>
+            <th align="center" rowspan="2" colspan="2">Model</th>
+            <th align="center" colspan="4">BIO-Metrics</th>
+            <th align="center" colspan="5">NE-Metrics</th>
+            <th align="center" rowspan="2">Epoch</th>
+        </tr>
+        <tr>
+            <th align="center">Accuracy</th>
+            <th align="center">Precision</th>
+            <th align="center">Recall</th>
+            <th align="center">F1-score</th>
+            <th align="center">Accuracy<br>(w/o 'O')</th>
+            <th align="center">Accuracy</th>
+            <th align="center">Precision</th>
+            <th align="center">Recall</th>
+            <th align="center">F1-score</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td align="left" rowspan="3">Bert-base-multilingual-cased [1]</td>
+            <td align="left">Softmax</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+        </tr>
+        <tr>
+            <td align="left">CRF</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+        </tr>
+        <tr>
+            <td align="left">LSTM_CRF</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+        </tr>
+        <tr>
+            <td align="left" rowspan="3">PhoBert-base [2]</td>
+            <td align="left">Softmax</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+        </tr>
+        <tr>
+            <td align="left">CRF</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+        </tr>
+        <tr>
+            <td align="left">LSTM+CRF</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+        </tr>
+        <tr>
+            <td align="left" rowspan="3">viBERT [3]</td>
+            <td align="left">Softmax</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+        </tr>
+        <tr>
+            <td align="left">CRF</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+        </tr>
+        <tr>
+            <td align="left">LSTM_CRF</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+        </tr>
+    </tbody>
+</table>
+
+#### Join
+
+<table align="center">
+    <thead>
+        <tr>
+            <th align="center" rowspan="2" colspan="2">Model</th>
+            <th align="center" colspan="4">BIO-Metrics</th>
+            <th align="center" colspan="5">NE-Metrics</th>
+            <th align="center" rowspan="2">Epoch</th>
+        </tr>
+        <tr>
+            <th align="center">Accuracy</th>
+            <th align="center">Precision</th>
+            <th align="center">Recall</th>
+            <th align="center">F1-score</th>
+            <th align="center">Accuracy<br>(w/o 'O')</th>
+            <th align="center">Accuracy</th>
+            <th align="center">Precision</th>
+            <th align="center">Recall</th>
+            <th align="center">F1-score</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td align="left" rowspan="3">Bert-base-multilingual-cased [1]</td>
+            <td align="left">Softmax</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+        </tr>
+        <tr>
+            <td align="left">CRF</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+        </tr>
+        <tr>
+            <td align="left">LSTM_CRF</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+        </tr>
+        <tr>
+            <td align="left" rowspan="3">PhoBert-base [2]</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+        </tr>
+        <tr>
+            <td align="left">CRF</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+        </tr>
+        <tr>
+            <td align="left">LSTM+CRF</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+        </tr>
+        <tr>
+            <td align="left" rowspan="3">viBERT [3]</td>
+            <td align="left">Softmax</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+        </tr>
+        <tr>
+            <td align="left">CRF</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+        </tr>
+        <tr>
+            <td align="left">LSTM_CRF</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+            <td align="center">...</td>
+        </tr>
+    </tbody>
+</table>
+
+[1] Kenton, J. D. M. W. C., & Toutanova, L. K. (2019). BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding. In Proceedings of NAACL-HLT (pp. 4171-4186).
+
+[2] Nguyen, D. Q., & Nguyen, A. T. (2020, November). PhoBERT: Pre-trained language models for Vietnamese. In Findings of the Association for Computational Linguistics: EMNLP 2020 (pp. 1037-1042).
+
+[3] The, V. B., Thi, O. T., & Le-Hong, P. (2020). Improving sequence tagging for vietnamese text using transformer-based neural models. arXiv preprint arXiv:2006.15994.
 ## <div align="center">🧠Inference🧠</div>
 The command below load your fine-tuned model and inference in your text input.
 ```bash
