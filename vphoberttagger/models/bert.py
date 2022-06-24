@@ -1,9 +1,8 @@
-from typing import Optional, List, Tuple, Any
-from collections import OrderedDict
-
-from transformers import logging, RobertaForTokenClassification
+from transformers import logging, BertForTokenClassification
 from torch.nn.utils.rnn import pack_padded_sequence, pad_packed_sequence
 from torchcrf import CRF
+
+from .base import NerOutput
 
 import torch
 import torch.nn as nn
@@ -12,41 +11,17 @@ import torch.nn.functional as F
 logging.set_verbosity_error()
 
 
-class PhoBertNerOutput(OrderedDict):
-    loss: Optional[torch.FloatTensor] = torch.FloatTensor([0.0])
-    tags: Optional[List[int]] = []
-
-    def __getitem__(self, k):
-        if isinstance(k, str):
-            inner_dict = {k: v for (k, v) in self.items()}
-            return inner_dict[k]
-        else:
-            return self.to_tuple()[k]
-
-    def __setattr__(self, name, value):
-        if name in self.keys() and value is not None:
-            super().__setitem__(name, value)
-        super().__setattr__(name, value)
-
-    def __setitem__(self, key, value):
-        super().__setitem__(key, value)
-        super().__setattr__(key, value)
-
-    def to_tuple(self) -> Tuple[Any]:
-        return tuple(self[k] for k in self.keys())
-
-
-class PhoBertSoftmax(RobertaForTokenClassification):
+class BertSoftmax(BertForTokenClassification):
     def __init__(self, config, **kwargs):
-        super(PhoBertSoftmax, self).__init__(config=config, **kwargs)
+        super(BertSoftmax, self).__init__(config=config, **kwargs)
         self.num_labels = config.num_labels
 
     def forward(self, input_ids, token_type_ids=None, attention_mask=None, labels=None, valid_ids=None,
                 label_masks=None):
-        seq_output = self.roberta(input_ids=input_ids,
-                                  token_type_ids=token_type_ids,
-                                  attention_mask=attention_mask,
-                                  head_mask=None)[0]
+        seq_output = self.bert(input_ids=input_ids,
+                               token_type_ids=token_type_ids,
+                               attention_mask=attention_mask,
+                               head_mask=None)[0]
         seq_output = self.dropout(seq_output)
         logits = self.classifier(seq_output)
         probs = F.log_softmax(logits, dim=2)
@@ -55,23 +30,23 @@ class PhoBertSoftmax(RobertaForTokenClassification):
         if labels is not None:
             loss_func = nn.CrossEntropyLoss()
             loss = loss_func(logits.view(-1, self.num_labels), labels.view(-1))
-            return PhoBertNerOutput(loss=loss, tags=seq_tags)
+            return NerOutput(loss=loss, tags=seq_tags)
         else:
-            return PhoBertNerOutput(tags=seq_tags)
+            return NerOutput(tags=seq_tags)
 
 
-class PhoBertCrf(RobertaForTokenClassification):
+class BertCrf(BertForTokenClassification):
     def __init__(self, config):
-        super(PhoBertCrf, self).__init__(config=config)
+        super(BertCrf, self).__init__(config=config)
         self.num_labels = config.num_labels
         self.crf = CRF(config.num_labels, batch_first=True)
         self.init_weights()
     def forward(self, input_ids, token_type_ids=None, attention_mask=None, labels=None, valid_ids=None,
                 label_masks=None):
-        seq_outputs = self.roberta(input_ids=input_ids,
-                                   token_type_ids=token_type_ids,
-                                   attention_mask=attention_mask,
-                                   head_mask=None)[0]
+        seq_outputs = self.bert(input_ids=input_ids,
+                                token_type_ids=token_type_ids,
+                                attention_mask=attention_mask,
+                                head_mask=None)[0]
 
         batch_size, max_len, feat_dim = seq_outputs.shape
         range_vector = torch.arange(0, batch_size, dtype=torch.long, device=seq_outputs.device).unsqueeze(1)
@@ -82,14 +57,14 @@ class PhoBertCrf(RobertaForTokenClassification):
 
         if labels is not None:
             log_likelihood = self.crf(logits, labels, mask=label_masks.type(torch.uint8))
-            return PhoBertNerOutput(loss=-1.0 * log_likelihood, tags=seq_tags)
+            return NerOutput(loss=-1.0 * log_likelihood, tags=seq_tags)
         else:
-            return PhoBertNerOutput(tags=seq_tags)
+            return NerOutput(tags=seq_tags)
 
 
-class PhoBertLstmCrf(RobertaForTokenClassification):
+class BertLstmCrf(BertForTokenClassification):
     def __init__(self, config):
-        super(PhoBertLstmCrf, self).__init__(config=config)
+        super(BertLstmCrf, self).__init__(config=config)
         self.num_labels = config.num_labels
         self.lstm = nn.LSTM(input_size=config.hidden_size,
                             hidden_size=config.hidden_size // 2,
@@ -101,9 +76,9 @@ class PhoBertLstmCrf(RobertaForTokenClassification):
     @staticmethod
     def sort_batch(src_tensor, lengths):
         """
-        Sort a minibatch by the length of the sequences with the longest sequences first
-        return the sorted batch targes and sequence lengths.
-        This way the output can be used by pack_padded_sequences(...)
+            Sort a minibatch by the length of the sequences with the longest sequences first
+            return the sorted batch targes and sequence lengths.
+            This way the output can be used by pack_padded_sequences(...)
         """
         seq_lengths, perm_idx = lengths.sort(0, descending=True)
         seq_tensor = src_tensor[perm_idx]
@@ -112,10 +87,10 @@ class PhoBertLstmCrf(RobertaForTokenClassification):
 
     def forward(self, input_ids, token_type_ids=None, attention_mask=None, labels=None, valid_ids=None,
                 label_masks=None):
-        seq_outputs = self.roberta(input_ids=input_ids,
-                                   token_type_ids=token_type_ids,
-                                   attention_mask=attention_mask,
-                                   head_mask=None)[0]
+        seq_outputs = self.bert(input_ids=input_ids,
+                                token_type_ids=token_type_ids,
+                                attention_mask=attention_mask,
+                                head_mask=None)[0]
 
         batch_size, max_len, feat_dim = seq_outputs.shape
         seq_lens = torch.sum(label_masks, dim=-1)
@@ -135,18 +110,17 @@ class PhoBertLstmCrf(RobertaForTokenClassification):
 
         if labels is not None:
             log_likelihood = self.crf(logits, labels, mask=label_masks.type(torch.uint8))
-            return PhoBertNerOutput(loss=-1.0 * log_likelihood, tags=seq_tags)
+            return NerOutput(loss=-1.0 * log_likelihood, tags=seq_tags)
         else:
-            return PhoBertNerOutput(tags=seq_tags)
+            return NerOutput(tags=seq_tags)
 
 
 # DEBUG
 if __name__ == "__main__":
-    from transformers import RobertaConfig
-
+    from transformers import BertConfig
     model_name = 'vinai/phobert-base'
-    config = RobertaConfig.from_pretrained(model_name, num_labels=7)
-    model = PhoBertLstmCrf.from_pretrained(model_name, config=config, from_tf=False)
+    config = BertConfig.from_pretrained(model_name, num_labels=7)
+    model = BertLstmCrf.from_pretrained(model_name, config=config, from_tf=False)
 
     input_ids = torch.randint(0, 2999, [2, 20], dtype=torch.long)
     mask = torch.ones([2, 20], dtype=torch.long)
@@ -171,5 +145,4 @@ if __name__ == "__main__":
     print(new_labels)
     print(label_mask)
     print(valid_ids)
-
     print(output)

@@ -115,7 +115,7 @@ def test():
     configs = checkpoint_data['args']
     use_crf = True if 'crf' in args.model_arch else False
     tokenizer = AutoTokenizer.from_pretrained(configs.model_name_or_path)
-    model_clss = MODEL_MAPPING[configs.model_arch]
+    model_clss = MODEL_MAPPING[configs.model_name_or_path][configs.model_arch]
     config = AutoConfig.from_pretrained(configs.model_name_or_path,
                                         num_labels=len(checkpoint_data['classes']),
                                         finetuning_task=configs.task)
@@ -198,7 +198,7 @@ def train():
     config = AutoConfig.from_pretrained(args.model_name_or_path,
                                         num_labels=len(args.label2id),
                                         finetuning_task=args.task)
-    model_clss = MODEL_MAPPING[args.model_arch]
+    model_clss = MODEL_MAPPING[args.model_name_or_path][args.model_arch]
     model = model_clss.from_pretrained(pretrained_model_name_or_path=args.model_name_or_path,
                                        config=config)
     model.resize_token_embeddings(len(tokenizer))
@@ -214,7 +214,7 @@ def train():
         checkpoint_data = None
 
     no_decay = ['bias', 'LayerNorm.weight', 'LayerNorm.bias']
-    bert_param_optimizer = list(model.roberta.named_parameters())
+    bert_param_optimizer = list(model.bert.named_parameters())
     ner_param_optimizer = list(model.classifier.named_parameters())
     if 'lstm' in args.model_arch:
         ner_param_optimizer.extend(list(model.lstm.named_parameters()))

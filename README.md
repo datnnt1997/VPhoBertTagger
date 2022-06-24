@@ -89,7 +89,7 @@ All experiments were performed on an **RTX 3090** with **24GB VRAM**, and  a CPU
             <th align="center" rowspan="2" colspan="2">Model</th>
             <th align="center" colspan="4">BIO-Metrics</th>
             <th align="center" colspan="5">NE-Metrics</th>
-            <th align="center" rowspan="2">Epoch</th>
+            <th align="center" rowspan="2">Log</th>
         </tr>
         <tr>
             <th align="center">Accuracy</th>
@@ -147,32 +147,40 @@ All experiments were performed on an **RTX 3090** with **24GB VRAM**, and  a CPU
         <tr>
             <td align="left" rowspan="3">PhoBert-base [2]</td>
             <td align="left">Softmax</td>
-            <td align="center">0.9949</td>
-            <td align="center">0.9442</td>
-            <td align="center">0.9266</td>
-            <td align="center">0.9344</td>
-            <td align="center">0.9501</td>
-            <td align="center">0.9949</td>
-            <td align="center">0.9382</td>
-            <td align="center">0.9419</td>
-            <td align="center">0.9400</td>
-            <td align="center">5</td>
+            <td align="center">0.9950</td> 
+            <td align="center">0.9312</td>
+            <td align="center">0.9404</td>
+            <td align="center">0.9348</td>
+            <td align="center">0.9570</td>
+            <td align="center">0.9950</td>
+            <td align="center">0.9434</td>
+            <td align="center">0.9466</td>
+            <td align="center">0.9450</td>
+            <td align="left">
+                <a href="./statics/confusion_matrix/phobert_softmax_vlsp2016.png">Maxtrix</a>
+                <br/>
+                <a href="./statics/train_logs/phobert_softmax_vlsp2016.log">Log</a>
+            </td>
         </tr>
         <tr>
             <td align="left">CRF</td>
-            <td align="center">0.9950</td>
-            <td align="center">0.9449</td>
-            <td align="center">0.9245</td>
-            <td align="center">0.9340</td>
-            <td align="center">0.9527</td>
-            <td align="center">0.9950</td>
-            <td align="center">0.9468</td>
-            <td align="center">0.9513</td>
-            <td align="center">0.9491</td>
-            <td align="center">14</td>
+            <td align="center">0.9949 </td>
+            <td align="center">0.9497</td>
+            <td align="center">0.9248</td>
+            <td align="center">0.9359</td>
+            <td align="center">0.9525</td>
+            <td align="center">0.9949</td>
+            <td align="center">0.9516</td>
+            <td align="center">0.9456</td>
+            <td align="center">0.9486</td>
+            <td align="left">
+                <a href="./statics/confusion_matrix/phobert_crf_vlsp2016.png">Maxtrix</a>
+                <br/>
+                <a href="./statics/train_logs/phobert_crf_vlsp2016.log">Log</a>
+            </td>        
         </tr>
         <tr>
-            <td align="left">LSTM+CRF</td>
+            <td align="left">LSTM_CRF</td>
             <td align="center">...</td>
             <td align="center">...</td>
             <td align="center">...</td>
@@ -228,6 +236,7 @@ All experiments were performed on an **RTX 3090** with **24GB VRAM**, and  a CPU
 </table>
 
 ### VLSP 2018
+
 #### Level 1
 <table align="center">
     <thead>

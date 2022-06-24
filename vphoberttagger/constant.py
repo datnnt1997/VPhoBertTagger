@@ -1,5 +1,6 @@
 from .helper import init_logger
-from .model import PhoBertSoftmax, PhoBertCrf, PhoBertLstmCrf
+from vphoberttagger.models import *
+from .processor import convert_word_segment_examples_features, convert_syllable_examples_features
 from datetime import datetime
 
 
@@ -9,10 +10,28 @@ LABEL2ID_VLSP2016 = ['O', 'B-ORG', 'I-ORG', 'B-LOC', 'I-LOC', 'B-PER', 'I-PER', 
 LABEL2ID_VLSP2018 = ['O', 'B-ORGANIZATION', 'I-ORGANIZATION', 'B-LOCATION', 'I-LOCATION', 'B-PERSON', 'I-PERSON',
                      'B-MISCELLANEOUS', 'I-MISCELLANEOUS']
 
+PROCESSOR_MAPPING = {
+    'vinai/phobert-base': convert_word_segment_examples_features,
+    'FPTAI/vibert-base-cased': convert_syllable_examples_features,
+    'bert-base-multilingual-cased': convert_syllable_examples_features,
+}
+
 MODEL_MAPPING = {
-    'softmax': PhoBertSoftmax,
-    'crf': PhoBertCrf,
-    'lstm_crf': PhoBertLstmCrf
+    'vinai/phobert-base': {
+        'softmax': PhoBertSoftmax,
+        'crf': PhoBertCrf,
+        'lstm_crf': PhoBertLstmCrf
+    },
+    'FPTAI/vibert-base-cased': {
+        'softmax': viBertSoftmax,
+        'crf': viBertCrf,
+        'lstm_crf': viBertLstmCrf
+    },
+    'bert-base-multilingual-cased': {
+        'softmax': BertSoftmax,
+        'crf': BertCrf,
+        'lstm_crf': BertLstmCrf
+    }
 }
 
 LABEL_MAPPING = {

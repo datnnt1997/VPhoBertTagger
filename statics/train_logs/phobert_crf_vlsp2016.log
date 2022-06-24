@@ -1,0 +1,442 @@
+Start TRAIN process...
+Arguments: Namespace(adam_epsilon=1e-06, data_dir='./datasets/vlsp2016', early_stop=10.0, epochs=50, eval_batch_size=32, gradient_accumulation_steps=1, learning_rate=3e-05, load_weights=None, max_grad_norm=1.0, max_seq_length=128, model_arch='crf', model_name_or_path='vinai/phobert-base', no_cuda=False, num_workers=0, output_dir='crf_outputs', overwrite_data=True, run_test=True, save_step=20000, seed=42, task='vlsp2016', train_batch_size=32, type='train', warmup_proportion=0.1, weight_decay=0.01)
+
+==============================Training epoch 0==============================
+	********************Train Summary********************
+	Training Lr: 2.9999999856803338e-05; Loss: 303.6927; Spend time: 0:02:24.851531
+	********************Validate Summary********************
+	Validation Loss: 28.7723;
+	BIO-Accuracy: 0.9906;
+	BIO-Macro-F1 score: 0.6856; 	Spend time: 0:00:09.709839
+	********************Epoch Summary********************
+	Epoch Loss = 28.772286 ; Best loss = inf
+	Epoch BIO-F1 score = 0.685604 ; Best score = 0.000000
+	***New best model, saving to crf_outputs/best_model.pt...***
+
+==============================Training epoch 1==============================
+	********************Train Summary********************
+	Training Lr: 2.9968914728692797e-05; Loss: 19.4507; Spend time: 0:02:23.750351
+	********************Validate Summary********************
+	Validation Loss: 17.3502;
+	BIO-Accuracy: 0.9932;
+	BIO-Macro-F1 score: 0.9112; 	Spend time: 0:00:09.611169
+	********************Epoch Summary********************
+	Epoch Loss = 17.350178 ; Best loss = 28.772286
+	Epoch BIO-F1 score = 0.911222 ; Best score = 0.685604
+	***New best model, saving to crf_outputs/best_model.pt...***
+
+==============================Training epoch 2==============================
+	********************Train Summary********************
+	Training Lr: 2.987605379337009e-05; Loss: 9.9409; Spend time: 0:02:21.864717
+	********************Validate Summary********************
+	Validation Loss: 14.3940;
+	BIO-Accuracy: 0.9948;
+	BIO-Macro-F1 score: 0.9274; 	Spend time: 0:00:09.651780
+	********************Epoch Summary********************
+	Epoch Loss = 14.393961 ; Best loss = 17.350178
+	Epoch BIO-F1 score = 0.927434 ; Best score = 0.911222
+	***New best model, saving to crf_outputs/best_model.pt...***
+
+==============================Training epoch 3==============================
+	********************Train Summary********************
+	Training Lr: 2.9721800282308062e-05; Loss: 6.1631; Spend time: 0:02:22.884770
+	********************Validate Summary********************
+	Validation Loss: 16.2683;
+	BIO-Accuracy: 0.9942;
+	BIO-Macro-F1 score: 0.9078; 	Spend time: 0:00:09.736192
+	********************Epoch Summary********************
+	Epoch Loss = 16.268297 ; Best loss = 14.393961
+	Epoch BIO-F1 score = 0.907785 ; Best score = 0.927434
+
+==============================Training epoch 4==============================
+	********************Train Summary********************
+	Training Lr: 2.950679079043251e-05; Loss: 4.0708; Spend time: 0:02:21.480289
+	********************Validate Summary********************
+	Validation Loss: 16.9322;
+	BIO-Accuracy: 0.9944;
+	BIO-Macro-F1 score: 0.9251; 	Spend time: 0:00:09.646144
+	********************Epoch Summary********************
+	Epoch Loss = 16.932164 ; Best loss = 14.393961
+	Epoch BIO-F1 score = 0.925113 ; Best score = 0.927434
+
+==============================Training epoch 5==============================
+	********************Train Summary********************
+	Training Lr: 2.9231912648933415e-05; Loss: 3.1787; Spend time: 0:02:26.512178
+	********************Validate Summary********************
+	Validation Loss: 16.5729;
+	BIO-Accuracy: 0.9945;
+	BIO-Macro-F1 score: 0.9264; 	Spend time: 0:00:10.936287
+	********************Epoch Summary********************
+	Epoch Loss = 16.572875 ; Best loss = 14.393961
+	Epoch BIO-F1 score = 0.926432 ; Best score = 0.927434
+
+==============================Training epoch 6==============================
+	********************Train Summary********************
+	Training Lr: 2.8898300263302683e-05; Loss: 2.2992; Spend time: 0:02:21.562319
+	********************Validate Summary********************
+	Validation Loss: 16.7687;
+	BIO-Accuracy: 0.9946;
+	BIO-Macro-F1 score: 0.9285; 	Spend time: 0:00:09.476585
+	********************Epoch Summary********************
+	Epoch Loss = 16.768659 ; Best loss = 14.393961
+	Epoch BIO-F1 score = 0.928461 ; Best score = 0.927434
+	***New best model, saving to crf_outputs/best_model.pt...***
+
+==============================Training epoch 7==============================
+	********************Train Summary********************
+	Training Lr: 2.8507330431711178e-05; Loss: 1.9982; Spend time: 0:02:22.093319
+	********************Validate Summary********************
+	Validation Loss: 18.2094;
+	BIO-Accuracy: 0.9944;
+	BIO-Macro-F1 score: 0.9268; 	Spend time: 0:00:09.736913
+	********************Epoch Summary********************
+	Epoch Loss = 18.209385 ; Best loss = 14.393961
+	Epoch BIO-F1 score = 0.926789 ; Best score = 0.928461
+
+==============================Training epoch 8==============================
+	********************Train Summary********************
+	Training Lr: 2.8060616663045808e-05; Loss: 1.7650; Spend time: 0:02:20.527311
+	********************Validate Summary********************
+	Validation Loss: 23.5162;
+	BIO-Accuracy: 0.9939;
+	BIO-Macro-F1 score: 0.9149; 	Spend time: 0:00:09.571962
+	********************Epoch Summary********************
+	Epoch Loss = 23.516154 ; Best loss = 14.393961
+	Epoch BIO-F1 score = 0.914911 ; Best score = 0.928461
+
+==============================Training epoch 9==============================
+	********************Train Summary********************
+	Training Lr: 2.7560002518055785e-05; Loss: 1.5178; Spend time: 0:02:20.270774
+	********************Validate Summary********************
+	Validation Loss: 23.9771;
+	BIO-Accuracy: 0.9933;
+	BIO-Macro-F1 score: 0.9130; 	Spend time: 0:00:09.451858
+	********************Epoch Summary********************
+	Epoch Loss = 23.977085 ; Best loss = 14.393961
+	Epoch BIO-F1 score = 0.913020 ; Best score = 0.928461
+
+==============================Training epoch 10==============================
+	********************Train Summary********************
+	Training Lr: 2.7007554001088735e-05; Loss: 1.5582; Spend time: 0:02:19.920567
+	********************Validate Summary********************
+	Validation Loss: 22.4079;
+	BIO-Accuracy: 0.9943;
+	BIO-Macro-F1 score: 0.9261; 	Spend time: 0:00:09.433993
+	********************Epoch Summary********************
+	Epoch Loss = 22.407937 ; Best loss = 14.393961
+	Epoch BIO-F1 score = 0.926075 ; Best score = 0.928461
+
+==============================Training epoch 11==============================
+	********************Train Summary********************
+	Training Lr: 2.640555103381548e-05; Loss: 1.1721; Spend time: 0:02:19.438282
+	********************Validate Summary********************
+	Validation Loss: 22.3402;
+	BIO-Accuracy: 0.9943;
+	BIO-Macro-F1 score: 0.9236; 	Spend time: 0:00:09.529736
+	********************Epoch Summary********************
+	Epoch Loss = 22.340217 ; Best loss = 14.393961
+	Epoch BIO-F1 score = 0.923601 ; Best score = 0.928461
+
+==============================Training epoch 12==============================
+	********************Train Summary********************
+	Training Lr: 2.5756478046131003e-05; Loss: 1.3613; Spend time: 0:02:20.063675
+	********************Validate Summary********************
+	Validation Loss: 22.8043;
+	BIO-Accuracy: 0.9944;
+	BIO-Macro-F1 score: 0.9259; 	Spend time: 0:00:09.516939
+	********************Epoch Summary********************
+	Epoch Loss = 22.804276 ; Best loss = 14.393961
+	Epoch BIO-F1 score = 0.925921 ; Best score = 0.928461
+
+==============================Training epoch 13==============================
+	********************Train Summary********************
+	Training Lr: 2.5063013723062285e-05; Loss: 0.9009; Spend time: 0:02:20.156419
+	********************Validate Summary********************
+	Validation Loss: 22.7434;
+	BIO-Accuracy: 0.9945;
+	BIO-Macro-F1 score: 0.9281; 	Spend time: 0:00:09.497770
+	********************Epoch Summary********************
+	Epoch Loss = 22.743367 ; Best loss = 14.393961
+	Epoch BIO-F1 score = 0.928063 ; Best score = 0.928461
+
+==============================Training epoch 14==============================
+	********************Train Summary********************
+	Training Lr: 2.432801994999693e-05; Loss: 0.9627; Spend time: 0:02:19.828620
+	********************Validate Summary********************
+	Validation Loss: 25.2753;
+	BIO-Accuracy: 0.9946;
+	BIO-Macro-F1 score: 0.9305; 	Spend time: 0:00:09.507289
+	********************Epoch Summary********************
+	Epoch Loss = 25.275272 ; Best loss = 14.393961
+	Epoch BIO-F1 score = 0.930465 ; Best score = 0.928461
+	***New best model, saving to crf_outputs/best_model.pt...***
+
+==============================Training epoch 15==============================
+	********************Train Summary********************
+	Training Lr: 2.3554530001854997e-05; Loss: 1.0832; Spend time: 0:02:19.729900
+	********************Validate Summary********************
+	Validation Loss: 26.4642;
+	BIO-Accuracy: 0.9934;
+	BIO-Macro-F1 score: 0.9184; 	Spend time: 0:00:09.622345
+	********************Epoch Summary********************
+	Epoch Loss = 26.464204 ; Best loss = 14.393961
+	Epoch BIO-F1 score = 0.918350 ; Best score = 0.930465
+
+==============================Training epoch 16==============================
+	********************Train Summary********************
+	Training Lr: 2.2745736024946557e-05; Loss: 0.3641; Spend time: 0:02:19.904623
+	********************Validate Summary********************
+	Validation Loss: 25.2279;
+	BIO-Accuracy: 0.9942;
+	BIO-Macro-F1 score: 0.9279; 	Spend time: 0:00:09.460958
+	********************Epoch Summary********************
+	Epoch Loss = 25.227865 ; Best loss = 14.393961
+	Epoch BIO-F1 score = 0.927926 ; Best score = 0.930465
+
+==============================Training epoch 17==============================
+	********************Train Summary********************
+	Training Lr: 2.190497586317662e-05; Loss: 0.3267; Spend time: 0:02:19.282492
+	********************Validate Summary********************
+	Validation Loss: 24.8790;
+	BIO-Accuracy: 0.9943;
+	BIO-Macro-F1 score: 0.9238; 	Spend time: 0:00:09.578545
+	********************Epoch Summary********************
+	Epoch Loss = 24.878964 ; Best loss = 14.393961
+	Epoch BIO-F1 score = 0.923771 ; Best score = 0.930465
+
+==============================Training epoch 18==============================
+	********************Train Summary********************
+	Training Lr: 2.1035719282964903e-05; Loss: 0.4012; Spend time: 0:02:22.731056
+	********************Validate Summary********************
+	Validation Loss: 24.3342;
+	BIO-Accuracy: 0.9946;
+	BIO-Macro-F1 score: 0.9286; 	Spend time: 0:00:09.669904
+	********************Epoch Summary********************
+	Epoch Loss = 24.334205 ; Best loss = 14.393961
+	Epoch BIO-F1 score = 0.928578 ; Best score = 0.930465
+
+==============================Training epoch 19==============================
+	********************Train Summary********************
+	Training Lr: 2.014155365372932e-05; Loss: 1.0508; Spend time: 0:02:22.832800
+	********************Validate Summary********************
+	Validation Loss: 25.0843;
+	BIO-Accuracy: 0.9939;
+	BIO-Macro-F1 score: 0.9215; 	Spend time: 0:00:09.674662
+	********************Epoch Summary********************
+	Epoch Loss = 25.084305 ; Best loss = 14.393961
+	Epoch BIO-F1 score = 0.921489 ; Best score = 0.930465
+
+==============================Training epoch 20==============================
+	********************Train Summary********************
+	Training Lr: 1.9226169143029012e-05; Loss: 0.3664; Spend time: 0:02:22.784663
+	********************Validate Summary********************
+	Validation Loss: 24.2534;
+	BIO-Accuracy: 0.9951;
+	BIO-Macro-F1 score: 0.9305; 	Spend time: 0:00:09.617563
+	********************Epoch Summary********************
+	Epoch Loss = 24.253413 ; Best loss = 14.393961
+	Epoch BIO-F1 score = 0.930465 ; Best score = 0.930465
+	***New best model, saving to crf_outputs/best_model.pt...***
+
+==============================Training epoch 21==============================
+	********************Train Summary********************
+	Training Lr: 1.8293343487465653e-05; Loss: 0.3123; Spend time: 0:02:20.499948
+	********************Validate Summary********************
+	Validation Loss: 23.5033;
+	BIO-Accuracy: 0.9950;
+	BIO-Macro-F1 score: 0.9319; 	Spend time: 0:00:09.646171
+	********************Epoch Summary********************
+	Epoch Loss = 23.503327 ; Best loss = 14.393961
+	Epoch BIO-F1 score = 0.931912 ; Best score = 0.930465
+	***New best model, saving to crf_outputs/best_model.pt...***
+
+==============================Training epoch 22==============================
+	********************Train Summary********************
+	Training Lr: 1.7346926402192622e-05; Loss: 0.3539; Spend time: 0:02:22.964619
+	********************Validate Summary********************
+	Validation Loss: 25.9761;
+	BIO-Accuracy: 0.9938;
+	BIO-Macro-F1 score: 0.9207; 	Spend time: 0:00:09.589038
+	********************Epoch Summary********************
+	Epoch Loss = 25.976056 ; Best loss = 14.393961
+	Epoch BIO-F1 score = 0.920732 ; Best score = 0.931912
+
+==============================Training epoch 23==============================
+	********************Train Summary********************
+	Training Lr: 1.6390823693373017e-05; Loss: 0.6688; Spend time: 0:02:21.790431
+	********************Validate Summary********************
+	Validation Loss: 21.3523;
+	BIO-Accuracy: 0.9947;
+	BIO-Macro-F1 score: 0.9292; 	Spend time: 0:00:09.637145
+	********************Epoch Summary********************
+	Epoch Loss = 21.352346 ; Best loss = 14.393961
+	Epoch BIO-F1 score = 0.929232 ; Best score = 0.931912
+
+==============================Training epoch 24==============================
+	********************Train Summary********************
+	Training Lr: 1.5428981139153445e-05; Loss: 0.2504; Spend time: 0:02:21.105427
+	********************Validate Summary********************
+	Validation Loss: 23.8831;
+	BIO-Accuracy: 0.9947;
+	BIO-Macro-F1 score: 0.9321; 	Spend time: 0:00:09.644889
+	********************Epoch Summary********************
+	Epoch Loss = 23.883119 ; Best loss = 14.393961
+	Epoch BIO-F1 score = 0.932096 ; Best score = 0.931912
+	***New best model, saving to crf_outputs/best_model.pt...***
+
+==============================Training epoch 25==============================
+	********************Train Summary********************
+	Training Lr: 1.4465368205675908e-05; Loss: 0.1308; Spend time: 0:02:21.278449
+	********************Validate Summary********************
+	Validation Loss: 24.4612;
+	BIO-Accuracy: 0.9949;
+	BIO-Macro-F1 score: 0.9359; 	Spend time: 0:00:09.586009
+	********************Epoch Summary********************
+	Epoch Loss = 24.461216 ; Best loss = 14.393961
+	Epoch BIO-F1 score = 0.935878 ; Best score = 0.932096
+	***New best model, saving to crf_outputs/best_model.pt...***
+
+==============================Training epoch 26==============================
+	********************Train Summary********************
+	Training Lr: 1.3503961665330687e-05; Loss: 0.1463; Spend time: 0:02:21.019341
+	********************Validate Summary********************
+	Validation Loss: 25.0762;
+	BIO-Accuracy: 0.9949;
+	BIO-Macro-F1 score: 0.9335; 	Spend time: 0:00:09.639663
+	********************Epoch Summary********************
+	Epoch Loss = 25.076185 ; Best loss = 14.393961
+	Epoch BIO-F1 score = 0.933465 ; Best score = 0.935878
+
+==============================Training epoch 27==============================
+	********************Train Summary********************
+	Training Lr: 1.2548729184856848e-05; Loss: 0.1070; Spend time: 0:02:21.057086
+	********************Validate Summary********************
+	Validation Loss: 27.0021;
+	BIO-Accuracy: 0.9948;
+	BIO-Macro-F1 score: 0.9335; 	Spend time: 0:00:09.705077
+	********************Epoch Summary********************
+	Epoch Loss = 27.002138 ; Best loss = 14.393961
+	Epoch BIO-F1 score = 0.933506 ; Best score = 0.935878
+
+==============================Training epoch 28==============================
+	********************Train Summary********************
+	Training Lr: 1.1603612951021168e-05; Loss: 0.0993; Spend time: 0:02:21.603383
+	********************Validate Summary********************
+	Validation Loss: 27.4424;
+	BIO-Accuracy: 0.9946;
+	BIO-Macro-F1 score: 0.9288; 	Spend time: 0:00:09.653937
+	********************Epoch Summary********************
+	Epoch Loss = 27.442437 ; Best loss = 14.393961
+	Epoch BIO-F1 score = 0.928789 ; Best score = 0.935878
+
+==============================Training epoch 29==============================
+	********************Train Summary********************
+	Training Lr: 1.0672513401451408e-05; Loss: 0.1038; Spend time: 0:02:21.548927
+	********************Validate Summary********************
+	Validation Loss: 26.8407;
+	BIO-Accuracy: 0.9948;
+	BIO-Macro-F1 score: 0.9317; 	Spend time: 0:00:09.756978
+	********************Epoch Summary********************
+	Epoch Loss = 26.840742 ; Best loss = 14.393961
+	Epoch BIO-F1 score = 0.931747 ; Best score = 0.935878
+
+==============================Training epoch 30==============================
+	********************Train Summary********************
+	Training Lr: 9.759273127765743e-06; Loss: 0.1264; Spend time: 0:02:21.555767
+	********************Validate Summary********************
+	Validation Loss: 26.3921;
+	BIO-Accuracy: 0.9949;
+	BIO-Macro-F1 score: 0.9335; 	Spend time: 0:00:09.657909
+	********************Epoch Summary********************
+	Epoch Loss = 26.392118 ; Best loss = 14.393961
+	Epoch BIO-F1 score = 0.933532 ; Best score = 0.935878
+
+==============================Training epoch 31==============================
+	********************Train Summary********************
+	Training Lr: 8.867661017429156e-06; Loss: 0.1113; Spend time: 0:02:21.759635
+	********************Validate Summary********************
+	Validation Loss: 29.3708;
+	BIO-Accuracy: 0.9946;
+	BIO-Macro-F1 score: 0.9292; 	Spend time: 0:00:09.725400
+	********************Epoch Summary********************
+	Epoch Loss = 29.370789 ; Best loss = 14.393961
+	Epoch BIO-F1 score = 0.929229 ; Best score = 0.935878
+
+==============================Training epoch 32==============================
+	********************Train Summary********************
+	Training Lr: 8.001356699782496e-06; Loss: 0.1271; Spend time: 0:02:20.992248
+	********************Validate Summary********************
+	Validation Loss: 27.7411;
+	BIO-Accuracy: 0.9949;
+	BIO-Macro-F1 score: 0.9312; 	Spend time: 0:00:09.589510
+	********************Epoch Summary********************
+	Epoch Loss = 27.741077 ; Best loss = 14.393961
+	Epoch BIO-F1 score = 0.931155 ; Best score = 0.935878
+
+==============================Training epoch 33==============================
+	********************Train Summary********************
+	Training Lr: 7.1639353604343234e-06; Loss: 0.0803; Spend time: 0:02:20.900306
+	********************Validate Summary********************
+	Validation Loss: 27.1669;
+	BIO-Accuracy: 0.9951;
+	BIO-Macro-F1 score: 0.9341; 	Spend time: 0:00:09.593462
+	********************Epoch Summary********************
+	Epoch Loss = 27.166937 ; Best loss = 14.393961
+	Epoch BIO-F1 score = 0.934125 ; Best score = 0.935878
+
+==============================Training epoch 34==============================
+	********************Train Summary********************
+	Training Lr: 6.358852986685841e-06; Loss: 0.0657; Spend time: 0:02:21.141324
+	********************Validate Summary********************
+	Validation Loss: 27.1712;
+	BIO-Accuracy: 0.9949;
+	BIO-Macro-F1 score: 0.9321; 	Spend time: 0:00:09.831028
+	********************Epoch Summary********************
+	Epoch Loss = 27.171239 ; Best loss = 14.393961
+	Epoch BIO-F1 score = 0.932137 ; Best score = 0.935878
+
+==============================Training epoch 35==============================
+	********************Train Summary********************
+	Training Lr: 5.5894321048799315e-06; Loss: 0.0698; Spend time: 0:02:20.860083
+	********************Validate Summary********************
+	Validation Loss: 27.9094;
+	BIO-Accuracy: 0.9949;
+	BIO-Macro-F1 score: 0.9325; 	Spend time: 0:00:09.675155
+	********************Epoch Summary********************
+	Epoch Loss = 27.909413 ; Best loss = 14.393961
+	Epoch BIO-F1 score = 0.932506 ; Best score = 0.935878
+
+==============================Training epoch 36==============================
+	********************Train Summary********************
+	Training Lr: 4.858848068535599e-06; Loss: 0.0448; Spend time: 0:02:20.718313
+	********************Validate Summary********************
+	Validation Loss: 27.3556;
+	BIO-Accuracy: 0.9950;
+	BIO-Macro-F1 score: 0.9338; 	Spend time: 0:00:09.639338
+	********************Epoch Summary********************
+	Epoch Loss = 27.355571 ; Best loss = 14.393961
+	Epoch BIO-F1 score = 0.933795 ; Best score = 0.935878
+Early stopping. Check your saved model.
+Processed 66091 tokens with 2996 phrases; Found: 2977 phrases; correct: 2833.
+Accuracy: 95.2517; (without `O` tag)
+Accuracy: 0.9949;  Precision: 0.9516; Recall: 0.9456; F1-score: 0.9486
+              LOC: Precision: 0.9503; Recall: 0.9427; F1-score: 0.9465  1368
+             MISC: Precision: 1.0000; Recall: 0.8571; F1-score: 0.9231  42
+              ORG: Precision: 0.8188; Recall: 0.8248; F1-score: 0.8218  276
+              PER: Precision: 0.9799; Recall: 0.9776; F1-score: 0.9787  1291
+              precision    recall  f1-score   support
+
+           O     0.9984    0.9983    0.9984     61205
+       B-ORG     0.8699    0.8540    0.8619       274
+       I-ORG     0.8534    0.9093    0.8805       397
+       B-LOC     0.9538    0.9448    0.9493      1377
+       I-LOC     0.8942    0.9309    0.9122       463
+       B-PER     0.9860    0.9815    0.9837      1294
+       I-PER     0.9918    0.9898    0.9908       983
+      B-MISC     1.0000    0.8571    0.9231        49
+      I-MISC     1.0000    0.8571    0.9231        49
+
+    accuracy                         0.9949     66091
+   macro avg     0.9497    0.9248    0.9359     66091
+weighted avg     0.9950    0.9949    0.9949     66091
+
