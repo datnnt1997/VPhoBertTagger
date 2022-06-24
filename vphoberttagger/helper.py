@@ -67,6 +67,9 @@ def normalize_text(txt: str) -> str:
     txt = re.sub(r"ũy", "uỹ", txt)
     txt = re.sub(r"ụy", "uỵ", txt)
     txt = re.sub(r"Ủy", "Uỷ", txt)
+
+    txt = re.sub(r'"', '”', txt)
+
     # Remove multi-space
     txt = re.sub(" +", " ", txt)
     return txt.strip()
