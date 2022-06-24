@@ -12,3 +12,5 @@ prettytable~=3.3.0
 matplotlib~=3.5.2
 tensorboard~=2.9.0
 tensorboardX~=2.5
+st-annotated-text~=3.0.0
+streamlit~=1.10.0
