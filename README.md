@@ -315,7 +315,7 @@ All experiments were performed on an **RTX 3090** with **24GB VRAM**, and  a CPU
             <td align="center">0.8421</td>
             <td align="center">0.8942</td>
             <td align="center">0.8674</td>
-           <td align="left">
+            <td align="left">
                 <a href="./statics/confusion_matrix/phobert_softmax_vlsp2018_l1.png">Maxtrix</a>
                 <br/>
                 <a href="./statics/train_logs/phobert_softmax_vlsp2018_l1.log">Log</a>
@@ -323,29 +323,37 @@ All experiments were performed on an **RTX 3090** with **24GB VRAM**, and  a CPU
         </tr>
         <tr>
             <td align="left">CRF</td>
-            <td align="center">...</td>
-            <td align="center">...</td>
-            <td align="center">...</td>
-            <td align="center">...</td>
-            <td align="center">...</td>
-            <td align="center">...</td>
-            <td align="center">...</td>
-            <td align="center">...</td>
-            <td align="center">...</td>
-            <td align="center">...</td>
+            <td align="center">0.9903</td>
+            <td align="center">0.8124</td>
+            <td align="center">0.8428</td>
+            <td align="center">0.8260</td>
+            <td align="center">0.8834</td>
+            <td align="center">0.9903</td>
+            <td align="center">0.8695</td>
+            <td align="center">0.8943</td>
+            <td align="center">0.8817</td>
+            <td align="left">
+                <a href="./statics/confusion_matrix/phobert_crf_vlsp2018_l1.png">Maxtrix</a>
+                <br/>
+                <a href="./statics/train_logs/phobert_crf_vlsp2018_l1.log">Log</a>
+            </td>
         </tr>
         <tr>
             <td align="left">LSTM+CRF</td>
-            <td align="center">...</td>
-            <td align="center">...</td>
-            <td align="center">...</td>
-            <td align="center">...</td>
-            <td align="center">...</td>
-            <td align="center">...</td>
-            <td align="center">...</td>
-            <td align="center">...</td>
-            <td align="center">...</td>
-            <td align="center">...</td>
+            <td align="center">0.9901</td>
+            <td align="center">0.8240</td>
+            <td align="center">0.8278</td>
+            <td align="center">0.8241</td>
+            <td align="center">0.8715</td>
+            <td align="center">0.9901</td>
+            <td align="center">0.8671</td>
+            <td align="center">0.8773</td>
+            <td align="center">0.8721</td>
+            <td align="left">
+                <a href="./statics/confusion_matrix/phobert_lstm_crf_vlsp2018_l1.png">Maxtrix</a>
+                <br/>
+                <a href="./statics/train_logs/phobert_lstm_crf_vlsp2018_l1.log">Log</a>
+            </td>
         </tr>
         <tr>
             <td align="left" rowspan="3">viBERT [3]</td>

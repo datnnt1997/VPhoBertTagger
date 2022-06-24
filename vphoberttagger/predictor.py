@@ -57,7 +57,7 @@ class ViTagger(object):
                                   is_split_into_words=True,
                                   max_length=self.max_seq_len)
         if 'vinai/phobert' in self.tokenizer.name_or_path:
-            subwords = self.tokenizer.tokenize(tokens, is_split_into_words=True)
+            subwords = self.tokenizer.tokenize(' '.join(tokens))
             valid_ids = np.zeros(len(encoding.input_ids), dtype=int)
             label_marks = np.zeros(len(encoding.input_ids), dtype=int)
             i = 1
@@ -92,6 +92,43 @@ class ViTagger(object):
         item['label_masks'] = torch.as_tensor([valid_ids]).to(self.device, dtype=torch.long)
         return item
 
+    def extract_entity_doc(self, in_raw: str):
+        sents = self.preprocess(in_raw)
+        entities_doc = []
+        for sent in sents:
+            item = self.convert_tensor(sent)
+            with torch.no_grad():
+                outputs = self.model(**item)
+            entity = None
+            if isinstance(outputs.tags[0], list):
+                tags = list(itertools.chain(*outputs.tags))
+            else:
+                tags = outputs.tags
+            for w, l in list(zip(sent, tags)):
+                tag = self.id2label[l]
+                if not tag == 'O':
+                    prefix, tag = tag.split('-')
+                    if entity is None:
+                        entity = (w, tag)
+                    else:
+                        if entity[-1] == tag:
+                            if prefix == 'I':
+                                entity = (entity[0] + f' {w}', tag)
+                            else:
+                                entities_doc.append(entity)
+                                entity = (w, tag)
+                        else:
+                            entities_doc.append(entity)
+                            entity = (w, tag)
+                elif entity is not None:
+                    entities_doc.append(entity)
+                    entities_doc.append((w, 'O'))
+                    entity = None
+                else:
+                    entities_doc.append((w, 'O'))
+                    entity = None
+        return entities_doc
+
     def __call__(self, in_raw: str):
         sents = self.preprocess(in_raw)
         entites = []
@@ -100,11 +137,11 @@ class ViTagger(object):
             with torch.no_grad():
                 outputs = self.model(**item)
             entity = None
-            if isinstance(outputs.tags, tuple):
+            if isinstance(outputs.tags[0], list):
                 tags = list(itertools.chain(*outputs.tags))
             else:
                 tags = outputs.tags
-            for w, l in list(zip(sent.split(), tags)):
+            for w, l in list(zip(sent, tags)):
                 tag = self.id2label[l]
                 if not tag == 'O':
                     prefix, tag = tag.split('-')
