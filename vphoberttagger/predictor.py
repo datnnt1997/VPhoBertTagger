@@ -105,6 +105,7 @@ class ViTagger(object):
             else:
                 tags = outputs.tags
             for w, l in list(zip(sent, tags)):
+                w = w.replace("_", " ")
                 tag = self.id2label[l]
                 if not tag == 'O':
                     prefix, tag = tag.split('-')
@@ -142,6 +143,7 @@ class ViTagger(object):
             else:
                 tags = outputs.tags
             for w, l in list(zip(sent, tags)):
+                w = w.replace("_", " ")
                 tag = self.id2label[l]
                 if not tag == 'O':
                     prefix, tag = tag.split('-')

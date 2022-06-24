@@ -1,7 +1,7 @@
 from vphoberttagger import LOGGER, Trainer, Predictor
 
 import sys
-
+import os
 
 if __name__ == '__main__':
     if sys.argv[1] == 'train':
@@ -13,5 +13,11 @@ if __name__ == '__main__':
     elif sys.argv[1] == 'predict':
         LOGGER.info("Start PREDICT process...")
         Predictor.tagging()
-    else:
+    elif sys.argv[1] == 'demo':
+        LOGGER.info("Start PREDICT process...")
+        comd = "streamlit run vphoberttagger/demo.py -- " + " ".join(sys.argv[1:])
+        print(comd)
+        os.system(comd)
+
+else:
         LOGGER.error(f'[ERROR] - `{sys.argv[1]}` not found!!!')

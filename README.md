@@ -49,7 +49,7 @@ bash ./train.sh
 ```
 
 > Arguments:
-> + ***type*** (`str`,`*required`): What is process type to be run. Must in [`train`, `test`, `predict`].
+> + ***type*** (`str`,`*required`): What is process type to be run. Must in [`train`, `test`, `predict`, `demo`].
 > + ***task*** (`str`, `*optional`): Training task selected in the list: [`vlsp2016`, `vlsp2018_l1`, `vlsp2018_l2`, `vlsp2018_join`]. Default: `vlsp2016`
 > + ***data_dir*** (`Union[str, os.PathLike]`, `*required`): The input data dir. Should contain the .csv files (or other data files) for the task.
 > + ***overwrite_data*** (`bool`, `*optional`) : Whether not to overwirte splitted dataset. Default=False
@@ -701,7 +701,21 @@ python main.py predict --model_path outputs/best_model.pt
 ```
 
 > Arguments:
-> + ***type*** (`str`,`*required`): What is process type to be run. Must in [`train`, `test`, `predict`].
+> + ***type*** (`str`,`*required`): What is process type to be run. Must in [`train`, `test`, `predict`, `demo`].
+> + ***model_path*** (`Union[str, os.PathLike]`, `*optional`): Path of pretrained file.
+> + ***no_cuda*** (`bool`, `*optional`): Whether not to use CUDA when available. Default=False.
+
+## <div align="center">🌟Demo🌟</div>
+<h2 align="center">
+  <img src="statics/images/demo_page.jpg" width="400" height="420">
+</h2>
+
+The command below load your fine-tuned model and start demo page.
+```bash
+python main.py demo --model_path outputs/best_model.pt
+```
+> Arguments:
+> + ***type*** (`str`,`*required`): What is process type to be run. Must in [`train`, `test`, `predict`, `demo`].
 > + ***model_path*** (`Union[str, os.PathLike]`, `*optional`): Path of pretrained file.
 > + ***no_cuda*** (`bool`, `*optional`): Whether not to use CUDA when available. Default=False.
 

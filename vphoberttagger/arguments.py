@@ -3,7 +3,7 @@ from argparse import ArgumentParser
 
 def get_predict_argument():
     parser = ArgumentParser()
-    parser.add_argument('type', choices=['train', 'test', 'predict'],
+    parser.add_argument('type', choices=['train', 'test', 'predict', 'demo'],
                         help='What processs to be run')
     parser.add_argument("--model_path", default='outputs/best_model.pt', type=str,
                         help="")
@@ -14,7 +14,7 @@ def get_predict_argument():
 
 def get_test_argument():
     parser = ArgumentParser()
-    parser.add_argument('type', choices=['train', 'test', 'predict'],
+    parser.add_argument('type', choices=['train', 'test', 'predict', 'demo'],
                         help='What processs to be run')
     parser.add_argument("--data_dir", default='datasets/samples', type=str,
                         help="The input data dir. Should contain the .txt files (or other data files) for the task.")
@@ -34,7 +34,7 @@ def get_test_argument():
 
 def get_train_argument():
     parser = ArgumentParser()
-    parser.add_argument('type', choices=['train', 'test', 'predict'],
+    parser.add_argument('type', choices=['train', 'test', 'predict', 'demo'],
                         help='What process to be run')
     parser.add_argument("--task", default='vlsp2016', type=str, choices=['vlsp2016', 'vlsp2018_l1', 'vlsp2018_l2',
                                                                          'vlsp2018_join'],
