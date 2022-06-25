@@ -15,7 +15,7 @@ if __name__ == '__main__':
         Predictor.tagging()
     elif sys.argv[1] == 'demo':
         LOGGER.info("Start PREDICT process...")
-        comd = "streamlit run vphoberttagger/demo.py -- " + " ".join(sys.argv[1:])
+        comd = "PYTHONPATH=./ streamlit run vphoberttagger/demo.py -- " + " ".join(sys.argv[1:])
         print(comd)
         os.system(comd)
 

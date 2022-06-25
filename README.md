@@ -108,16 +108,20 @@ All experiments were performed on an **RTX 3090** with **24GB VRAM**, and  a CPU
             <tr>
                 <td align="left" rowspan="3">Bert-base-multilingual-cased [1]</td>
                 <td align="left">Softmax</td>
-                <td align="center">...</td>
-                <td align="center">...</td>
-                <td align="center">...</td>
-                <td align="center">...</td>
-                <td align="center">...</td>
-                <td align="center">...</td>
-                <td align="center">...</td>
-                <td align="center">...</td>
-                <td align="center">...</td>
-                <td align="center">...</td>
+                <td align="center">0.9905</td>
+                <td align="center">0.9239</td>
+                <td align="center">0.8776</td>
+                <td align="center">0.8984</td>
+                <td align="center">0.9068</td>
+                <td align="center">0.9905</td>
+                <td align="center">0.8938</td>
+                <td align="center">0.8941</td>
+                <td align="center">0.8939</td>
+                <td align="left">
+                    <a href="./statics/confusion_matrix/bert_ml_vlsp2016.png">Maxtrix</a>
+                    <br/>
+                    <a href="./statics/train_logs/bert_ml_vlsp2016.log">Log</a>
+                </td>
             </tr>
             <tr>
                 <td align="left">CRF</td>
