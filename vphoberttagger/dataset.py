@@ -44,16 +44,17 @@ def build_dataset(data_dir: Union[str, os.PathLike],
 if __name__ == '__main__':
     from transformers import AutoTokenizer
     from torch.utils.data import DataLoader
+    from vphoberttagger.constant import LABEL2ID_VLSP2018
     tokenizer = AutoTokenizer.from_pretrained("vinai/phobert-base")
-    ner_dataset = build_dataset('../datasets/vlsp2016',
+    ner_dataset = build_dataset('../datasets/vlsp2018',
                                 tokenizer,
                                 dtype='train',
                                 max_seq_len=128,
                                 device='cuda',
                                 use_crf=True,
-                                header=['token', 'pos', 'chunk', 'ner'],
+                                header=['token', 'tmp1', 'ner', 'tmp2'],
                                 overwrite_data=True,
-                                label2id=['O', 'B-ORG', 'I-ORG', 'B-LOC', 'I-LOC', 'B-PER', 'I-PER', 'B-MISC', 'I-MISC'])
+                                label2id=LABEL2ID_VLSP2018)
     ner_iterator = DataLoader(ner_dataset, batch_size=12)
     for batch in ner_iterator:
         print(batch)

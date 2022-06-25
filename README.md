@@ -699,11 +699,11 @@ All experiments were performed on an **RTX 3090** with **24GB VRAM**, and  a CPU
 </details>
 
 #### References
-[1] Kenton, J. D. M. W. C., & Toutanova, L. K. (2019). BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding. In Proceedings of NAACL-HLT (pp. 4171-4186).
+**[1]** Kenton, J. D. M. W. C., & Toutanova, L. K. (2019). BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding. *In Proceedings of NAACL-HLT<i/> (pp. 4171-4186)*.
 
-[2] Nguyen, D. Q., & Nguyen, A. T. (2020, November). PhoBERT: Pre-trained language models for Vietnamese. In Findings of the Association for Computational Linguistics: EMNLP 2020 (pp. 1037-1042).
+**[2]** Nguyen, D. Q., & Nguyen, A. T. (2020, November). PhoBERT: Pre-trained language models for Vietnamese. *In Findings of the Association for Computational Linguistics: EMNLP 2020 (pp. 1037-1042)*.
 
-[3] The, V. B., Thi, O. T., & Le-Hong, P. (2020). Improving sequence tagging for vietnamese text using transformer-based neural models. arXiv preprint arXiv:2006.15994.
+**[3]** The, V. B., Thi, O. T., & Le-Hong, P. (2020). Improving sequence tagging for vietnamese text using transformer-based neural models. *arXiv preprint arXiv:2006.15994*.
 ## <div align="center">🧠Inference🧠</div>
 The command below load your fine-tuned model and inference in your text input.
 ```bash
