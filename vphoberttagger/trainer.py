@@ -1,3 +1,5 @@
+import transformers
+
 from vphoberttagger.constant import LOGGER, MODEL_MAPPING, LABEL_MAPPING
 from vphoberttagger.helper import set_ramdom_seed, plot_confusion_matrix, get_total_model_parameters
 from vphoberttagger.arguments import get_train_argument, get_test_argument
@@ -214,7 +216,10 @@ def train():
         checkpoint_data = None
 
     no_decay = ['bias', 'LayerNorm.weight', 'LayerNorm.bias']
-    bert_param_optimizer = list(model.bert.named_parameters())
+    if args.model_name_or_path == 'vinai/phobert-base':
+        bert_param_optimizer = list(model.roberta.named_parameters())
+    else:
+        bert_param_optimizer = list(model.bert.named_parameters())
     ner_param_optimizer = list(model.classifier.named_parameters())
     if 'lstm' in args.model_arch:
         ner_param_optimizer.extend(list(model.lstm.named_parameters()))
@@ -226,10 +231,8 @@ def train():
          'weight_decay': args.weight_decay},
         {'params': [p for n, p in bert_param_optimizer if any(nd in n for nd in no_decay)],
          'weight_decay': 0.0},
-        {'params': [p for n, p in ner_param_optimizer if not any(nd in n for nd in no_decay)],
-         'lr': args.learning_rate * 5, 'weight_decay': args.weight_decay},
-        {'params': [p for n, p in ner_param_optimizer if any(nd in n for nd in no_decay)],
-         'lr': args.learning_rate * 5, 'weight_decay': 0.0}
+        {'params': [p for n, p in ner_param_optimizer],
+         'lr': args.classifier_learning_rate, 'weight_decay': args.weight_decay}
     ]
 
     optimizer = torch.optim.AdamW(optimizer_grouped_parameters, lr=args.learning_rate, eps=args.adam_epsilon)

@@ -60,7 +60,9 @@ def get_train_argument():
                         help="Total batch size for training.")
     parser.add_argument("--eval_batch_size", default=32, type=int,
                         help="Total batch size for eval.")
-    parser.add_argument("--learning_rate", default=5e-5, type=float,
+    parser.add_argument("--learning_rate", default=1e-4, type=float,
+                        help="The initial learning rate for Adam.")
+    parser.add_argument("--classifier_learning_rate", default=3e-4, type=float,
                         help="The initial learning rate for Adam.")
     parser.add_argument("--epochs", default=100, type=int,
                         help="Total number of training epochs to perform.")

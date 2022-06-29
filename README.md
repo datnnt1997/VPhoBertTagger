@@ -60,7 +60,8 @@ bash ./train.sh
 > + ***max_seq_length*** (`int`, `*optional`): The maximum total input sequence length after WordPiece tokenization. Sequences longer than this will be truncated, and sequences shorter than this will be padded. Default=190.
 > + ***train_batch_size*** (`int`, `*optional`): Total batch size for training. Default=32.
 > + ***eval_batch_size*** (`int`, `*optional`): Total batch size for eval. Default=32.
-> + ***learning_rate*** (`float`, `*optional`): The initial learning rate for Adam. Default=5e-5.
+> + ***learning_rate*** (`float`, `*optional`): The initial learning rate for Adam. Default=1e-4.
+> + ***classifier_learning_rate*** (`float`, `*optional`): The initial classifier learning rate for Adam. Default=5e-4.
 > + ***epochs*** (`float`, `*optional`): Total number of training epochs to perform. Default=100.0.
 > + ***weight_decay*** (`float`, `*optional`): Weight deay if we apply some. Default=0.01.
 > + ***adam_epsilon*** (`float`, `*optional`): Epsilon for Adam optimizer. Default=5e-8.

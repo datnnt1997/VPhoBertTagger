@@ -168,7 +168,7 @@ def get_result(correct_chunks, true_chunks, pred_chunks,
     # print overall performance, and performance per chunk type
     LOGGER.info(f"Processed {sum_true_counts} tokens with {sum_true_chunks} phrases; "
                 f"Found: {sum_pred_chunks} phrases; correct: {sum_correct_chunks}.")
-    LOGGER.info("Accuracy: %0.4f; (without `O` tag)" % (100 * nonO_correct_counts / nonO_true_counts))
+    LOGGER.info("Accuracy: %0.4f; (without `O` tag)" % (nonO_correct_counts / nonO_true_counts))
     LOGGER.info("Accuracy: %0.4f;  Precision: %0.4f; Recall: %0.4f; F1-score: %0.4f"
                 % (sum_correct_counts / sum_true_counts, prec, rec, f1))
     # for each chunk type, compute precision, recall and FB1 (default values are 0.0)
