@@ -30,10 +30,15 @@ def build_dataset(data_dir: Union[str, os.PathLike],
                   device:str = 'cpu',
                   use_crf: bool = False,
                   overwrite_data: bool = False) -> NerDataset:
-    dfile_path = Path(data_dir+f'/{dtype}.txt')
+    if header == 'jsonl':
+        process_key = tokenizer.name_or_path+'/jsonl'
+        dfile_path = Path(data_dir + f'/{dtype}.jsonl')
+    else:
+        process_key = tokenizer.name_or_path
+        dfile_path = Path(data_dir+f'/{dtype}.txt')
     cached_path = dfile_path.with_suffix('.cached')
     if not os.path.exists(cached_path) or overwrite_data:
-        features = PROCESSOR_MAPPING[tokenizer.name_or_path](dfile_path, tokenizer, label2id, header, max_seq_len, use_crf=use_crf)
+        features = PROCESSOR_MAPPING[process_key](dfile_path, tokenizer, label2id, header, max_seq_len, use_crf=use_crf)
         torch.save(features, cached_path)
     else:
         features = torch.load(cached_path)

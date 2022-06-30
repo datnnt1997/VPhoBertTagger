@@ -3,6 +3,7 @@ from tqdm import tqdm
 
 import os
 import torch
+import jsonlines
 import pandas as pd
 import numpy as np
 
@@ -163,6 +164,87 @@ def convert_word_segment_examples_features(data_path: Union[str, os.PathLike],
         tokens = []
         tag_ids = []
     return features
+
+
+def convert_word_segment_examples_features_from_jsonl(data_path: Union[str, os.PathLike],
+                                                      tokenizer,
+                                                      label2id,
+                                                      header_names: List[str],
+                                                      max_seq_len: int = 256,
+                                                      use_crf: bool = False) -> List[NerFeatures]:
+    features = []
+    with jsonlines.open(file=data_path, mode='r') as f:
+        for line in f.iter():
+            sentence = line['data']
+            tokens = sentence.split()
+            sorted_labels = sorted(line['label'], key=lambda tup: tup[0])
+            tag_ids = []
+            last_index = 0
+            for l in sorted_labels:
+                tag = l[-1].strip()
+                tag_ids.extend([label2id.index('O')] * len(sentence[last_index: l[0]].strip().split()))
+                for i, _ in enumerate(sentence[l[0]: l[1]].strip().split()):
+                    if i == 0:
+                        tag_ids.append(label2id.index(f'B-{tag}'))
+                    else:
+                        tag_ids.append(label2id.index(f'I-{tag}'))
+                last_index = l[1]
+            tag_ids.extend([label2id.index('O')] * len(sentence[last_index:].strip().split()))
+            assert len(tokens) == len(tag_ids), f'[ERROR] {line["id"]} is not matching ' \
+                                                f'number of tokens-{len(tokens)} and tags-{len(tag_ids)}: {line}'
+            seq_len = len(tag_ids)
+            encoding = tokenizer(sentence,
+                                 padding='max_length',
+                                 truncation=True,
+                                 max_length=max_seq_len)
+            subwords = tokenizer.tokenize(sentence)
+            valid_ids = np.zeros(len(encoding.input_ids), dtype=int)
+            label_marks = np.zeros(len(encoding.input_ids), dtype=int)
+            valid_labels = np.ones(len(encoding.input_ids), dtype=int) * -100
+            i = 1
+            for idx, subword in enumerate(subwords[:max_seq_len - 2]):
+                if idx != 0 and subwords[idx - 1].endswith("@@"):
+                    continue
+                if use_crf:
+                    valid_ids[i - 1] = idx + 1
+                else:
+                    valid_ids[idx + 1] = 1
+                valid_labels[idx + 1] = tag_ids[i - 1]
+                i += 1
+
+            if max_seq_len > seq_len:
+                label_padding_size = (max_seq_len - seq_len)
+                label_marks[:seq_len] = [1] * seq_len
+                tag_ids.extend([0] * label_padding_size)
+            else:
+                tag_ids = tag_ids[:max_seq_len]
+                label_marks[:-2] = [1] * (max_seq_len - 2)
+                tag_ids[-2:] = [0] * 2
+            if use_crf and label_marks[0] == 0:
+                raise f"{sentence} - {tag_ids} have mark == 0 at index 0!"
+
+            items = {key: val for key, val in encoding.items()}
+            items['labels'] = tag_ids if use_crf else valid_labels
+            items['valid_ids'] = valid_ids
+            items['label_masks'] = label_marks if use_crf else valid_ids
+            features.append(NerFeatures(**items))
+
+            for k, v in items.items():
+                assert len(v) == max_seq_len, f"{line['id']} Expected length of {k} is {max_seq_len} but got {len(v)}"
+        return features
+
+
+# DEBUG
+if __name__ == "__main__":
+    from transformers import AutoTokenizer
+    from vphoberttagger.constant import LABEL_MAPPING
+    label_info = LABEL_MAPPING['BDS']
+    convert_word_segment_examples_features_from_jsonl(data_path='./datasets/bds2022/sample.jsonl',
+                                                      tokenizer=AutoTokenizer.from_pretrained('vinai/phobert-base'),
+                                                      label2id=label_info["label2id"],
+                                                      header_names=label_info['header'],
+                                                      max_seq_len=128,
+                                                      use_crf=True)
 
 
 
