@@ -6,7 +6,7 @@ scikit-learn~=1.0.2
 vncorenlp
 scikit-learn~=1.0.2
 tqdm~=4.64.0
-numpy~=1.22.3
+numpy
 nltk~=3.7
 prettytable~=3.3.0
 matplotlib~=3.5.2
