@@ -61,6 +61,6 @@ LABEL_MAPPING = {
     'bds2022': {
         'label2id': LABEL2ID_BDS,
         'id2label': {idx: label for idx, label in enumerate(LABEL2ID_BDS)},
-        'header': 'jsonl'
+        'header': ['token', 'ner']
     }
 }

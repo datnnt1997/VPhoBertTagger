@@ -180,14 +180,23 @@ def convert_word_segment_examples_features_from_jsonl(data_path: Union[str, os.P
             sorted_labels = sorted(line['label'], key=lambda tup: tup[0])
             tag_ids = []
             last_index = 0
+            ii = 0
             for l in sorted_labels:
                 tag = l[-1].strip()
                 tag_ids.extend([label2id.index('O')] * len(sentence[last_index: l[0]].strip().split()))
-                for i, _ in enumerate(sentence[l[0]: l[1]].strip().split()):
+
+                for i, w in enumerate(sentence[last_index: l[0]].strip().split()) :
+                    print(f"{tokens[ii]}\t{w}\tO")
+                    ii+=1
+
+                for i, w in enumerate(sentence[l[0]: l[1]].strip().split()):
                     if i == 0:
+                        print(f"{tokens[ii]}\t{w}\t{f'B-{tag}'}")
                         tag_ids.append(label2id.index(f'B-{tag}'))
                     else:
+                        print(f"{tokens[ii]}\t{w}\t{f'I-{tag}'}")
                         tag_ids.append(label2id.index(f'I-{tag}'))
+                    ii += 1
                 last_index = l[1]
             tag_ids.extend([label2id.index('O')] * len(sentence[last_index:].strip().split()))
             assert len(tokens) == len(tag_ids), f'[ERROR] {line["id"]} is not matching ' \
@@ -238,7 +247,7 @@ def convert_word_segment_examples_features_from_jsonl(data_path: Union[str, os.P
 if __name__ == "__main__":
     from transformers import AutoTokenizer
     from vphoberttagger.constant import LABEL_MAPPING
-    label_info = LABEL_MAPPING['BDS']
+    label_info = LABEL_MAPPING['bds2022']
     convert_word_segment_examples_features_from_jsonl(data_path='./datasets/bds2022/sample.jsonl',
                                                       tokenizer=AutoTokenizer.from_pretrained('vinai/phobert-base'),
                                                       label2id=label_info["label2id"],
