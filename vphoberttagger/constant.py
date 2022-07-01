@@ -20,8 +20,7 @@ LABEL2ID_BDS = ["O", "B-transaction", "I-transaction", "B-real_estate_type", "I-
 PROCESSOR_MAPPING = {
     'vinai/phobert-base': convert_word_segment_examples_features,
     'FPTAI/vibert-base-cased': convert_syllable_examples_features,
-    'bert-base-multilingual-cased': convert_syllable_examples_features,
-    'vinai/phobert-base/jsonl': convert_word_segment_examples_features_from_jsonl,
+    'bert-base-multilingual-cased': convert_syllable_examples_features
 }
 
 MODEL_MAPPING = {
