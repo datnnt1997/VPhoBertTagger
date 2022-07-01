@@ -176,29 +176,35 @@ def convert_word_segment_examples_features_from_jsonl(data_path: Union[str, os.P
     with jsonlines.open(file=data_path, mode='r') as f:
         for line in f.iter():
             sentence = line['data']
-            tokens = sentence.split()
+            tokens = []
             sorted_labels = sorted(line['label'], key=lambda tup: tup[0])
             tag_ids = []
             last_index = 0
-            ii = 0
+            # ii = 0
             for l in sorted_labels:
                 tag = l[-1].strip()
-                tag_ids.extend([label2id.index('O')] * len(sentence[last_index: l[0]].strip().split()))
+                # tag_ids.extend([label2id.index('O')] * len(sentence[last_index: l[0]].strip().split()))
 
                 for i, w in enumerate(sentence[last_index: l[0]].strip().split()) :
-                    print(f"{tokens[ii]}\t{w}\tO")
-                    ii+=1
+                    tokens.append(w)
+                    tag_ids.append(label2id.index('O'))
+                    # print(f"{tokens[ii]}\t{w}\tO")
+                    # ii+=1
 
                 for i, w in enumerate(sentence[l[0]: l[1]].strip().split()):
+                    tokens.append(w)
                     if i == 0:
-                        print(f"{tokens[ii]}\t{w}\t{f'B-{tag}'}")
+                        # print(f"{tokens[ii]}\t{w}\t{f'B-{tag}'}")
                         tag_ids.append(label2id.index(f'B-{tag}'))
                     else:
-                        print(f"{tokens[ii]}\t{w}\t{f'I-{tag}'}")
+                        # print(f"{tokens[ii]}\t{w}\t{f'I-{tag}'}")
                         tag_ids.append(label2id.index(f'I-{tag}'))
-                    ii += 1
+                    # ii += 1
                 last_index = l[1]
-            tag_ids.extend([label2id.index('O')] * len(sentence[last_index:].strip().split()))
+            for i, w in enumerate(sentence[last_index:].strip().split()):
+                tokens.append(w)
+                tag_ids.append(label2id.index('O'))
+            # tag_ids.extend([label2id.index('O')] * len(sentence[last_index:].strip().split()))
             assert len(tokens) == len(tag_ids), f'[ERROR] {line["id"]} is not matching ' \
                                                 f'number of tokens-{len(tokens)} and tags-{len(tag_ids)}: {line}'
             seq_len = len(tag_ids)
@@ -248,7 +254,7 @@ if __name__ == "__main__":
     from transformers import AutoTokenizer
     from vphoberttagger.constant import LABEL_MAPPING
     label_info = LABEL_MAPPING['bds2022']
-    convert_word_segment_examples_features_from_jsonl(data_path='./datasets/bds2022/sample.jsonl',
+    convert_word_segment_examples_features_from_jsonl(data_path='./datasets/bds2022/test.jsonl',
                                                       tokenizer=AutoTokenizer.from_pretrained('vinai/phobert-base'),
                                                       label2id=label_info["label2id"],
                                                       header_names=label_info['header'],
