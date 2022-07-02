@@ -13,7 +13,7 @@ from prettytable import PrettyTable
 from tensorboardX import SummaryWriter
 from sklearn.metrics import classification_report
 from torch.utils.data import RandomSampler, DataLoader
-from transformers import AutoTokenizer, AutoConfig, get_cosine_schedule_with_warmup, AdamW
+from transformers import AutoTokenizer, AutoConfig, get_cosine_schedule_with_warmup, RobertaForSequenceClassification
 
 import os
 import sys
