@@ -14,3 +14,4 @@ tensorboard~=2.9.0
 tensorboardX~=2.5
 st-annotated-text~=3.0.0
 streamlit~=1.10.0
+jsonlines~=3.0.0
