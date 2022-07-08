@@ -55,7 +55,7 @@ def convert_syllable_examples_features(data_path: Union[str, os.PathLike],
             if not row_idx == len(data) - 1:
                 continue
         assert len(tokens) == len(tag_ids), f"{tokens} and {tag_ids} not match!!"
-        seq_len = len(tokens)
+        seq_len = len(tag_ids)
         encoding = tokenizer(tokens,
                              padding='max_length',
                              truncation=True,
@@ -75,7 +75,7 @@ def convert_syllable_examples_features(data_path: Union[str, os.PathLike],
                     valid_ids[idx] = 1
                 valid_labels[idx] = tag_ids[word_ids[idx]]
                 i += 1
-        if max_seq_len >= seq_len + 2:
+        if max_seq_len >= seq_len:
             label_padding_size = (max_seq_len - seq_len)
             label_marks[:seq_len] = [1] * seq_len
             tag_ids.extend([0] * label_padding_size)
