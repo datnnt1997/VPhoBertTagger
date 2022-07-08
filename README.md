@@ -292,7 +292,7 @@ All experiments were performed on an **RTX 3090** with **24GB VRAM**, and  a CPU
                 <td align="center">0.7302</td>
                 <td align="center">0.8339</td>
                 <td align="center">0.7786</td>
-                 <td align="left">
+                <td align="left">
                     <a href="./statics/confusion_matrix/bert_ml_vlsp2018_l1.png">Maxtrix</a>
                     <br/>
                     <a href="./statics/train_logs/bert_ml_vlsp2018_l1.log">Log</a>
@@ -300,29 +300,37 @@ All experiments were performed on an **RTX 3090** with **24GB VRAM**, and  a CPU
             </tr>
             <tr>
                 <td align="left">CRF</td>
-                <td align="center">...</td>
-                <td align="center">...</td>
-                <td align="center">...</td>
-                <td align="center">...</td>
-                <td align="center">...</td>
-                <td align="center">...</td>
-                <td align="center">...</td>
-                <td align="center">...</td>
-                <td align="center">...</td>
-                <td align="center">...</td>
+                <td align="center">0.9824</td>
+                <td align="center">0.7716</td>
+                <td align="center">0.7619</td>
+                <td align="center">0.7601</td>
+                <td align="center">0.8284</td>
+                <td align="center">0.9824</td>
+                <td align="center">0.7542</td>
+                <td align="center">0.8127</td>
+                <td align="center">0.7824</td>
+                <td align="left">
+                    <a href="./statics/confusion_matrix/bert_ml_crf_vlsp2018_l1.png">Maxtrix</a>
+                    <br/>
+                    <a href="./statics/train_logs/bert_ml_crf_vlsp2018_l1.log">Log</a>
+                </td> 
             </tr>
             <tr>
                 <td align="left">LSTM_CRF</td>
-                <td align="center">...</td>
-                <td align="center">...</td>
-                <td align="center">...</td>
-                <td align="center">...</td>
-                <td align="center">...</td>
-                <td align="center">...</td>
-                <td align="center">...</td>
-                <td align="center">...</td>
-                <td align="center">...</td>
-                <td align="center">...</td>
+                <td align="center">0.9829</td>
+                <td align="center">0.7533</td>
+                <td align="center">0.7750</td>
+                <td align="center">0.7626</td>
+                <td align="center">0.8296</td>
+                <td align="center">0.9829</td>
+                <td align="center">0.7612</td>
+                <td align="center">0.8122</td>
+                <td align="center">0.7859</td>
+                <td align="left">
+                    <a href="./statics/confusion_matrix/bert_ml_lstm_crf_vlsp2018_l1.png">Maxtrix</a>
+                    <br/>
+                    <a href="./statics/train_logs/bert_ml_lstm_crf_vlsp2018_l1.log">Log</a>
+                </td> 
             </tr>
             <tr>
                 <td align="left" rowspan="3">PhoBert-base [2]</td>
